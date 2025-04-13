@@ -13,7 +13,7 @@ async def enable_stealth(page):
 
 async def scrape_event_names():
     chrome_path = "/usr/bin/google-chrome"
-    user_data_dir = "/home/syed-hassan-ul-haq/.config/google-chrome"
+    user_data_dir = "/home/abdulrauf/.config/google-chrome"
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
@@ -81,7 +81,7 @@ async def scrape_event_names():
 
                         download = await download_info.value
                         filename = download.suggested_filename
-                        save_path = f"/home/syed-hassan-ul-haq/repos/finchat-scrapper/downloads/{filename}"
+                        save_path = f"downloads/{filename}"
                         await download.save_as(save_path)
                         print(f"Transcript saved: {filename} → {save_path}")
                     except Exception as e:
@@ -90,20 +90,21 @@ async def scrape_event_names():
                     # --- Try switching to Report tab ---
                     try:
                         print("Looking for Report tab...")
-
-                        await page.click('#mantine-dtrmle3i2-tab-Report')
+                        await page.locator('(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button[2]').click(timeout=10000)
+                        # await page.click('#mantine-ik817evwu-tab-Report')
                         await page.wait_for_timeout(2000)
 
                         print("Waiting for Report download button...")
-                        await page.wait_for_selector(".rpv-core__minimal-button", timeout=5000)
-
+                        # await asyncio.sleep(5)  # Wait for the page to load
                         print("Downloading report...")
                         async with page.expect_download() as download_info:
-                            await page.click(".rpv-core__minimal-button")
+                            await page.locator('button[data-testid="get-file__download-button"]').click(timeout=10000)
+                            # await page.click(".rpv-core__minimal-button")
+
 
                         download = await download_info.value
                         filename = download.suggested_filename
-                        save_path = f"/home/syed-hassan-ul-haq/Downloads/{filename}"
+                        save_path = f"downloads/{filename}"
                         await download.save_as(save_path)
                         print(f"Report saved: {filename} → {save_path}")
                     except Exception as e:
