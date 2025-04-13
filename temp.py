@@ -12,12 +12,19 @@ async def enable_stealth(page):
 
 
 async def scrape_event_names():
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)
-        context = await browser.new_context(accept_downloads=True)
-        page = await context.new_page()
+    chrome_path = "/usr/bin/google-chrome"
+    user_data_dir = "/home/syed-hassan-ul-haq/.config/google-chrome"
 
-        # Enable stealth
+    async with async_playwright() as p:
+        browser = await p.chromium.launch_persistent_context(
+            user_data_dir=user_data_dir,
+            headless=False,
+            executable_path=chrome_path,
+            args=["--profile-directory=Default"],
+            accept_downloads=True
+        )
+        page = browser.pages[0] if browser.pages else await browser.new_page()
+
         await enable_stealth(page)
 
         try:
@@ -63,21 +70,47 @@ async def scrape_event_names():
                     await page.wait_for_load_state("domcontentloaded")
                     await page.wait_for_timeout(2000)
 
-                    print("Waiting for download button...")
-                    await page.wait_for_selector("#ph-company__download-transcript", timeout=10000)
+                    # --- Download transcript ---
+                    try:
+                        print("Waiting for transcript download button...")
+                        await page.wait_for_selector("#ph-company__download-transcript", timeout=5000)
 
-                    print("Downloading transcript...")
-                    async with page.expect_download() as download_info:
-                        await page.click("#ph-company__download-transcript")
+                        print("Downloading transcript...")
+                        async with page.expect_download() as download_info:
+                            await page.click("#ph-company__download-transcript")
 
-                    download = await download_info.value
-                    filename = download.suggested_filename
-                    save_path = f"/home/syed-hassan-ul-haq/Downloads/{filename}"
-                    await download.save_as(save_path)
-                    print(f"Saved: {filename} → {save_path}")
+                        download = await download_info.value
+                        filename = download.suggested_filename
+                        save_path = f"/home/syed-hassan-ul-haq/repos/finchat-scrapper/downloads/{filename}"
+                        await download.save_as(save_path)
+                        print(f"Transcript saved: {filename} → {save_path}")
+                    except Exception as e:
+                        print(f"  [Transcript Download Error] {e}")
+
+                    # --- Try switching to Report tab ---
+                    try:
+                        print("Looking for Report tab...")
+
+                        await page.click('#mantine-dtrmle3i2-tab-Report')
+                        await page.wait_for_timeout(2000)
+
+                        print("Waiting for Report download button...")
+                        await page.wait_for_selector(".rpv-core__minimal-button", timeout=5000)
+
+                        print("Downloading report...")
+                        async with page.expect_download() as download_info:
+                            await page.click(".rpv-core__minimal-button")
+
+                        download = await download_info.value
+                        filename = download.suggested_filename
+                        save_path = f"/home/syed-hassan-ul-haq/Downloads/{filename}"
+                        await download.save_as(save_path)
+                        print(f"Report saved: {filename} → {save_path}")
+                    except Exception as e:
+                        print(f"  [Report Download Skipped] {e}")
 
                 except Exception as e:
-                    print(f"  [Download Error] {e}")
+                    print(f"  [Event Error] {e}")
 
                 print("Navigating back...")
                 await page.go_back()

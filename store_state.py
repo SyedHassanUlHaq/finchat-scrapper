@@ -12,7 +12,7 @@ with sync_playwright() as p:
     )
 
     page = browser.pages[0]
-    page.goto("https://mail.google.com/")
+    page.goto("https://finchat.io/company/NasdaqGS-AAPL/investor-relations/Q1-2025/")
 
     input("If you're logged in, press Enter to close.")
     browser.close()
