@@ -1,16 +1,19 @@
 from playwright.sync_api import sync_playwright
-import json
+
+chrome_path = "/usr/bin/google-chrome"  # or "google-chrome-stable", use `which google-chrome` to verify
+user_data_dir = "/home/syed-hassan-ul-haq/.config/google-chrome"  # full directory, not just Default
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=False)  # headless=False for manual login
-    context = browser.new_context()
-    page = context.new_page()
+    browser = p.chromium.launch_persistent_context(
+        user_data_dir=user_data_dir,
+        headless=False,
+        executable_path=chrome_path,
+        args=["--profile-directory=Default"]
+    )
 
-    page.goto("https://example.com/login")
+    page = browser.pages[0]
+    page.goto("https://mail.google.com/")
 
-    input("Login manually and press Enter here once done...")
-
-    # Save cookies
-    storage = context.storage_state(path="auth.json")
-
+    input("If you're logged in, press Enter to close.")
     browser.close()
+ 
