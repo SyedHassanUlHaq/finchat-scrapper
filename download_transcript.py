@@ -16,7 +16,7 @@ async def download_transcript(page, timeout_ms=10000):
         await page.wait_for_selector("#ph-company__download-transcript", timeout=timeout_ms)
         print("Downloading transcript...")
         async with page.expect_download() as download_info:
-            await page.click("#ph-company__download-transcrip")
+            await page.click("#ph-company__download-transcript")
         download = await download_info.value
         filename = download.suggested_filename
         save_path = f"downloads/{filename}"
@@ -24,7 +24,7 @@ async def download_transcript(page, timeout_ms=10000):
         print(f"Transcript saved: {filename} → {save_path}")
         return filename
     except PlaywrightTimeoutError:
-        print(f"⚠️ Error: h2 element not found within {timeout_ms}ms")
+        print(f"⚠️ Error: transrcipt download element not found within {timeout_ms}ms")
         return None
     except Exception as e:
         print(f"[Transcript Download Error] {e}")

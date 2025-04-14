@@ -29,7 +29,7 @@ def extract_fiscal_year_date(pdf_path):
     return extracted_dates
 
 # Example usage:
-pdf_path = "0001045810-25-000023.pdf"
-dates = extract_fiscal_year_date(pdf_path)
+# pdf_path = "0001045810-25-000023.pdf"
+# dates = extract_fiscal_year_date(pdf_path)
 
-print(format_date(dates))
+# print(format_date(dates))
