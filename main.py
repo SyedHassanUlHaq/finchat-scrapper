@@ -7,7 +7,7 @@ from get_transcript_text import get_transcript_text
 from utils.get_quarter_and_year import get_quarter_and_year
 from utils.get_periodic_from_text import get_periodic_from_text
 from utils.extract_date_from_text import extract_date_from_text
-
+import os
 
 async def enable_stealth(page):
     """Modify navigator to evade bot detection."""
@@ -20,7 +20,7 @@ async def enable_stealth(page):
 
 async def scrape_event_names():
     chrome_path = "/usr/bin/google-chrome"
-    user_data_dir = "/home/abdulrauf/.config/google-chrome"
+    user_data_dir = os.path.expanduser("~/.config/google-chrome")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(

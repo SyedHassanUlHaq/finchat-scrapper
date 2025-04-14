@@ -1,5 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright
+import os
 
 async def click_load_more(page):
     """Continuously click 'Load More' until it's gone."""
@@ -24,7 +25,8 @@ async def enable_stealth(page):
 
 async def scrape_event_names():
     chrome_path = "/usr/bin/google-chrome"
-    user_data_dir = "/home/syed-hassan-ul-haq/.config/google-chrome"
+    user_data_dir = os.path.expanduser("~/.config/google-chrome")
+    download_dir = "/home/syed-hassan-ul-haq/repos/finchat-scrapper/downloads"
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
@@ -52,61 +54,72 @@ async def scrape_event_names():
             await page.wait_for_timeout(3000)
             await click_load_more(page)
 
-            # Initial fetch
-            event_links = await page.query_selector_all("tr.m_4e7aa4fd.mantine-Table-tr")
-
-            if not event_links:
+            # Extract and categorize events
+            event_rows = await page.query_selector_all("tr.m_4e7aa4fd.mantine-Table-tr")
+            if not event_rows:
                 print("No events found.")
                 return
 
-            print(f"Found {len(event_links)} event(s).")
+            print(f"Found {len(event_rows)} event(s).")
+            ten_q_k_events = []
+            other_events = []
 
-            for i in range(len(event_links)):
-                print(f"\nProcessing event {i+1}/{len(event_links)}...")
-
-                try:
-                    # Re-fetch event rows to avoid stale references
-                    await page.goto(base_url, wait_until="domcontentloaded")
-                    await click_load_more(page)
-                    await page.wait_for_selector(table_selector, timeout=20000)
-                    await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                    await page.wait_for_timeout(2000)
-                    event_links = await page.query_selector_all("tr.m_4e7aa4fd.mantine-Table-tr")
-
-                    # Print the first <td>'s text content
-                    first_td = await event_links[i].query_selector("td")
-                    if first_td:
-                        event_name = await first_td.inner_text()
-                        print(f"Event Name: {event_name}")
+            for row in event_rows:
+                tds = await row.query_selector_all("td")
+                if tds:
+                    event_name = await tds[0].inner_text()
+                    if "10-Q" in event_name or "10-K" in event_name:
+                        ten_q_k_events.append((row, event_name))
                     else:
-                        print("  [First TD Not Found]")
+                        other_events.append((row, event_name))
 
-                    # Click on the event row
-                    await event_links[i].click()
-                    await page.wait_for_load_state("domcontentloaded")
-                    await page.wait_for_timeout(2000)
+            print(f"10-Q/10-K Events: {len(ten_q_k_events)}")
+            print(f"Other Events: {len(other_events)}")
 
-                    print("Waiting for download button...")
-                    await page.wait_for_selector('button[aria-label="Download Filing"]', timeout=10000)
+            # Process both lists
+            async def process_event_list(event_list, label):
+                for i in range(len(event_list)):
+                    print(f"\n[{label}] Processing event {i+1}/{len(event_list)}...")
+                    try:
+                        # Refresh the page for each iteration
+                        await page.goto(base_url, wait_until="domcontentloaded")
+                        await click_load_more(page)
+                        await page.wait_for_selector(table_selector, timeout=20000)
+                        await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                        await page.wait_for_timeout(2000)
 
-                    print("Triggering file download...")
-                    async with page.expect_download() as download_info:
-                        await page.click('button[aria-label="Download Filing"]')
+                        # Re-grab event list
+                        updated_rows = await page.query_selector_all("tr.m_4e7aa4fd.mantine-Table-tr")
+                        row, event_name = event_list[i]
+                        print(f"Event Name: {event_name}")
+                        await updated_rows[i].click()
+                        await page.wait_for_load_state("domcontentloaded")
+                        await page.wait_for_timeout(2000)
 
-                    download = await download_info.value
-                    filename = download.suggested_filename
-                    save_path = f"/home/syed-hassan-ul-haq/repos/finchat-scrapper/downloads/{filename}"
-                    await download.save_as(save_path)
+                        print("Waiting for download button...")
+                        await page.wait_for_selector('button[aria-label="Download Filing"]', timeout=10000)
 
-                    print(f"File downloaded: {filename} → {save_path}")
+                        print("Triggering file download...")
+                        async with page.expect_download() as download_info:
+                            await page.click('button[aria-label="Download Filing"]')
 
-                except Exception as e:
-                    print(f"  [Report Download Skipped] {e}")
-        
+                        download = await download_info.value
+                        filename = download.suggested_filename
+                        save_path = f"{download_dir}/{filename}"
+                        await download.save_as(save_path)
+
+                        print(f"File downloaded: {filename} → {save_path}")
+
+                    except Exception as e:
+                        print(f"  [Download Skipped] {e}")
+
+            await process_event_list(ten_q_k_events, "10Q/10K")
+            await process_event_list(other_events, "Other")
+
         except Exception as e:
             print(f"[Script Error] {e}")
         finally:
             await browser.close()
-
+            
 if __name__ == "__main__":
     asyncio.run(scrape_event_names())
