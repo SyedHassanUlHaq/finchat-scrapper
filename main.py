@@ -1,5 +1,8 @@
 import asyncio
 from playwright.async_api import async_playwright
+from download_transcript import download_transcript
+from switch_to_report import switch_to_report
+from download_report import download_report
 
 
 async def enable_stealth(page):
@@ -70,45 +73,15 @@ async def scrape_event_names():
                     await page.wait_for_load_state("domcontentloaded")
                     await page.wait_for_timeout(2000)
 
-                    # --- Download transcript ---
-                    try:
-                        print("Waiting for transcript download button...")
-                        await page.wait_for_selector("#ph-company__download-transcript", timeout=5000)
-
-                        print("Downloading transcript...")
-                        async with page.expect_download() as download_info:
-                            await page.click("#ph-company__download-transcript")
-
-                        download = await download_info.value
-                        filename = download.suggested_filename
-                        save_path = f"downloads/{filename}"
-                        await download.save_as(save_path)
-                        print(f"Transcript saved: {filename} → {save_path}")
-                    except Exception as e:
-                        print(f"  [Transcript Download Error] {e}")
+                    filename = await download_transcript(page)
 
                     # --- Try switching to Report tab ---
-                    try:
-                        print("Looking for Report tab...")
-                        await page.locator('(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button[2]').click(timeout=10000)
-                        # await page.click('#mantine-ik817evwu-tab-Report')
-                        await page.wait_for_timeout(2000)
-
-                        print("Waiting for Report download button...")
-                        # await asyncio.sleep(5)  # Wait for the page to load
-                        print("Downloading report...")
-                        async with page.expect_download() as download_info:
-                            await page.locator('button[data-testid="get-file__download-button"]').click(timeout=10000)
-                            # await page.click(".rpv-core__minimal-button")
-
-
-                        download = await download_info.value
-                        filename = download.suggested_filename
-                        save_path = f"downloads/{filename}"
-                        await download.save_as(save_path)
-                        print(f"Report saved: {filename} → {save_path}")
-                    except Exception as e:
-                        print(f"  [Report Download Skipped] {e}")
+                    switch = switch_to_report(page)
+                    if switch:
+                        filename = await download_report(page)
+                    else:
+                        print("Report tab not found, skipping...")
+                        continue
 
                 except Exception as e:
                     print(f"  [Event Error] {e}")
