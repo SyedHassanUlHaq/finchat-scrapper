@@ -1,6 +1,6 @@
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 
-async def download_transcript(page, timeout_ms=10000):
+async def download_report(page, timeout_ms=10000):
     """
     Extracts text from an h2 element with data-sentry-source-file="DisplayTranscriptContent.tsx".
     
@@ -12,19 +12,18 @@ async def download_transcript(page, timeout_ms=10000):
         str: The extracted text if found, otherwise None.
     """
     try:
-        print("Waiting for transcript download button...")
-        await page.wait_for_selector("#ph-company__download-transcript", timeout=timeout_ms)
-        print("Downloading transcript...")
+        print("Downloading report...")
         async with page.expect_download() as download_info:
-            await page.click("#ph-company__download-transcript")
+            await page.locator('button[data-testid="get-file__download-button"]').click(timeout=10000)
+            # await page.click(".rpv-core__minimal-butto
         download = await download_info.value
         filename = download.suggested_filename
         save_path = f"downloads/{filename}"
         await download.save_as(save_path)
-        print(f"Transcript saved: {filename} → {save_path}")
+        print(f"Report saved: {filename} → {save_path}")
         return filename
     except PlaywrightTimeoutError:
-        print(f"⚠️ Error: transrcipt download element not found within {timeout_ms}ms")
+        print(f"⚠️ Error: report Download element not found within {timeout_ms}ms")
         return None
     except Exception as e:
-        print(f"[Transcript Download Error] {e}")
+        print(f"[Report Download Error] {e}")

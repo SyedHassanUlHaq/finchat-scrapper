@@ -1,5 +1,12 @@
 import asyncio
 from playwright.async_api import async_playwright
+from download_transcript import download_transcript
+from switch_to_report import switch_to_report
+from download_report import download_report
+from get_transcript_text import get_transcript_text
+from utils.get_quarter_and_year import get_quarter_and_year
+from utils.get_periodic_from_text import get_periodic_from_text
+from utils.extract_date_from_text import extract_date_from_text
 
 
 async def enable_stealth(page):
@@ -70,45 +77,31 @@ async def scrape_event_names():
                     await page.wait_for_load_state("domcontentloaded")
                     await page.wait_for_timeout(2000)
 
-                    # --- Download transcript ---
-                    try:
-                        print("Waiting for transcript download button...")
-                        await page.wait_for_selector("#ph-company__download-transcript", timeout=5000)
-
-                        print("Downloading transcript...")
-                        async with page.expect_download() as download_info:
-                            await page.click("#ph-company__download-transcript")
-
-                        download = await download_info.value
-                        filename = download.suggested_filename
-                        save_path = f"downloads/{filename}"
-                        await download.save_as(save_path)
-                        print(f"Transcript saved: {filename} → {save_path}")
-                    except Exception as e:
-                        print(f"  [Transcript Download Error] {e}")
-
-                    # --- Try switching to Report tab ---
-                    try:
-                        print("Looking for Report tab...")
-                        await page.locator('(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button[2]').click(timeout=10000)
-                        # await page.click('#mantine-ik817evwu-tab-Report')
-                        await page.wait_for_timeout(2000)
-
-                        print("Waiting for Report download button...")
-                        # await asyncio.sleep(5)  # Wait for the page to load
-                        print("Downloading report...")
-                        async with page.expect_download() as download_info:
-                            await page.locator('button[data-testid="get-file__download-button"]').click(timeout=10000)
-                            # await page.click(".rpv-core__minimal-button")
+                    heading = await get_transcript_text(page)
+                    if not heading:
+                        print("  [Skipped] No heading found.")
+                    
+                    print(heading)
+                    periodicity = get_periodic_from_text(heading)
+                    published_date = extract_date_from_text(heading)
+                    if periodicity == 'periodic':
+                        fiscal_year, fiscal_quarter = get_quarter_and_year(heading)
+                    else:
+                        fiscal_year = "0000"
+                        fiscal_quarter = "0"
+                    
 
 
-                        download = await download_info.value
-                        filename = download.suggested_filename
-                        save_path = f"downloads/{filename}"
-                        await download.save_as(save_path)
-                        print(f"Report saved: {filename} → {save_path}")
-                    except Exception as e:
-                        print(f"  [Report Download Skipped] {e}")
+
+                    transcript_name = await download_transcript(page)
+
+                    #<button class="mantine-focus-auto mantine-active m_8d3f4000 mantine-ActionIcon-root m_87cf2631 mantine-UnstyledButton-root" data-variant="subtle" type="button" id="ph-company__download-transcript" style="--ai-radius: var(--mantine-radius-xs); --ai-bg: transparent; --ai-hover: var(--mantine-color-primary-light-hover); --ai-color: var(--mantine-color-primary-light-color); --ai-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><span class="m_8d3afb97 mantine-ActionIcon-icon"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M224,144v64a8,8,0,0,1-8,8H40a8,8,0,0,1-8-8V144a8,8,0,0,1,16,0v56H208V144a8,8,0,0,1,16,0Zm-101.66,5.66a8,8,0,0,0,11.32,0l40-40a8,8,0,0,0-11.32-11.32L136,124.69V32a8,8,0,0,0-16,0v92.69L93.66,98.34a8,8,0,0,0-11.32,11.32Z"></path></svg></span></button> --- Try switching to Report tab ---
+                    switch = await switch_to_report(page)
+                    if switch:
+                        report_name = await download_report(page)
+                    else:
+                        print("Report tab not found, skipping...")
+                        continue
 
                 except Exception as e:
                     print(f"  [Event Error] {e}")
