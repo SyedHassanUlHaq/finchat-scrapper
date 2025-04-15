@@ -26,14 +26,9 @@ def classify_form_type_from_pdf(pdf_path):
         normalized_text = re.sub(r'\s+', ' ', first_page_text).strip().lower()
 
         # Define regex patterns for 10-Q and 10-K
-        quarterly_pattern = re.compile(
-            r"united states securities and exchange commission .*? form 10-q",
-            re.IGNORECASE
-        )
-        annual_pattern = re.compile(
-            r"united states securities and exchange commission .*? form 10-k",
-            re.IGNORECASE
-        )
+        quarterly_pattern = re.compile(r"form\s*10-q", re.IGNORECASE)
+        annual_pattern = re.compile(r"form\s*10-k", re.IGNORECASE)
+
 
         # Match patterns
         if quarterly_pattern.search(normalized_text):
@@ -47,17 +42,15 @@ def classify_form_type_from_pdf(pdf_path):
         print(f"Error processing file {pdf_path}: {e}")
         return "other"
 
-from utils.classify_form_type_from_pdf import classify_sec_filing
-
 # Test call
-result = classify_form_type_from_pdf("../test/1.pdf")
+result = classify_form_type_from_pdf("test/1.pdf")
 print("Classification result:", result)
 
-result = classify_form_type_from_pdf("../test/2.pdf")
+result = classify_form_type_from_pdf("test/2.pdf")
 print("Classification result:", result)
 
-result = classify_form_type_from_pdf("../test/3.pdf")
+result = classify_form_type_from_pdf("test/3.pdf")
 print("Classification result:", result)
 
-result = classify_form_type_from_pdf("../test/4.pdf")
+result = classify_form_type_from_pdf("test/4.pdf")
 print("Classification result:", result)
