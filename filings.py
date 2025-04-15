@@ -7,8 +7,21 @@ from utils.upload_to_r2 import upload_file_to_r2
 # Global list to hold metadata entries
 metadata_list = []
 
+async def smart_load_more(page, row_selector, max_clicks=13):
+    for _ in range(max_clicks):
+        old_count = len(await page.query_selector_all(row_selector))
+        await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        await page.wait_for_timeout(1000)
+        load_more = await page.query_selector('button:has-text("Load More")')
+        if load_more:
+            await load_more.click()
+        await page.wait_for_timeout(1500)
+        new_count = len(await page.query_selector_all(row_selector))
+        if new_count == old_count:
+            break
+        
 async def click_load_more(page):
-    while True:
+    for i in range(16):
         try:
             load_more_button = await page.query_selector('button:has-text("Load More")')
             if not load_more_button:
@@ -45,7 +58,7 @@ async def scrape_event_names():
         await enable_stealth(page)
 
         try:
-            base_url = "https://finchat.io/company/NasdaqGS-AAPL/filings/"
+            base_url = "https://finchat.io/investor/procter-gamble-co/filings/"
             print(f"Opening {base_url}...")
             await page.goto(base_url, wait_until="domcontentloaded", timeout=120000)
 
@@ -67,12 +80,26 @@ async def scrape_event_names():
             ten_q_k_events = []
             other_events = []
 
+            cutoff_date = datetime.now().replace(year=datetime.now().year - 10)
+
             for row in event_rows:
                 tds = await row.query_selector_all("td")
                 if len(tds) >= 2:
                     event_name = await tds[0].inner_text()
                     event_date = await tds[1].inner_text()
-                    event_data = (row, event_name.strip(), event_date.strip())
+                    event_date_str = event_date.strip()
+                    try:
+                        event_date_obj = datetime.strptime(event_date_str, "%b %d, %Y")
+                    except ValueError:
+                        try:
+                            event_date_obj = datetime.strptime(event_date_str, "%B %d, %Y")
+                        except:
+                            continue  # Skip rows with unknown date format
+                        
+                    if event_date_obj < cutoff_date:
+                        continue  # Skip events older than 10 years
+                    
+                    event_data = (row, event_name.strip(), event_date_str)
                     if "10-Q" in event_name or "10-K" in event_name:
                         ten_q_k_events.append(event_data)
                     else:
@@ -136,7 +163,7 @@ async def scrape_event_names():
                         r2_url = upload_file_to_r2(save_path, r2_folder, False)
                         
                         metadata = {
-                            "equity_ticker": "AAPL",
+                            "equity_ticker": "PG",
                             "geography": "US",
                             "content_name": filename,
                             "file_type": "pdf",
@@ -154,7 +181,7 @@ async def scrape_event_names():
                         print(f"  [Download Skipped] {e}")
 
             await process_event_list(other_events, "Other")
-            await process_event_list(ten_q_k_events, "10Q/10K")
+            # await process_event_list(ten_q_k_events, "10Q/10K")
 
             # Write all metadata to JSON file
             output_path = os.path.join(download_dir, "metadata.json")
