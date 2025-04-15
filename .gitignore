@@ -3,3 +3,4 @@ finchat_env/
 downloads/*
 .venv
 test/
+JSONS/*
