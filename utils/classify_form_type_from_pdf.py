@@ -43,14 +43,14 @@ def classify_form_type_from_pdf(pdf_path):
         return "other"
 
 # Test call
-result = classify_form_type_from_pdf("test/1.pdf")
-print("Classification result:", result)
+# result = classify_form_type_from_pdf("test/1.pdf")
+# print("Classification result:", result)
 
-result = classify_form_type_from_pdf("test/2.pdf")
-print("Classification result:", result)
+# result = classify_form_type_from_pdf("test/2.pdf")
+# print("Classification result:", result)
 
-result = classify_form_type_from_pdf("test/3.pdf")
-print("Classification result:", result)
+# result = classify_form_type_from_pdf("test/3.pdf")
+# print("Classification result:", result)
 
-result = classify_form_type_from_pdf("test/4.pdf")
-print("Classification result:", result)
+# result = classify_form_type_from_pdf("test/4.pdf")
+# print("Classification result:", result)
