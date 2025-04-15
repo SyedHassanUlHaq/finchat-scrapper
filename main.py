@@ -7,6 +7,11 @@ from get_transcript_text import get_transcript_text
 from utils.get_quarter_and_year import get_quarter_and_year
 from utils.get_periodic_from_text import get_periodic_from_text
 from utils.extract_date_from_text import extract_date_from_text
+from utils.construct_event import construct_event
+from utils.upload_to_r2 import upload_to_r2
+from utils.construct_path import construct_path
+from utils.remove_pdf_extension import remove_pdf_extension
+import json
 
 
 async def enable_stealth(page):
@@ -48,57 +53,79 @@ async def scrape_event_names():
             await page.wait_for_timeout(3000)
 
             print("Fetching all event elements...")
-            event_links = await page.query_selector_all(
-                "div.m_e615b15f.mantine-Card-root.m_1b7284a3.mantine-Paper-root a"
-            )
+            await asyncio.sleep(4)
+            # event_links = await page.query_selector_all(
+            #     "div.m_e615b15f.mantine-Card-root.m_1b7284a3.mantine-Paper-root a"
+            # )
 
-            if not event_links:
-                print("No events found.")
-                return
+            # if not event_links:
+            #     print("No events found.")
+            #     return
 
-            print(f"Found {len(event_links)} event(s).")
+            # print(f"Found {len(event_links)} event(s).")
+            elements = page.locator('a#ph-company__transcripts-sidebar-item')
+           # Retrieve the count of matched elements
+            count = await elements.count()
+            print(f"Found {count} elements with ID 'ph-company__transcripts-sidebar-item'")
+            all_events = []
 
-            for i in range(len(event_links)):
-                print(f"\nProcessing event {i+1}/{len(event_links)}...")
+            for i in range(count):
+                print(f"\nProcessing event {i+1}/{count}...")
 
-                # Re-fetch events to prevent stale references
-                event_links = await page.query_selector_all(
-                    "div.m_e615b15f.mantine-Card-root.m_1b7284a3.mantine-Paper-root a"
-                )
+                # # Re-fetch events to prevent stale references
+                # event_links = await page.query_selector_all(
+                #     "div.m_e615b15f.mantine-Card-root.m_1b7284a3.mantine-Paper-root a"
+                # )
+                
 
-                if i >= len(event_links):
-                    print("  [Skipped] Event index out of range.")
-                    break
+                # if i >= len(event_links):
+                #     print("  [Skipped] Event index out of range.")
+                #     break
 
-                event = event_links[i]
+                # event = event_links[i]
 
                 try:
-                    await event.click()
+                    element = elements.nth(i)
+                    await element.click()
+                    # await event.click()
                     await page.wait_for_load_state("domcontentloaded")
                     await page.wait_for_timeout(2000)
 
                     heading = await get_transcript_text(page)
                     if not heading:
                         print("  [Skipped] No heading found.")
-                    
+
                     print(heading)
+                    
+                    
                     periodicity = get_periodic_from_text(heading)
                     published_date = extract_date_from_text(heading)
+                    print(f"  [Published Date] {published_date}")
                     if periodicity == 'periodic':
-                        fiscal_year, fiscal_quarter = get_quarter_and_year(heading)
+                        fiscal_year, fiscal_quarter = get_quarter_and_year(published_date)
                     else:
                         fiscal_year = "0000"
                         fiscal_quarter = "0"
                     
-
-
-
                     transcript_name = await download_transcript(page)
+                    file_name = remove_pdf_extension(transcript_name)
+                    path = construct_path(ticker="AAPL", date=published_date, file_name=file_name, file=transcript_name)
 
+                    content_type = "earnings_transcript"
+                    
+                    r2_path = upload_to_r2(f'downloads/{transcript_name}', path, test_run="true")
+
+                    event = construct_event(equity_ticker='AAPL', content_name=file_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                    all_events.append(event)
                     #<button class="mantine-focus-auto mantine-active m_8d3f4000 mantine-ActionIcon-root m_87cf2631 mantine-UnstyledButton-root" data-variant="subtle" type="button" id="ph-company__download-transcript" style="--ai-radius: var(--mantine-radius-xs); --ai-bg: transparent; --ai-hover: var(--mantine-color-primary-light-hover); --ai-color: var(--mantine-color-primary-light-color); --ai-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><span class="m_8d3afb97 mantine-ActionIcon-icon"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M224,144v64a8,8,0,0,1-8,8H40a8,8,0,0,1-8-8V144a8,8,0,0,1,16,0v56H208V144a8,8,0,0,1,16,0Zm-101.66,5.66a8,8,0,0,0,11.32,0l40-40a8,8,0,0,0-11.32-11.32L136,124.69V32a8,8,0,0,0-16,0v92.69L93.66,98.34a8,8,0,0,0-11.32,11.32Z"></path></svg></span></button> --- Try switching to Report tab ---
                     switch = await switch_to_report(page)
                     if switch:
                         report_name = await download_report(page)
+                        file_name = remove_pdf_extension(report_name)
+                        path = construct_path(ticker="AAPL", date=published_date, file_name=file_name, file=report_name)
+                        r2_path = upload_to_r2(f'downloads/{report_name}', path, test_run="true")
+                        event = construct_event(equity_ticker='sds', content_name=report_name, content_type="earnings_press_release", published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                        all_events.append(event)
                     else:
                         print("Report tab not found, skipping...")
                         continue
@@ -106,9 +133,18 @@ async def scrape_event_names():
                 except Exception as e:
                     print(f"  [Event Error] {e}")
 
-                print("Navigating back...")
-                await page.go_back()
-                await page.wait_for_timeout(2000)
+                # print("Navigating back...")
+                # await page.go_back()
+                # await page.wait_for_timeout(2000)
+                # print()
+
+            file_path = "APPL_investor_relations.json"
+
+            # Write the list of dictionaries to a JSON file
+            with open(file_path, 'w') as json_file:
+                json.dump(all_events, json_file, indent=4)
+
+            print(f"JSON file has been created at {file_path}")
 
         except Exception as e:
             print(f"[Script Error] {e}")

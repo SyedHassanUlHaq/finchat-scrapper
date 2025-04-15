@@ -1,6 +1,6 @@
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 
-async def switch_to_report(page, timeout_ms=10000):
+async def switch_to_report(page, timeout_ms=2000):
     """
     Extracts text from an h2 element with data-sentry-source-file="DisplayTranscriptContent.tsx".
     
@@ -13,7 +13,7 @@ async def switch_to_report(page, timeout_ms=10000):
     """
     try:
         print("Looking for Report tab...")
-        await page.locator('(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button[2]').click(timeout=10000)
+        await page.locator('(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button[2]').click(timeout=2000)
         # await page.click('#mantine-ik817evwu-tab-Report')
         await page.wait_for_timeout(2000)
         return True
