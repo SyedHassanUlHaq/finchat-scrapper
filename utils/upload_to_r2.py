@@ -21,7 +21,7 @@ endpoint_url = 'https://3c5636b6cfe0011ec1887ff62b057097.r2.cloudflarestorage.co
 
 
 # Function to upload a single file and return the R2 URL
-def upload_file_to_r2(file_path, r2_folder, test_run):
+def upload_to_r2(file_path, r2_folder, test_run):
     session = boto3.session.Session()
     if test_run == 'true':
         s3 = session.client('s3', 

@@ -1,0 +1,15 @@
+[
+    {
+        "equity_ticker": "AAPL",
+        "geography": "US",
+        "content_name": "Apple Inc._2005-10-13_transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2005-10-01",
+        "fiscal_date": "2005-10-01",
+        "fiscal_year": 2005,
+        "fiscal_quarter": "Q4",
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/AAPL/2005-10-01/Apple%20Inc._2005-10-13_transcript/Apple%20Inc._2005-10-13_transcript.pdf/Apple%20Inc._2005-10-13_transcript.pdf",
+        "periodicity": "periodic"
+    }
+]
