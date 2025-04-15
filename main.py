@@ -25,7 +25,7 @@ async def enable_stealth(page):
 
 async def scrape_event_names():
     chrome_path = "/usr/bin/google-chrome"
-    user_data_dir = "/home/abdulrauf/.config/google-chrome"
+    user_data_dir = os.path.expanduser("~/.config/google-chrome")
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
