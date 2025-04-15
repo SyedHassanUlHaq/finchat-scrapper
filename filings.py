@@ -29,7 +29,7 @@ async def enable_stealth(page):
 async def scrape_event_names():
     chrome_path = "/usr/bin/google-chrome"
     user_data_dir = os.path.expanduser("~/.config/google-chrome")
-    download_dir = "/home/syed-hassan-ul-haq/repos/finchat-scrapper/downloads"
+    download_dir = os.path.join(os.path.dirname(__file__), "downloads")
     os.makedirs(download_dir, exist_ok=True)
 
     async with async_playwright() as p:
