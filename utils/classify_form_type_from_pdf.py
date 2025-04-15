@@ -40,7 +40,7 @@ def classify_form_type_from_pdf(pdf_path):
 
     except Exception as e:
         print(f"Error processing file {pdf_path}: {e}")
-        return "other"
+        return None
 
 # Test call
 # result = classify_form_type_from_pdf("test/1.pdf")

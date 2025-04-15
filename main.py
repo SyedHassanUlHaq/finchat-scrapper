@@ -11,6 +11,7 @@ from utils.construct_event import construct_event
 from utils.upload_to_r2 import upload_to_r2
 from utils.construct_path import construct_path
 from utils.remove_pdf_extension import remove_pdf_extension
+from utils.classify_form_type_from_pdf import classify_form_type_from_pdf
 from download_slide import download_slide
 import json
 import argparse
@@ -131,16 +132,23 @@ async def scrape_event_names(ticker, url, test_run):
                             path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=transcript_name)
 
                         # content_type = "earnings_transcript"
-
+                            pdf_type = classify_form_type_from_pdf(f'downloads/{transcript_name}')
                             r2_path = upload_to_r2(f'downloads/{transcript_name}', path, test_run=test_run)
-                            event = construct_event(equity_ticker=ticker, content_name=file_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            if pdf_type == 'other' or pdf_type is None:
+                                event = construct_event(equity_ticker=ticker, content_name=file_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            else:
+                                event = construct_event(equity_ticker=ticker, content_name=file_name, content_type=pdf_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             all_events.append(event)
                         elif content_type == "earnings_press_release":
                             report_name = await download_report(page)
                             file_name = remove_pdf_extension(report_name)
                             path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=report_name)
+                            pdf_type = classify_form_type_from_pdf(f'downloads/{report_name}')
                             r2_path = upload_to_r2(f'downloads/{report_name}', path, test_run=test_run)
-                            event = construct_event(equity_ticker=ticker, content_name=report_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            if pdf_type == 'other' or pdf_type is None:
+                                event = construct_event(equity_ticker=ticker, content_name=file_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            else:
+                                event = construct_event(equity_ticker=ticker, content_name=file_name, content_type=pdf_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             all_events.append(event)
                         elif content_type == "earnings_presentation":
                             await asyncio.sleep(5)
@@ -166,8 +174,10 @@ async def scrape_event_names(ticker, url, test_run):
                 # await page.go_back()
                 # await page.wait_for_timeout(2000)
                 # print()
+            # Ensure the JSONS directory exists
+            os.makedirs("JSONS", exist_ok=True)
 
-            file_path = f"{ticker}_investor_relations.json"
+            file_path = f"JSONS/{ticker}_investor_relations.json"
 
             # Write the list of dictionaries to a JSON file
             with open(file_path, 'w') as json_file:
