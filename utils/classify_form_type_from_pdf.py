@@ -32,9 +32,9 @@ def classify_form_type_from_pdf(pdf_path):
 
         # Match patterns
         if quarterly_pattern.search(normalized_text):
-            return "quarterly report"
+            return "quarterly_report"
         elif annual_pattern.search(normalized_text):
-            return "annual report"
+            return "annual_report"
         else:
             return "other"
 
