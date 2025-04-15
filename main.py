@@ -1,7 +1,7 @@
 import asyncio
 from playwright.async_api import async_playwright
 from download_transcript import download_transcript
-from switch_to_report import switch_to_report
+from switch_tab import switch_tab
 from download_report import download_report
 from get_transcript_text import get_transcript_text
 from utils.get_quarter_and_year import get_quarter_and_year
@@ -11,7 +11,10 @@ from utils.construct_event import construct_event
 from utils.upload_to_r2 import upload_to_r2
 from utils.construct_path import construct_path
 from utils.remove_pdf_extension import remove_pdf_extension
+from download_slide import download_slide
 import json
+import argparse
+import os
 
 
 async def enable_stealth(page):
@@ -23,7 +26,7 @@ async def enable_stealth(page):
     """)
 
 
-async def scrape_event_names():
+async def scrape_event_names(ticker, url, test_run):
     chrome_path = "/usr/bin/google-chrome"
     user_data_dir = os.path.expanduser("~/.config/google-chrome")
 
@@ -40,7 +43,7 @@ async def scrape_event_names():
         await enable_stealth(page)
 
         try:
-            url = "https://finchat.io/company/NasdaqGS-AAPL/investor-relations/"
+            url = "https://finchat.io/company/NasdaqGS-TSLA/investor-relations/"
             print(f"Opening {url}...")
             await page.goto(url, wait_until="domcontentloaded", timeout=120000)
 
@@ -61,6 +64,9 @@ async def scrape_event_names():
             # if not event_links:
             #     print("No events found.")
             #     return
+
+            download_button = await page.wait_for_selector("button.mantine-focus-auto.mantine-active.m_8d3f4000.mantine-ActionIcon-root.m_87cf2631.mantine-UnstyledButton-root", timeout=3000)
+            download_button.click()
 
             # print(f"Found {len(event_links)} event(s).")
             elements = page.locator('a#ph-company__transcripts-sidebar-item')
@@ -90,45 +96,68 @@ async def scrape_event_names():
                     # await event.click()
                     await page.wait_for_load_state("domcontentloaded")
                     await page.wait_for_timeout(2000)
+                    periodicity = None
+                    published_date = None
+                    fiscal_year = None
+                    fiscal_quarter = None
+                    buttons_locator = page.locator('(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button')
+                    await page.wait_for_timeout(2000)
+                    total_tabs = await buttons_locator.count()
+                    print(f"total tabs in event {i}:", total_tabs)
+                    for index in range(1, total_tabs + 1):
 
-                    heading = await get_transcript_text(page)
-                    if not heading:
-                        print("  [Skipped] No heading found.")
+                        content_type = await switch_tab(page, index=index) 
+                        print(f"  [Content Type] {content_type}")                   
 
-                    print(heading)
-                    
-                    
-                    periodicity = get_periodic_from_text(heading)
-                    published_date = extract_date_from_text(heading)
-                    print(f"  [Published Date] {published_date}")
-                    if periodicity == 'periodic':
-                        fiscal_year, fiscal_quarter = get_quarter_and_year(published_date)
-                    else:
-                        fiscal_year = "0000"
-                        fiscal_quarter = "0"
-                    
-                    transcript_name = await download_transcript(page)
-                    file_name = remove_pdf_extension(transcript_name)
-                    path = construct_path(ticker="AAPL", date=published_date, file_name=file_name, file=transcript_name)
+                        if content_type == "earnings_transcript":
+                            heading = await get_transcript_text(page)
+                            if not heading:
+                                print("  [Skipped] No heading found.")
 
-                    content_type = "earnings_transcript"
-                    
-                    r2_path = upload_to_r2(f'downloads/{transcript_name}', path, test_run="true")
+                            print(heading)
 
-                    event = construct_event(equity_ticker='AAPL', content_name=file_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
-                    all_events.append(event)
-                    #<button class="mantine-focus-auto mantine-active m_8d3f4000 mantine-ActionIcon-root m_87cf2631 mantine-UnstyledButton-root" data-variant="subtle" type="button" id="ph-company__download-transcript" style="--ai-radius: var(--mantine-radius-xs); --ai-bg: transparent; --ai-hover: var(--mantine-color-primary-light-hover); --ai-color: var(--mantine-color-primary-light-color); --ai-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><span class="m_8d3afb97 mantine-ActionIcon-icon"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M224,144v64a8,8,0,0,1-8,8H40a8,8,0,0,1-8-8V144a8,8,0,0,1,16,0v56H208V144a8,8,0,0,1,16,0Zm-101.66,5.66a8,8,0,0,0,11.32,0l40-40a8,8,0,0,0-11.32-11.32L136,124.69V32a8,8,0,0,0-16,0v92.69L93.66,98.34a8,8,0,0,0-11.32,11.32Z"></path></svg></span></button> --- Try switching to Report tab ---
-                    switch = await switch_to_report(page)
-                    if switch:
-                        report_name = await download_report(page)
-                        file_name = remove_pdf_extension(report_name)
-                        path = construct_path(ticker="AAPL", date=published_date, file_name=file_name, file=report_name)
-                        r2_path = upload_to_r2(f'downloads/{report_name}', path, test_run="true")
-                        event = construct_event(equity_ticker='sds', content_name=report_name, content_type="earnings_press_release", published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
-                        all_events.append(event)
-                    else:
-                        print("Report tab not found, skipping...")
-                        continue
+
+                            periodicity = get_periodic_from_text(heading)
+                            published_date = extract_date_from_text(heading)
+                            print(f"  [Published Date] {published_date}")
+                            if periodicity == 'periodic':
+                                fiscal_year, fiscal_quarter = get_quarter_and_year(published_date)
+                            else:
+                                fiscal_year = "0000"
+                                fiscal_quarter = "0"
+
+                            transcript_name = await download_transcript(page)
+                            file_name = remove_pdf_extension(transcript_name)
+                            path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=transcript_name)
+
+                        # content_type = "earnings_transcript"
+
+                            r2_path = upload_to_r2(f'downloads/{transcript_name}', path, test_run=test_run)
+                            event = construct_event(equity_ticker=ticker, content_name=file_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            all_events.append(event)
+                        elif content_type == "earnings_press_release":
+                            report_name = await download_report(page)
+                            file_name = remove_pdf_extension(report_name)
+                            path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=report_name)
+                            r2_path = upload_to_r2(f'downloads/{report_name}', path, test_run=test_run)
+                            event = construct_event(equity_ticker=ticker, content_name=report_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            all_events.append(event)
+                        elif content_type == "earnings_presentation":
+                            await asyncio.sleep(5)
+                            if index == 3:
+                                report_name = await download_slide(page)
+                            else:
+                                report_name = await download_report(page)
+                            file_name = remove_pdf_extension(report_name)
+                            path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=report_name)
+                            r2_path = upload_to_r2(f'downloads/{report_name}', path, test_run=test_run)
+                            event = construct_event(equity_ticker=ticker, content_name=report_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            all_events.append(event)
+
+                        print(f"[Event] {event}")
+
+                        
+                        #<button class="mantine-focus-auto mantine-active m_8d3f4000 mantine-ActionIcon-root m_87cf2631 mantine-UnstyledButton-root" data-variant="subtle" type="button" id="ph-company__download-transcript" style="--ai-radius: var(--mantine-radius-xs); --ai-bg: transparent; --ai-hover: var(--mantine-color-primary-light-hover); --ai-color: var(--mantine-color-primary-light-color); --ai-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><span class="m_8d3afb97 mantine-ActionIcon-icon"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M224,144v64a8,8,0,0,1-8,8H40a8,8,0,0,1-8-8V144a8,8,0,0,1,16,0v56H208V144a8,8,0,0,1,16,0Zm-101.66,5.66a8,8,0,0,0,11.32,0l40-40a8,8,0,0,0-11.32-11.32L136,124.69V32a8,8,0,0,0-16,0v92.69L93.66,98.34a8,8,0,0,0-11.32,11.32Z"></path></svg></span></button> --- Try switching to Report tab ---
 
                 except Exception as e:
                     print(f"  [Event Error] {e}")
@@ -138,7 +167,7 @@ async def scrape_event_names():
                 # await page.wait_for_timeout(2000)
                 # print()
 
-            file_path = "APPL_investor_relations.json"
+            file_path = f"{ticker}_investor_relations.json"
 
             # Write the list of dictionaries to a JSON file
             with open(file_path, 'w') as json_file:
@@ -153,4 +182,14 @@ async def scrape_event_names():
 
 
 if __name__ == "__main__":
-    asyncio.run(scrape_event_names())
+    parser = argparse.ArgumentParser(description="Scrape event names with provided arguments.")
+
+    # Add arguments to the parser
+    parser.add_argument("ticker", type=str, help="equity ticker")
+    parser.add_argument("url", type=str, help="page url")
+    parser.add_argument("test_run", type=str, help="test run")
+
+    # Parse the arguments from the command line
+    args = parser.parse_args()
+
+    asyncio.run(scrape_event_names(args.ticker, args.url, args.test_run))
