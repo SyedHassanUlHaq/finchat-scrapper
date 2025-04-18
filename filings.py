@@ -12,10 +12,12 @@ metadata_list = []
 
 parser = ArgumentParser(description="Scrape filings from Finchat")
 parser.add_argument("ticker", type=str, help="Equity ticker to scrape filings for")
+parser.add_argument("link", type=str, help="Link to scrape filings from")
 args = parser.parse_args()
 
 Equity_ticker = args.ticker
-        
+filings_link = args.link
+
 async def click_load_more(page):
     while True:
         try:
@@ -54,7 +56,7 @@ async def scrape_event_names():
         await enable_stealth(page)
 
         try:
-            base_url = "https://finchat.io/company/NasdaqGS-AAPL/filings/"
+            base_url = filings_link
             print(f"Opening {base_url}...")
             await page.goto(base_url, wait_until="domcontentloaded", timeout=120000)
 
