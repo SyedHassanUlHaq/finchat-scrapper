@@ -21,6 +21,7 @@ import argparse
 import os
 
 
+
 async def enable_stealth(page):
     """Modify navigator to evade bot detection."""
     await page.add_init_script("""
@@ -31,8 +32,9 @@ async def enable_stealth(page):
 
 
 async def scrape_event_names(ticker, url, test_run):
-    chrome_path = os.environ.get("CHROME_PATH", "/usr/bin/google-chrome")
-    user_data_dir = os.environ.get("CONFIG_PATH", os.path.expanduser("~/.config/google-chrome"))
+    # Update default Chrome path and config path for Windows
+    chrome_path = os.environ.get("CHROME_PATH", "C:/Program Files/Google/Chrome/Application/chrome.exe")
+    user_data_dir = os.environ.get("CONFIG_PATH", os.path.expanduser("~/AppData/Local/Google/Chrome\\User Data"))
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
@@ -42,6 +44,8 @@ async def scrape_event_names(ticker, url, test_run):
             args=["--profile-directory=Default"],
             accept_downloads=True
         )
+
+
         page = browser.pages[0] if browser.pages else await browser.new_page()
 
         await enable_stealth(page)
