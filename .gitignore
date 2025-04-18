@@ -1,0 +1,7 @@
+finchat_scrapper/*
+finchat_env/
+downloads/*
+.venv
+test/
+JSONS/*
+*.pyc
