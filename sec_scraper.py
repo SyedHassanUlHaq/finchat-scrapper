@@ -90,13 +90,14 @@ for filing in response.get("filings", []):
 
         closest_date = find_closest_date(args.json_path, period_of_report)
         fiscal_year, fiscal_quarter = get_quarter_and_year(closest_date)
-
+        
+        fiscal_quarter = fiscal_quarter if content_type == "quarterly_report" else 4
         logging.info(f"Processing {form_type} filing from {filed_at}")
         content_name = EQUITY_TICKER + f" Q{fiscal_quarter}" + f" {fiscal_year} " + content_type
         file_path = download_sec_pdf(API_KEY, file_url)
         if file_path:
             r2_key = f"{EQUITY_TICKER}/{filed_at}/{os.path.basename(file_url)}"
-            r2_url = upload_to_r2(file_path, r2_key, True)
+            r2_url = upload_to_r2(file_path, r2_key, False)
             extracted_filings.append({
                 "equity_ticker": EQUITY_TICKER,
                 "geography": "US",
@@ -106,7 +107,7 @@ for filing in response.get("filings", []):
                 "published_date": filed_at,
                 "fiscal_date": period_of_report,
                 "fiscal_year": fiscal_year,
-                "fiscal_quarter": fiscal_quarter if content_type == "quarterly_report" else 4,
+                "fiscal_quarter": fiscal_quarter,
                 "r2_url": r2_url,
                 "periodicity": "periodic",
             })
@@ -123,7 +124,7 @@ logging.info(f"\nExtracted {len(extracted_filings)} 10-K/10-Q filings for {EQUIT
 for filing in extracted_filings[:5]:
     logging.debug(json.dumps(filing, indent=2))
     
-output_filename = f"{EQUITY_TICKER}_sec_filings.json"
+output_filename = f"JSONS/{EQUITY_TICKER}_sec_filings.json"
 try:
     with open(output_filename, "w") as f:
         json.dump(extracted_filings, f, indent=2)

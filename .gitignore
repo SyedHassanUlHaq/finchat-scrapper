@@ -5,6 +5,6 @@ downloads/*
 test/
 JSONS/*
 *.pyc
-sec_pdf_scrapper.log
+*.log
 __pycache__/
 .env
