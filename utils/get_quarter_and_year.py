@@ -1,6 +1,6 @@
 from datetime import datetime
 
-async def get_quarter_and_year(date_input):
+def get_quarter_and_year(date_input):
     """
     Returns the year and quarter for a given date in the format 'QX-YYYY'
     
