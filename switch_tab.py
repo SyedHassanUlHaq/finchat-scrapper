@@ -21,15 +21,15 @@ async def switch_tab(page, index, timeout_ms=2000):
         print(f"Looking for {tab} tab...")
         button = page.locator(f'(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button[{index}]')
         # await page.click('#mantine-ik817evwu-tab-Report')
-        await page.wait_for_timeout(2000)
+        # await page.wait_for_timeout(10000)
         text = await button.inner_text()
-        await button.click(timeout=2000)
+        await button.click(timeout=10000)
         if text.lower() == 'transcript':
-            return 'earnings_transcript'
+            return 'transcript'
         if text.lower() == 'slides':
-            return 'earnings_presentation'
+            return 'presentation'
         if text.lower() == 'report':
-            return 'earnings_press_release'
+            return 'press_release'
         else:
             return 'other'
     except PlaywrightTimeoutError:

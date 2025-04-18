@@ -12,6 +12,9 @@ from utils.upload_to_r2 import upload_to_r2
 from utils.construct_path import construct_path
 from utils.remove_pdf_extension import remove_pdf_extension
 from utils.classify_form_type_from_pdf import classify_form_type_from_pdf
+from utils.get_non_periodic_content_type import get_non_periodic_content_type
+from utils.construct_content_name import compile_content_name
+from utils.extract_quarter_and_year import extract_quarter_and_year
 from download_slide import download_slide
 import json
 import argparse
@@ -28,8 +31,8 @@ async def enable_stealth(page):
 
 
 async def scrape_event_names(ticker, url, test_run):
-    chrome_path = "/usr/bin/google-chrome"
-    user_data_dir = os.path.expanduser("~/.config/google-chrome")
+    chrome_path = os.environ.get("CHROME_PATH", "/usr/bin/google-chrome")
+    user_data_dir = os.environ.get("CONFIG_PATH", os.path.expanduser("~/.config/google-chrome"))
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
@@ -66,8 +69,8 @@ async def scrape_event_names(ticker, url, test_run):
             #     print("No events found.")
             #     return
 
-            download_button = await page.wait_for_selector("button.mantine-focus-auto.mantine-active.m_8d3f4000.mantine-ActionIcon-root.m_87cf2631.mantine-UnstyledButton-root", timeout=3000)
-            download_button.click()
+            download_button = await page.wait_for_selector("footer div div.mantine-Flex-root button.mantine-ActionIcon-root.mantine-UnstyledButton-root")
+            await download_button.click()
 
             # print(f"Found {len(event_links)} event(s).")
             elements = page.locator('a#ph-company__transcripts-sidebar-item')
@@ -96,22 +99,24 @@ async def scrape_event_names(ticker, url, test_run):
                     await element.click()
                     # await event.click()
                     await page.wait_for_load_state("domcontentloaded")
-                    await page.wait_for_timeout(2000)
+                    await page.wait_for_timeout(10000)
+                    # await asyncio.sleep(4)
                     periodicity = None
                     published_date = None
                     fiscal_year = None
                     fiscal_quarter = None
                     buttons_locator = page.locator('(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button')
-                    await page.wait_for_timeout(2000)
+                    await page.wait_for_timeout(4000)
                     total_tabs = await buttons_locator.count()
                     print(f"total tabs in event {i}:", total_tabs)
                     for index in range(1, total_tabs + 1):
                         content_name = None
-
+                        # heading = await get_transcript_text(page)
+                        # print('HEADING: ', heading, '\n\n\n')
                         content_type = await switch_tab(page, index=index) 
                         print(f"  [Content Type] {content_type}")                   
 
-                        if content_type == "earnings_transcript":
+                        if content_type == "transcript":
                             heading = await get_transcript_text(page)
                             if not heading:
                                 print("  [Skipped] No heading found.")
@@ -123,49 +128,66 @@ async def scrape_event_names(ticker, url, test_run):
                             periodicity = get_periodic_from_text(heading)
                             published_date = extract_date_from_text(heading)
                             print(f"  [Published Date] {published_date}")
-                            if periodicity == 'periodic':
-                                fiscal_year, fiscal_quarter = get_quarter_and_year(published_date)
-                            else:
-                                fiscal_year = "0000"
-                                fiscal_quarter = "0"
 
                             transcript_name = await download_transcript(page)
                             file_name = remove_pdf_extension(transcript_name)
                             path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=transcript_name)
 
+                            if periodicity == 'periodic':
+                                content_type2 = 'earnings_transcript'
+                                fiscal_quarter, fiscal_year = extract_quarter_and_year(heading)
+                                content_name = compile_content_name(content_type=content_type, equity_ticker=ticker, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            else:
+                                content_type2 = get_non_periodic_content_type(heading, f'downloads/{transcript_name}', content_type)
+                                fiscal_year = "0000"
+                                fiscal_quarter = "0"
                         # content_type = "earnings_transcript"
                             pdf_type = classify_form_type_from_pdf(f'downloads/{transcript_name}')
                             r2_path = upload_to_r2(f'downloads/{transcript_name}', path, test_run=test_run)
                             if pdf_type == 'other' or pdf_type is None:
-                                event = construct_event(equity_ticker=ticker, content_name=content_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                                event = construct_event(equity_ticker=ticker, content_name=content_name, content_type=content_type2, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             else:
                                 event = construct_event(equity_ticker=ticker, content_name=content_name, content_type=pdf_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             all_events.append(event)
-                        elif content_type == "earnings_press_release":
+                        elif content_type == "press_release":
                             report_name = await download_report(page)
                             file_name = remove_pdf_extension(report_name)
+                            
                             if content_name is None:
-                                content_name = file_name
+                                content_name = heading
                             path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=report_name)
                             pdf_type = classify_form_type_from_pdf(f'downloads/{report_name}')
+                            
+                            if periodicity == 'periodic':
+                                content_type2 = 'earnings_press_release'
+                                content_name = compile_content_name(content_type=content_type, equity_ticker=ticker, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            else:
+                                content_type2 = get_non_periodic_content_type(heading, f'downloads/{transcript_name}', content_type)
+
                             r2_path = upload_to_r2(f'downloads/{report_name}', path, test_run=test_run)
                             if pdf_type == 'other' or pdf_type is None:
-                                event = construct_event(equity_ticker=ticker, content_name=content_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                                event = construct_event(equity_ticker=ticker, content_name=content_name, content_type=content_type2, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             else:
                                 event = construct_event(equity_ticker=ticker, content_name=content_name, content_type=pdf_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             all_events.append(event)
-                        elif content_type == "earnings_presentation":
+                        elif content_type == "presentation":
                             await asyncio.sleep(5)
                             if index == 3:
                                 report_name = await download_slide(page)
                             else:
                                 report_name = await download_report(page)
                             file_name = remove_pdf_extension(report_name)
+
+                            if periodicity == 'periodic':
+                                content_type2 = 'earnings_presentation'
+                                content_name = compile_content_name(content_type=content_type, equity_ticker=ticker, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            else:
+                                content_type2 = get_non_periodic_content_type(heading, f'downloads/{transcript_name}', content_type)
                             if content_name is None:
-                                content_name = file_name
+                                content_name = heading
                             path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=report_name)
                             r2_path = upload_to_r2(f'downloads/{report_name}', path, test_run=test_run)
-                            event = construct_event(equity_ticker=ticker, content_name=content_name, content_type=content_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
+                            event = construct_event(equity_ticker=ticker, content_name=content_name, content_type=content_type2, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             all_events.append(event)
 
                         print(f"[Event] {event}")
