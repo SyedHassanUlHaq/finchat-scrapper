@@ -44,7 +44,7 @@ async def scrape_event_names(ticker, url, test_run):
         await enable_stealth(page)
 
         try:
-            url = "https://finchat.io/company/NasdaqGS-TSLA/investor-relations/"
+            url = url
             print(f"Opening {url}...")
             await page.goto(url, wait_until="domcontentloaded", timeout=120000)
 
