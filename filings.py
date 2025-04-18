@@ -3,7 +3,7 @@ from playwright.async_api import async_playwright
 import os
 import json
 from datetime import datetime
-from utils.upload_to_r2 import upload_file_to_r2
+from utils.upload_to_r2 import upload_to_r2
 # Global list to hold metadata entries
 metadata_list = []
 
@@ -160,7 +160,7 @@ async def scrape_event_names():
                         published_date = event_date_obj.strftime("%Y-%m-%d") if event_date_obj else None
                         fiscal_quarter = (event_date_obj.month - 1) // 3 + 1 if event_date_obj else 1
                         r2_folder = f"AAPL/{published_date}/{filename}/"
-                        r2_url = upload_file_to_r2(save_path, r2_folder, False)
+                        r2_url = upload_to_r2(save_path, r2_folder, False)
                         
                         metadata = {
                             "equity_ticker": "PG",
