@@ -4,7 +4,9 @@ import os
 import json
 from datetime import datetime
 from utils.upload_to_r2 import upload_to_r2
+from utils.get_closest_date import find_closest_date
 from utils.fiscal_date_extractor import extract_fiscal_date
+from utils.get_quarter_and_year import get_quarter_and_year
 from argparse import ArgumentParser
 
 # Global list to hold metadata entries
@@ -13,10 +15,12 @@ metadata_list = []
 parser = ArgumentParser(description="Scrape filings from Finchat")
 parser.add_argument("ticker", type=str, help="Equity ticker to scrape filings for")
 parser.add_argument("link", type=str, help="Link to scrape filings from")
+parser.add_argument("json_path", type=str, help="Path to the JSON file containing dates")
 args = parser.parse_args()
 
 Equity_ticker = args.ticker
 filings_link = args.link
+json_path = args.json_path
 
 async def click_load_more(page):
     while True:
@@ -148,6 +152,11 @@ async def scrape_event_names():
                             print(f"❌ Download failed or file not saved: {filename}")
 
                         fiscal_date = await extract_fiscal_date(save_path)
+                        fiscal_date = datetime.strptime(fiscal_date, "%b %d, %Y")
+                        
+                        closest_date = await find_closest_date(json_path, fiscal_date)
+                        fiscal_year, fiscal_quarter = await get_quarter_and_year(closest_date)
+                        
                         # Format date and extract fiscal info
                         try:
                             event_date_obj = datetime.strptime(event_date_raw, "%b %d, %Y")
@@ -158,7 +167,7 @@ async def scrape_event_names():
                                 event_date_obj = None
 
                         published_date = event_date_obj.strftime("%Y-%m-%d") if event_date_obj else None
-                        fiscal_quarter = (event_date_obj.month - 1) // 3 + 1 if event_date_obj else 1
+                        # fiscal_quarter = (event_date_obj.month - 1) // 3 + 1 if event_date_obj else 1
                         r2_folder = f"{Equity_ticker}/{published_date}/{filename}/"
                         r2_url = upload_to_r2(save_path, r2_folder, True)
                         
@@ -174,10 +183,10 @@ async def scrape_event_names():
                             ),
                             "published_date": published_date,
                             "fiscal_date": fiscal_date,
-                            "fiscal_year": "0000",
+                            "fiscal_year": fiscal_year,
                             "fiscal_quarter": fiscal_quarter,
                             "r2_url": r2_url,
-                            "periodicity": "non-periodic"
+                            "periodicity": "periodic"
                         }
                         print(metadata)
                         metadata_list.append(metadata)
