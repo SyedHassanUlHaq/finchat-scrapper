@@ -4,3 +4,4 @@ downloads/*
 .venv
 test/
 JSONS/*
+*.pyc
