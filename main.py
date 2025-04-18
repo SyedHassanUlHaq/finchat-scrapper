@@ -219,7 +219,7 @@ async def scrape_event_names(ticker, url, test_run):
             await browser.close()
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Scrape event names with provided arguments.")
 
     # Add arguments to the parser
@@ -230,4 +230,4 @@ if _name_ == "_main_":
     # Parse the arguments from the command line
     args = parser.parse_args()
 
-    asyncio.run(scrape_event_names(args.ticker, args.url, args.test_run)) 
+    asyncio.run(scrape_event_names(args.ticker, args.url, args.test_run))
