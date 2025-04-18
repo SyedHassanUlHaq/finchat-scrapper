@@ -27,7 +27,9 @@ async def click_load_more(page):
         try:
             load_more_button = await page.query_selector('button:has-text("Load More")')
             if not load_more_button:
+                print("  [Load More] Button not found, breaking loop.")
                 break
+            print("  [Load More] Clicking the button...")
             await load_more_button.click()
             await page.wait_for_timeout(1500)
         except Exception as e:
@@ -103,6 +105,9 @@ async def scrape_event_names():
                 _, expected_event_name, expected_event_date = event_list[i]
 
                 await page.goto(base_url, wait_until="domcontentloaded")
+                print("Scrolling to bottom to trigger loading...")
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                await page.wait_for_timeout(3000)
                 await click_load_more(page)
                 await page.wait_for_selector(table_selector, timeout=20000)
                 await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")

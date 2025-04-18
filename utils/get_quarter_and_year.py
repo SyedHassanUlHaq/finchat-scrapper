@@ -17,13 +17,13 @@ async def get_quarter_and_year(date_input):
     month = date_input.month
     
     if 1 <= month <= 3:
-        quarter = "Q1"
+        quarter = 1
     elif 4 <= month <= 6:
-        quarter = "Q2"
+        quarter = 2
     elif 7 <= month <= 9:
-        quarter = "Q3"
+        quarter = 3
     elif 10 <= month <= 12:
-        quarter = "Q4"
+        quarter = 4
     else:
         raise ValueError("Invalid month value.")
     
