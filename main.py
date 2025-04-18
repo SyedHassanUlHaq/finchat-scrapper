@@ -31,8 +31,8 @@ async def enable_stealth(page):
 
 
 async def scrape_event_names(ticker, url, test_run):
-    chrome_path = "/usr/bin/google-chrome"
-    user_data_dir = os.path.expanduser("~/.config/google-chrome")
+    chrome_path = os.environ.get("CHROME_PATH", "/usr/bin/google-chrome")
+    user_data_dir = os.environ.get("CONFIG_PATH", os.path.expanduser("~/.config/google-chrome"))
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
@@ -99,13 +99,14 @@ async def scrape_event_names(ticker, url, test_run):
                     await element.click()
                     # await event.click()
                     await page.wait_for_load_state("domcontentloaded")
-                    await page.wait_for_timeout(2000)
+                    await page.wait_for_timeout(10000)
+                    # await asyncio.sleep(4)
                     periodicity = None
                     published_date = None
                     fiscal_year = None
                     fiscal_quarter = None
                     buttons_locator = page.locator('(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button')
-                    await page.wait_for_timeout(2000)
+                    await page.wait_for_timeout(4000)
                     total_tabs = await buttons_locator.count()
                     print(f"total tabs in event {i}:", total_tabs)
                     for index in range(1, total_tabs + 1):
@@ -178,7 +179,7 @@ async def scrape_event_names(ticker, url, test_run):
                             file_name = remove_pdf_extension(report_name)
 
                             if periodicity == 'periodic':
-                                content_type2 = 'earnings_press_release'
+                                content_type2 = 'earnings_presentation'
                                 content_name = compile_content_name(content_type=content_type, equity_ticker=ticker, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             else:
                                 content_type2 = get_non_periodic_content_type(heading, f'downloads/{transcript_name}', content_type)
