@@ -1,7 +1,7 @@
 import json
 from datetime import datetime
 
-async def find_closest_date(json_path, target_date_str):
+def find_closest_date(json_path, target_date_str):
     """
     Finds the date in the JSON file that is closest to the target date.
 

@@ -5,3 +5,5 @@ downloads/*
 test/
 JSONS/*
 *.pyc
+sec_pdf_scrapper.log
+__pycache__/
