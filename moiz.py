@@ -21,6 +21,16 @@ lis = [
 {"INGR", "https://finchat.io/company/NYSE-INGR/investor-relations/", "false"},
 {"COKE", "https://finchat.io/company/NasdaqGS-COKE/investor-relations/", "false"},
 {"WBA", "https://finchat.io/company/NasdaqGS-WBA/investor-relations/", "false"}
+{"LW", "https://finchat.io/company/NYSE-LW/investor-relations/", "false"},
+{"CPB", "https://finchat.io/company/NasdaqGS-CPB/investor-relations/", "false"},
+{"CELH", "https://finchat.io/company/NasdaqCM-CELH/investor-relations/", "false"},
+{"POST", "https://finchat.io/company/NYSE-POST/investor-relations/", "false"},
+{"BFB", "https://finchat.io/company/NYSE-BF.B/investor-relations/", "false"},
+{"DAR", "https://finchat.io/company/NYSE-DAR/investor-relations/", "false"},
+{"SAM", "https://finchat.io/company/NYSE-SAM/investor-relations/", "false"},
+{"BFA", "https://finchat.io/company/NYSE-BF.B/investor-relations/", "false"},
+{"IFF", "https://finchat.io/company/NYSE-IFF/investor-relations/", "false"}
+
 
        ]
 

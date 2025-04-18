@@ -230,4 +230,4 @@ if _name_ == "_main_":
     # Parse the arguments from the command line
     args = parser.parse_args()
 
-    asyncio.run(scrape_event_names(args.ticker, args.url, args.test_run))
+    asyncio.run(scrape_event_names(args.ticker, args.url, args.test_run)) 

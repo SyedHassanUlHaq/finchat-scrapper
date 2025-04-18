@@ -67,3 +67,30 @@ COKE: main.py
 
 WBA: main.py
 	python3 main.py WBA https://finchat.io/company/NasdaqGS-WBA/investor-relations/ false
+	
+LW: main.py
+	python3 main.py LW https://finchat.io/company/NYSE-LW/investor-relations/ false
+
+CPB: main.py
+	python3 main.py CPB https://finchat.io/company/NasdaqGS-CPB/investor-relations/ false
+
+CELH: main.py
+	python3 main.py CELH https://finchat.io/company/NasdaqCM-CELH/investor-relations/ false
+
+POST: main.py
+	python3 main.py POST https://finchat.io/company/NYSE-POST/investor-relations/ false
+
+BFB: main.py
+	python3 main.py BFB https://finchat.io/company/NYSE-BF.B/investor-relations/ false
+
+DAR: main.py
+	python3 main.py DAR https://finchat.io/company/NYSE-DAR/investor-relations/ false
+
+SAM: main.py
+	python3 main.py SAM https://finchat.io/company/NYSE-SAM/investor-relations/ false
+
+BFA: main.py
+	python3 main.py BFA https://finchat.io/company/NYSE-BF.B/investor-relations/ false
+
+IFF: main.py
+	python3 main.py IFF https://finchat.io/company/NYSE-IFF/investor-relations/ false
