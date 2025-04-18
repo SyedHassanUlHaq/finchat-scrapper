@@ -10,6 +10,10 @@ async def extract_fiscal_date(pdf_path):
         first_page,
         re.IGNORECASE
     )
-    print(f"Extracted fiscal date: {match.group(1)}")
-    return match.group(1) if match else None
-
+    if match:
+        fiscal_date = match.group(1)
+        print(f"✅ Extracted fiscal date: {fiscal_date}")
+        return fiscal_date
+    else:
+        print(f"⚠️ No fiscal date found in: {pdf_path}")
+        return None
