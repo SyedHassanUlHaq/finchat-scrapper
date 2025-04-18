@@ -1,0 +1,14 @@
+2025/04/19-02:20:08.204 2fb9 Reusing MANIFEST /home/server/finchat-scrapper/~/.config/google-chrome/Default/IndexedDB/https_finchat.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/19-02:20:08.204 2fb9 Recovering log #32
+2025/04/19-02:20:08.208 2fb9 Reusing old log /home/server/finchat-scrapper/~/.config/google-chrome/Default/IndexedDB/https_finchat.io_0.indexeddb.leveldb/000032.log 
+2025/04/19-02:20:08.208 2fb9 Delete type=2 #31
+2025/04/19-02:20:08.478 2fb8 Level-0 table #37: started
+2025/04/19-02:20:08.484 2fb8 Level-0 table #37: 2327 bytes OK
+2025/04/19-02:20:08.492 2fb8 Delete type=0 #32
+2025/04/19-02:20:08.493 2fb7 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 740 : 1
+2025/04/19-02:20:08.493 2fb7 Compacting 1@0 + 1@1 files
+2025/04/19-02:20:08.498 2fb7 Generated table #38@0: 232 keys, 3877 bytes
+2025/04/19-02:20:08.498 2fb7 Compacted 1@0 + 1@1 files => 3877 bytes
+2025/04/19-02:20:08.503 2fb7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/19-02:20:08.503 2fb7 Delete type=2 #37
+2025/04/19-02:20:08.503 2fb7 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 740 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
