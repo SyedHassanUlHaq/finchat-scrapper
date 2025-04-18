@@ -4,24 +4,20 @@ import os
 import json
 from datetime import datetime
 from utils.upload_to_r2 import upload_to_r2
+from utils.fiscal_date_extractor import extract_fiscal_date
+from argparse import ArgumentParser
+
 # Global list to hold metadata entries
 metadata_list = []
 
-async def smart_load_more(page, row_selector, max_clicks=13):
-    for _ in range(max_clicks):
-        old_count = len(await page.query_selector_all(row_selector))
-        await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-        await page.wait_for_timeout(1000)
-        load_more = await page.query_selector('button:has-text("Load More")')
-        if load_more:
-            await load_more.click()
-        await page.wait_for_timeout(1500)
-        new_count = len(await page.query_selector_all(row_selector))
-        if new_count == old_count:
-            break
+parser = ArgumentParser(description="Scrape filings from Finchat")
+parser.add_argument("ticker", type=str, help="Equity ticker to scrape filings for")
+args = parser.parse_args()
+
+Equity_ticker = args.ticker
         
 async def click_load_more(page):
-    for i in range(16):
+    while True:
         try:
             load_more_button = await page.query_selector('button:has-text("Load More")')
             if not load_more_button:
@@ -58,7 +54,7 @@ async def scrape_event_names():
         await enable_stealth(page)
 
         try:
-            base_url = "https://finchat.io/investor/procter-gamble-co/filings/"
+            base_url = "https://finchat.io/company/NasdaqGS-AAPL/filings/"
             print(f"Opening {base_url}...")
             await page.goto(base_url, wait_until="domcontentloaded", timeout=120000)
 
@@ -104,7 +100,8 @@ async def scrape_event_names():
                         ten_q_k_events.append(event_data)
                     else:
                         other_events.append(event_data)
-
+                        
+            print("ten_q_k_events", ten_q_k_events)
             print(f"10-Q/10-K Events: {len(ten_q_k_events)}")
             print(f"Other Events: {len(other_events)}")
 
@@ -148,6 +145,7 @@ async def scrape_event_names():
                         else:
                             print(f"❌ Download failed or file not saved: {filename}")
 
+                        fiscal_date = await extract_fiscal_date(save_path)
                         # Format date and extract fiscal info
                         try:
                             event_date_obj = datetime.strptime(event_date_raw, "%b %d, %Y")
@@ -159,29 +157,34 @@ async def scrape_event_names():
 
                         published_date = event_date_obj.strftime("%Y-%m-%d") if event_date_obj else None
                         fiscal_quarter = (event_date_obj.month - 1) // 3 + 1 if event_date_obj else 1
-                        r2_folder = f"AAPL/{published_date}/{filename}/"
-                        r2_url = upload_to_r2(save_path, r2_folder, False)
+                        r2_folder = f"{Equity_ticker}/{published_date}/{filename}/"
+                        r2_url = upload_to_r2(save_path, r2_folder, True)
                         
                         metadata = {
-                            "equity_ticker": "PG",
+                            "equity_ticker": Equity_ticker,
                             "geography": "US",
                             "content_name": filename,
                             "file_type": "pdf",
-                            "content_type": os.path.splitext(filename)[0],
+                            "content_type": (
+                                "annual_report" if "10-K" in event_name.upper()
+                                else "quarterly_report" if "10-Q" in event_name.upper()
+                                else os.path.splitext(filename)[0]
+                            ),
                             "published_date": published_date,
-                            "fiscal_date": published_date,
+                            "fiscal_date": fiscal_date,
                             "fiscal_year": "0000",
                             "fiscal_quarter": fiscal_quarter,
                             "r2_url": r2_url,
                             "periodicity": "non-periodic"
                         }
+                        print(metadata)
                         metadata_list.append(metadata)
 
                     except Exception as e:
                         print(f"  [Download Skipped] {e}")
 
-            await process_event_list(other_events, "Other")
-            # await process_event_list(ten_q_k_events, "10Q/10K")
+            # await process_event_list(other_events, "Other")
+            await process_event_list(ten_q_k_events, "10Q/10K")
 
             # Write all metadata to JSON file
             output_path = os.path.join(download_dir, "metadata.json")
