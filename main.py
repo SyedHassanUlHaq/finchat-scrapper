@@ -21,7 +21,6 @@ import argparse
 import os
 
 
-
 async def enable_stealth(page):
     """Modify navigator to evade bot detection."""
     await page.add_init_script("""
@@ -32,9 +31,8 @@ async def enable_stealth(page):
 
 
 async def scrape_event_names(ticker, url, test_run):
-    # Update default Chrome path and config path for Windows
-    chrome_path = os.environ.get("CHROME_PATH", "C:/Program Files/Google/Chrome/Application/chrome.exe")
-    user_data_dir = os.environ.get("CONFIG_PATH", os.path.expanduser("~/AppData/Local/Google/Chrome\\User Data"))
+    chrome_path = os.environ.get("CHROME_PATH", "/usr/bin/google-chrome")
+    user_data_dir = os.environ.get("CONFIG_PATH", os.path.expanduser("~/.config/google-chrome"))
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
@@ -44,8 +42,6 @@ async def scrape_event_names(ticker, url, test_run):
             args=["--profile-directory=Default"],
             accept_downloads=True
         )
-
-
         page = browser.pages[0] if browser.pages else await browser.new_page()
 
         await enable_stealth(page)
@@ -223,7 +219,7 @@ async def scrape_event_names(ticker, url, test_run):
             await browser.close()
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     parser = argparse.ArgumentParser(description="Scrape event names with provided arguments.")
 
     # Add arguments to the parser
@@ -234,4 +230,4 @@ if __name__ == "__main__":
     # Parse the arguments from the command line
     args = parser.parse_args()
 
-    asyncio.run(scrape_event_names(args.ticker, args.url, args.test_run))
+    asyncio.run(scrape_event_names(args.ticker, args.url, args.test_run))
