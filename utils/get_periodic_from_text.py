@@ -21,15 +21,15 @@ def get_periodic_from_text(s):
         r'\bquarterly\b',             # quarterly
         
         # Annual patterns
-        r'\bannual\b',                # annual
-        r'\byearly\b',                # yearly
-        r'\bYTD\b',                   # YTD (year-to-date)
-        r'\bfiscal year\b',            # fiscal year
-        r'\bFY\d{2,4}\b',             # FY23, FY2023
+        # r'\bannual\b',                # annual
+        # r'\byearly\b',                # yearly
+        # r'\bYTD\b',                   # YTD (year-to-date)
+        # r'\bfiscal year\b',            # fiscal year
+        # r'\bFY\d{2,4}\b',             # FY23, FY2023
         
-        # Half-year patterns
-        r'\bH[1-2]\b',                # H1, H2
-        r'\b(?:1st|2nd)[- ]half\b',   # 1st-half, 2nd half
+        # # Half-year patterns
+        # r'\bH[1-2]\b',                # H1, H2
+        # r'\b(?:1st|2nd)[- ]half\b',   # 1st-half, 2nd half
         
         # r'\byyyy\b',         # Year pattern (yyyy)
         # r'\bmm\b',           # Month pattern (mm)
