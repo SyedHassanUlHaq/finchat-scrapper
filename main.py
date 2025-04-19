@@ -20,6 +20,9 @@ import json
 import argparse
 import os
 
+from dotenv import load_dotenv
+load_dotenv()
+
 
 async def enable_stealth(page):
     """Modify navigator to evade bot detection."""
