@@ -80,7 +80,7 @@ def find_first_10k_index(filings):
 
 def map_value(value):
     if value == 0:
-        return 4
+        return 0
     elif value == 1:
         return 3
     elif value == 2:
