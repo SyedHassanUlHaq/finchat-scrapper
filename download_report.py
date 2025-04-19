@@ -15,7 +15,7 @@ async def download_report(page, event, timeout_ms=10000):
     try:
         print("Downloading report...")
         async with page.expect_download() as download_info:
-            await page.locator('button[data-testid="get-file__download-button"]').click(timeout=10000)
+            await page.locator('button[data-testid="get-file__download-button"]').click(timeout=5000)
             # await page.click(".rpv-core__minimal-butto
         download = await download_info.value
         filename = download.suggested_filename
