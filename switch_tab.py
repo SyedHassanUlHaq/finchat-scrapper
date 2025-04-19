@@ -1,6 +1,7 @@
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+import logging
 
-async def switch_tab(page, index, timeout_ms=2000):
+async def switch_tab(page, index, event, timeout_ms=2000):
     """
     Extracts text from an h2 element with data-sentry-source-file="DisplayTranscriptContent.tsx".
     
@@ -34,6 +35,7 @@ async def switch_tab(page, index, timeout_ms=2000):
             return 'other'
     except PlaywrightTimeoutError:
         print(f"⚠️ Error: {tab} element not found within {timeout_ms}ms")
+        logging.error(f"event: {event} element {index} not found within {timeout_ms}ms")
         return None
     except Exception as e:
         print(f"[{tab} Tab Switching Error] {e}")
