@@ -1,6 +1,7 @@
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+import logging
 
-async def download_report(page, timeout_ms=10000):
+async def download_report(page, event, timeout_ms=10000):
     """
     Extracts text from an h2 element with data-sentry-source-file="DisplayTranscriptContent.tsx".
     
@@ -24,6 +25,7 @@ async def download_report(page, timeout_ms=10000):
         return filename
     except PlaywrightTimeoutError:
         print(f"⚠️ Error: report Download element not found within {timeout_ms}ms")
+        logging.error(f"event: {event} Download element not found for report within {timeout_ms}ms")
         return None
     except Exception as e:
         print(f"[Report Download Error] {e}")
