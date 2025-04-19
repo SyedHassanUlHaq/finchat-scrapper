@@ -1,7 +1,7 @@
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 import logging
 
-async def download_transcript(page, event, timeout_ms=10000):
+async def download_transcript(page, event, timeout_ms=4000):
     """
     Extracts text from an h2 element with data-sentry-source-file="DisplayTranscriptContent.tsx".
     
