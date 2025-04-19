@@ -120,7 +120,7 @@ for filing in response.get("filings", []):
         else:
             fiscal_year = latest_year
 
-        content_name = f"{EQUITY_TICKER} Q{fiscal_quarter} {fiscal_year} {content_type}"
+        content_name = f"{EQUITY_TICKER} Q{fiscal_quarter} {fiscal_year} {form_type}"
         logging.info(f"Processing {form_type} filing for Q{fiscal_quarter} {fiscal_year}")
 
         file_path = download_sec_pdf(API_KEY, file_url)
