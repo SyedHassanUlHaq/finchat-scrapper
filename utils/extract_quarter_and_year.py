@@ -12,5 +12,5 @@ def extract_quarter_and_year(text):
     return None, None
 
 # Example usage
-quarter, year = extract_quarter_and_year("Some text before Q3 2024 - October 23, 2024 and after")
+quarter, year = extract_quarter_and_year("Q3 2021 - October 26, 2021")
 print(f"Quarter: {quarter}, Year: {year}")  # Output: Quarter: 3, Year: 2024
