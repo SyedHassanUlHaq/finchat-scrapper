@@ -85,7 +85,7 @@ def extract_date_from_text(text):
     return None
 
 # Example usage
-text = "Q2 2024 - July 23, "
+text = "Q3 2024 - January 8, 2025"
 date_str = extract_date_from_text(text)
 
 print(date_str)  # Output: "2025-01-01"
