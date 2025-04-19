@@ -9,3 +9,24 @@ JSONS/*
 __pycache__/
 .env
 venv/
+
+
+
+# Ignore Chrome user data
+**/Google/Chrome/User Data/**
+
+# Windows local app data
+%LOCALAPPDATA%/
+AppData/Local/
+AppData/Roaming/
+
+# Ignore general system files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Python related (if using Python)
+__pycache__/
+*.pyc
+.env
+.venv/
