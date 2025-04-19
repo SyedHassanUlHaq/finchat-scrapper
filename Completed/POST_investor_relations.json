@@ -670,8 +670,8 @@
         "content_type": "company_conference_transcript",
         "published_date": "2018-11-19",
         "fiscal_date": "2018-11-19",
-        "fiscal_year": 0,
-        "fiscal_quarter": 0,
+        "fiscal_year": null,
+        "fiscal_quarter": null,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/POST/2018-11-19/Post%20Holdings%2C%20Inc._2018-11-19_transcript/Post%20Holdings%2C%20Inc._2018-11-19_transcript.pdf/Post%20Holdings%2C%20Inc._2018-11-19_transcript.pdf",
         "periodicity": "non_periodic"
     },
@@ -683,8 +683,8 @@
         "content_type": "company_conference_press_release",
         "published_date": "2018-11-19",
         "fiscal_date": "2018-11-19",
-        "fiscal_year": 0,
-        "fiscal_quarter": 0,
+        "fiscal_year": null,
+        "fiscal_quarter": null,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/POST/2018-11-19/69f99-2024-04-16-02-13-29/69f99-2024-04-16-02-13-29.pdf/69f99-2024-04-16-02-13-29.pdf",
         "periodicity": "non_periodic"
     },
