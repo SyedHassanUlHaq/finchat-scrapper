@@ -9,3 +9,4 @@ JSONS/*
 __pycache__/
 .env
 venv/
+'~/*'
