@@ -1,6 +1,6 @@
 from main import scrape_event_names
 import asyncio
-
+# 3-22 % 43-47 
 lis = [("TSLA", "https://finchat.io/company/NasdaqGS-TSLA/investor-relations/", 'false'),
  ("AMZN", "https://finchat.io/company/NasdaqGS-AMZN/investor-relations/", "false"),
  ("HD", "https://finchat.io/company/NYSE-HD/investor-relations/", 'false'),
@@ -21,6 +21,11 @@ lis = [("TSLA", "https://finchat.io/company/NasdaqGS-TSLA/investor-relations/", 
  ("GM", "https://finchat.io/company/NYSE-GM/investor-relations/", "false"),
  ("ROST", "https://finchat.io/company/NasdaqGS-ROST/investor-relations/", "false"),
  ("YUM", "https://finchat.io/company/NYSE-YUM/investor-relations/", "false"),
+ ("POOL", "https://finchat.io/company/NasdaqGS-POOL/investor-relations/", "false"),
+ ("BBY", "https://finchat.io/company/NYSE-BBY/investor-relations/", "false"),
+ ("LVS", "https://finchat.io/company/NYSE-LVS/investor-relations/", "false"),
+ ("LKQ", "https://finchat.io/company/NasdaqGS-LKQ/investor-relations/", "false"),
+ ("RL", "https://finchat.io/company/NYSE-RL/investor-relations/", "false"),
  ]
 
 for i in lis:
