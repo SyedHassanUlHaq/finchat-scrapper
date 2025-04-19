@@ -20,6 +20,9 @@ import json
 import argparse
 import os
 
+from dotenv import load_dotenv
+load_dotenv()
+
 
 async def enable_stealth(page):
     """Modify navigator to evade bot detection."""
@@ -30,21 +33,39 @@ async def enable_stealth(page):
     """)
 
 
+import os
+from playwright.async_api import async_playwright
+
+import os
+from playwright.async_api import async_playwright
+
+if os.name == "nt":
+    DEFAULT_CHROME_PATH = os.path.join("C:/", "Program Files", "Google", "Chrome", "Application", "chrome.exe")
+    DEFAULT_CONFIG_PATH = r"C:\Users\Abdul Moiz Nouman\AppData\Local\Google\Chrome\User Data"
+    DEFAULT_args = ["--profile-directory=Profile 1"]
+else:
+    DEFAULT_CHROME_PATH = "/usr/bin/google-chrome"
+    DEFAULT_CONFIG_PATH = os.path.expanduser("~/.config/google-chrome")
+    DEFAULT_args = ["--profile-directory=Default"]
+
 async def scrape_event_names(ticker, url, test_run):
-    chrome_path = os.environ.get("CHROME_PATH", "/usr/bin/google-chrome")
-    user_data_dir = os.environ.get("CONFIG_PATH", os.path.expanduser("~/.config/google-chrome"))
+    chrome_path = os.environ.get("CHROME_PATH", DEFAULT_CHROME_PATH)
+    user_data_dir = os.path.expanduser(os.environ.get("CONFIG_PATH", DEFAULT_CONFIG_PATH))
+    
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
-            user_data_dir=user_data_dir,
-            headless=False,
-            executable_path=chrome_path,
-            args=["--profile-directory=Default"],
-            accept_downloads=True
-        )
+        user_data_dir=user_data_dir,
+        headless=False,
+        executable_path=chrome_path,
+        args=DEFAULT_args,
+        accept_downloads=True
+    )
         page = browser.pages[0] if browser.pages else await browser.new_page()
 
         await enable_stealth(page)
+
+
 
         try:
             url = url
