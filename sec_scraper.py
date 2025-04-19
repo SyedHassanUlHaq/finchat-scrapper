@@ -3,13 +3,9 @@ import json
 import logging
 import requests
 from sec_api import QueryApi
-from weasyprint import HTML
 from urllib.parse import urlparse
-from datetime import datetime
 from argparse import ArgumentParser
 from utils.upload_to_r2 import upload_to_r2
-from utils.get_closest_date import find_closest_date
-from utils.get_quarter_and_year import get_quarter_and_year
 
 # --- Logging setup ---
 logging.basicConfig(
@@ -24,7 +20,6 @@ logging.basicConfig(
 # --- Argument Parsing ---
 parser = ArgumentParser(description="Scrape filings from SEC API")
 parser.add_argument("ticker", type=str, help="Equity ticker to scrape filings for")
-parser.add_argument("json_path", type=str, help="Path to the JSON file containing dates")
 args = parser.parse_args()
 
 EQUITY_TICKER = args.ticker
@@ -73,31 +68,41 @@ response = queryApi.get_filings(parameters)
 
 # --- Process Filings ---
 extracted_filings = []
+quarter_cycle = [4, 3, 2, 1]  # Order of quarters (Q4 -> Q3 -> Q2 -> Q1)
+quarter_index = 0
+latest_year = None
 
 for filing in response.get("filings", []):
     try:
         form_type = filing.get("formType")
         file_url = filing.get("linkToFilingDetails")
         filed_at = filing.get("filedAt", "")[:10]
-        period_of_report = filing.get("periodOfReport")
+        period_of_report = filing.get("periodOfReport", "")[:4]  # Get year from 'YYYY-MM-DD'
+
+        if not file_url or form_type not in ["10-K", "10-Q"]:
+            continue
 
         if form_type == "10-K":
             content_type = "annual_report"
-        elif form_type == "10-Q":
-            content_type = "quarterly_report"
         else:
-            content_type = None
+            content_type = "quarterly_report"
 
-        closest_date = find_closest_date(args.json_path, period_of_report)
-        fiscal_year, fiscal_quarter = get_quarter_and_year(closest_date)
-        
-        fiscal_quarter = fiscal_quarter if content_type == "quarterly_report" else 4
-        logging.info(f"Processing {form_type} filing from {filed_at}")
-        content_name = EQUITY_TICKER + f" Q{fiscal_quarter}" + f" {fiscal_year} " + content_type
+        fiscal_quarter = quarter_cycle[quarter_index]
+
+        if fiscal_quarter == 4:
+            latest_year = int(period_of_report)
+            fiscal_year = latest_year
+        else:
+            fiscal_year = latest_year
+
+        content_name = f"{EQUITY_TICKER} Q{fiscal_quarter} {fiscal_year} {content_type}"
+        logging.info(f"Processing {form_type} filing for Q{fiscal_quarter} {fiscal_year}")
+
         file_path = download_sec_pdf(API_KEY, file_url)
         if file_path:
             r2_key = f"{EQUITY_TICKER}/{filed_at}/{os.path.basename(file_url)}"
             r2_url = upload_to_r2(file_path, r2_key, False)
+
             extracted_filings.append({
                 "equity_ticker": EQUITY_TICKER,
                 "geography": "US",
@@ -105,27 +110,27 @@ for filing in response.get("filings", []):
                 "file_type": "pdf",
                 "content_type": content_type,
                 "published_date": filed_at,
-                "fiscal_date": period_of_report,
+                "fiscal_date": filing.get("periodOfReport"),
                 "fiscal_year": fiscal_year,
                 "fiscal_quarter": fiscal_quarter,
                 "r2_url": r2_url,
                 "periodicity": "periodic",
             })
-            
-            print(extracted_filings)
+
             logging.info(f"Uploaded to R2: {r2_url}")
         else:
             logging.warning(f"Skipping upload for failed PDF: {file_url}")
+
+        # Move to next quarter (wrap after 4)
+        quarter_index = (quarter_index + 1) % len(quarter_cycle)
+
     except Exception as e:
         logging.exception(f"Error processing filing: {filing}")
 
-# --- Summary Output ---
-logging.info(f"\nExtracted {len(extracted_filings)} 10-K/10-Q filings for {EQUITY_TICKER}.")
-for filing in extracted_filings[:5]:
-    logging.debug(json.dumps(filing, indent=2))
-    
+# --- Save Output ---
 output_filename = f"JSONS/{EQUITY_TICKER}_sec_filings.json"
 try:
+    os.makedirs("JSONS", exist_ok=True)
     with open(output_filename, "w") as f:
         json.dump(extracted_filings, f, indent=2)
     logging.info(f"Saved extracted filings to {output_filename}")
