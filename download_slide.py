@@ -15,7 +15,7 @@ async def download_slide(page, event, timeout_ms=10000):
     try:
         print("Downloading slide...")
         async with page.expect_download() as download_info:
-            await page.locator('(//button[@data-testid="get-file__download-button"])[last()]').click(timeout=10000)
+            await page.locator('(//button[@data-testid="get-file__download-button"])[last()]').click(timeout=6000)
             # button = page.locator('button[data-testid="get-file__download-button"]')
             # await page.wait_for_timeout(5000)
             # if button:
