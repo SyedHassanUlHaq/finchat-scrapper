@@ -8,3 +8,4 @@ JSONS/*
 *.log
 __pycache__/
 .env
+venv/
