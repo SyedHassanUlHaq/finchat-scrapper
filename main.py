@@ -169,8 +169,8 @@ async def scrape_event_names(ticker, url, test_run):
                                 content_name = compile_content_name(content_type=content_type, equity_ticker=ticker, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             else:
                                 content_type2 = get_non_periodic_content_type(heading, f'downloads/{transcript_name}', content_type)
-                                fiscal_year = 'null'
-                                fiscal_quarter = 'null'
+                                fiscal_year = None
+                                fiscal_quarter = None
                         # content_type = "earnings_transcript"
                             pdf_type = classify_form_type_from_pdf(f'downloads/{transcript_name}')
                             r2_path = upload_to_r2(f'downloads/{transcript_name}', path, test_run=test_run)
