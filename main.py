@@ -20,6 +20,9 @@ import json
 import argparse
 import os
 
+from dotenv import load_dotenv
+load_dotenv()
+
 
 async def enable_stealth(page):
     """Modify navigator to evade bot detection."""
@@ -31,8 +34,8 @@ async def enable_stealth(page):
 
 
 async def scrape_event_names(ticker, url, test_run):
-    chrome_path = os.environ.get("CHROME_PATH", "/usr/bin/google-chrome")
-    user_data_dir = os.environ.get("CONFIG_PATH", os.path.expanduser("~/.config/google-chrome"))
+    chrome_path = os.getenv("CHROME_PATH", "/usr/bin/google-chrome")
+    user_data_dir = os.path.expanduser(os.getenv("CONFIG_PATH", '~/.config/google-chrome'))
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
