@@ -129,7 +129,7 @@ async def scrape_event_names(ticker, url, test_run):
                     await element.click()
                     # await event.click()
                     await page.wait_for_load_state("domcontentloaded")
-                    await page.wait_for_timeout(6000)
+                    await page.wait_for_timeout(7000)
                     # await asyncio.sleep(4)
                     periodicity = None
                     published_date = None
