@@ -143,7 +143,7 @@ async def scrape_event_names(ticker, url, test_run):
                         content_name = None
                         # heading = await get_transcript_text(page)
                         # print('HEADING: ', heading, '\n\n\n')
-                        content_type = await switch_tab(page, index=index) 
+                        content_type = await switch_tab(page, index=index, event=i) 
                         print(f"  [Content Type] {content_type}")                   
 
                         if content_type == "transcript":
@@ -159,7 +159,7 @@ async def scrape_event_names(ticker, url, test_run):
                             published_date = extract_date_from_text(heading)
                             print(f"  [Published Date] {published_date}")
 
-                            transcript_name = await download_transcript(page)
+                            transcript_name = await download_transcript(page, event=i)
                             file_name = remove_pdf_extension(transcript_name)
                             path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=transcript_name)
 
@@ -180,7 +180,7 @@ async def scrape_event_names(ticker, url, test_run):
                                 event = construct_event(equity_ticker=ticker, content_name=content_name, content_type=pdf_type, published_date=published_date, r2_url=r2_path, periodicity=periodicity, fiscal_date=published_date, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             all_events.append(event)
                         elif content_type == "press_release":
-                            report_name = await download_report(page)
+                            report_name = await download_report(page, event=i)
                             file_name = remove_pdf_extension(report_name)
                             
                             if content_name is None:
@@ -203,9 +203,9 @@ async def scrape_event_names(ticker, url, test_run):
                         elif content_type == "presentation":
                             await asyncio.sleep(5)
                             if index == 3:
-                                report_name = await download_slide(page)
+                                report_name = await download_slide(page, event=i)
                             else:
-                                report_name = await download_report(page)
+                                report_name = await download_report(page, event=i)
                             file_name = remove_pdf_extension(report_name)
 
                             if periodicity == 'periodic':
