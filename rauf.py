@@ -1,6 +1,6 @@
 from main import scrape_event_names
 import asyncio
-lis = [("PG", "https://finchat.io/company/NYSE-PG/investor-relations/", 'false'),
+lis = [("PG", "https://finchat.io/company/NYSE-PG/investor-relations/", 'true'),
  ("KO", "https://finchat.io/company/NYSE-KO/investor-relations/", "false"),
  ("PM", "https://finchat.io/company/NYSE-PM/investor-relations/", 'false'),
  ("PEP", "https://finchat.io/company/NasdaqGS-PEP/investor-relations/", 'false'),
