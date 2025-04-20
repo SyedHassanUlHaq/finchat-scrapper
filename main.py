@@ -21,8 +21,8 @@ import argparse
 import os
 import logging
 
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 
 async def enable_stealth(page):
@@ -32,13 +32,6 @@ async def enable_stealth(page):
             get: () => undefined
         });
     """)
-
-
-import os
-from playwright.async_api import async_playwright
-
-import os
-from playwright.async_api import async_playwright
 
 if os.name == "nt":
     DEFAULT_CHROME_PATH = os.path.join("C:/", "Program Files", "Google", "Chrome", "Application", "chrome.exe")
@@ -249,7 +242,7 @@ async def scrape_event_names(ticker, url, test_run):
                 json.dump(all_events, json_file, indent=4)
 
             print(f"JSON file has been created at {file_path}")
-            logging.error(f"{len(all_events)} out of {count} processed")
+            logging.error(f"{len(all_events)} out of {count} processed for equity {ticker}")
 
         except Exception as e:
             print(f"[Script Error] {e}")

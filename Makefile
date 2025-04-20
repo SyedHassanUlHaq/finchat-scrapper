@@ -94,3 +94,34 @@ BFA: main.py
 
 IFF: main.py
 	python3 main.py IFF https://finchat.io/company/NYSE-IFF/investor-relations/ false
+
+PM: main.py
+	python3 main.py PM https://finchat.io/company/NYSE-PM/investor-relations/ false
+
+PEP: main.py
+	python3 main.py PEP https://finchat.io/company/NasdaqGS-PEP/investor-relations/ false
+
+MO: main.py
+	python3 main.py MO https://finchat.io/company/NYSE-MO/investor-relations/ false
+
+MO_combine: combine.py
+	python3 combine.py /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/MO_sec_filings.json /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/MO_investor_relations.json -o /home/syed-hassan-ul-haq/repos/finchat-scrapper/Completed/MO_investor_relations_sec.json
+
+CVS: main.py
+	python3 main.py CVS https://finchat.io/company/NYSE-CVS/investor-relations/ false
+
+CVS_combine: combine.py
+	python3 combine.py /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/CVS_sec_filings.json /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/CVS_investor_relations.json -o /home/syed-hassan-ul-haq/repos/finchat-scrapper/Completed/CVS_investor_relations_sec.json
+
+MCK: main.py
+	python3 main.py MCK https://finchat.io/company/NYSE-MCK/investor-relations/ false
+
+MCK_combine: combine.py
+	python3 combine.py /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/MCK_sec_filings.json /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/MCK_investor_relations.json -o /home/syed-hassan-ul-haq/repos/finchat-scrapper/Completed/MCK_investor_relations_sec.json
+
+COR: main.py
+	python3 main.py COR https://finchat.io/company/NYSE-COR/investor-relations/ false
+
+COR_combine: combine.py
+	python3 combine.py /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/COR_sec_filings.json /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/COR_investor_relations.json -o /home/syed-hassan-ul-haq/repos/finchat-scrapper/Completed/COR_investor_relations_sec.json
+
