@@ -249,7 +249,7 @@ async def scrape_event_names(ticker, url, test_run):
                 json.dump(all_events, json_file, indent=4)
 
             print(f"JSON file has been created at {file_path}")
-            logging.error(f"{len(all_events)} out of {count} processed")
+            logging.error(f"{len(all_events)} out of {count} processed for equity {ticker}")
 
         except Exception as e:
             print(f"[Script Error] {e}")
