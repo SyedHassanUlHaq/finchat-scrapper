@@ -43,7 +43,7 @@ lis = [
     #    ("TSCO", "https://finchat.io/company/NasdaqGS-TSCO/investor-relations/", "false"),
     #    ("LEN", "https://finchat.io/company/NYSE-LEN/investor-relations/", "false"),
     #    ("DRI", "https://finchat.io/company/NYSE-DRI/investor-relations/", "false"),
-    #    ("NVR", "https://finchat.io/company/NYSE-NVR/investor-relations/", "false"),
+         ("NVR", "https://finchat.io/company/NYSE-NVR/investor-relations/", "false"),
     #    ("PHM", "https://finchat.io/company/NYSE-PHM/investor-relations/", "false"),
     #    ("CCL", "https://finchat.io/company/NYSE-CCL/investor-relations/", "false"),
     #    ("WSM", "https://finchat.io/company/NYSE-WSM/investor-relations/", "false"),
@@ -57,13 +57,40 @@ lis = [
     #    ("KMX", "https://finchat.io/company/NYSE-KMX/investor-relations/", "false"),
 
 
-        #48-52
+        #48-53
         ("NCLH", "https://finchat.io/company/NYSE-NCLH/investor-relations/", "false"),
         ("HAS", "https://finchat.io/company/NasdaqGS-HAS/investor-relations/", "false"),
         ("WYNN", "https://finchat.io/company/NasdaqGS-WYNN/investor-relations/", "false"),
         ("MGM", "https://finchat.io/company/NYSE-MGM/investor-relations/", "false"),
         ("MHK", "https://finchat.io/company/NYSE-MHK/investor-relations/", "false")
+        ("CZR", "https://finchat.io/company/NasdaqGS-CZR/investor-relations/", "false")
 
+
+        #160-183
+        ("VRSN", "https://finchat.io/company/NasdaqGS-VRSN/investor-relations/", "false"),
+        ("MCHP", "https://finchat.io/company/NasdaqGS-MCHP/investor-relations/", "false"),
+        ("ZM", "https://finchat.io/company/NasdaqGS-ZM/investor-relations/", "false"),
+        ("ZS", "https://finchat.io/company/NasdaqGS-ZS/investor-relations/", "false"),
+        ("HPE", "https://finchat.io/company/NYSE-HPE/investor-relations/", "false"),
+        ("PTC", "", "false"),
+        ("SMCI", "", "false"),
+        ("NTAP", "", "false"),
+        ("OKTA", "", "false"),
+        ("PINS", "", "false"),
+        ("NTNX", "", "false"),
+        ("GWRE", "", "false"),
+        ("DOCU", "", "false"),
+        ("FFIV", "", "false"),
+        ("TOST", "", "false"),
+        ("ON", "", "false"),
+        ("JBL", "", "false"),
+        ("GEN", "", "false"),
+        ("TWLO", "", "false"),
+        ("DT", "", "false"),
+        ("PSTG", "", "false"),
+        ("WDC", "", "false"),
+        ("TER", "", "false"),
+        ("MDB", "", "false"),
        ]
 
 for i in lis:
