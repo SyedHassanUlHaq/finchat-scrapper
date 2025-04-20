@@ -9,7 +9,7 @@
     "fiscal_date": "2025-02-28",
     "fiscal_year": 2025,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2025-03-25/ccl-20250228.htm%5Cccl-20250228.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2025-03-25/ccl-20250228.htm/ccl-20250228.pdf",
     "periodicity": "periodic"
   },
   {
@@ -22,7 +22,7 @@
     "fiscal_date": "2024-11-30",
     "fiscal_year": 2024,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2025-01-27/ccl-20241130.htm%5Cccl-20241130.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2025-01-27/ccl-20241130.htm/ccl-20241130.pdf",
     "periodicity": "periodic"
   },
   {
@@ -35,7 +35,7 @@
     "fiscal_date": "2024-08-31",
     "fiscal_year": 2024,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2024-09-30/ccl-20240831.htm%5Cccl-20240831.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2024-09-30/ccl-20240831.htm/ccl-20240831.pdf",
     "periodicity": "periodic"
   },
   {
@@ -48,7 +48,7 @@
     "fiscal_date": "2024-05-31",
     "fiscal_year": 2024,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2024-06-27/ccl-20240531.htm%5Cccl-20240531.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2024-06-27/ccl-20240531.htm/ccl-20240531.pdf",
     "periodicity": "periodic"
   },
   {
@@ -61,7 +61,7 @@
     "fiscal_date": "2024-02-29",
     "fiscal_year": 2024,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2024-03-27/ccl-20240229.htm%5Cccl-20240229.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2024-03-27/ccl-20240229.htm/ccl-20240229.pdf",
     "periodicity": "periodic"
   },
   {
@@ -74,7 +74,7 @@
     "fiscal_date": "2023-11-30",
     "fiscal_year": 2023,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2024-01-26/ccl-20231130.htm%5Cccl-20231130.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2024-01-26/ccl-20231130.htm/ccl-20231130.pdf",
     "periodicity": "periodic"
   },
   {
@@ -87,7 +87,7 @@
     "fiscal_date": "2023-08-31",
     "fiscal_year": 2023,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2023-09-29/ccl-20230831.htm%5Cccl-20230831.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2023-09-29/ccl-20230831.htm/ccl-20230831.pdf",
     "periodicity": "periodic"
   },
   {
@@ -100,7 +100,7 @@
     "fiscal_date": "2023-05-31",
     "fiscal_year": 2023,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2023-06-28/ccl-20230531.htm%5Cccl-20230531.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2023-06-28/ccl-20230531.htm/ccl-20230531.pdf",
     "periodicity": "periodic"
   },
   {
@@ -113,7 +113,7 @@
     "fiscal_date": "2023-02-28",
     "fiscal_year": 2023,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2023-03-29/ccl-20230228.htm%5Cccl-20230228.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2023-03-29/ccl-20230228.htm/ccl-20230228.pdf",
     "periodicity": "periodic"
   },
   {
@@ -126,7 +126,7 @@
     "fiscal_date": "2022-11-30",
     "fiscal_year": 2022,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2023-01-27/ccl-20221130.htm%5Cccl-20221130.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2023-01-27/ccl-20221130.htm/ccl-20221130.pdf",
     "periodicity": "periodic"
   },
   {
@@ -139,7 +139,7 @@
     "fiscal_date": "2022-08-31",
     "fiscal_year": 2022,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2022-09-30/ccl-20220831.htm%5Cccl-20220831.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2022-09-30/ccl-20220831.htm/ccl-20220831.pdf",
     "periodicity": "periodic"
   },
   {
@@ -152,7 +152,7 @@
     "fiscal_date": "2022-05-31",
     "fiscal_year": 2022,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2022-06-29/ccl-20220531.htm%5Cccl-20220531.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2022-06-29/ccl-20220531.htm/ccl-20220531.pdf",
     "periodicity": "periodic"
   },
   {
@@ -165,7 +165,7 @@
     "fiscal_date": "2022-02-28",
     "fiscal_year": 2022,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2022-03-28/ccl-20220228.htm%5Cccl-20220228.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2022-03-28/ccl-20220228.htm/ccl-20220228.pdf",
     "periodicity": "periodic"
   },
   {
@@ -178,7 +178,7 @@
     "fiscal_date": "2021-11-30",
     "fiscal_year": 2021,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2022-01-27/ccl-20211130.htm%5Cccl-20211130.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2022-01-27/ccl-20211130.htm/ccl-20211130.pdf",
     "periodicity": "periodic"
   },
   {
@@ -191,7 +191,7 @@
     "fiscal_date": "2021-08-31",
     "fiscal_year": 2021,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2021-09-30/ccl-20210831.htm%5Cccl-20210831.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2021-09-30/ccl-20210831.htm/ccl-20210831.pdf",
     "periodicity": "periodic"
   },
   {
@@ -204,7 +204,7 @@
     "fiscal_date": "2021-05-31",
     "fiscal_year": 2021,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2021-06-28/ccl-20210531.htm%5Cccl-20210531.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2021-06-28/ccl-20210531.htm/ccl-20210531.pdf",
     "periodicity": "periodic"
   },
   {
@@ -217,7 +217,7 @@
     "fiscal_date": "2021-02-28",
     "fiscal_year": 2021,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2021-04-07/ccl-20210228.htm%5Cccl-20210228.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2021-04-07/ccl-20210228.htm/ccl-20210228.pdf",
     "periodicity": "periodic"
   },
   {
@@ -230,7 +230,7 @@
     "fiscal_date": "2020-11-30",
     "fiscal_year": 2020,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2021-01-26/ccl-20201130.htm%5Cccl-20201130.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2021-01-26/ccl-20201130.htm/ccl-20201130.pdf",
     "periodicity": "periodic"
   },
   {
@@ -243,7 +243,7 @@
     "fiscal_date": "2020-08-31",
     "fiscal_year": 2020,
     "fiscal_quarter": 3,
-    "r2_url": null,
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2020-10-08/ccl-20200831.htm/ix.pdf",
     "periodicity": "periodic"
   },
   {
@@ -256,7 +256,7 @@
     "fiscal_date": "2020-05-31",
     "fiscal_year": 2020,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2020-07-10/ccl-20200531.htm%5Cix.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2020-07-10/ccl-20200531.htm/ix.pdf",
     "periodicity": "periodic"
   },
   {
@@ -269,7 +269,7 @@
     "fiscal_date": "2020-02-29",
     "fiscal_year": 2020,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2020-04-03/ccl-20200229.htm%5Cix.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2020-04-03/ccl-20200229.htm/ix.pdf",
     "periodicity": "periodic"
   },
   {
@@ -282,7 +282,7 @@
     "fiscal_date": "2019-11-30",
     "fiscal_year": 2019,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2020-01-28/a2019form10-kfrontpart.htm%5Cix.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2020-01-28/a2019form10-kfrontpart.htm/ix.pdf",
     "periodicity": "periodic"
   },
   {
@@ -295,7 +295,7 @@
     "fiscal_date": "2019-08-31",
     "fiscal_year": 2019,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2019-09-26/a3q201910-q.htm%5Cix.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2019-09-26/a3q201910-q.htm/ix.pdf",
     "periodicity": "periodic"
   },
   {
@@ -308,7 +308,7 @@
     "fiscal_date": "2019-05-31",
     "fiscal_year": 2019,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2019-06-24/a2q201910-q.htm%5Ca2q201910-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2019-06-24/a2q201910-q.htm/a2q201910-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -321,7 +321,7 @@
     "fiscal_date": "2019-02-28",
     "fiscal_year": 2019,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2019-04-09/a1q201910-q.htm%5Ca1q201910-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2019-04-09/a1q201910-q.htm/a1q201910-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -334,7 +334,7 @@
     "fiscal_date": "2018-11-30",
     "fiscal_year": 2018,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2019-01-28/a2018form10-kfrontpart.htm%5Ca2018form10-kfrontpart.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2019-01-28/a2018form10-kfrontpart.htm/a2018form10-kfrontpart.pdf",
     "periodicity": "periodic"
   },
   {
@@ -347,7 +347,7 @@
     "fiscal_date": "2018-08-31",
     "fiscal_year": 2018,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2018-09-27/a3q10-q.htm%5Ca3q10-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2018-09-27/a3q10-q.htm/a3q10-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -360,7 +360,7 @@
     "fiscal_date": "2018-05-31",
     "fiscal_year": 2018,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2018-06-25/q2201810-q.htm%5Cq2201810-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2018-06-25/q2201810-q.htm/q2201810-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -373,7 +373,7 @@
     "fiscal_date": "2018-02-28",
     "fiscal_year": 2018,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2018-03-22/q1201810-q.htm%5Cq1201810-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2018-03-22/q1201810-q.htm/q1201810-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -386,7 +386,7 @@
     "fiscal_date": "2017-11-30",
     "fiscal_year": 2017,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2018-01-29/a2017form10-kfrontpart.htm%5Ca2017form10-kfrontpart.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2018-01-29/a2017form10-kfrontpart.htm/a2017form10-kfrontpart.pdf",
     "periodicity": "periodic"
   },
   {
@@ -399,7 +399,7 @@
     "fiscal_date": "2017-08-31",
     "fiscal_year": 2017,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2017-09-29/q3201710-q.htm%5Cq3201710-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2017-09-29/q3201710-q.htm/q3201710-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -412,7 +412,7 @@
     "fiscal_date": "2017-05-31",
     "fiscal_year": 2017,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2017-06-30/q2201710-q.htm%5Cq2201710-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2017-06-30/q2201710-q.htm/q2201710-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -425,7 +425,7 @@
     "fiscal_date": "2017-02-28",
     "fiscal_year": 2017,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2017-03-30/q1201710-q.htm%5Cq1201710-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2017-03-30/q1201710-q.htm/q1201710-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -438,7 +438,7 @@
     "fiscal_date": "2016-11-30",
     "fiscal_year": 2016,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2017-01-30/a2016form10-kfrontpart.htm%5Ca2016form10-kfrontpart.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2017-01-30/a2016form10-kfrontpart.htm/a2016form10-kfrontpart.pdf",
     "periodicity": "periodic"
   },
   {
@@ -451,7 +451,7 @@
     "fiscal_date": "2016-08-31",
     "fiscal_year": 2016,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2016-09-30/q3201610-q.htm%5Cq3201610-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2016-09-30/q3201610-q.htm/q3201610-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -464,7 +464,7 @@
     "fiscal_date": "2016-05-31",
     "fiscal_year": 2016,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2016-07-01/q2201610-q.htm%5Cq2201610-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2016-07-01/q2201610-q.htm/q2201610-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -477,7 +477,7 @@
     "fiscal_date": "2016-02-29",
     "fiscal_year": 2016,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2016-03-31/q1201610-q.htm%5Cq1201610-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2016-03-31/q1201610-q.htm/q1201610-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -490,7 +490,7 @@
     "fiscal_date": "2015-11-30",
     "fiscal_year": 2015,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2016-01-29/a2015form10-kfrontpart.htm%5Ca2015form10-kfrontpart.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2016-01-29/a2015form10-kfrontpart.htm/a2015form10-kfrontpart.pdf",
     "periodicity": "periodic"
   },
   {
@@ -503,7 +503,7 @@
     "fiscal_date": "2015-08-31",
     "fiscal_year": 2015,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2015-10-02/a2015q310-q.htm%5Ca2015q310-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2015-10-02/a2015q310-q.htm/a2015q310-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -516,7 +516,7 @@
     "fiscal_date": "2015-05-31",
     "fiscal_year": 2015,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2015-07-01/a2015q210-q.htm%5Ca2015q210-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2015-07-01/a2015q210-q.htm/a2015q210-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -529,7 +529,7 @@
     "fiscal_date": "2015-02-28",
     "fiscal_year": 2015,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2015-04-02/a2015q110-q.htm%5Ca2015q110-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2015-04-02/a2015q110-q.htm/a2015q110-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -542,7 +542,7 @@
     "fiscal_date": "2014-11-30",
     "fiscal_year": 2014,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2015-01-29/a2014form10-kfrontpart.htm%5Ca2014form10-kfrontpart.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2015-01-29/a2014form10-kfrontpart.htm/a2014form10-kfrontpart.pdf",
     "periodicity": "periodic"
   },
   {
@@ -555,7 +555,7 @@
     "fiscal_date": "2014-08-31",
     "fiscal_year": 2014,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2014-10-03/a2014q310-q.htm%5Ca2014q310-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2014-10-03/a2014q310-q.htm/a2014q310-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -568,7 +568,7 @@
     "fiscal_date": "2014-05-31",
     "fiscal_year": 2014,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2014-07-02/d739153d10q.htm%5Cd739153d10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2014-07-02/d739153d10q.htm/d739153d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -581,7 +581,7 @@
     "fiscal_date": "2014-02-28",
     "fiscal_year": 2014,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2014-04-02/d698582d10q.htm%5Cd698582d10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2014-04-02/d698582d10q.htm/d698582d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -594,7 +594,7 @@
     "fiscal_date": "2013-11-30",
     "fiscal_year": 2013,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2014-01-29/d645418d10k.htm%5Cd645418d10k.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2014-01-29/d645418d10k.htm/d645418d10k.pdf",
     "periodicity": "periodic"
   },
   {
@@ -607,7 +607,7 @@
     "fiscal_date": "2013-08-31",
     "fiscal_year": 2013,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2013-10-03/d603807d10q.htm%5Cd603807d10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2013-10-03/d603807d10q.htm/d603807d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -620,7 +620,7 @@
     "fiscal_date": "2013-05-31",
     "fiscal_year": 2013,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2013-07-02/d561258d10q.htm%5Cd561258d10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2013-07-02/d561258d10q.htm/d561258d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -633,7 +633,7 @@
     "fiscal_date": "2013-02-28",
     "fiscal_year": 2013,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2013-04-03/d476018d10q.htm%5Cd476018d10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2013-04-03/d476018d10q.htm/d476018d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -646,7 +646,7 @@
     "fiscal_date": "2012-11-30",
     "fiscal_year": 2012,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2013-01-29/d387954d10k.htm%5Cd387954d10k.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2013-01-29/d387954d10k.htm/d387954d10k.pdf",
     "periodicity": "periodic"
   },
   {
@@ -659,7 +659,7 @@
     "fiscal_date": "2012-08-31",
     "fiscal_year": 2012,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2012-10-05/d382688d10q.htm%5Cd382688d10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2012-10-05/d382688d10q.htm/d382688d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -672,7 +672,7 @@
     "fiscal_date": "2012-05-31",
     "fiscal_year": 2012,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2012-07-02/d334963d10q.htm%5Cd334963d10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2012-07-02/d334963d10q.htm/d334963d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -685,7 +685,7 @@
     "fiscal_date": "2012-02-29",
     "fiscal_year": 2012,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2012-03-30/d308899d10q.htm%5Cd308899d10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2012-03-30/d308899d10q.htm/d308899d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -698,7 +698,7 @@
     "fiscal_date": "2011-08-31",
     "fiscal_year": 2011,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2011-09-30/d225963d10q.htm%5Cd225963d10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2011-09-30/d225963d10q.htm/d225963d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -708,10 +708,10 @@
     "file_type": "pdf",
     "content_type": "quarterly_report",
     "published_date": "2011-07-01",
-    "fiscal_date": null,
+    "fiscal_date": "2011-05-31",
     "fiscal_year": 2011,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2011-07-01/d10q.htm%5Cd10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2011-07-01/d10q.htm/d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -721,10 +721,10 @@
     "file_type": "pdf",
     "content_type": "quarterly_report",
     "published_date": "2011-04-01",
-    "fiscal_date": null,
+    "fiscal_date": "2021-02-28",
     "fiscal_year": 2011,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2011-04-01/d10q.htm%5Cd10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2011-04-01/d10q.htm/d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -737,7 +737,7 @@
     "fiscal_date": "2010-11-30",
     "fiscal_year": 2011,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2011-01-31/d10k.htm%5Cd10k.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2011-01-31/d10k.htm/d10k.pdf",
     "periodicity": "periodic"
   },
   {
@@ -750,7 +750,7 @@
     "fiscal_date": "2010-08-31",
     "fiscal_year": 2010,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2010-10-01/d10q.htm%5Cd10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2010-10-01/d10q.htm/d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -763,7 +763,7 @@
     "fiscal_date": "2010-05-31",
     "fiscal_year": 2010,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2010-07-01/d10q.htm%5Cd10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2010-07-01/d10q.htm/d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -776,7 +776,7 @@
     "fiscal_date": "2010-02-28",
     "fiscal_year": 2010,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2010-04-01/d10q.htm%5Cd10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2010-04-01/d10q.htm/d10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -789,7 +789,7 @@
     "fiscal_date": "2009-11-30",
     "fiscal_year": 2010,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2010-01-29/d10k.htm%5Cd10k.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2010-01-29/d10k.htm/d10k.pdf",
     "periodicity": "periodic"
   },
   {
@@ -802,7 +802,7 @@
     "fiscal_date": "2004-05-31",
     "fiscal_year": 2004,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2004-07-14/d60096_10q.txt%5Cd60096_10q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2004-07-14/d60096_10q.txt/d60096_10q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -812,10 +812,10 @@
     "file_type": "pdf",
     "content_type": "quarterly_report",
     "published_date": "2004-04-08",
-    "fiscal_date": null,
+    "fiscal_date": "2004-02-29",
     "fiscal_year": 2004,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2004-04-08/d59187_10-q.txt%5Cd59187_10-q.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2004-04-08/d59187_10-q.txt/d59187_10-q.pdf",
     "periodicity": "periodic"
   },
   {
@@ -825,10 +825,10 @@
     "file_type": "pdf",
     "content_type": "annual_report",
     "published_date": "2004-02-25",
-    "fiscal_date": null,
+    "fiscal_date": "2003-11-30",
     "fiscal_year": 2004,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2004-02-25/d58480_10-k.txt%5Cd58480_10-k.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2004-02-25/d58480_10-k.txt/d58480_10-k.pdf",
     "periodicity": "periodic"
   },
   {
@@ -841,7 +841,7 @@
     "fiscal_date": "2003-08-31",
     "fiscal_year": 2004,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2003-10-15/form10q_083103.txt%5Cform10q_083103.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2003-10-15/form10q_083103.txt/form10q_083103.pdf",
     "periodicity": "periodic"
   },
   {
@@ -854,7 +854,7 @@
     "fiscal_date": "2003-05-31",
     "fiscal_year": 2003,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2003-07-15/form10q_may03.txt%5Cform10q_may03.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2003-07-15/form10q_may03.txt/form10q_may03.pdf",
     "periodicity": "periodic"
   },
   {
@@ -867,7 +867,7 @@
     "fiscal_date": "2003-02-28",
     "fiscal_year": 2003,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2003-04-14/feb-10q_1q03.txt%5Cfeb-10q_1q03.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2003-04-14/feb-10q_1q03.txt/feb-10q_1q03.pdf",
     "periodicity": "periodic"
   },
   {
@@ -880,7 +880,7 @@
     "fiscal_date": "2002-11-30",
     "fiscal_year": 2003,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2003-02-18/nov02_10k.txt%5Cnov02_10k.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2003-02-18/nov02_10k.txt/nov02_10k.pdf",
     "periodicity": "periodic"
   },
   {
@@ -893,7 +893,7 @@
     "fiscal_date": "2002-08-31",
     "fiscal_year": 2003,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2002-10-15/aug-10q_3q02.txt%5Caug-10q_3q02.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2002-10-15/aug-10q_3q02.txt/aug-10q_3q02.pdf",
     "periodicity": "periodic"
   },
   {
@@ -906,7 +906,7 @@
     "fiscal_date": "2002-05-31",
     "fiscal_year": 2002,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2002-07-11/may-10q_2q02.txt%5Cmay-10q_2q02.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2002-07-11/may-10q_2q02.txt/may-10q_2q02.pdf",
     "periodicity": "periodic"
   },
   {
@@ -919,7 +919,7 @@
     "fiscal_date": "2002-02-28",
     "fiscal_year": 2002,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2002-04-11/feb-10q_1q02.txt%5Cfeb-10q_1q02.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2002-04-11/feb-10q_1q02.txt/feb-10q_1q02.pdf",
     "periodicity": "periodic"
   },
   {
@@ -932,7 +932,7 @@
     "fiscal_date": "2001-11-30",
     "fiscal_year": 2002,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2002-02-28/nov-10k_fy2001.txt%5Cnov-10k_fy2001.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2002-02-28/nov-10k_fy2001.txt/nov-10k_fy2001.pdf",
     "periodicity": "periodic"
   },
   {
@@ -945,7 +945,7 @@
     "fiscal_date": "2001-08-31",
     "fiscal_year": 2002,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2001-09-28/aug-10q_3q01.txt%5Caug-10q_3q01.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2001-09-28/aug-10q_3q01.txt/aug-10q_3q01.pdf",
     "periodicity": "periodic"
   },
   {
@@ -958,7 +958,7 @@
     "fiscal_date": "2001-05-31",
     "fiscal_year": 2001,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2001-07-13/may-10q_2q01.txt%5Cmay-10q_2q01.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2001-07-13/may-10q_2q01.txt/may-10q_2q01.pdf",
     "periodicity": "periodic"
   },
   {
@@ -971,7 +971,7 @@
     "fiscal_date": "2001-02-28",
     "fiscal_year": 2001,
     "fiscal_quarter": 3,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2001-04-16/0000815097-01-000004-0001.txt%5C0000815097-01-000004-0001.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2001-04-16/0000815097-01-000004-0001.txt/0000815097-01-000004-0001.pdf",
     "periodicity": "periodic"
   },
   {
@@ -984,7 +984,7 @@
     "fiscal_date": "2000-11-30",
     "fiscal_year": 2001,
     "fiscal_quarter": 2,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2001-02-28/0000815097-01-000003-0001.txt%5C0000815097-01-000003-0001.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2001-02-28/0000815097-01-000003-0001.txt/0000815097-01-000003-0001.pdf",
     "periodicity": "periodic"
   },
   {
@@ -997,7 +997,7 @@
     "fiscal_date": "2000-08-31",
     "fiscal_year": 2001,
     "fiscal_quarter": 1,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2000-10-13/0000815097-00-000004-0001.txt%5C0000815097-00-000004-0001.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2000-10-13/0000815097-00-000004-0001.txt/0000815097-00-000004-0001.pdf",
     "periodicity": "periodic"
   },
   {
@@ -1010,7 +1010,7 @@
     "fiscal_date": "2000-05-31",
     "fiscal_year": 2000,
     "fiscal_quarter": 4,
-    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2000-07-17/0000815097-00-000003-0001.txt%5C0000815097-00-000003-0001.pdf",
+    "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CCL/2000-07-17/0000815097-00-000003-0001.txt/0000815097-00-000003-0001.pdf",
     "periodicity": "periodic"
   },
   {

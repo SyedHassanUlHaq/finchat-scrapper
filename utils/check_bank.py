@@ -2,7 +2,7 @@ import re
 
 def check_bank(text):
     # Define the regular expression pattern to match any of the specified bank names
-    pattern = r'\b(morgan stanley|barclays|ubs|deutsche bank|j\.?p\.?\s?morgan|jpmorgan|goldman sachs|gs|bank of america|boa|bofa|citi|citigroup|bank of shanghai|shanghai pudong development bank|raymond james|oppenheimer|ubs global|td cowen)\b'
+    pattern = r'\b(morgan stanley|barclays|ubs|deutsche bank|j\.?p\.?\s?morgan|jpmorgan|goldman sachs|gs|bank of america|boa|bofa|citi|citigroup|bank of shanghai|shanghai pudong development bank|raymond james|oppenheimer|ubs global|td cowen|BofA Securities|bofa|wells fargo|fargo|scotiabank)\b'
 
 
     # Search for the pattern in the text, ignoring case
