@@ -6,7 +6,7 @@ def check_bank(text):
 
 
 
-    # Search for the pattern in the text, ignoring case
+    # Search for the p  attern in the text, ignoring case
     return bool(re.search(pattern, text, re.IGNORECASE))
 
 # Example usage
