@@ -20,16 +20,9 @@ import json
 import argparse
 import os
 import logging
-<<<<<<< HEAD
-import os
-import os
-from dotenv import load_dotenv
-load_dotenv()
-=======
 
 # from dotenv import load_dotenv
 # load_dotenv()
->>>>>>> f9e2283fd5854521ba9a4852cba7e69bb53851b0
 
 
 async def enable_stealth(page):
