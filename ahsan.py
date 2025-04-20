@@ -1,12 +1,7 @@
 from main import scrape_event_names
 import asyncio
 # 3-22 % 43-47 
-lis = [("TSLA", "https://finchat.io/company/NasdaqGS-TSLA/investor-relations/", 'false'),
- ("AMZN", "https://finchat.io/company/NasdaqGS-AMZN/investor-relations/", "false"),
- ("HD", "https://finchat.io/company/NYSE-HD/investor-relations/", 'false'),
- ("MCD", "https://finchat.io/company/NYSE-MCD/investor-relations/", 'false'),
- ("BKNG", "https://finchat.io/company/NasdaqGS-BKNG/investor-relations/", 'false'),
- ("TJX", "https://finchat.io/company/NYSE-TJX/investor-relations/", "false"),
+lis = [("TJX", "https://finchat.io/company/NYSE-TJX/investor-relations/", "false"),
  ("LOW", 'https://finchat.io/company/NYSE-TJX/investor-relations/', 'false'),
  ("SBUX", "https://finchat.io/company/NasdaqGS-SBUX/investor-relations/", 'false'),
  ("ORLY", "https://finchat.io/company/NasdaqGS-ORLY/investor-relations/", 'false'),
