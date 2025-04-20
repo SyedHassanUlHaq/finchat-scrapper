@@ -126,7 +126,13 @@ for filing in response.get("filings", []):
         file_path = download_sec_pdf(API_KEY, file_url)
         if file_path:
             r2_key = f"{EQUITY_TICKER}/{filed_at}/{os.path.basename(file_url)}"
-            r2_url = upload_to_r2(file_path, r2_key, False)
+            count = 0
+            while count < 3:
+                r2_url = upload_to_r2(file_path, r2_key, False)
+                if r2_url is not None:
+                    break
+                count += 1
+                print('retrying uplaoding to r2:', str(count + 1))
 
             extracted_filings.append({
                 "equity_ticker": EQUITY_TICKER,
