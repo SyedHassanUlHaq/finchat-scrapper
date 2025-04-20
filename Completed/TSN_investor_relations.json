@@ -85,8 +85,8 @@
         "content_type": "sellside_conference_transcript",
         "published_date": "2024-09-05",
         "fiscal_date": "2024-09-05",
-        "fiscal_year": 0,
-        "fiscal_quarter": 0,
+        "fiscal_year": null,
+        "fiscal_quarter": null,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TSN/2024-09-05/Tyson%20Foods%2C%20Inc._2024-09-05_transcript/Tyson%20Foods%2C%20Inc._2024-09-05_transcript.pdf/Tyson%20Foods%2C%20Inc._2024-09-05_transcript.pdf",
         "periodicity": "non_periodic"
     },
@@ -137,8 +137,8 @@
         "content_type": "company_conference_transcript",
         "published_date": "2024-05-15",
         "fiscal_date": "2024-05-15",
-        "fiscal_year": 0,
-        "fiscal_quarter": 0,
+        "fiscal_year": null,
+        "fiscal_quarter": null,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TSN/2024-05-15/Tyson%20Foods%2C%20Inc._2024-05-15_transcript/Tyson%20Foods%2C%20Inc._2024-05-15_transcript.pdf/Tyson%20Foods%2C%20Inc._2024-05-15_transcript.pdf",
         "periodicity": "non_periodic"
     },
@@ -267,8 +267,8 @@
         "content_type": "sellside_conference_transcript",
         "published_date": "2023-09-07",
         "fiscal_date": "2023-09-07",
-        "fiscal_year": 0,
-        "fiscal_quarter": 0,
+        "fiscal_year": null,
+        "fiscal_quarter": null,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TSN/2023-09-07/Tyson%20Foods%2C%20Inc._2023-09-07_transcript/Tyson%20Foods%2C%20Inc._2023-09-07_transcript.pdf/Tyson%20Foods%2C%20Inc._2023-09-07_transcript.pdf",
         "periodicity": "non_periodic"
     },
@@ -553,8 +553,8 @@
         "content_type": "company_conference_transcript",
         "published_date": "2021-12-09",
         "fiscal_date": "2021-12-09",
-        "fiscal_year": 0,
-        "fiscal_quarter": 0,
+        "fiscal_year": null,
+        "fiscal_quarter": null,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TSN/2021-12-09/Tyson%20Foods%2C%20Inc._2021-12-09_transcript/Tyson%20Foods%2C%20Inc._2021-12-09_transcript.pdf/Tyson%20Foods%2C%20Inc._2021-12-09_transcript.pdf",
         "periodicity": "non_periodic"
     },
