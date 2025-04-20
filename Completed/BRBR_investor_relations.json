@@ -618,8 +618,8 @@
         "content_type": "company_conference_transcript",
         "published_date": "2021-03-03",
         "fiscal_date": "2021-03-03",
-        "fiscal_year": 0,
-        "fiscal_quarter": 0,
+        "fiscal_year": null,
+        "fiscal_quarter": null,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/BRBR/2021-03-03/BellRing%20Brands%2C%20Inc._2021-03-03_transcript/BellRing%20Brands%2C%20Inc._2021-03-03_transcript.pdf/BellRing%20Brands%2C%20Inc._2021-03-03_transcript.pdf",
         "periodicity": "non_periodic"
     },
