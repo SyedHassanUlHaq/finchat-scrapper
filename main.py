@@ -20,10 +20,16 @@ import json
 import argparse
 import os
 import logging
+<<<<<<< HEAD
 import os
 import os
 from dotenv import load_dotenv
 load_dotenv()
+=======
+
+# from dotenv import load_dotenv
+# load_dotenv()
+>>>>>>> f9e2283fd5854521ba9a4852cba7e69bb53851b0
 
 
 async def enable_stealth(page):
@@ -123,7 +129,7 @@ async def scrape_event_names(ticker, url, test_run):
                     await element.click()
                     # await event.click()
                     await page.wait_for_load_state("domcontentloaded")
-                    await page.wait_for_timeout(10000)
+                    await page.wait_for_timeout(7000)
                     # await asyncio.sleep(4)
                     periodicity = None
                     published_date = None
@@ -135,22 +141,26 @@ async def scrape_event_names(ticker, url, test_run):
                     print(f"total tabs in event {i}:", total_tabs)
                     for index in range(1, total_tabs + 1):
                         content_name = None
-                        # heading = await get_transcript_text(page)
+                        if index == 1:
+                            heading = await get_transcript_text(page)
+                            periodicity = get_periodic_from_text(heading)
+                            published_date = extract_date_from_text(heading)
+                            
                         # print('HEADING: ', heading, '\n\n\n')
                         content_type = await switch_tab(page, index=index, event=i) 
                         print(f"  [Content Type] {content_type}")                   
 
                         if content_type == "transcript":
-                            heading = await get_transcript_text(page)
+                            # heading = await get_transcript_text(page)
                             if not heading:
                                 print("  [Skipped] No heading found.")
                                 continue
 
                             content_name = heading
 
+                            # periodicity = get_periodic_from_text(heading)
+                            # published_date = extract_date_from_text(heading)
 
-                            periodicity = get_periodic_from_text(heading)
-                            published_date = extract_date_from_text(heading)
                             print(f"  [Published Date] {published_date}")
 
                             transcript_name = await download_transcript(page, event=i)
@@ -239,7 +249,7 @@ async def scrape_event_names(ticker, url, test_run):
                 json.dump(all_events, json_file, indent=4)
 
             print(f"JSON file has been created at {file_path}")
-            logging.error(f"{len(all_events)} out of {count} processed")
+            logging.error(f"{len(all_events)} out of {count} processed for equity {ticker}")
 
         except Exception as e:
             print(f"[Script Error] {e}")

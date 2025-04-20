@@ -72,6 +72,31 @@ quarter_cycle = [4, 3, 2, 1]  # Order of quarters (Q4 -> Q3 -> Q2 -> Q1)
 quarter_index = 0
 latest_year = None
 
+def find_first_10k_index(filings):
+    for index in range(len(filings)):
+        if filings[index]['formType'] == '10-K':
+            return index, int(filings[index].get("periodOfReport", "")[:4])
+    return -1  # Return -1 if no 10-K form type is found
+
+def map_value(value):
+    if value == 0:
+        return 0
+    elif value == 1:
+        return 3
+    elif value == 2:
+        return 2
+    elif value == 3:
+        return 1
+    else:
+        return 0  # Return None or raise an error for unexpected values
+
+fils = response.get("filings", [])
+ind, latest_year = find_first_10k_index(fils)
+quarter_index = map_value(ind)
+if ind != 0:
+    latest_year = latest_year + 1
+
+
 for filing in response.get("filings", []):
     try:
         form_type = filing.get("formType")
@@ -95,13 +120,19 @@ for filing in response.get("filings", []):
         else:
             fiscal_year = latest_year
 
-        content_name = f"{EQUITY_TICKER} Q{fiscal_quarter} {fiscal_year} {content_type}"
+        content_name = f"{EQUITY_TICKER} Q{fiscal_quarter} {fiscal_year} {form_type}"
         logging.info(f"Processing {form_type} filing for Q{fiscal_quarter} {fiscal_year}")
 
         file_path = download_sec_pdf(API_KEY, file_url)
         if file_path:
             r2_key = f"{EQUITY_TICKER}/{filed_at}/{os.path.basename(file_url)}"
-            r2_url = upload_to_r2(file_path, r2_key, False)
+            count = 0
+            while count < 3:
+                r2_url = upload_to_r2(file_path, r2_key, False)
+                if r2_url is not None:
+                    break
+                count += 1
+                print('retrying uplaoding to r2:', str(count + 1))
 
             extracted_filings.append({
                 "equity_ticker": EQUITY_TICKER,
