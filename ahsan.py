@@ -1,8 +1,7 @@
 from main import scrape_event_names
 import asyncio
 # 3-22 % 43-47 
-lis = [("ARW", "https://finchat.io/company/NYSE-ARW/investor-relations/", "false"),
- ("QRVO", "https://finchat.io/company/NasdaqGS-QRVO/investor-relations/", "false"),
+lis = [("NXPI", "https://finchat.io/company/NasdaqGS-NXPI/investor-relations/", "false"),
  ]
 
 for i in lis:
