@@ -29,3 +29,16 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     combine_json_files(args.file1, args.file2, args.output)
+    # json_dir = "JSONS"
+    # for file_name in os.listdir(json_dir):
+    #     if file_name.endswith("_investor_relations.json"):
+    #         ticker = file_name.split("_")[0]
+    #         file1 = os.path.join(json_dir, f"{ticker}_investor_relations.json")
+    #         file2 = os.path.join(json_dir, f"{ticker}_sec_filings.json")
+    #         output_file = os.path.join(json_dir, f"{ticker}_investor_relations_sec.json")
+            
+    #         if os.path.exists(file1) and os.path.exists(file2):
+    #             try:
+    #                 combine_json_files(file1, file2, output_file)
+    #             except Exception as e:
+    #                 print(f"Error combining files for {ticker}: {e}")
