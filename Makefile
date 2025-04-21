@@ -5,34 +5,19 @@ COMPANIES = \
 	PFGC TAP BG BRBR ACI HRL INGR COKE WBA LW CPB CELH POST BFB DAR SAM BFA IFF
 
 # Default target to run all
-all: $(COMPANIES)
-
-all_sec_filings: \
-	CDNS_sec_filings \
-	APP_sec_filings \
-	SNPS_sec_filings \
-	DASH_sec_filings \
-	FTNT_sec_filings \
-	ROP_sec_filings \
-	MSTR_sec_filings \
-	ADSK_sec_filings \
-	WDAY_sec_filings \
-	MRVL_sec_filings \
-	SNOW_sec_filings \
-	CTSH_sec_filings \
-	GLW_sec_filings \
-	TEAM_sec_filings \
-	NET_sec_filings \
-	IT_sec_filings \
-	DDOG_sec_filings \
-	ANSS_sec_filings \
-	HUBS_sec_filings \
-	GDDY_sec_filings \
-	TYL_sec_filings \
-	MPWR_sec_filings \
-	HPQ_sec_filings \
-	DELL_sec_filings \
-	CDW_sec_filings
+all: \
+	APPF_sec_filings \
+	S_sec_filings \
+	PATH_sec_filings \
+	GLOB_sec_filings \
+	DLB_sec_filings \
+	SNDK_sec_filings \
+	AVT_sec_filings \
+	PEGA_sec_filings \
+	DXC_sec_filings \
+	IAC_sec_filings \
+	ALGM_sec_filings \
+	ZI_sec_filings
 
 # Individual rules
 KHC: main.py
@@ -376,3 +361,15 @@ CDW_sec_filings: sec_scraper.py
 
 CDW_combine: combine.py
 	python3 combine.py /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/CDW_sec_filings.json /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/CDW_investor_relations.json -o /home/syed-hassan-ul-haq/repos/finchat-scrapper/Completed/CDW_investor_relations_sec.json
+
+ARM: main.py
+	python3 main.py ARM https://finchat.io/company/NasdaqGS-ARM/investor-relations/ false
+
+ARM_combine: combine.py
+	python3 combine.py /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/ARM_sec_filings.json /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/ARM_investor_relations.json -o /home/syed-hassan-ul-haq/repos/finchat-scrapper/Completed/ARM_investor_relations_sec.json
+
+MKSI: main.py
+	python3 main.py MKSI https://finchat.io/company/NasdaqGS-MKSI/investor-relations/ false
+
+MKSI_combine: combine.py
+	python3 combine.py /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/MKSI_sec_filings.json /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/MKSI_investor_relations.json -o /home/syed-hassan-ul-haq/repos/finchat-scrapper/Completed/MKSI_investor_relations_sec.json
