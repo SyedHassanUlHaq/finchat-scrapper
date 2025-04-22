@@ -10,8 +10,8 @@ def check_bank(text):
     return bool(re.search(pattern, text, re.IGNORECASE))
 
 # Example usage
-# print(contains_us_bank_name("This is a test string with Morgan Stanley in it."))  # Output: True
-# print(contains_us_bank_name("Checking account with UBS and other details."))     # Output: True
-# print(contains_us_bank_name("This string does not contain any bank names."))      # Output: False
-# print(contains_us_bank_name("Deutsche bank is mentioned here."))                 # Output: True
-# print(contains_us_bank_name("Barclays is a well-known bank."))                   # Output: True
+# print(check_bank("This is a test string with Morgan Stanley in it."))  # Output: True
+# print(check_bank("Checking account with UBS and other details."))     # Output: True
+# print(check_bank("This string does not contain any bank names."))      # Output: False
+# print(check_bank("Deutsche bank is mentioned here."))                 # Output: True
+# print(check_bank("Barclays is a well-known bank."))                   # Output: True
