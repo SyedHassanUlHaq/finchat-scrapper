@@ -2,24 +2,19 @@ import os
 
 # List of prefixes
 prefixes = [
-    "MSFT", "AAPL", "NVDA", "META", "AVGO", "GOOGL", "CRM", "IBM",
-    "ORCL", "GOOG", "PLTR", "NOW", "INTU", "ADBE", "QCOM", "TXN",
-    "AMD", "AMAT", "PANW", "ADI", "KLAC", "INTC", "LRCX", "CRWD",
-    "MU", "APH", "CDNS", "APP", "SNPS", "DASH", "FTNT", "ROP",
-    "MSTR", "ADSK", "WDAY", "MRVL", "SNOW", "CTSH", "GLW", "TEAM",
-    "NET", "IT", "DDOG", "ANSS", "HUBS", "GDDY", "TYL", "MPWR",
-    "HPQ", "DELL", "CDW", "VRSN", "MCHP", "ZM", "ZS", "HPE", "PTC",
-    "SMCI", "NTAP", "OKTA", "PINS", "NTNX", "GWRE", "DOCU", "FFIV",
-    "TOST", "ON", "JBL", "GEN", "TWLO", "DT", "PSTG", "WDC", "TER",
-    "MDB", "AKAM", "PAYC", "ENTG", "DOX", "MANH", "SWKS", "EPAM",
-    "XTSLA", "DAY", "SNX", "MTCH", "COHR", "ESTC", "KD", "ALAB",
-    "DBX", "MTSI", "BSY", "LSCC", "ONTO", "GTLB", "U", "OLED",
-    "CFLT", "ARW", "QRVO", "APPF", "S", "PATH", "GLOB", "DLB",
-    "SNDK", "AVT", "PEGA", "DXC", "IAC", "ALGM", "ZI"
+    "PG", "KO", "PM", "PEP", "MO", "MDLZ", "CVS", "MCK", "CL", "COR",
+    "KMB", "KR", "KVUE", "KDP", "MNST", "CTVA", "SYY", "GIS", "STZ",
+    "CHD", "KHC", "HSY", "K", "ADM", "MKC", "CLX", "TSN", "CASY",
+    "USFD", "CAG", "SJM", "PFGC", "TAP", "BG", "BRBR", "ACI", "HRL",
+    "INGR", "COKE", "WBA", "LW", "CPB", "CELH", "POST", "BFB", "DAR",
+    "SAM", "BFA", "IFF", "AVGO", "NVDA", "TXN", "QCOM", "AMD", "KLAC",
+    "AMAT", "LRCX", "INTC", "ASML", "MPWR", "ADI", "NXPI", "MU", "TSM",
+    "MCHP", "MRVL", "ON", "TER", "ENTG", "SWKS", "ONTO", "LSCC", "QRVO",
+    "OLED", "MKSI", "ARM"
 ]
 
 # Source folder
-source_folder = 'Completed/US_Technology/'
+source_folder = 'Completed/US_consumer_staples/'
 
 # Set to keep track of found prefixes
 found_prefixes = set()
