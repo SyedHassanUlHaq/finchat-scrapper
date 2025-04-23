@@ -73,8 +73,11 @@ quarter_index = 0
 latest_year = None
 
 def find_first_10k_index(filings):
+    print(filings)
     for index in range(len(filings)):
         if filings[index]['formType'] == '10-K':
+            print('dada')
+            print(index, filings[index].get("periodOfReport", "")[:4])
             return index, int(filings[index].get("periodOfReport", "")[:4])
     return -1  # Return -1 if no 10-K form type is found
 

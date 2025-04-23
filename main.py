@@ -92,8 +92,8 @@ async def scrape_event_names(ticker, url, test_run):
             #     print("No events found.")
             #     return
 
-            download_button = await page.wait_for_selector("footer div div.mantine-Flex-root button.mantine-ActionIcon-root.mantine-UnstyledButton-root")
-            await download_button.click()
+            # download_button = await page.wait_for_selector("footer div div.mantine-Flex-root button.mantine-ActionIcon-root.mantine-UnstyledButton-root")
+            # await download_button.click()
 
             # print(f"Found {len(event_links)} event(s).")
             elements = page.locator('a#ph-company__transcripts-sidebar-item')
@@ -123,6 +123,8 @@ async def scrape_event_names(ticker, url, test_run):
                     # await event.click()
                     await page.wait_for_load_state("domcontentloaded")
                     await page.wait_for_timeout(7000)
+                    text = await element.inner_text()
+                    print('TEXT:', text)
                     # await asyncio.sleep(4)
                     periodicity = None
                     published_date = None
@@ -136,6 +138,8 @@ async def scrape_event_names(ticker, url, test_run):
                         content_name = None
                         if index == 1:
                             heading = await get_transcript_text(page)
+                            if heading is None:
+                                heading = text
                             periodicity = get_periodic_from_text(heading)
                             published_date = extract_date_from_text(heading)
                             
@@ -189,7 +193,7 @@ async def scrape_event_names(ticker, url, test_run):
                                 content_type2 = 'earnings_press_release'
                                 content_name = compile_content_name(content_type=content_type, equity_ticker=ticker, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             else:
-                                content_type2 = get_non_periodic_content_type(heading, f'downloads/{transcript_name}', content_type)
+                                content_type2 = get_non_periodic_content_type(heading, f'downloads/{report_name}', content_type)
 
                             r2_path = upload_to_r2(f'downloads/{report_name}', path, test_run=test_run)
                             if pdf_type == 'other' or pdf_type is None:
@@ -209,7 +213,7 @@ async def scrape_event_names(ticker, url, test_run):
                                 content_type2 = 'earnings_presentation'
                                 content_name = compile_content_name(content_type=content_type, equity_ticker=ticker, fiscal_year=fiscal_year, fiscal_quarter=fiscal_quarter)
                             else:
-                                content_type2 = get_non_periodic_content_type(heading, f'downloads/{transcript_name}', content_type)
+                                content_type2 = get_non_periodic_content_type(heading, f'downloads/{report_name}', content_type)
                             if content_name is None:
                                 content_name = heading
                             path = construct_path(ticker=ticker, date=published_date, file_name=file_name, file=report_name)
