@@ -1,0 +1,8625 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4033
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+194.0399999999999352 771.0238582677164914 Td
+(Okta, Inc. Q3 2025 Transcript) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 714.3309448818897636 Td
+(Hi everyone. Welcome to Okta's Third Quarter of Fiscal Year 2025 Earnings) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(Webcast. I'm Dave Gennarelli, Senior Vice President of Invest Relations in Okta. With me in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(today's meeting, we have Todd McKinnon, our Chief Executive Officer and co-founder, and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(Brett Tighe, our Chief Financial Officer. Around the same time that the earnings press release) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(hit the wire, we posted supplemental commentary to the IR website.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 558.42543307086612 Td
+(This posted commentary contains a large portion of what would historically) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(be the opening commentary, including customer commentary, product-related news, and a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(review of our financial results. This format allows listeners to review that information before) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(this call. Today's meeting will include forward-looking statements pursuant to the Safe Harbor) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(provisions of the Private Securities Litigation Reform Act of 1995, including but not limited to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(statements regarding our financial outlook and market positioning. Forward-looking) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 388.3466929133857661 Td
+(statements involve known and unknown risks and uncertainties that may cause our actual) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(results, performance, or achievements to be materially different from those expressed or) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(implied by the forward-looking statements.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 289.1340944881889072 Td
+(Forward-looking statements represent our management's beliefs and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 260.7876377952754865 Td
+(assumptions only as of the date made. Information on factors that could affect our financial) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 232.4411811023621794 Td
+(results is included in our filings with the SEC from time-to-time, including the section titled) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Risk Factors in our previously filed Form 10-Q. In addition, during today's meeting, we will) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(discuss non-GAAP financial measures. Though we may not state it explicitly during the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(meeting, all references to profitability are non-GAAP.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 104.882125984251843 Td
+(These non-GAAP financial measures are in addition to and not a substitute for) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(or superior to measures of financial performance prepared in accordance with GAAP. A) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4028
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(reconciliation between GAAP and non-GAAP financial measures and a discussion of the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(limitations of using non-GAAP measures versus their closest GAAP equivalents are available in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(our earnings release. You can also find more detailed information in our supplemental financial) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(materials, which include trended financial statements and key metrics posted on our Investor) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(Relations website. In today's meeting, we will quote a number of numeric or growth changes as) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(we discuss our financial performance.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 586.7718897637794271 Td
+(And unless otherwise noted, each such reference represents a year-over-year) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(comparison. And now I'd like to turn the meeting over to Todd McKinnon. Todd?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 515.9057480314959321 Td
+(Thanks, Dave, and thank you everyone for joining us this afternoon. Our solid) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(Q3 results were once again highlighted by strength with large customers and strong) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(profitability and cash flow driven by continued spend efficiencies. While the macro) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(environment remains consistent, we're encouraged by some positive data points in Q3. I'll) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(touch on some of those and then get into other highlights from the quarter before turning over) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(to Brett.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 331.6537795275589815 Td
+(I've mentioned previously that deepening our relationship with our partner) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(ecosystem is one of our main priorities. We're already seeing good progress as all of our top 10) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(deals in the third quarter involve partners. These 10 deals were all over $1 million in annual) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(contract value and in aggregate represented approximately $20 million in ACV. This) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(underscores the value of investing in our partner ecosystem.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 175.748267716535338 Td
+(The public sector also continues to be an area of strength. In fact, half of the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(top 10 deals that I just mentioned were in the U.S. Federal Vertical. We've made great progress) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(with our presence in the public sector and believe we have a tremendous amount of runway) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(ahead of us. Our largest customers remain an area of strength. The cohort of $1 million plus) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 4044
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(ACV customers continues to be our fastest growing cohort.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 728.5041732283464171 Td
+(In total, this cohort now represents approximately $1 billion in ACV. We were) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(also pleased with the upsell and cross-sell activity in Q3, while the macro environment remains) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(consistent, we're encouraged by some positive data points in Q3. I'll touch on some of those) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(and then get into other highlights from the quarter before turning over to Brett. I've mentioned) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(previously that deepening our relationship with our partner ecosystem is one of our main) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(priorities.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 544.2522047244094665 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 544.2522047244094665 Td
+(We're already seeing good progress as all of our top 10 deals in the third) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(quarter involve partners. These 10 deals were all over $1 million in annual contract value and in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(aggregate represented approximately $20 million in ACV. This underscores the value of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(investing in our partner ecosystem. The public sector also continues to be an area of strength.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(In fact, half of the top 10 deals that I just mentioned were in the U.S. Federal vertical.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 388.3466929133857661 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 388.3466929133857661 Td
+(We've made great progress with our presence in the public sector and believe) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(we have a tremendous amount of runway ahead of us. Our largest customers remain an area of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(strength. The cohort of $1 million plus ACV customers continues to be our fastest growing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(cohort. In total, this cohort now represents approximately $1 billion in ACV. We were also) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(pleased with the upsell and cross-sell activity in Q3. Specifically, we experienced strong growth) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(of workforce customers buying more workforce products, as well as workforce customers) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(buying customer identity.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 175.748267716535338 Td
+(Okta's expanded product portfolio is allowing us to equip our customers with) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(more industry leading identity solutions to support them in their goal to operate more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(efficiently and securely. The threat environment has never been more hostile. Organizations are) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(constantly under attack, and identity has become a primary attack vector. Okta's technology) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 4076
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(has become more important than ever in helping to prevent and mitigate these attacks.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 728.5041732283464171 Td
+(We're advancing our vision to free everyone to safely use any technology) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(with the expansion of our unmatched portfolio of identity solutions through great product) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(innovation. We're also accelerating our investments in the Okta Secure Identity Commitment,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(which is resonating with prospects and customers. We recently showcased that innovation at) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(Octane, our biggest customer and partner event of the year. The energy at the event was terrific) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(as in-person attendance was up over 25% versus last year and represented hundreds of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(millions of dollars of pipeline.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 515.9057480314959321 Td
+(Attendees heard about the future of identity security and how Okta is) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(responding to the evolving threat landscape. We highlighted more than 30 products, features,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(and capabilities across our workforce and customer identity clouds that will deepen our) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(customers' security and help them create exceptional customer experiences, while enabling us) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(to reignite our growth with a focused approach. It's also great to receive validation on our) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(strategy and vision from third parties. Okta was recently recognized as a leader in the 2024) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(Gartner Magic Quadrant for Access Management for the eighth consecutive year.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 303.3073228346455608 Td
+(Okta achieves the highest and furthest overall position for its ability to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(execute and completeness of vision in this research. We have a lot of optimism about the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(direction of the business. One of the things we're excited about is go-to-market specialization.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(In Q1 this year, we introduced a layer of specialization in the go-to-market team with a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(Hunter-Farmer model for the Americas SMB market. As we plan for FY26, we are planning for) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(further specialization in our global go-to-market strategy to better align with the distinct) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(identity buying centers of IT security and developers.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(Todd McKinnon : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+154.366141732283495 90.7088976377951894 Td
+(Doing so will allow us to meet evolving market demands, help reignite) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 4265
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(growth, and create a win-win scenario that benefits both our customers and Okta, ultimately) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(driving better business outcomes. To wrap things up, we remain hyper-focused on our top) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(priorities of security, growth, and scale. Identity is security, and we are taking the right steps to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(advance our position, as a leader in the identity market while remaining focused on investing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(for growth and driving spend efficiencies in cash flow. Now here's Brett to cover the financial) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(commentary and talk about how we're positioned for long-term profitable growth.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(Brett Tighe : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.3661417322834666 586.7718897637794271 Td
+(Thanks Todd and thank you everyone for joining us today. We continue to build on) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(the efficiency initiatives that we've been implementing over the past two years. Our Q3 financial) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(performance was highlighted by continued strong cash flow and operating profitability,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(including GAAP profitability. I'll note that similar to the prior three quarters, as we have) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(analyzed our key metrics, we could not attribute a quantifiable impact from the October, 2023) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(security incident on our Q3 results.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(Brett Tighe : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.3661417322834666 402.5199212598424765 Td
+(And while not quantifiable, the event likely had some level of impact. Our view on) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(the macro environment is that it remains consistent with what we've experienced for the past) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(few quarters. Organizations are scrutinizing budgets and rationalizing their software spend,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(resulting in lower assumptions for seats and our workforce identity business and MAUs in our) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(customer identity business. These lower seat and MAU assumptions have put our net retention) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 260.7876377952754865 Td
+(rate under pressure over the past few quarters, while gross retention has remained strong.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(Brett Tighe : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.3661417322834666 218.2679527559054122 Td
+(Helping to partially offset the seat and MAU headwind is the success we've been) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(having in selling more products to both our new and existing customers. Our relentless focus) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(on innovation has been resonating with our customers as approximately 15% of Q3 bookings) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(were from new products. Okta Identity Governance continues to represent approximately) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(one-third of the contract value when sold in a workforce deal. In addition to OIG, we're also) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(selling new products like Okta Privileged Access, Device Access, Fine Grain Authorization,) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 4120
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(Identity Threat Protection, and Identity Security Posture Management.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Brett Tighe : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.3661417322834666 728.5041732283464171 Td
+(Our data tells us that customers that adopt more products have the highest) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(retention rates, so we're excited about the trends here and the long-term contributions to the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(business. Now let's turn to our business outlook for Q4 and FY25. As always we take a prudent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(approach to forward guidance. We are factoring in a macro environment consistent with what) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(we experienced in Q3. We are no longer incorporating additional conservatism into our outlook) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(related to the potential impacts from last year's security incident.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 544.2522047244094665 Td
+(Brett Tighe : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.3661417322834666 544.2522047244094665 Td
+(For the fourth quarter of FY25, we expect total revenue growth of 10% to 11%,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(current RPO growth of 9%, non-GAAP operating margin of 23%, and free cash flow margin of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(approximately 32%. We are raising our outlook across the board for the full year FY25. We now) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(expect total revenue growth of 15%, non-GAAP operating margin of 22%, and a free cash flow) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(margin of approximately 25%. While we are still in the early phases of financial planning, we) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(would like to provide a preliminary view of FY26.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(Brett Tighe : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.3661417322834666 360.0002362204724022 Td
+(We're providing this preliminary outlook ahead of closing our biggest quarter of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(the year. We will provide formal FY26 guidance on our next earnings call, which will factor in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(our actual Q4 performance. We remain focused on profitable growth and continue to prudently) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(factor in a macro environment that is consistent with what we've experienced over the past few) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(quarters. As such, we're expecting a non-GAAP operating margin of at least 22%.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Brett Tighe : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.3661417322834666 204.0947244094487587 Td
+(We're targeting a free cash flow margin of at least 24%. From a revenue) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(perspective, we estimate total revenue to be $2.77 billion to $2.78 billion, representing growth) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(of approximately 7%. We believe these numbers are achievable while maintaining an) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(appropriate measure of conservatism. To wrap things up, we're pleased with the progress) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(we've made to drive operational efficiencies. We've demonstrated exceptional leverage in our) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 3971
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(model over the past two years, and we remain focused on delivering profitable growth for years) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(to come.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(Brett Tighe : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.3661417322834666 700.15771653543311 Td
+(With that, I'll turn it back to Dave for Q&A. Dave? ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(A - Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+168.3661417322834382 657.6380314960629221 Td
+(Thanks, Brett. We have several hands raised up already. We'll take them in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(the order that they are in and if you have follow-on questions you can get back in the queue so) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(try to limit yourself to one question. That will kick it off with John DiFucci at Guggenheim.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 572.5986614173227736 Td
+(John?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(John DiFucci: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+139.5661417322834836 530.0789763779526993 Td
+(Thanks, Dave. My question I think has to do with something Brett just said. Brett,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(you said you're no longer incorporating additional conservatism in the guidance due to the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(incident from last October. And that makes sense, by the way, now. But your guidance for next) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(year, I just want to sort of understand it's an initial guidance for next year. What is, should we) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(think about it? Listen, yeah, I think you guys do a pretty good job when you guide, but at the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 388.3466929133857661 Td
+(same time, I'm just trying to think about it like last year you had a lot going on, the last -- two) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(years before that should we think about -- should we go back to those years and kind of think) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(about your approach that be similar to those years?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(John DiFucci: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+139.5661417322834836 289.1340944881889072 Td
+(Just trying to get my head around it. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 246.614409448818833 Td
+(Yeah John. Hey before you jump in Brett I want to just set the context at a high) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(level. The Q3 was a solid quarter. And as we go into Q4 and think about next year, Brett can) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(talk about the specifics on guidance, but we are, I think, being pretty balanced between) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(optimistic about the future and all this new product momentum and all this large customer) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(momentum, but also want to make sure we have the right level of prudence in our guidance.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 90.7088976377951894 Td
+(So it's always a balancing act, but I don't want the guidance question to kind) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 3997
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(of overshadow the momentum we see in the business and the optimism we see there.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(John DiFucci: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+139.5661417322834836 728.5041732283464171 Td
+(Yeah, and Brett, or Todd, I apologize. I very rarely say this at the beginning, but it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(was a really solid quarter. It really was more than solid. It was really good. Then your whole) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(team should feel really good about it.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 629.291574803149615 Td
+(It's one step. It's one step. We have a lot of work to do, but thanks for saying) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(that.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 558.42543307086612 Td
+(Yeah, in terms of your question, John, about the guidance, I would say, if you look) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(back -- let's go back a year ago, right? And a year ago, we had the security incident. We're right) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(on the heels of it. And we got a 10% at that point, right? From a revenue growth perspective for) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(FY25. We now think FY '25 is going to be 15%. You can figure out the delta of [15 minus 10]) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(\(ph\). I would not expect that level of delta in the future just because we're taking out the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(security incident, right?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 374.1734645669290558 Td
+(There was a pretty large unknown at that point and a pretty large unknown until) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(really this quarter where we haven't seen any impact quantitatively from the security incidents.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(So that's how I would think about it, John. Hopefully, that's --.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(John DiFucci: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+139.5661417322834836 274.9608661417322537 Td
+(Okay. And when I go back to the two years before that, they are -- you exceeded) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(your original guidance by like over 5 percentage points. That's why I sort of -- I get it though) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(less than last year, though.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 175.748267716535338 Td
+(Yes. And I think the other thing is like if you go back a couple of years, we were a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(much smaller company, growing at a faster clip. So I think just the natural maturation of the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(business. I wouldn't go back that far as to kind of --.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 76.5356692913385359 Td
+(Yes. The other thing about it too is that Q4 with slower growth in these years) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 3878
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(versus five years ago, Q4 matters a lot more. So given this guidance at the end of -- on the Q3) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(call, we have more -- Q4 matters more in terms of seeing where we'll be. So that's why the Q1) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(look is so illustrative.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(John DiFucci: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+139.5661417322834836 671.8112598425196893 Td
+(Okay, thanks a lot guys. Nice job. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 629.291574803149615 Td
+(Great. Let's go to Eric Heath at KeyBanc. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(Eric Heath: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+126.1661417322834637 586.7718897637794271 Td
+(Thanks Dave and congrats on the quarter, Brett and Todd. Todd, we've been) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(hearing from some of your GSI partners more about RFPs for consolidated identity platform) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(offering. So I'm curious if that's something you guys are seeing or measuring -- maybe) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(measuring in your pipeline? Or Todd, even coming up more in customer conversations) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(because it does seem to be resonating in the field with some of your partners?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 430.8663779527558404 Td
+(Well, I do know on the GSI topic, we have really, really made a lot of progress) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(with GSIs in last year. I'm really, really excited about this because these -- identity as the folks) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(on this call know Okta really well, it is sometimes quite complex to do a comprehensive change) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(out of identity. In fact, it is always complex, way more complex than other types of technology,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(especially in the cyber ecosystem. So that has positives and negatives.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 274.9608661417322537 Td
+(The negatives are sometimes it takes longer to get a deal done. Sometimes it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(takes longer to do upsells. That's the good news -- or that's the bad news. The good news is) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(that once you get a committed cohort of customers and a committed cohort of systems) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(integrators to help a customer on that journey, it is very valuable to the customer and very) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(valuable to the partner for a very long time. So the plus side is that we are going to be) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(providing value in these relationships, and everyone is going to be benefiting for years and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(years and years.) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 4240
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 771.0238582677164914 Td
+(We had a really solid win of one of the largest technology companies in North) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(America in Q3 that was nearly a $5 million ARR deal. And for that company, it's just the first) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(phase of a multiphase deal to replace their identity across their whole company. This specific) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(initiative in Q3 was driven by Zero Trust transformation. So even some of the biggest) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(technology companies are relatively early in their Zero Trust journey and we worked with one of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(the largest SIs to scope that deal and bring that deal over and then more -- even more exciting) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(about it is the deals that are queued up to follow that as we get this initial deal deployed and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 572.5986614173227736 Td
+(some level of success and then move on to the subsequent phases.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 530.0789763779526993 Td
+(So that's exciting scenario there. And that's true on a number of deals in the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(quarter. I mentioned in my prepared comments that of the top 10 deals in a quarter that was) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(really strong for big deals, all of them had partner participation. So we are doing a good job) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(building that ecosystem, working with the partners, building trust and those partners. And all) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(the -- especially this is true of the global SIs.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 374.1734645669290558 Td
+(They're seeing not a lot of choices out there in terms of scaled identity) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(players. And particularly, when we talk about a scaled identity player that's independent neutral) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(and doesn't wrap that customer into one stack, we are unmatched. So they're seeing that -- and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(they're seeing the landscape and our unique value there, and they're aligning themselves with) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 260.7876377952754865 Td
+(us, which I think is going to benefit everyone.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 218.2679527559054122 Td
+(I think also, the interesting part about the top 10 deals that Todd was just talking) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(about having all partners -- the great part of it is -- it was multiple different types of partners.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(You've heard us talk about GSI as being very important, but it was GSIs, it was ISVs it was) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(marketplaces, it was the traditional VARs. I mean it was a mix of them all. So that's why we) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(continue to want to invest in each one of these areas because we are seeing success like this) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(in Q3.) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 4270
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 771.0238582677164914 Td
+(Great. Next up, let's go to Gray Powell at BTIG. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Gray Powell: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+134.0661417322834552 728.5041732283464171 Td
+(All right. Great. Thank you very much. Before I ask my question, I just got to say, I) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(really appreciate the 10 minutes of prepared remarks. And in fact, Brett, I think your section) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(was probably shorter than DiFucci's question. So again, congrats on keeping it tight.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 629.291574803149615 Td
+(We do what we can, Gray. We do what we can. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(Gray Powell: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+134.0661417322834552 586.7718897637794271 Td
+(So for my question, it's been a pretty choppy earnings season so far across our) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(security coverage. And it's just -- I guess it's just nice to see your numbers inflect higher. So is) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(there any way you can kind of talk about what stood out most this quarter versus Q2? Just like) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(what changed the most? And then how do you feel about the sustainability of that performance) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(and just the forward execution?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 430.8663779527558404 Td
+(It was pretty different than Q2 in terms of our -- just our execution in the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(quarter, bringing deals across the line. We did -- Q2 was okay, Q3 was very solid. And I think) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(that is maybe -- I think what is lining up to be -- to look like the reality is that the year is looking) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(more back-end loaded than what we may have thought in the first quarter or the second) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(quarter, which I think is not -- with -- in the history of the company, that's not -- it's not -- it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(fairly common for that to be the case. But I think this year, it's turning out to be a little more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 260.7876377952754865 Td
+(than maybe we anticipated, which means Q4 is a big quarter.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 218.2679527559054122 Td
+(And the pipeline is there, and it is up to us and the team to execute on that,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(and we're really aligned and motivated and understand how important it is as a team that we) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(need to do that, and we're all set to make that a reality. There's a lot of stuff to build on. We've) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(mentioned a couple of the examples already, the large deals, the new products, so 15% of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(bookings in the quarter were from these new products, which we wish it was a higher) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(percentage, but there is a lot of new products that are starting to blossom and have the) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 4049
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(potential to be significant contributors on their own. Governance now is 1/3 of the value of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(deals that is included in which is -- or 30% of the value, it's less than 1/3.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 700.15771653543311 Td
+(Okta Privileged Access is starting to get momentum. We had a nice win there) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(for a U.S. Department of an Asian bank which bought the whole suite, access management,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(governance and privileged access, which we think is going to be a common buying pattern.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(And the driver there, I mentioned the large technology company before the driver in that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(example is Zero Trust. They're trying to go to a Zero Trust architecture and identity is important.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 544.2522047244094665 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 544.2522047244094665 Td
+(For this U.S. division of this Asian bank, it is all about compliance. So they) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(needed to have regulatory compliance for the auditors around not only applications and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(financial applications, but servers, which privilege access gave them that access to. So we're) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(seeing new products, big deals. We see good partner involvement. But we're still -- we still) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(think we can grow faster. We talked about the guide for next year and how we are thinking) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(about that.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 360.0002362204724022 Td
+(But we continue, as we always have, I think this is a massive opportunity, and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(it's one of -- our second highest priority after security and our secure identity commitment is) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(growth and reaccelerating growth. So we're pleased, but we're not satisfied. We have a lot of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(work to do, and this team is fired up to make it happen, and we're going to go out there and do) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(it.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 204.0947244094487587 Td
+(I'd add a couple of things, Gray, that actually may not have changed, but are) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(positives for us in general. One is contract duration continues to be healthy for us. You can see) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(that in the total RPO growth, right? That's now 6 points higher than current RPO growth. The) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(other thing I would add is U.S. federal end of their fiscal year, we had a really solid close to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(that. So that was what you heard earlier, is a good portion of those top 10 deals.) Tj
+ET
+endstream
+endobj
+27 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 4160
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 771.0238582677164914 Td
+(And I think that's just a continuation of our success in public sector. Think of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(public sector is actually one of our first forays into specialization, right? We've really focused) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(on it. We've put a lot of effort on it. We've done a lot of stuff from an R&D perspective. And so) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(that continues to also be successful for us in Q3 and is helping the results we see here today.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(Gray Powell : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+136.8661417322834666 643.4648031496062686 Td
+(Understood, thank you. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 600.9451181102361943 Td
+(Next, we have Gabriela Borges at Goldman. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(Gabriela Borges: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+153.9661417322834609 558.42543307086612 Td
+(Hi, good afternoon. Thanks for taking the question and congrats on a solid) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(quarter. Todd and Brett, I wanted to pick up where they just left off on the 15% of bookings that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(are coming from emerging products. Remind us how that number compares to history. And) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(Brett, you mentioned with the net retention rates, there are two dynamics impacting that.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(You've got the pressure on MAUs and [C count] \(ph\) and then you've got the tailwind from) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(cross sell.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(Gabriela Borges: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+153.9661417322834609 374.1734645669290558 Td
+(Talk to us a little bit about when you think emerging can offset the headwind) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(in MAUs and C count and it's a long way of asking when you think net retention might trough?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(Thanks.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 274.9608661417322537 Td
+(On the new product mix, I don't know the exact numbers, but without going) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(back and looking at the data, my sense being pretty close to the sales process, especially on) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(the new products, this is higher than it has been in the past. And it's kind of led by governance,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(identity governance. And it's -- for second place where it is like a -- it's a pretty close) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(competition between privileged access, identity threat protection, which is for the most) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(security-conscious customers, it's a really big addition to their suite. Identity threat protection,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(it's -- the way to think about it is -- it's kind of like the advanced version of advanced) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(multi-factor -- and the big thing it does is it monitors security risks throughout the session.) Tj
+ET
+endstream
+endobj
+29 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 30 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 4133
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 771.0238582677164914 Td
+(So multifactor and advanced multifactor do phishing-resistance right when) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(you log in, identity threat protection continuously monitors risk signals, change of IP) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(addresses, CrowdStrike, SentinelOne, detecting any kind of issue and shutting down the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(session, so it's proactive monitoring. So that's a big contributor. And then we have -- on the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(Customer Identity side, we have fine grain authorization that had a decent quarter, and we also) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(have highly regulated identity. So you are seeing all these kind of seeds that are starting to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(grow which are, frankly, more exciting than the 15% because you see this 15% contributed by) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 572.5986614173227736 Td
+(multiple seeds that are going into potentially contributors.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 530.0789763779526993 Td
+(It's pretty exciting for the future. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 487.559291338582625 Td
+(Yes, Gabriela, I would actually just add the percentage is up year-over-year) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(because basically, last year was just governance. And Todd just listed out like 6 products that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(are doing really well right out of the gate. So it's pretty easy to see that the percentage is going) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(up and to the right, which is really exciting for us for all the reasons that Todd has said just in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(his last answer and what he said earlier on the prepared remarks. In terms of the NRR and what) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(are the effects on it.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 303.3073228346455608 Td
+(It's the same effects we've talked about in the past, right, license counts and MAUs) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(are being scrutinized like we've talked about in the past, that's macro oriented, just in general.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(And then there is also cohorts in the past that are feeling pressure, older customer cohorts that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(are feeling pressure from the COVID era. In terms of what we expected to do for the next) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(quarter, that's because that's the only forecast I have right now. I don't have it all the way) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(through FY '26.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 119.0553543307086102 Td
+(But for Q4, we think it -- we think it ticks down a little bit in Q4 based on those) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(factors. It's on top of healthy gross retention, but those factors remain the same in terms of) Tj
+ET
+endstream
+endobj
+31 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 4172
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(what we've said in the past. And so that's what we are seeing for now. In terms of what we) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(expect in FY '26. Let us get through Q4 first and then see how that actualizes and we've got to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(finalize our fiscal year 2026 plan, and we'll go from there and be able to give you a little bit more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(insights on what NRR will do throughout FY '26.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(Gabriela Borges : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+156.7661417322834723 643.4648031496062686 Td
+(That all sounds good, thanks for the call. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 600.9451181102361943 Td
+(Next up, we have Hamza Fodderwala at Morgan Stanley. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(Hamza Fodderwala: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+167.2661417322834723 558.42543307086612 Td
+(All right. Good evening, thank you for taking my question. Todd, I wanted) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(to ask you about SEC recently launched an investigation or reportedly looking to launch an) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(investigation on Microsoft and how they're bundling some of their security services. I'm) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(curious if you have any comment on that? And maybe just what you tell customers about some) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(of the risks around vendor lock-in? Thank you.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 402.5199212598424765 Td
+(Yes, it's a really important question. I can't -- I'm not close enough to know the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(legal arguments or the regulatory arguments, but they do bundle. And the pitch is hey, buy it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(off from us and it will be cheaper. And I think what I tell customers is, first of all, you're) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(foreclosing your option to choose different things. And what's not always obvious to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(customers is how important identity is in that gatekeeper role.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 246.614409448818833 Td
+(And there's a reason strategically that -- and it's Microsoft now, but I think) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(every big technology company that's trying to sell multiple layers in a platform whether that's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(collaboration or business applications or infrastructure is going to be tempted to take --) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(because they all have to build identity, everything needs a log-in for itself. They're going to be) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(tempted to take that identity service and use that for general identity and general login because) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(it is -- it has a very powerful lock-in effect. If you can get someone to use your identity, they're) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(going to be more likely to use more things from you. So it's -- in that sense, it can be a loss) Tj
+ET
+endstream
+endobj
+33 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 34 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 4136
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(leader.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 728.5041732283464171 Td
+(And our argument is, first of all, to tell people that, we say, hey, don't make the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(long-term choice that's going to lock you in and remove choice and flexibility. We all know that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(when you remove choice and flexibility, it's not just that you pay more in the end, you actually) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(get worse outcomes because you can't pick the right technology. And this is particularly) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(important in the security world because -- as we also all know that security is adversarial and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(the attackers are coming from many different directions. And 8 out of 10 times, these security) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(breaches are caused by compromised identity.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 515.9057480314959321 Td
+(So if you are locked into one stack from a security tools perspective and from) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(an identity perspective, you're not going to have as good as security outcomes. So this is the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(pitch I make to customers and it's resonating. They understand. I mean, for some customers, it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(doesn't work. Some prospects, it doesn't work. They're just -- they don't view technology that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(strategically or they don't -- it's just cut costs, no matter what, and they go for the bundle.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 360.0002362204724022 Td
+(But more and more customers, I mentioned one of the largest tech companies) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(in North America. They realized that identity really matters and having an independent neutral) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(identity platform really matters. And a dollar they spend with Okta is going to pay back 5 or 10) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(fold in terms of the security outcomes they get and the flexibility and the ability to onboard) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(different technology. So it's starting to resonate, and we're doing -- and the team knows this.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 204.0947244094487587 Td
+(We're doing something that's never been done before. We're building a scaled) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(out identity platform across multiple use cases, customer and workforce and privilege and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(governance, and we're the only one that has this foundation to build from, and we are) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(independent neutral. We're not trying to sell anything else. We think our identity suite works) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(better together, but that's where it ends. We're not trying to sell other parts of the security) Tj
+ET
+endstream
+endobj
+35 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 3753
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(stack.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 728.5041732283464171 Td
+(We're not trying to sell other applications. We leave that up to the customers) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(to choose the best outcome for them.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 657.6380314960629221 Td
+(Okay. Let's go to Matt Hedberg at RBC. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(Matt Hedberg: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+140.5661417322834552 615.1183464566928478 Td
+(Great. Thanks Dave. Todd, I wanted to circle back on the governance side of it. It) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(was an interesting statistic you gave. And I guess when you look at the success you've had) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(attaching governance to workforce deals, can you talk about the competitive landscape? And) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(are there key elements of success this year that you think could parlay to next year? Maybe it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(increased partner influence maybe some additional sales incentives to drive even further new) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(product attach next year?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 430.8663779527558404 Td
+(Yes. I think the dynamic is in many of these governance scenarios there is no) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(solution, particularly -- I mean, I'm talking about the customer doesn't have a solution,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(particularly in areas that are not traditional on-premise ERP legacy technology. So a lot of times) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(that there is a governance solution. It's implemented around that legacy on-prem just big SAP,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(for example, or big Oracle, for example. And we'll come in and they'll use us for an app that's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(not that.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 246.614409448818833 Td
+(It's maybe their SaaS applications and they do governance for that. And they) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(realize that these SaaS applications are becoming more important for compliance and more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(important for just general security and making sure the access is controlled from a security) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(perspective. And we do a really good job of that. It's pretty rare for someone to take Okta) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(governance and replace a deployed in production legacy governance solution around an) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(on-premise application.) Tj
+ET
+endstream
+endobj
+37 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 4223
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 771.0238582677164914 Td
+(And I think that will continue to be rare, just because it works. It's like it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(checking all the compliance boxes. It's probably not worth changing and there is an) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(opportunity to just do the use cases around that. One thing that is interesting is there's a lot of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(-- and I've learned in the governance market in the last few years is there's a lot of software.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(And so it's probably not a market where you have to have 25 years of features to win because) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(there's a lot of [software] \(ph\) in the market.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 586.7718897637794271 Td
+(I remember this is going back a long time now, but when I was working at) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(Salesforce, when I first got to Salesforce and I looked at the product capabilities, it was) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(incredibly simple, especially compared to Siebel, it was -- it probably had 1 out of 10 of the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(features, but it just ran the table because no one used all those features in Siebel. And I think) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(the governance market is like that. There's a lot of software, a lot of the stuff is not) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(implemented. In our product, which is very strongly integrated to access management or) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(access management, it's very quick to implement.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 374.1734645669290558 Td
+(People get tremendous value out of it fast. It's well integrated to many SaaS) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(applications. And more and more, it's integrated to even on-prem applications as we innovate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(there. And it's fast time to value. And I think that, in this case, is the winning formula, and we're) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(seeing it play out in the market.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 246.614409448818833 Td
+(Next up, we'll go to Josh Tilton at Wolfe. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Josh Tilton: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+129.1661417322834779 204.0947244094487587 Td
+(Thank you Dave. Brett, maybe one for you. the ongoing seat and MAU pressures) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(that you guys are seeing this year, how does that, if at all, change your visibility into next year?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(And how are you kind of accounting for that in the guide that you gave today?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 104.882125984251843 Td
+(Yes, that's all accounted for in the guide today. It's a good question, Josh. In terms) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(of the -- there's two different factors that we're talking about, right? There's the macro just) Tj
+ET
+endstream
+endobj
+39 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 40 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 4056
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(overall companies are just not buying as many licenses, they're scrutinizing licenses. When I) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(say licenses, I mean licenses or MAUs, just depends on what side of the business. And then) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(there is the older customer cohorts. That older customer cohort we think materially is done by) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(the end of the first half of fiscal year '26.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 643.4648031496062686 Td
+(But -- so that's all -- by the way, that's all captured in the guide. So hopefully, that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(helps there, Josh.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 572.5986614173227736 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 572.5986614173227736 Td
+(Next up, we have Jonathan Ho at William Blair. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(Jonathan Ho: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+137.2661417322834723 530.0789763779526993 Td
+(Congrats on the strong quarter. Just wondering if you could give us some) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(additional on the go-to-market specialization opportunity that you've referenced? And maybe) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(help us understand why you see the need to do this now? Or what's maybe the impetus driving) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(that?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 402.5199212598424765 Td
+(Yes. Talked to a lot of people and working with Okta and go-to-market models) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(the last 5 or 6 years. There's basically two spectrums of go-to-market. There's one end of the --) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(or sorry, 2 ends of the same spectrum. One end of the spectrum is everything is general. And) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(every rep sells everything. There's no overlays. There's no specialists that just general rent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(model. On the other end of the spectrum is everything specialized.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 246.614409448818833 Td
+(Every product has its own rep and every -- there's just total specialization.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(And the trade-offs are roughly, you get more probably productivity and sales performance out) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(of the completely specialized model, but you also get a lot more costs. So the exercise is how) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(do you -- as the organization grows and product portfolio grows and the market evolves and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(the competitive dynamic evolves, how do you put your organization in the right spot on that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(spectrum to maximize growth and profitability. And so the simple answer to your question is,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(we think that there's an opportunity for more growth here than we're seeing now.) Tj
+ET
+endstream
+endobj
+41 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 42 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 4070
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 771.0238582677164914 Td
+(So part of the initiative to accelerate growth as we want to do more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(specialization. And I think there's some potential for at least in the short-term, some increased) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(costs, but we think it's going to be far outweighed by the increase in growth. And by the way,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(we are very committed and very focused on profitability as well. But I think we have enough) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(room in the business. And based on all our efficiency work and some of the effectiveness,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(investments we've made where we can make the specialization investment and still run at the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(profitability levels we've outlined and are comfortable with and still accelerating growth.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 558.42543307086612 Td
+(So that's the high level. More specifically, I think it's important to understand) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(kind of more specifically what we're saying here. So what this means is that we're going to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(have instead of sales reps at Okta selling every product, they're going to be more specialized to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(products. Specifically, there is going to be dedicated of zero reps and then dedicated Okta reps.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(And the Okta reps are going to be that we need them because the product is getting quite) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(broad.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 374.1734645669290558 Td
+(It's very, very challenging to sell governance and privileged access and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(access management and customer identity And they're going to be specialized to sell the suite) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(of access management, privileged access, governance, ITP, that suite. And then Auth0 reps are) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(going to be focused on Auth0. So it's developers. It's making sure that every self-service) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 260.7876377952754865 Td
+(customer that starts to upgrade gets upgraded into full enterprise deployment because a lot of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 232.4411811023621794 Td
+(these small companies turn out to be some of our biggest customers.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 189.9214960629919915 Td
+(You all know about our presence in the AI world and how we have very) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(significant customers there that started off a self-service trial. So products are getting more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(capable. It's very tough for one salesperson to cover them all. We see a growth opportunity,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(and we're going to make sure we take it.) Tj
+ET
+endstream
+endobj
+43 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 44 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 4294
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 771.0238582677164914 Td
+(Yes, I would just add to that. If you think about it, Jonathan, it's really about) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(productivity, right? If we just boil down to a simple metric, it's AI productivity, and we've seen) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(nice gains this year in AI productivity, we think we can make those gains go even further by) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(making this change in a portion of the organization, which goes back to Todd's point is we've) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(built all these efficiencies into the organization, so you can balance with trying to go for more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(growth while also being healthily profitable as we are and expect to be in FY '25 and FY '26.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(Jonathan Ho : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+140.0661417322834836 586.7718897637794271 Td
+(Great. Thank you. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 544.2522047244094665 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 544.2522047244094665 Td
+(Next up, we have Joe Gallo at Jefferies. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(Joe Gallo: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+121.866141732283495 501.7325196850393354 Td
+(Hi, guys. Thanks for the questions. Can you just talk through Customer Identity, its) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(performance this quarter and how you're thinking about that market growth rate? And then just) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(given all the conversations around specialization. How should we think about the maturity of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(the channel and its ability to sell that product?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 374.1734645669290558 Td
+(Yes. Customer Identity had a solid quarter. I think the -- we're very excited. It's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(over $1 billion business now. So we have the Workforce business, which is well over $1 billion,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(obviously, and then the Customer Identity business, which is over $1 billion as well. I think that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(the drivers in that market are somewhat security, but they're a little bit different on the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 260.7876377952754865 Td
+(Workforce side. It's less driven by security in many times just driven by customer experience.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 218.2679527559054122 Td
+(There's a large European online retailer that signed up for Customer Identity) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(quarter in Q3 and you think, oh, it must have been some security or something driving the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(purchase, but it was just convenience. Their web experience and mobile app had multiple) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(logins and multiple IDs and they're trying to consolidate that. So it's an important part of our) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(business. It's growing strong. And as I just mentioned, we think we can grow it even faster with) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(more focus on this developer persona which we've seen in the past that it's very -- the) Tj
+ET
+endstream
+endobj
+45 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 46 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 4016
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(opportunities are huge when the developer -- when the use cases start bottoms-up, something) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(new is built, starts to grow, comes into the self-service funnel upgrades to enterprise can be) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(quite significant, and we want to make sure that we take advantage of that opportunity.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(Joe Gallo: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+121.866141732283495 671.8112598425196893 Td
+(Thank you. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 629.291574803149615 Td
+(Let's go to Mike Cikos at Needham. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(Mike Cikos: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.9661417322834609 586.7718897637794271 Td
+(Great. Thanks Dave and thanks for taking the questions guys. Just wanted to tap) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(into the specialization comment, too. Can you either point to public sector where you guys) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(arguably driven some of the specialization of Americas SMB. I'm sure you guys have your own) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(internal data points you're watching, but what would you point us to, to help us get greater) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(confidence that this specialization is the right approach?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(Mike Cikos: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.9661417322834609 430.8663779527558404 Td
+(Because obviously, that's informing your decision, but it would be helpful to get it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(for us outside this year? Thank you.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 360.0002362204724022 Td
+(Yes. It's -- there's a bunch of data points. You mentioned a couple of them. The) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(hunter farmer in the Americas SMB is there's positive data points out of that. It's -- I would say) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(that that's a relatively small part of the business. I think the public sector and the focus there) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(and the -- really speaking the same language as that buyer is a bigger data set and sample size) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(and longer term, sample size that we're confident on.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 204.0947244094487587 Td
+(And then part of it, too, is just watching the sales cycles and sitting through) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(the conversations and seen the potential on this developer-facing market and seeing how much) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(additional growth we just instinctually think we can see by focus and by dedicated resources) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(on that? And then thinking about what's the -- like I said before, there's always a trade-off,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(right? The trade-off is transition costs, like what is the cost to make the changes required to get) Tj
+ET
+endstream
+endobj
+47 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 48 0 R
+>>
+endobj
+48 0 obj
+<<
+/Length 4059
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(to that model? And then what is the -- how is the ramp in growth going to measure against the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(increase of cost of sales coverage.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 700.15771653543311 Td
+(And we think that in this case, based on all our modeling and all our past) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(experience that the growth benefits are going to outweigh the costs.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 629.291574803149615 Td
+(All right. Next up, we have Madeline Brooks of BofA. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(Madeline Brooks: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+156.6661417322834779 586.7718897637794271 Td
+(Good afternoon. So I think overall, we can all agree that this is a really strong) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(quarter for you guys. So I think then when I take a step back and look at the market, I really) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(want to kind of hone in on the 7% guide for next year. And if I just kind of extrapolate what new) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(bookings was for this quarter, we can kind of get to an assumption that maybe the core) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(workforce and SIEM markets are growing roughly 5%.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(Madeline Brooks: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+156.6661417322834779 430.8663779527558404 Td
+(And so I first want to clarify that 7%, does that include any upside from new) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(bookings or new bookings from or from new products? Or are new products already baked into) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(that guide? And then just one follow-up question after that.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 331.6537795275589815 Td
+(Yes. All the products we have today are already baked in there, if that's what you're) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(asking. I think the one that's the most material by far is governance, like we've talked about) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(before. We are hopeful that some of those products that we've been describing here today) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(continue to ramp like they have been in the last quarter or two and become more material. But) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(frankly, the biggest new product in there would be governance.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 175.748267716535338 Td
+(Hopefully, it helps there, Madeline. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(Madeline Brooks: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+156.6661417322834779 133.2285826771652637 Td
+(Yes. And then so for my follow-up, I guess, if I look at the identity market,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(both Workforce and SIEM, both growing faster than that 5%. I mean kind if we analyze) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(performance here, is there anything that Okta can do better to try and just reinvigorate the) Tj
+ET
+endstream
+endobj
+49 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 50 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 4151
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(growth in those core markets where the market is growing faster and that 5% growth rate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(would suggest just some share loss there and any thoughts there? Thank you.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 700.15771653543311 Td
+(It's an important question we think about a lot because as I said, our #2) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(priority is growth, and I'll refer to the #1 priority, which is security. And I think having -- not) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(having any security issues is going to be a big deal. And we've invested aggressively both in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(terms of money and in terms of just execution on making sure we have really performed well) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(on our secure identity commitment, which has four pillars and we can talk about a four, but a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(big part of it is hardening in our own corporate infrastructure. And we're -- like I said, we've) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(invested a ton.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 487.559291338582625 Td
+(We've made a ton of progress there. And as I talk to leading tech companies) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(and CISOs and other CEOs, our posture, our internal security posture has made a ton of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(progress. And I think when we talk about the accomplishments of this quarter, I think one of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(the most things I'm proud of this year at Okta is our improvement there. We still have more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(work to do. It's a never-ending investment level to make sure we are one of the most secure) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(companies in the world, but that's something we're very committed to and making sure we) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(continue to execute on.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 274.9608661417322537 Td
+(And I think one of the -- I'll get back to your question about the growth rates) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(and the market growth, but I think what we're seeing now is that, that work, that internal work is) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(really starting to translate out into prospect and customer momentum because they're seeing a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(company that's kind of been through the fire and used and learned a lot and sharing that with) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(the market now and helping the whole industry defend against identity-based attacks and our) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(own products are very relevant from -- I mentioned ITP earlier, not to mention Privileged) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(Access and governance, and we use those as we lock down our own infrastructure and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(customers can learn from that. And so that's, I think, having a strong security performance in) Tj
+ET
+endstream
+endobj
+51 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 52 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 4194
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(terms of breaches and issues, that's one part of it that can help us gain share in the market and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(beat these estimates we've put out there potentially. That's one thing. Second thing is that I) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(think if we do all that and continue to execute well and we have our -- we talked about) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(specialization and talked about some things we're doing to accelerate growth in the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(go-to-market side.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 615.1183464566928478 Td
+(And we -- if we don't grow faster than the market, I would say that the market) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(forecast turned out to be wrong. Because if we do all those things, we're not going to lose) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(share. We're not going to grow slower than the market. and we're going to be just fine because) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(if you just talk to customers and you think about -- if you ask them about their problems and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(how relevant identity is and if they have solved all their identity challenges, there's still a lot of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(work to do out there and there's still a lot of problems to solve and still a lot of value to be) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(delivered to customers, and we're going to make sure we're there to deliver that for them.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 402.5199212598424765 Td
+(Great. Next up, we have Shrenik Kothari at Baird. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(Shrenik Kothari: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.1661417322834779 360.0002362204724022 Td
+(Yes. Great. Thanks for taking my questions. And congrats on the solid) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(execution. So the federal vertical, you guys mentioned remains, of course, a key growth driver,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(Half of our top deals were in the sector, which aligns with the year-end first, your certifications) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(and partnerships and the DC-based teams that's translating to compare advantage. My) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(question is -- how are you viewing the structural shifts like perhaps in terms of budgets and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(reallocations that you foresee post elections starting next year.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(Shrenik Kothari: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.1661417322834779 175.748267716535338 Td
+(How do you plan to navigate these, again, it's still hypothetical, but just any) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(potential disruptions that you might be foreseeing and tied to adversary changes?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 104.882125984251843 Td
+(Yes. I think one of the One of the wins. We mentioned the top 10 deals and 5 of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(them were in the U.S. federal vertical. One of them was very exciting win at the DoD, and we) Tj
+ET
+endstream
+endobj
+53 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 54 0 R
+>>
+endobj
+54 0 obj
+<<
+/Length 4148
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(mentioned a few quarters ago, we had our first big DoD win. We followed that up with another) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(significant one this quarter, which is really -- it's really a good positive sign of things to come in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(addition to results for the quarter.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 671.8112598425196893 Td
+(We also closed the deal, a significant deal in the top 10 at the largest health) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(care provider for the federal government. So there is a lot of momentum there. I think it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(identity and security and modernizing some of the identity and the focus that the federal) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(government has had on cyber is kind of apolitical as much as anything can be apolitical, but it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(is really everyone wants to be more secure and everyone knows that nation states have an) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(interest in attacking the federal government and identity can help defend against that, and they) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(have to modernize this stuff. A lot of the stuff they're running is quite old, quite legacy and I) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(think one of the reasons we're seeing a lot of momentum is it's like the 2-part formula of focus) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(on cyber and in many cases, a long overdue initiative to modernize some of the tech and we're) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(benefiting from both of those in the federal vertical.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 374.1734645669290558 Td
+(Great. Next up, we have Rudy Kessinger at D.A. Davidson. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(Rudy Kessinger: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.7661417322834723 331.6537795275589815 Td
+(Hi, great. Thanks for taking my question. I want to go back to John's first) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(question on the call, Brett, just about removing this additional conservatism in the guidance for) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(the breach. I guess if we look at some of the magnitude beats in some figures the last couple of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(quarters. CRPOs in particular, you've been beating 3 to 4 points every quarter. I guess can you) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(quantify like where -- was there 1 to 2 points of conservatism for the breach on your CRPO) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(guide in the last few quarters?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(Rudy Kessinger: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.7661417322834723 147.4018110236219172 Td
+(Or just how should we think about that Q4 CRPO guide, in particular going) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(forward the level of conservatism in it versus past quarters?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 76.5356692913385359 Td
+(I would say the level of conservatism is both current RPO and the revenue, just so) Tj
+ET
+endstream
+endobj
+55 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 56 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 4165
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(we're on the same page as well as op margin. It's kind of all flows together, right? When I say) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(op margin I mean both op margin and free cash flow. I don't have an exact quantification for) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(you, Rudy, but like I said earlier, I just don't -- it's not going to be 10% to 15% like we did that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(example I gave earlier, which was 10% at this time of the year.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 643.4648031496062686 Td
+(Now it's 15% for revenue growth in FY '25. I just don't -- I don't imagine us seeing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(that given what we can see today. And keep in mind, this is also just the natural maturation of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(the company. We're just getting bigger growth is slowing down a little bit. So it's also a security) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(incident, but also just the sheer size of our company at this point.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 515.9057480314959321 Td
+(Let's go to Saket Kalia at Barclays. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(Saket Kalia: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+129.9661417322834609 473.3860629921259147 Td
+(Okay, great. Thanks for taking my question Brett, maybe for you. Can we just talk a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(little bit about new logo business in the quarter? I mean, I think we were all prepared for what) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(was going to happen to net revenue retention but it seems like the new logo part of the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 388.3466929133857661 Td
+(business stabilized this quarter. Can you just talk about what drove that and whether that trend) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(is something that can continue going into next year?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 317.480551181102328 Td
+(Yes. I mean frankly, we'd like the new logo numbers to be higher. I mean it was 150) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(quarter- over-quarter. One of the things that we've been obviously working on is the hunter) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 260.7876377952754865 Td
+(farmer model to try to improve that. That's 1 piece of the formula, right? Hunter-farmer is both) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 232.4411811023621794 Td
+(new logos and also upsells as well. But yes, we think we can do better than where we are. And) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Frankly, the good news is, look at our solid results we can produce when really mainly selling) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(cross-sells, right?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 133.2285826771652637 Td
+(If you look at the current RPO growth of 13%, total RPO growth of 19%. There's a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(lot of opportunity inside the customer base at this point. I mean, Todd talked about earlier with) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(15% of the bookings coming from these newer products. But ultimately, that's just scratching) Tj
+ET
+endstream
+endobj
+57 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 58 0 R
+>>
+endobj
+58 0 obj
+<<
+/Length 4011
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(the surface. We have a ton of opportunity inside the customer base. But to be clear, we want to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(be able to grow the logo count faster than this.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 700.15771653543311 Td
+(Like I said, the good news is we've done a lot with the larger customers and also) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(created $100,000, the $1 million cohort, so we've definitely have helped ourselves. But we look) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(forward to producing frankly better than this.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 600.9451181102361943 Td
+(Next up, we have Patrick Colville at Scotiabank. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(Patrick Colville: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+148.366141732283495 558.42543307086612 Td
+(All right. Thank you so much for taking my question. I guess, Brett and Todd, I) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(mean, if I look back at this year 2024 to me, the standout success has been Okta's rapidly) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(improving profitability. This time last year, you set the initial guide margins in fiscal '25 at 17%.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(In the press release, if now up to 22%. So I guess a 5-point beat. How should we think about) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(Okta's ability to outperform your initial guide of 22% next year?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(Patrick Colville: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+148.366141732283495 402.5199212598424765 Td
+(And then also just, I guess, give us some color on how you're thinking about) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(hiring because it looks like hiring has kind of picked up the last couple of quarters? All right,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(thank you.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 303.3073228346455608 Td
+(Yes. From a profitability perspective, one of the things that we've talked about a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(little bit on this call is we really want to lean more into growth. If you think about the rule of 40,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(right, is the lens we manage the company through for years now. We want to lean more into the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(growth side of the equation. And so I wouldn't necessarily expect a bunch of upside. I mean we) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(definitely set the guidance where we think it's achievable.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 147.4018110236219172 Td
+(But we do want to invest into the opportunity because we do see it out there.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(You've heard Todd's comments throughout this entire call of optimism of how we can go and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(get more of the market. And so we don't want to sit here and say, hey, the profitability is going) Tj
+ET
+endstream
+endobj
+59 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 60 0 R
+>>
+endobj
+60 0 obj
+<<
+/Length 4020
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(to be way higher than what we've already guided to you because we want to go after that huge) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(market opportunity. And we're making obviously all these changes and these investments,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(think about security Todd talked about earlier.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 671.8112598425196893 Td
+(The product innovation coming off the line has been really good, and we think we) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(can expect more of that, the specialization topics we've talked about today, investing more in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(partners. These are all growth drivers. We really want to get after growth. And we are) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(comfortable with the guidance we've given you here today, both top and bottom-line.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 544.2522047244094665 Td
+(Patrick Colville : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.1661417322834779 544.2522047244094665 Td
+(Thank you so much. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 501.7325196850393354 Td
+(Next up is Rob Owens at Piper. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(Rob Owens: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.866141732283495 459.2128346456692611 Td
+(Great. Thanks Dave and good afternoon. Todd, I want to build on some of the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(comments that you made earlier and appreciate kind of the overview of where we are in terms) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(of identity. And I think Brett said, we should be doing better from a new customer perspective.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(And frankly, I would agree. So where is the market just in terms of being dynamic around) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(customers wanting to switch at this point? We continue to hear identities broken is the reason) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(that most of these breaches occur in the first place.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(Rob Owens: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+131.866141732283495 274.9608661417322537 Td
+(So why isn't that more dynamic? And you've put this hunter-farmer model in nine) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(months ago, and I realize these things take time, but I would expect that [150] \(ph\) kind of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(quarter-over-quarter number to start to improve here. So where is the governing factor in that,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(especially relative to I think your broader comments of where identity is right now?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 147.4018110236219172 Td
+(Yes. Yes, I think the customer count number is a little bit -- it shows more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(about the SMB market because that obviously is the logos are -- more logos down there versus) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(if you look at the customer count growing in the 100,000 plus, it's up 8% versus a smaller) Tj
+ET
+endstream
+endobj
+61 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 62 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 4116
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(number below [100,000] \(ph\). So that's one quantitative thing. But I think one interesting thing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(about your question is just I was at a dinner last week, I was in Australia traveling, visiting a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(bunch of customers and prospects down there. And I was a dinner of a bunch of partners, a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(bunch of systems integrators of ours and talking to them about how things are going.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 643.4648031496062686 Td
+(And I was asking them about identity compared to other parts of cyber and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(what's the dynamic? And they said also the same thing which is these are people in the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(trenches doing these deals with customers, rolling out products. When they look around and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(they see what's the easiest to change, other things are easier to change sometimes. It's easier) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(to put something on the endpoint. It is easier to change out your firewall, identity is harder to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(change.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 459.2128346456692611 Td
+(But the upside of changing it is quite important, especially when you consider) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(8 out of 10 breaches are caused by identity. So I think in some cases, it is going to be slower,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(but we just have to be patient because we have by far, the best products. We have – we are in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(this very unique position where in terms of scale and modern technology and product suite) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(and independence and neutrality, there is no one else out there. And so we've got to just keep) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(executing, keep working hard, keep innovating, keep meeting customers where they are and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(we'll be just fine with the plans and the strategies and the efficiencies we're demonstrating.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 246.614409448818833 Td
+(Next, we'll go to Peter Levine at Evercore. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Peter Levine: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+136.0661417322834836 204.0947244094487587 Td
+(Thanks guys for putting me in. Todd, you were talking about AI, but you're) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(starting to see somewhat of an explosion of like non-identity non-employee identities, the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(machine identities, bots, can you maybe talk to us about what you're seeing across your) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(customers in terms of, a, like the usage around AI and those identities that are coming out to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(their network. And then, b, from your perspective, like how do you monetize that, right? If) Tj
+ET
+endstream
+endobj
+63 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 64 0 R
+>>
+endobj
+64 0 obj
+<<
+/Length 4085
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(there's more identities to protect non-employee identities, like what are your plans over the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(next, call it, 12, 18 months in terms of monetizing some of the adoption or the initial adoption of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(AI?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 671.8112598425196893 Td
+(Yes. I would say there's 4 things. And 2 of them you've probably heard me talk) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(about and 2 of them you probably have it. The first 2 are -- the most obvious thing is there is a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(whole new generation of apps and SaaS apps and innovations that people need to log into. And) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(we're the identity layer from a customer identity perspective and some of the biggest in the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(world and a lot of smaller ones that you haven't heard of yet, but you will hear of.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 515.9057480314959321 Td
+(And this -- which is why, by the way, the developer focus is so important) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(because that whole generation of tech is being built. Second thing is that we have Okta AI,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(which we talked a lot about a couple of years ago, and we continue to work on that. And it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(really starting to help these new products like identity threat protection with Okta AI. The model) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(inside of identity threat protection and how that works is AI is a big part of the product) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(functionality -- so those two, you probably heard me talk about before.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 331.6537795275589815 Td
+(Some really interesting new areas are we have something we talked about an) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(octane called Auth for Gen AI, which is basically authentication platform for agents. Everyone) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(is very excited about agents as they should be. I mean we used to call them bots, right? 4, 5) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(years ago, they're called bots. Now they're called agents, like what's the big deal? How different) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(is it? Well, you can interact with them natural languages and they can -- they can do a lot more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(with these models.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 147.4018110236219172 Td
+(So now it's like bots are real in real time. But the problem is all of these bots) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(and all of these platforms to build bots, they have the equivalent of the monitor sticky notes) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(with passwords on them, they have the equivalent of that inside the bot. So there's no protocol) Tj
+ET
+endstream
+endobj
+65 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 66 0 R
+>>
+endobj
+66 0 obj
+<<
+/Length 4089
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(for single sign-on for bots. They have like stored passwords in the bot. And if that bot gets) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(hacked, guess what? You signed up for that bot and it has access to your calendar and has) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(access to your travel booking and has access to your company e-mail and your company data,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(that's gone because the hacker is going to get all those passwords out there.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 643.4648031496062686 Td
+(So Auth for Gen AI automates that and make sure you can have a secure) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(protocol to build a bot around. And so that's a really interesting area. It's very new. We just) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(announced it and all these agent frameworks and so forth are new. But I think it goes back to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(this idea where there is a lot of profound innovation and new applications and services in the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(AI revolution, but a lot of it is just a magnification of the same problems, whether it's whether) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(it's more apps, we need to secure better customer experiences, more integrated, we need to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(build, not having passwords on our monitors, having single sign-on in the case of people and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(in the case of bots, we're relevant in all those things, and it's pretty exciting to watch it happen) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(and see, frankly it is a lot of potential right now in terms of our business, but the potential is) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 388.3466929133857661 Td
+(large.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(Peter Levine: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+136.0661417322834836 345.8270078740156919 Td
+(You never just share just the monetization. How do you plan on charging for that?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(And if you are charging today, but just really like to bring out like what --.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 274.9608661417322537 Td
+(There's different like obviously -- yes, monetization. There's obviously like) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(Identity Threat Protection as a product. So we sell that as an upsell. Auth for GenAI, it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(basically like, think about it as per machine authentication. So every time we have this feature) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(called machine-to-machine, which does a similar thing today, and you pay basically by the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(monthly active machine.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(Peter Levine : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+138.8661417322834666 119.0553543307086102 Td
+(Thank you. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 76.5356692913385359 Td
+(We're at the top of the hour, where we're going to try to take a few more here.) Tj
+ET
+endstream
+endobj
+67 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 68 0 R
+>>
+endobj
+68 0 obj
+<<
+/Length 4082
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(Let's go to Trevor at JMP.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Trevor Walsh: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+138.4661417322834893 728.5041732283464171 Td
+(Great, thanks Dave. Thanks for taking the question. Todd, maybe for you, just a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(clarification and then a question. You made some comments earlier around the context of OIG) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(and it sounded like maybe for the privileged access product to around just the competitive) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(landscape. And that you weren't necessarily running into maybe what I would have expected as) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(sort of the standard set of competitors or suspects there.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 572.5986614173227736 Td
+(Trevor Walsh: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+138.4661417322834893 572.5986614173227736 Td
+(So curious if that's because you're just not necessarily going after those) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 544.2522047244094665 Td
+(displacements as aggressively kind of in the field because we know your kind of products have) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(been kind of -- you've said yourself kind of 1.0 or not looking to necessarily do that? And if) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(that's the case, kind of as you move into next year and beyond, and that's going to be a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(stimulant for growth, what do you have to -- will you just start kind of flipping the switch and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(going after them more aggressively vis-a- vis competitors or does there need to be a [change]) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(\(ph\)?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 360.0002362204724022 Td
+(I don't think -- we don't have to replace SailPoint on-prem for SAP to have a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(large business. So maybe just a little bit of the details there. But I don't think that for us to win) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(we have to take out SailPoint on-premise. It's just not practical. People, when they get a system) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(installed and integrated and they spend three years, these things are hard to get installed and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(integrated. And when they spend three years doing it, they're not going to take it out.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 204.0947244094487587 Td
+(It's just -- it's like I would -- if you just want to invest in SailPoint as a long) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(term -- it's not going to be a big growth story, but it's going to be a good business for a long) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(time just because they have a good installed base and we're not going to take that out. But it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(also not a very big company. And we think that the market for governance as the more and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(more of it moves to cloud and there's better products like ours that are easier to use and more) Tj
+ET
+endstream
+endobj
+69 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 70 0 R
+>>
+endobj
+70 0 obj
+<<
+/Length 4095
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(integrated think the market's eventually 5 or 10 times bigger than what it is now. We're going to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(have a big share of that.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 700.15771653543311 Td
+(So that's kind of what I'm trying to say. I think it's a little bit nuanced. It'd be) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(easier to think about it if it was like Okta takes out all SailPoint's business, but it's just not) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(realistic. And by the way, we don't have to. We can cover these new use cases, which are going) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(to -- which by the way, is kind of the story of Okta. Like when we started Okta, people said, you) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(should -- you can't start an access management company in the cloud.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 544.2522047244094665 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 544.2522047244094665 Td
+(There's not enough in the cloud. You have to do on-prem and you have to like) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(take maybe some software and hosted and we said, no, we are going to build a modern thing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(that's pre-integrated and very flexible and fast to get value from them, and that's where the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(world is headed and that's where we're going to be. So we've taken the same tact with both) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(privilege and governance. And I think if you think about the competitive landscape and the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(strategy of it, what's the right position to be in?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 360.0002362204724022 Td
+(Would you rather be starting from governance and starting from privilege) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(on-premise and going out to try to build a full suite? Or would you start from our almost 20,000) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(customers and building some of these new capabilities around that, I would argue we're in a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(better position, but I'm sure those other vendors probably have their own opinions and we'll) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(see who wins.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 204.0947244094487587 Td
+(Next, we have Brian Essex at JPMorgan. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(Brian Essex: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+133.8661417322834666 161.5750393700786844 Td
+(Good afternoon. Thanks for taking the question. Yes, I want to dig into the new) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(products. It's great to see the traction there. 15% of the bookings is a great result. I want to see) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(if we could peel back another layer, what percentage came from new versus existing? And how) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(do you think about expanding with new products into existing customers versus larger lands) Tj
+ET
+endstream
+endobj
+71 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 72 0 R
+>>
+endobj
+72 0 obj
+<<
+/Length 4171
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(with new products into new logos. Where is the bigger opportunity?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Brian Essex: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+133.8661417322834666 728.5041732283464171 Td
+(And how do we think about the momentum there? ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 685.9844881889763428 Td
+(Yes. I think I don't know the exact numbers, but I would -- based on my work) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(with the field and working in deals, I would estimate that it was a majority of it was upsells, but) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(there were some significant new logos. I mentioned the large technology company that had a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(nearly $5 million deal. That was all a new customer. That was multiple products in the suite. So) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 572.5986614173227736 Td
+(there are some -- especially in the larger deals, there's bigger companies.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 530.0789763779526993 Td
+(And I think what -- and it's kind of like micro a good example of a lot of things) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(we've been talking about, which is larger companies are -- have their budget set, they have) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(their initiatives, they have their projects. Even if they're maybe longer term, they're executing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(on them, they're more likely to do a strategic thing like identity that might have a longer-term) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(payback than a quicker, maybe another initiative that might be quicker payback or not take as) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 388.3466929133857661 Td
+(much work to get it going. And they are also the suite we are offering where you can get access) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(and governance and privilege from a single vendor is appealing because they realize that they) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(can -- they probably have a bunch of different little vendors, doing niche things and they can) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(have more cost savings of consolidating. And then the other thing too is that they understand) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(the value of neutrality.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 232.4411811023621794 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 232.4411811023621794 Td
+(And they understand the value of technology and how not being locked in,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(can be a big advantage. So I think that's why you're seeing the business naturally gravitate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(toward bigger companies. And the $1 million-plus cohort now for Okta is $1 billion of revenue,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(which is great. But I also think we have a ton of opportunity there because a lot of these deals) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(are -- I mentioned the big technology company.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 76.5356692913385359 Td
+(It's like it's a $5 million deal, and that's really like 1/3 of their state. We have a) Tj
+ET
+endstream
+endobj
+73 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 74 0 R
+>>
+endobj
+74 0 obj
+<<
+/Length 3904
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(lot of opportunity just in that account. So it is exciting.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Brian Essex: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+133.8661417322834666 728.5041732283464171 Td
+(So this sounds still like more of a farmer versus hunter opportunity, but hunter) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(getting some traction.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 657.6380314960629221 Td
+(Yes, I think that's probably right, yes. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 615.1183464566928478 Td
+(Yes, I would agree with that, Brian. I would say that, yes, the math does suggest it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(more upsell than new business. But I think what's interesting is as the products mature, then) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(you're going to be able to add more new customers with them. So -- it's basically what we've) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(done in every other product category that we've entered. So we started out with something) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(that's I don't want to say basic, but like --.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 459.2128346456692611 Td
+(Someone called it 1.0 earlier. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 416.69314960629913 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 416.69314960629913 Td
+(There you go. That's good. You think it got better over time and you started landing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 388.3466929133857661 Td
+(with it. We've done it with multiple products now. We're going to continue to do that with these) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(newer products, and we're excited about it going forward.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(Brian Essex : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+136.6661417322834779 317.480551181102328 Td
+(Great. It does make sense thank you. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 274.9608661417322537 Td
+(Let's go to [indiscernible] at Truist. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 232.4411811023621794 Td
+(Unidentified Analyst: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+173.2661417322835007 232.4411811023621794 Td
+(Great. Thank you for taking my question. You mentioned the governance) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(solution representing around 1/3 of the contract value and sold in a workforce deal. How) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(should we think about pricing uplift with some of your newer solutions like Privileged Access) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(and Threat Protection and others?) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 104.882125984251843 Td
+(I think the -- on privileged access, we are – it is earlier. We don't have as many) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(customers. Governance has -- is close to 1,000 customers. So it's -- we have much more data) Tj
+ET
+endstream
+endobj
+75 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 76 0 R
+>>
+endobj
+76 0 obj
+<<
+/Length 4061
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(on that. But privileged access looks like it's going to be in the same zone. -- in terms of -- it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(could be a -- if there's no governance or privilege in a deal and you add privilege, it could be) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(30% of the value. And then identity threat protection is probably the furthest along after that.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 671.8112598425196893 Td
+(And it's a similar type of uplift to advance multifactor. So it's a significant type) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(uplift on the deal.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 600.9451181102361943 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 600.9451181102361943 Td
+(Great. Next, we'll go to Adam Borg at Stifel. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(Adam Borg: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+130.7661417322835007 558.42543307086612 Td
+(Awesome. Thanks for fitting me in. Maybe for Todd, just on the emerging products) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(front, it's great to see the green shoots and the upcoming specialization that we talked about) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 501.7325196850393354 Td
+(on the call. As we think about fiscal '26, how do we think about the packaging and pricing side?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 473.3860629921259147 Td
+(Any changes there given these newer solutions to coincide with the new specializations that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 445.0396062992125508 Td
+(you're talking about? Thanks so much.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 402.5199212598424765 Td
+(We have a bunch of things we are modeling out and experiments we're doing.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(I think the main idea is our pricing right now is pretty a la carte. And we're looking at more kind) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(of additions or simplified pricing. We're seeing good patterns of how people buy, good, better,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(best, and we're looking at some ideas on how to make that easier for customers to consume,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 289.1340944881889072 Td
+(not so much take every option in every specific product one by one.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(Adam Borg : ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+133.5661417322834836 246.614409448818833 Td
+(Great. Thanks so much. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 204.0947244094487587 Td
+(Okay. We'll go to Fatima Boolani at Citi. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(Fatima Boolani: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+148.4661417322835177 161.5750393700786844 Td
+(Thank you so much for taking my questions. Todd, I wanted to ask you about) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 133.2285826771652637 Td
+(the international business. Look, the North American business has gotten a lot of TLC with) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 104.882125984251843 Td
+(respect to some of the changes you've made from a go-to-market perspective, i.e., the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(hunter-farmer bifurcation that you talked about earlier in the year. But if you can kind of give us) Tj
+ET
+endstream
+endobj
+77 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 78 0 R
+>>
+endobj
+78 0 obj
+<<
+/Length 3992
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(a sense in objective position of why the international business slowed down, I think I have) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(some ideas.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 700.15771653543311 Td
+(Fatima Boolani: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+148.4661417322835177 700.15771653543311 Td
+(But if you can sort of comment on what you're seeing in terms of business and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(demand dynamics? And then, Brett, anything you can share on some of the metrics that we see) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(across the business? Are they better or worse from an operational perspective when just) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(looking at the international ones? Thank you.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 572.5986614173227736 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 572.5986614173227736 Td
+(It's an important part of our business that I'm spending personally time) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 544.2522047244094665 Td
+(international. I mentioned I was in Australia and Asia just last week. I think I'm very happy with) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(the teams there. We've had a new leader in Europe now for coming up on -- this will be the third) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(quarter, I believe. And Europe, I think, is has a little bit of a tougher economic situation than) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(North America. So some of that -- the macro is, as we mentioned before, the macro has been) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(consistent, but I would say over the last 3 or 4 quarters, macro Europe has been consistently) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(tougher, the North America.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 360.0002362204724022 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 360.0002362204724022 Td
+(And so -- and then -- but in terms of like the opportunity and the push for) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 331.6537795275589815 Td
+(security and the way the solutions resonate, it is pretty universal. So I think maybe the -- in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 303.3073228346455608 Td
+(terms of like team performance and product portfolio and capabilities and focus I think we have) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(a significant growth opportunity in international, and we are set up to execute on it over the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(next few quarters.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 204.0947244094487587 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 204.0947244094487587 Td
+(Yes, I would just add, it is an area that we are really also focused on from a partner) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 175.748267716535338 Td
+(perspective, right? You've heard about the MSPs. We've heard about GSIs, all these different) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 147.4018110236219172 Td
+(and even the traditional VARs, I mean there's a lot of opportunity in international that we need) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(to tap into through those partnership channels. In terms of the metrics if they look any) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 90.7088976377951894 Td
+(different, they are not wildly different enough to talk about other than what Todd just said,) Tj
+ET
+endstream
+endobj
+79 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 80 0 R
+>>
+endobj
+80 0 obj
+<<
+/Length 4156
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(which is from a macro perspective, it does seem to be a little bit more challenging.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 728.5041732283464171 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 728.5041732283464171 Td
+(And that's as much as I've got. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 685.9844881889763428 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 685.9844881889763428 Td
+(Okay. We'll round this out with the last question from Peter Weed at Bernstein.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(Peter Weed: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+130.2661417322834723 643.4648031496062686 Td
+(Hi, thank you so much. I appreciate you going over time and actually all the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 615.1183464566928478 Td
+(questions you've taken. I think one of the exciting things that you've highlighted is you kind of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 586.7718897637794271 Td
+(see the light at the end of the tone for kind of the peak of the backlog in people downgrading) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 558.42543307086612 Td
+(and these types of things kind of in mid-year 2026. Obviously, that's not like a cliff where like) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 530.0789763779526993 Td
+(just like it turns off all at once but rather kind of will be a gradual thing over time.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 487.559291338582625 Td
+(Peter Weed: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+130.2661417322834723 487.559291338582625 Td
+(As we're kind of thinking about our models, I mean, is this something where we) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 459.2128346456692611 Td
+(should think about the kind of the curves over 12 to 18 months where that kind of slowly) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 430.8663779527558404 Td
+(degrades and obviously, we shouldn't be taking as the basis, the greater than 120% NRR that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 402.5199212598424765 Td
+(was out there before as maybe where it could get back to. But is the degree of headwind that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 374.1734645669290558 Td
+(ends up going away, is that 300, 500 basis points of headwind over that kind of 12 to 18) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 345.8270078740156919 Td
+(months. So like help us dimensionalize some of that so that we kind of think about the timing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 317.480551181102328 Td
+(and where that should have impact.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 274.9608661417322537 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 274.9608661417322537 Td
+(Yes. I would say that's a good point about it's not a cliff. It just gets lessened. So) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 246.614409448818833 Td
+(thank you for saying that, Peter. So hopefully, everybody heard that. But in terms of the NRR) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 218.2679527559054122 Td
+(expectations, throughout FY '26. Let us get through Q4 biggest quarter of the year for us and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 189.9214960629919915 Td
+(then let us finish our financial plan, and then I'll be able to tell you more about NRR for FY '26) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 161.5750393700786844 Td
+(because we'll just have a whole lot more information than we do right now.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 119.0553543307086102 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 119.0553543307086102 Td
+(So we are excited for it. Thank you. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 76.5356692913385359 Td
+(Dave Gennarelli: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+152.2661417322834723 76.5356692913385359 Td
+(Great. Well, thanks, everybody, for sticking with us for the call. Before we go, I) Tj
+ET
+endstream
+endobj
+81 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 82 0 R
+>>
+endobj
+82 0 obj
+<<
+/Length 898
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 771.0238582677164914 Td
+(just want to let you know that in addition to hosting several on-site and virtual bus tours,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(through December and January, we'll be attending the Scotiabank Global Tech Conference in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 714.3309448818897636 Td
+(San Francisco on December 10. So we hope to see you at one of those events. Thank you.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 671.8112598425196893 Td
+(Todd McKinnon: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+151.5661417322834836 671.8112598425196893 Td
+(Bye, everyone. ) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+70.8661417322834666 629.291574803149615 Td
+(Brett Tighe: ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+128.5661417322834552 629.291574803149615 Td
+(Thanks, everyone. ) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R ]
+/Count 40
+>>
+endobj
+83 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+84 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+85 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+86 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+87 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+88 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+89 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+90 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+91 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+92 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+93 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+94 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+95 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+96 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 83 0 R
+/F2 84 0 R
+/F3 85 0 R
+/F4 86 0 R
+/F5 87 0 R
+/F6 88 0 R
+/F7 89 0 R
+/F8 90 0 R
+/F9 91 0 R
+/F10 92 0 R
+/F11 93 0 R
+/F12 94 0 R
+/F13 95 0 R
+/F14 96 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+97 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20250420213430+05'00')
+>>
+endobj
+98 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 99
+0000000000 65535 f 
+0000168065 00000 n 
+0000170158 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004237 00000 n 
+0000004374 00000 n 
+0000008454 00000 n 
+0000008591 00000 n 
+0000012687 00000 n 
+0000012825 00000 n 
+0000016954 00000 n 
+0000017093 00000 n 
+0000021411 00000 n 
+0000021550 00000 n 
+0000025723 00000 n 
+0000025862 00000 n 
+0000029886 00000 n 
+0000030025 00000 n 
+0000034075 00000 n 
+0000034214 00000 n 
+0000038145 00000 n 
+0000038284 00000 n 
+0000042577 00000 n 
+0000042716 00000 n 
+0000047039 00000 n 
+0000047178 00000 n 
+0000051280 00000 n 
+0000051419 00000 n 
+0000055632 00000 n 
+0000055771 00000 n 
+0000059957 00000 n 
+0000060096 00000 n 
+0000064321 00000 n 
+0000064460 00000 n 
+0000068649 00000 n 
+0000068788 00000 n 
+0000072594 00000 n 
+0000072733 00000 n 
+0000077009 00000 n 
+0000077148 00000 n 
+0000081257 00000 n 
+0000081396 00000 n 
+0000085519 00000 n 
+0000085658 00000 n 
+0000090005 00000 n 
+0000090144 00000 n 
+0000094213 00000 n 
+0000094352 00000 n 
+0000098464 00000 n 
+0000098603 00000 n 
+0000102807 00000 n 
+0000102946 00000 n 
+0000107193 00000 n 
+0000107332 00000 n 
+0000111533 00000 n 
+0000111672 00000 n 
+0000115890 00000 n 
+0000116029 00000 n 
+0000120093 00000 n 
+0000120232 00000 n 
+0000124305 00000 n 
+0000124444 00000 n 
+0000128613 00000 n 
+0000128752 00000 n 
+0000132890 00000 n 
+0000133029 00000 n 
+0000137171 00000 n 
+0000137310 00000 n 
+0000141445 00000 n 
+0000141584 00000 n 
+0000145732 00000 n 
+0000145871 00000 n 
+0000150095 00000 n 
+0000150234 00000 n 
+0000154191 00000 n 
+0000154330 00000 n 
+0000158444 00000 n 
+0000158583 00000 n 
+0000162628 00000 n 
+0000162767 00000 n 
+0000166976 00000 n 
+0000167115 00000 n 
+0000168393 00000 n 
+0000168519 00000 n 
+0000168650 00000 n 
+0000168784 00000 n 
+0000168922 00000 n 
+0000169046 00000 n 
+0000169175 00000 n 
+0000169307 00000 n 
+0000169443 00000 n 
+0000169571 00000 n 
+0000169698 00000 n 
+0000169827 00000 n 
+0000169960 00000 n 
+0000170062 00000 n 
+0000170411 00000 n 
+0000170497 00000 n 
+trailer
+<<
+/Size 99
+/Root 98 0 R
+/Info 97 0 R
+/ID [ <3F956E2DA74B71A2EF3E4FDB565D4BF3> <3F956E2DA74B71A2EF3E4FDB565D4BF3> ]
+>>
+startxref
+170601
+%%EOF
