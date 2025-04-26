@@ -48,7 +48,7 @@ lis = [
 #  ("DLB", "https://finchat.io/company/NYSE-DLB/investor-relations/", 'false'),
 #  ("SNDK", "https://finchat.io/company/NasdaqGS-SNDK/investor-relations/", 'false'),
 #  ("AVT", "https://finchat.io/company/NasdaqGS-AVT/investor-relations/", "false"),
-#  ("PEGA", "https://finchat.io/company/NasdaqGS-PEGA/investor-relations/", "false"),
+ ("PEGA", "https://finchat.io/company/NasdaqGS-PEGA/investor-relations/", "false"),
 #  ("DXC", "https://finchat.io/company/NYSE-DXC/investor-relations/", "false"),
 #  ('IAC', "https://finchat.io/company/NasdaqGS-IAC/investor-relations/", "false"),
 #  ('ALGM', "https://finchat.io/company/NasdaqGS-ALGM/investor-relations/", "false"),
