@@ -2,9 +2,9 @@ import os
 import json
 import requests
 from PyPDF2 import PdfReader
+from PyPDF2.errors import PdfReadError
 import logging
 from datetime import datetime
-
 
 # Configure logging
 logging.basicConfig(filename='logs/errors.log', level=logging.ERROR,
@@ -37,6 +37,9 @@ def count_pdf_pages(pdf_path):
         with open(pdf_path, 'rb') as file:
             reader = PdfReader(file)
             return len(reader.pages)
+    except PdfReadError as e:
+        logging.error(f"PDF read error in {pdf_path}: {e}")
+        return 0
     except Exception as e:
         logging.error(f"Error counting pages in {pdf_path}: {e}")
         return 0
@@ -60,6 +63,10 @@ def process_json_file(file_path):
                 if downloaded_path:
                     total_pages += count_pdf_pages(downloaded_path)
                     os.remove(downloaded_path)  # Clean up downloaded file
+    except FileNotFoundError as e:
+        logging.error(f"File not found: {file_path}: {e}")
+    except json.JSONDecodeError as e:
+        logging.error(f"JSON decode error in {file_path}: {e}")
     except Exception as e:
         logging.error(f"Error processing {file_path}: {e}")
     return total_pages
@@ -85,7 +92,7 @@ def main(folder_path, results_file):
             update_results_json(results_file, equity, total_pages)
 
 # Example usage
-folder_path = 'Completed/US_Technology'
-results_file = 'Completed/us_tech.json'
+folder_path = 'Completed/US_Consumer_Discretionary'
+results_file = 'Completed/us_Consumer_Discretionary.json'
 main(folder_path, results_file)
 download_pdf('https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2024-12-03/Okta%2C%20Inc._2024-12-03_transcript/Okta%2C%20Inc._2024-12-03_transcript.pdf%5COkta%2C%20Inc._2024-12-03_transcript.pdf', 'sdsadsa.pdf')
