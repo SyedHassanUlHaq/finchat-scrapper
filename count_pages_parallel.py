@@ -4,7 +4,7 @@ import requests
 from PyPDF2 import PdfReader
 import logging
 from datetime import datetime
-
+from multiprocessing import Pool, cpu_count
 
 # Configure logging
 logging.basicConfig(filename='logs/errors.log', level=logging.ERROR,
@@ -13,7 +13,6 @@ logging.basicConfig(filename='logs/errors.log', level=logging.ERROR,
 def download_pdf(url, local_path):
     print(url)
     try:
-        # logging.info(f"Attempting to download {url}")
         response = requests.get(url, stream=True)
         response.raise_for_status()
 
@@ -26,7 +25,6 @@ def download_pdf(url, local_path):
             for chunk in response.iter_content(chunk_size=8192):
                 file.write(chunk)
 
-        # logging.info(f"Successfully downloaded {url} to {local_path}")
         return local_path
     except requests.RequestException as e:
         logging.error(f"Error downloading {url}: {e}")
@@ -65,7 +63,7 @@ def process_json_file(file_path):
             logging.error(f"Last published date in {file_path}: {date}")
     except Exception as e:
         logging.error(f"Error processing {file_path}: {e}")
-    return total_pages
+    return total_pages, os.path.splitext(os.path.basename(file_path))[0]
 
 def update_results_json(results_file, equity, count):
     if os.path.exists(results_file):
@@ -79,16 +77,17 @@ def update_results_json(results_file, equity, count):
     with open(results_file, 'w') as file:
         json.dump(results, file, indent=4)
 
+def worker(file_path, results_file):
+    total_pages, equity = process_json_file(file_path)
+    update_results_json(results_file, equity, total_pages)
+
 def main(folder_path, results_file):
-    for filename in os.listdir(folder_path):
-        if filename.endswith('.json'):
-            file_path = os.path.join(folder_path, filename)
-            equity = os.path.splitext(filename)[0]
-            total_pages = process_json_file(file_path)
-            update_results_json(results_file, equity, total_pages)
+    file_paths = [os.path.join(folder_path, filename) for filename in os.listdir(folder_path) if filename.endswith('.json')]
+
+    with Pool(cpu_count()) as pool:
+        pool.starmap(worker, [(file_path, results_file) for file_path in file_paths])
 
 # Example usage
 folder_path = 'Completed/US_Technology'
 results_file = 'Completed/us_tech.json'
 main(folder_path, results_file)
-download_pdf('https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2024-12-03/Okta%2C%20Inc._2024-12-03_transcript/Okta%2C%20Inc._2024-12-03_transcript.pdf%5COkta%2C%20Inc._2024-12-03_transcript.pdf', 'sdsadsa.pdf')
