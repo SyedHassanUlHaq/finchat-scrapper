@@ -85,7 +85,7 @@ def main(folder_path, results_file):
             update_results_json(results_file, equity, total_pages)
 
 # Example usage
-folder_path = 'Completed/US_Technology'
-results_file = 'Completed/us_tech.json'
+folder_path = 'Completed/US_consumer_staples'
+results_file = 'Completed/us_consumer.json'
 main(folder_path, results_file)
 download_pdf('https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2024-12-03/Okta%2C%20Inc._2024-12-03_transcript/Okta%2C%20Inc._2024-12-03_transcript.pdf%5COkta%2C%20Inc._2024-12-03_transcript.pdf', 'sdsadsa.pdf')
