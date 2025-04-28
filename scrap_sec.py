@@ -23,7 +23,7 @@ def fetch_sec_filings(symbol, api_key, filing_type):
     return get_jsonparsed_data(url)
 
 api_key = "P3jycMiIDB3fujYc6f2YpwfOBIzUSag1"
-symbol = "ARM"
+symbol = "CELH"
 filing_types = ["10-K", "10-Q"]
 
 all_filings = []

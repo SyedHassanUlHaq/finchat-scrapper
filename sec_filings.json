@@ -1,1 +1,443 @@
-[]
+[
+    {
+        "symbol": "CELH",
+        "fillingDate": "2025-03-03 00:00:00",
+        "acceptedDate": "2025-03-03 16:02:01",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176625000024/0001341766-25-000024-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000134176625000024/celh-20241231.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2024-02-29 00:00:00",
+        "acceptedDate": "2024-02-28 20:59:46",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176624000015/0001341766-24-000015-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000134176624000015/celh-20231231.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2023-03-01 00:00:00",
+        "acceptedDate": "2023-03-01 17:16:32",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000095017023005612/0000950170-23-005612-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000095017023005612/celh-20221231.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2022-03-16 00:00:00",
+        "acceptedDate": "2022-03-16 17:16:56",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022003965/0000950170-22-003965-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022003965/celh-20211231.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2022-03-01 00:00:00",
+        "acceptedDate": "2022-03-01 16:17:36",
+        "cik": "0001341766",
+        "type": "NT 10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000182912622004838/0001829126-22-004838-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000182912622004838/celsiusholdings_nt10k.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2021-03-11 00:00:00",
+        "acceptedDate": "2021-03-11 08:40:05",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000182912621001412/0001829126-21-001412-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000182912621001412/celsiusholdings_10k.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2020-03-12 00:00:00",
+        "acceptedDate": "2020-03-12 08:33:46",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390020006069/0001213900-20-006069-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390020006069/f10k2019_celsiusholdingsinc.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2019-03-14 00:00:00",
+        "acceptedDate": "2019-03-14 08:56:08",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577419004030/0001615774-19-004030-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577419004030/s116616_10k.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2018-03-08 00:00:00",
+        "acceptedDate": "2018-03-08 16:02:58",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577418001689/0001615774-18-001689-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577418001689/s109237_10k.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2017-03-30 00:00:00",
+        "acceptedDate": "2017-03-30 16:02:20",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577417001341/0001615774-17-001341-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577417001341/s105632_10k.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2011-03-31 00:00:00",
+        "acceptedDate": "2011-03-31 08:00:31",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390011001621/0001213900-11-001621-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390011001621/f10k2010_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2010-03-10 00:00:00",
+        "acceptedDate": "2010-03-10 15:47:11",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390010000848/0001213900-10-000848-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390010000848/f10k2009_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2009-03-09 00:00:00",
+        "acceptedDate": "2009-03-09 11:59:31",
+        "cik": "0001341766",
+        "type": "10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390009000466/0001213900-09-000466-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390009000466/f10k2008_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2006-12-29 00:00:00",
+        "acceptedDate": "2006-12-29 17:07:00",
+        "cik": "0001341766",
+        "type": "NT 10-K",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000122150806000112/0001221508-06-000112-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000122150806000112/nt10ksep302006.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2024-11-06 00:00:00",
+        "acceptedDate": "2024-11-05 21:22:16",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176624000093/0001341766-24-000093-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000134176624000093/celh-20240930.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2024-08-06 00:00:00",
+        "acceptedDate": "2024-08-05 19:30:30",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176624000057/0001341766-24-000057-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000134176624000057/celh-20240630.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2024-05-07 00:00:00",
+        "acceptedDate": "2024-05-06 19:28:22",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176624000029/0001341766-24-000029-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000134176624000029/celh-20240331.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2023-11-07 00:00:00",
+        "acceptedDate": "2023-11-06 19:14:03",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176623000035/0001341766-23-000035-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000134176623000035/celh-20230930.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2023-08-08 00:00:00",
+        "acceptedDate": "2023-08-08 16:07:22",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176623000013/0001341766-23-000013-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000134176623000013/celh-20230630.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2023-05-09 00:00:00",
+        "acceptedDate": "2023-05-09 16:22:11",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000095017023019722/0000950170-23-019722-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000095017023019722/celh-20230331.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2022-11-09 00:00:00",
+        "acceptedDate": "2022-11-09 16:01:49",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022023818/0000950170-22-023818-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022023818/celh-20220930.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2022-08-09 00:00:00",
+        "acceptedDate": "2022-08-09 16:06:37",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022016034/0000950170-22-016034-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022016034/celh-20220630.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2022-05-10 00:00:00",
+        "acceptedDate": "2022-05-10 16:03:16",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022008947/0000950170-22-008947-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022008947/celh-20220331.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2021-11-12 00:00:00",
+        "acceptedDate": "2021-11-12 14:57:06",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000182912621014180/0001829126-21-014180-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000182912621014180/celsiusholdings_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2021-08-12 00:00:00",
+        "acceptedDate": "2021-08-12 08:17:39",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000182912621007909/0001829126-21-007909-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000182912621007909/celsiusholdings_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2021-05-13 00:00:00",
+        "acceptedDate": "2021-05-13 08:15:49",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000182912621003804/0001829126-21-003804-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000182912621003804/celsiusholdings_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2020-11-12 00:00:00",
+        "acceptedDate": "2020-11-12 08:27:41",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390020036371/0001213900-20-036371-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390020036371/f10q0920_celsiusholdings.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2020-08-06 00:00:00",
+        "acceptedDate": "2020-08-06 08:30:45",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390020020515/0001213900-20-020515-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390020020515/f10q0620_celsiusholding.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2020-05-12 00:00:00",
+        "acceptedDate": "2020-05-12 10:47:23",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390020011763/0001213900-20-011763-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390020011763/f10q0320_celsiusholdings.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2019-11-07 00:00:00",
+        "acceptedDate": "2019-11-07 08:31:59",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390019022270/0001213900-19-022270-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390019022270/f10q0919_celsiusholdings.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2019-08-08 00:00:00",
+        "acceptedDate": "2019-08-08 08:31:37",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390019014875/0001213900-19-014875-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390019014875/f10q0619_celsiusholdings.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2019-05-09 00:00:00",
+        "acceptedDate": "2019-05-09 08:32:21",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577419007328/0001615774-19-007328-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577419007328/s118043_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2018-11-08 00:00:00",
+        "acceptedDate": "2018-11-08 16:02:27",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577418012306/0001615774-18-012306-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577418012306/s113852_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2018-08-09 00:00:00",
+        "acceptedDate": "2018-08-09 16:03:22",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577418007796/0001615774-18-007796-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577418007796/s111924_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2018-05-10 00:00:00",
+        "acceptedDate": "2018-05-10 16:02:35",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577418003564/0001615774-18-003564-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577418003564/s110007_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2017-11-08 00:00:00",
+        "acceptedDate": "2017-11-08 16:03:10",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577417006346/0001615774-17-006346-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577417006346/s108003_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2017-08-09 00:00:00",
+        "acceptedDate": "2017-08-09 16:02:32",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577417004181/0001615774-17-004181-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577417004181/s107069_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2017-05-11 00:00:00",
+        "acceptedDate": "2017-05-11 16:02:27",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577417002240/0001615774-17-002240-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577417002240/s106122_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2016-11-10 00:00:00",
+        "acceptedDate": "2016-11-10 16:16:22",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577416008159/0001615774-16-008159-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000161577416008159/s104563_10q.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2011-05-10 00:00:00",
+        "acceptedDate": "2011-05-10 16:14:32",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390011002440/0001213900-11-002440-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390011002440/f10q0311_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2010-11-10 00:00:00",
+        "acceptedDate": "2010-11-10 16:55:49",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390010004578/0001213900-10-004578-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390010004578/f10q0910_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2010-08-12 00:00:00",
+        "acceptedDate": "2010-08-12 12:01:21",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390010003157/0001213900-10-003157-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390010003157/f10q0610_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2010-05-13 00:00:00",
+        "acceptedDate": "2010-05-13 12:21:11",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390010001832/0001213900-10-001832-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390010001832/f10q0310_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2009-11-09 00:00:00",
+        "acceptedDate": "2009-11-06 18:07:19",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390009003042/0001213900-09-003042-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390009003042/f10q0909_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2009-08-05 00:00:00",
+        "acceptedDate": "2009-08-05 17:01:03",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390009001928/0001213900-09-001928-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390009001928/f10q0609_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2009-05-06 00:00:00",
+        "acceptedDate": "2009-05-06 09:27:41",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390009001043/0001213900-09-001043-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390009001043/f10q0309_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2008-11-05 00:00:00",
+        "acceptedDate": "2008-11-05 13:47:41",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390008002153/0001213900-08-002153-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390008002153/f10q0908_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2008-08-11 00:00:00",
+        "acceptedDate": "2008-08-11 16:12:30",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390008001469/0001213900-08-001469-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390008001469/f10q0608_celsius.htm"
+    },
+    {
+        "symbol": "CELH",
+        "fillingDate": "2008-04-29 00:00:00",
+        "acceptedDate": "2008-04-29 16:35:54",
+        "cik": "0001341766",
+        "type": "10-Q",
+        "link": "https://www.sec.gov/Archives/edgar/data/1341766/000121390008000783/0001213900-08-000783-index.htm",
+        "finalLink": "https://www.sec.gov/Archives/edgar/data/1341766/000121390008000783/f10q0308_celsius.htm"
+    }
+]
