@@ -81,13 +81,33 @@ def worker(file_path, results_file):
     total_pages, equity = process_json_file(file_path)
     update_results_json(results_file, equity, total_pages)
 
+def load_existing_equities(results_file):
+    """Load existing equities from the results file."""
+    if not os.path.exists(results_file):
+        return set()
+
+    with open(results_file, 'r') as file:
+        data = json.load(file)
+        return set(item['equity'] for item in data)
+
 def main(folder_path, results_file):
     file_paths = [os.path.join(folder_path, filename) for filename in os.listdir(folder_path) if filename.endswith('.json')]
 
+    # Load existing equities
+    existing_equities = load_existing_equities(results_file)
+
     with Pool(cpu_count()) as pool:
-        pool.starmap(worker, [(file_path, results_file) for file_path in file_paths])
+        for file_path in file_paths:
+            equity_name = os.path.splitext(os.path.basename(file_path))[0]
+            if equity_name in existing_equities:
+                print(f"Skipping {file_path} as it is already in the results file.")
+                continue
+            pool.apply_async(worker, (file_path, results_file))
+
+        pool.close()
+        pool.join()
 
 # Example usage
-folder_path = 'Completed/US_Technology'
-results_file = 'Completed/us_tech.json'
+folder_path = 'Completed/US_Consumer_Discretionary'
+results_file = 'Completed/us_Consumer_Discretionary.json'
 main(folder_path, results_file)
