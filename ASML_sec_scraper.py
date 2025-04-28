@@ -32,12 +32,13 @@ def make_serializable(obj):
         return obj.isoformat()
     return str(obj)
 
-async def save_results_to_json(data):
+async def save_results_to_json(data, equity_ticker):
     try:
         serializable_data = make_serializable(data)
-        async with aiofiles.open(os.path.join(JSONS_DIR, "ARM_sec_filings.json"), "w") as json_file:
+        filename = f"{equity_ticker}_sec_filings.json"
+        async with aiofiles.open(os.path.join(JSONS_DIR, filename), "w") as json_file:
             await json_file.write(json.dumps(serializable_data, indent=4))
-        print(f"✅ Data saved to {JSONS_DIR}/ARM_sec_filings.json")
+        print(f"✅ Data saved to {JSONS_DIR}/{filename}")
     except Exception as e:
         print(f"⚠️ Failed to save JSON file: {e}")
 
@@ -53,14 +54,12 @@ async def accept_cookies(page):
 
 async def enable_stealth(page):
     await page.add_init_script("""
-        Object.defineProperty(navigator, 'webdriver', {
-            get: () => undefined
-        });
+        Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
     """)
 
 async def click_next_page(page):
     try:
-        next_button = await page.query_selector("li.footable-page-nav[data-page='next'] a")
+        next_button = await page.query_selector("li.pager__item--next a")
         if next_button:
             await next_button.click()
             await asyncio.sleep(3)
@@ -110,6 +109,11 @@ async def _extract_inner_html(page, block_selector):
 async def download_pdf(session, url):
     parsed_url = urlparse(url)
     filename = os.path.basename(parsed_url.path)
+
+    # 👉 Force ".pdf" extension
+    if not filename.lower().endswith(".pdf"):
+        filename += ".pdf"
+
     file_path = os.path.join(DOWNLOAD_DIR, filename)
 
     try:
@@ -129,7 +133,7 @@ def find_first_10k_index(filings):
             if isinstance(pub_date, str):
                 year = int(pub_date[:4])
             else:
-                year = pub_date.year  # datetime.date object
+                year = pub_date.year
             return index, year
     return -1, None
 
@@ -142,26 +146,28 @@ async def parse_filing_block(session, html, equity_ticker, latest_year, quarter_
 
     try:
         # 1. Filing Date
-        filing_date_tag = soup.select_one("td:nth-child(1) time")
+        filing_date_tag = soup.select_one("td.views-field-field-nir-sec-date-filed time")
         if not filing_date_tag:
             print("⚠️ No filing date found.")
             return None
         filing_date_raw = filing_date_tag.get_text(strip=True)
+        print(f"📅 Filing Date Raw: {filing_date_raw}")
+
         published_date = datetime.strptime(filing_date_raw, "%b %d, %Y").date()
 
-        # 2. Filing Type (10-K, 10-Q, 144, etc.)
-        filing_type_tag = soup.select_one("td:nth-child(2) a")
+        # 2. Filing Type
+        filing_type_tag = soup.select_one("td.views-field-field-nir-sec-form a")
         if not filing_type_tag:
             print("⚠️ No filing type link found.")
             return None
         filing_type = filing_type_tag.get_text(strip=True).upper()
+        print(f"📝 Filing Type: {filing_type}")
 
-        # We are only interested in 10-K or 10-Q
-        if filing_type not in ["10-K", "10-Q"]:
-            return None
+        # ✅ Instead of checking only 10-K/10-Q, now allow all types (like 8-K, etc.)
+        # If you want to filter some forms, add a condition here.
 
-        # 5. PDF Link
-        pdf_link_tag = soup.select_one("td:nth-child(5) div.file-link a")
+        # 3. PDF Link
+        pdf_link_tag = soup.select_one("td.views-field-nothing-1 div.file-link span.file--mime-application-pdf a")
         if not pdf_link_tag:
             print("⚠️ No PDF link found.")
             return None
@@ -171,17 +177,24 @@ async def parse_filing_block(session, html, equity_ticker, latest_year, quarter_
             print("⚠️ PDF link missing href.")
             return None
 
-        pdf_url = "https:" + pdf_href if pdf_href.startswith("//") else pdf_href
+        if pdf_href.startswith("//"):
+            pdf_url = "https:" + pdf_href
+        elif pdf_href.startswith("/"):
+            pdf_url = "https://ir.appliedmaterials.com" + pdf_href
+        else:
+            pdf_url = pdf_href
 
-        # Download the PDF
+        print(f"🔗 PDF URL: {pdf_url}")
+
         file_path, filename = await download_pdf(session, pdf_url)
         if not file_path:
+            print("⚠️ Failed to download the PDF file.")
             return None
 
-        # Upload to R2
         r2_url = upload_to_r2(file_path, f"{equity_ticker}/{published_date}/{filename}", test_run=test_run)
+        print(f"☁️ Uploaded to R2: {r2_url}")
 
-        # Extract fiscal date from inside the PDF
+        # Fiscal date extraction
         fiscal_date_raw = await extract_fiscal_date(file_path)
         fiscal_date = datetime.strptime(fiscal_date_raw, "%B %d, %Y").date() if fiscal_date_raw else None
 
@@ -190,27 +203,24 @@ async def parse_filing_block(session, html, equity_ticker, latest_year, quarter_
 
         content_name = f"{equity_ticker} Q{fiscal_quarter} {fiscal_year} {filing_type}"
 
-        # Optionally delete the downloaded file after upload
-        os.remove(file_path)
-
         return {
             "equity_ticker": equity_ticker,
             "geography": "US",
             "content_name": content_name,
             "file_type": "pdf",
-            "content_type": "quarterly_report" if filing_type == "10-Q" else "annual_report",
+            "content_type": "other_filing",  # because it could be 8-K, etc.
             "published_date": published_date,
             "fiscal_date": fiscal_date.isoformat() if fiscal_date else None,
             "fiscal_year": fiscal_year,
             "fiscal_quarter": fiscal_quarter,
             "r2_url": r2_url,
-            "periodicity": "periodic"
+            "periodicity": "unscheduled" if filing_type == "8-K" else "periodic"
         }
     except Exception as e:
         print(f"⚠️ Error parsing filing block: {e}")
         return None
 
-async def scrape(url, equity_ticker, pagination_selector, block_selector, test_run='true'):
+async def scrape(url, equity_ticker, block_selector, test_run='true'):
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
         context = await browser.new_context()
@@ -257,7 +267,7 @@ async def scrape(url, equity_ticker, pagination_selector, block_selector, test_r
                     page_num += 1
 
                 print(f"\n📦 Total filings scraped: {len(all_results)}")
-                await save_results_to_json(all_results)
+                await save_results_to_json(all_results, equity_ticker)
 
             except Exception as e:
                 print(f"⚠️ Fatal error during scraping: {e}")
@@ -265,9 +275,8 @@ async def scrape(url, equity_ticker, pagination_selector, block_selector, test_r
         await browser.close()
 
 if __name__ == "__main__":
-    url = "https://investors.arm.com/financials/sec-filings"
-    equity_ticker = "ARM"
-    pagination_selector = "li.pager__item.pager__item--next a"
+    url = "https://www.asml.com/en/investors/shares/sec-filings"
+    equity_ticker = "ASML"  # Correct ticker for Applied Materials
     block_selector = "table.nirtable.views-table.views-view-table.cols-5 tbody tr"
 
-    asyncio.run(scrape(url, equity_ticker, pagination_selector, block_selector))
+    asyncio.run(scrape(url, equity_ticker, block_selector))
