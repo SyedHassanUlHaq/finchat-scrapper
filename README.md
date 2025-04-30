@@ -18,14 +18,10 @@ Below is a demonstration of the scraper in action:
 
 The demo showcases the scraper's ability to extract data, process it, and store it in MongoDB in real-time.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributions
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-## Contact
+## License
 
-For any questions or support, please contact [ahsantoufiq@hotmail.com](mailto:ahsantoufiq@hotmail.com).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
