@@ -373,3 +373,6 @@ MKSI: main.py
 
 MKSI_combine: combine.py
 	python3 combine.py /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/MKSI_sec_filings.json /home/syed-hassan-ul-haq/repos/finchat-scrapper/JSONS/MKSI_investor_relations.json -o /home/syed-hassan-ul-haq/repos/finchat-scrapper/Completed/MKSI_investor_relations_sec.json
+
+BIRK: main.py
+	python3 main.py BIRK https://finchat.io/company/NYSE-BIRK/investor-relations/ false
