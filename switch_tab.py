@@ -20,11 +20,23 @@ async def switch_tab(page, index, event, timeout_ms=2000):
         else:
             tab = 'slides'
         print(f"Looking for {tab} tab...")
-        button = page.locator(f'(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button[{index}]')
+        # button = page.locator(f'(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button[{index}]')
+        button = await page.query_selector_all(f'div.hidden.w-full div.flex div.relative.m_7485cace.mantine-Container-root div.m_6d731127 div.hide-scrollbar div.m_7485cace div.m_8bffd616 div.hidden div.m_89d60db1.mantine-Tabs-root div.m_89d33d6d.mantine-Tabs-list button')
+        # button = await page.query_selector_all(f'div.hidden.w-full.m_8bffd616 div div div div div ')
+        # print('length', len(button))
+        # print('button', button[0])
+        # c = 0
+        # for b in button:
+        #     t = await b.inner_text()
+        #     print(f'button_index: {c}', t)
+        #     c +=1
+        
         # await page.click('#mantine-ik817evwu-tab-Report')
         # await page.wait_for_timeout(10000)
-        text = await button.inner_text()
-        await button.click(timeout=10000)
+
+        text = await button[index - 1].inner_text()
+        print('text', text)
+        await button[index - 1].click(timeout=10000)
         if text.lower() == 'transcript':
             return 'transcript'
         if text.lower() == 'slides':
