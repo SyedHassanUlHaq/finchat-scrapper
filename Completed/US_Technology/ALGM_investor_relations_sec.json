@@ -713,8 +713,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2025-01-31/algm-20241227.htm/algm-20241227.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q2 2025 10-Q",
@@ -726,8 +726,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2024-11-01/algm-20240927.htm/algm-20240927.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q1 2025 10-Q",
@@ -739,8 +739,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2024-08-02/algm-20240628.htm/algm-20240628.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q4 2024 10-K",
@@ -752,8 +752,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2024-05-23/algm-20240329.htm/algm-20240329.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q3 2024 10-Q",
@@ -765,8 +765,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2024-02-06/algm-20231229.htm/algm-20231229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q2 2024 10-Q",
@@ -778,8 +778,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2023-11-06/algm-20230929.htm/algm-20230929.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q1 2024 10-Q",
@@ -791,8 +791,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2023-08-04/algm-20230630.htm/algm-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q4 2023 10-K",
@@ -804,8 +804,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2023-05-25/algm-20230331.htm/algm-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q3 2023 10-Q",
@@ -817,8 +817,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2023-02-01/algm-20221223.htm/algm-20221223.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q2 2023 10-Q",
@@ -830,8 +830,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2022-10-31/algm-20220923.htm/algm-20220923.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q1 2023 10-Q",
@@ -843,8 +843,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2022-08-01/algm-20220624.htm/algm-20220624.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q4 2022 10-K",
@@ -856,8 +856,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2022-05-18/algm-20220325.htm/algm-20220325.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q3 2022 10-Q",
@@ -869,8 +869,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2022-02-02/algm-20211224.htm/algm-20211224.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q2 2022 10-Q",
@@ -882,8 +882,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2021-10-29/algm-20210924.htm/algm-20210924.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q1 2022 10-Q",
@@ -895,8 +895,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2021-07-30/algm-20210625.htm/algm-20210625.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q4 2021 10-K",
@@ -908,8 +908,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2021-05-19/algm-20210326.htm/algm-20210326.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q3 2021 10-Q",
@@ -921,8 +921,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2021-02-02/algm-20201225.htm/algm-20201225.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ALGM",
         "geography": "US",
         "content_name": "ALGM Q2 2021 10-Q",
@@ -934,5 +934,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ALGM/2020-11-20/algm-20200925.htm/algm-20200925.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

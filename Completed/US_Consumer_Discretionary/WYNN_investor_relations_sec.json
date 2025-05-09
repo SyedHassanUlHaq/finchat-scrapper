@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2025-02-13/wynn-20241231.htm%5Cwynn-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2024 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2024-11-04/wynn-20240930.htm%5Cwynn-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2024 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2024-08-06/wynn-20240630.htm%5Cwynn-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2024 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2024-05-07/wynn-20240331.htm%5Cwynn-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2023 10-K",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2024-02-23/wynn-20231231.htm%5Cwynn-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2023 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2023-11-09/wynn-20230930.htm%5Cwynn-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2023 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2023-08-09/wynn-20230630.htm%5Cwynn-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2023 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2023-05-09/wynn-20230331.htm%5Cwynn-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2022 10-K",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2023-02-27/wynn-20221231.htm%5Cwynn-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2022 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2022-11-09/wynn-20220930.htm%5Cwynn-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2022 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2022-08-09/wynn-20220630.htm%5Cwynn-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2022 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2022-05-10/wynn-20220331.htm%5Cwynn-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2021 10-K",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2022-02-28/wynn-20211231.htm%5Cwynn-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2021 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2021-11-09/wynn-20210930.htm%5Cwynn-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2021 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2021-08-06/wynn-20210630.htm%5Cwynn-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2021 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2021-05-10/wynn-20210331.htm%5Cwynn-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2020 10-K",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2021-02-26/wynn-20201231.htm%5Cwynn-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2020 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2020-11-06/wynn-20200930.htm%5Cwynn-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2020 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2020-08-06/wynn-20200630.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2020 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2020-05-08/wynn-20200331.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2019 10-K",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2020-02-28/wynn-20191231.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2019 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2019-11-06/wrl-q31910q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2019 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2019-08-08/wrl-q21910q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2019 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2019-05-09/wrl-1q1910q.htm%5Cwrl-1q1910q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2018 10-K",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2019-02-28/wrl-20181231x10k.htm%5Cwrl-20181231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2018 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2018-11-07/wrl-20180930x10q.htm%5Cwrl-20180930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2018 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2018-08-08/wrl-20180630x10q.htm%5Cwrl-20180630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2018 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2018-05-09/wrl-20180331x10q.htm%5Cwrl-20180331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2017 10-K",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2018-02-28/wrl-20171231x10k.htm%5Cwrl-20171231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2017 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2017-11-08/wrl-20170930x10q.htm%5Cwrl-20170930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2017 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2017-08-04/wrl-20170630x10q.htm%5Cwrl-20170630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2017 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2017-05-04/wrl-20170331x10q.htm%5Cwrl-20170331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2016 10-K",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2017-02-24/wrl-20161231x10k.htm%5Cwrl-20161231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2016 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2016-11-04/wrl-20160930x10q.htm%5Cwrl-20160930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2016 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2016-08-09/wrl-20160630x10q.htm%5Cwrl-20160630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2016 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2016-05-06/wrl-20160331x10q.htm%5Cwrl-20160331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2015 10-K",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2016-02-29/wrl-20151231x10k.htm%5Cwrl-20151231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2015 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2015-11-06/wrl-20150930x10q.htm%5Cwrl-20150930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2015 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2015-08-07/wrl-20150630x10q.htm%5Cwrl-20150630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2014 10-K",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2015-02-27/wrl-20141231x10k.htm%5Cwrl-20141231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2014 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2014-11-07/wrl-20140930x10q.htm%5Cwrl-20140930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2014 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2014-08-08/wrl-20140630x10q.htm%5Cwrl-20140630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2014 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2014-05-09/wrl-20140331x10q.htm%5Cwrl-20140331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2013 10-K",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2014-02-28/d644551d10k.htm%5Cd644551d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2013 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2013-11-12/d599412d10q.htm%5Cd599412d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2013 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2013-08-09/d548026d10q.htm%5Cd548026d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2013 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2013-05-10/d516656d10q.htm%5Cd516656d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2012 10-K",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2013-03-01/d459372d10k.htm%5Cd459372d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2012 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2012-11-09/d411552d10q.htm%5Cd411552d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2012 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2012-08-09/d360762d10q.htm%5Cd360762d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2012 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2012-05-10/d326512d10q.htm%5Cd326512d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2011 10-K",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2012-02-29/d272879d10k.htm%5Cd272879d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2011 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2011-11-09/d231986d10q.htm%5Cd231986d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2011 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2011-08-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2011 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2011-05-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2010 10-K",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2011-02-28/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2010 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2010-11-05/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2010 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2010-08-06/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2010 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2010-05-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2009 10-K",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2010-02-26/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2009 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2009-11-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2009 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2009-08-04/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2009 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2009-05-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2008 10-K",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2009-02-27/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2008 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2008-11-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2008 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2008-08-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2008 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2008-05-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2007 10-K",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2008-02-22/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2007 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2007-11-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2007 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2007-08-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2007 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2007-05-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2006 10-K",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2007-03-01/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2006 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2006-11-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2006 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2006-08-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2006 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2006-05-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2005 10-K",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2006-03-16/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2005 10-Q",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2005-11-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2005 10-Q",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2005-08-02/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2005 10-Q",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2005-05-04/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2004 10-K",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2005-03-15/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2004 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2004-11-04/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2004 10-Q",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2004-08-03/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2004 10-Q",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2004-05-05/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2003 10-K",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2004-03-12/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2003 10-Q",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2003-11-13/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q2 2003 10-Q",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2003-08-13/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q1 2003 10-Q",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2003-05-15/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q4 2002 10-K",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2003-03-28/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WYNN",
         "geography": "US",
         "content_name": "WYNN Q3 2002 10-Q",
@@ -2988,5 +2988,5 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WYNN/2002-12-09/a2095555z10-q.htm%5Ca2095555z10-q.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2025-02-06/amzn-20241231.htm/amzn-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2024 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2024-10-31/amzn-20240930.htm/amzn-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2024 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2024-08-01/amzn-20240630.htm/amzn-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2024 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2024-04-30/amzn-20240331.htm/amzn-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2023 10-K",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2024-02-01/amzn-20231231.htm/amzn-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2023 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2023-10-26/amzn-20230930.htm/amzn-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2023 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2023-08-03/amzn-20230630.htm/amzn-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2023 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2023-04-27/amzn-20230331.htm/amzn-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2022 10-K",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2023-02-02/amzn-20221231.htm/amzn-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2022 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2022-10-27/amzn-20220930.htm/amzn-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2022 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2022-07-28/amzn-20220630.htm/amzn-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2022 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2022-04-28/amzn-20220331.htm/amzn-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2021 10-K",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2022-02-03/amzn-20211231.htm/amzn-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2021 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2021-10-28/amzn-20210930.htm/amzn-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2021 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2021-07-29/amzn-20210630.htm/amzn-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2021 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2021-04-29/amzn-20210331.htm/amzn-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2020 10-K",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2021-02-02/amzn-20201231.htm/amzn-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2020 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2020-10-29/amzn-20200930.htm/amzn-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2020 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2020-07-30/amzn-20200630.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2020 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2020-04-30/amzn-20200331x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2019 10-K",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2020-01-30/amzn-20191231x10k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2019 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2019-10-24/amzn-2019930x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2019 10-Q",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2019-07-25/amzn-2019630x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2019 10-Q",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2019-04-25/amzn-2019331x10q.htm/amzn-2019331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2018 10-K",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2019-01-31/amzn-20181231x10k.htm/amzn-20181231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2018 10-Q",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2018-10-25/amzn-20180930x10q.htm/amzn-20180930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2018 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2018-07-26/amzn-20180630x10q.htm/amzn-20180630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2018 10-Q",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2018-04-26/amzn-20180331x10q.htm/amzn-20180331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2017 10-K",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2018-02-01/amzn-20171231x10k.htm/amzn-20171231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2017 10-Q",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2017-10-26/amzn-20170930x10q.htm/amzn-20170930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2017 10-Q",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2017-07-27/amzn-20170630x10q.htm/amzn-20170630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2017 10-Q",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2017-04-27/amzn-20170331x10q.htm/amzn-20170331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2016 10-K",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2017-02-09/amzn-20161231x10k.htm/amzn-20161231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2016 10-Q",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2016-10-27/amzn-20160930x10q.htm/amzn-20160930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2016 10-Q",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2016-07-28/amzn-20160630x10q.htm/amzn-20160630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2016 10-Q",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2016-04-28/amzn-20160331x10q.htm/amzn-20160331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2015 10-K",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2016-01-28/amzn-20151231x10k.htm/amzn-20151231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2015 10-Q",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2015-10-22/amzn-20150930x10q.htm/amzn-20150930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2015 10-Q",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2015-07-23/amzn-20150630x10q.htm/amzn-20150630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2015 10-Q",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2015-04-23/amzn-20150331x10q.htm/amzn-20150331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2014 10-K",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2015-01-29/amzn-20141231x10k.htm/amzn-20141231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2014 10-Q",
@@ -3079,8 +3079,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2014-10-23/amzn-20140930x10q.htm/amzn-20140930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2014 10-Q",
@@ -3092,8 +3092,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2014-07-24/amzn-20140630x10q.htm/amzn-20140630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2014 10-Q",
@@ -3105,8 +3105,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2014-04-24/amzn-20140331x10q.htm/amzn-20140331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2013 10-K",
@@ -3118,8 +3118,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2014-01-30/amzn-20131231x10k.htm/amzn-20131231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2013 10-Q",
@@ -3131,8 +3131,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2013-10-24/amzn-20130930x10q.htm/amzn-20130930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2013 10-Q",
@@ -3144,8 +3144,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2013-07-25/d542614d10q.htm/d542614d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2013 10-Q",
@@ -3157,8 +3157,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2013-04-25/d492540d10q.htm/d492540d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2012 10-K",
@@ -3170,8 +3170,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2013-01-29/d445434d10k.htm/d445434d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2012 10-Q",
@@ -3183,8 +3183,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2012-10-25/d403488d10q.htm/d403488d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2012 10-Q",
@@ -3196,8 +3196,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2012-07-26/d363661d10q.htm/d363661d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2012 10-Q",
@@ -3209,8 +3209,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2012-04-26/d316991d10q.htm/d316991d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2011 10-K",
@@ -3222,8 +3222,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2012-01-31/d269317d10k.htm/d269317d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2011 10-Q",
@@ -3235,8 +3235,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2011-10-25/d233845d10q.htm/d233845d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2011 10-Q",
@@ -3248,8 +3248,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2011-07-26/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2011 10-Q",
@@ -3261,8 +3261,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2011-04-26/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2010 10-K",
@@ -3274,8 +3274,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2011-01-27/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2010 10-Q",
@@ -3287,8 +3287,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2010-10-21/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2010 10-Q",
@@ -3300,8 +3300,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2010-07-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2010 10-Q",
@@ -3313,8 +3313,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2010-04-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2009 10-K",
@@ -3326,8 +3326,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2010-01-28/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2009 10-Q",
@@ -3339,8 +3339,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2009-10-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2009 10-Q",
@@ -3352,8 +3352,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2009-07-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2009 10-Q",
@@ -3365,8 +3365,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2009-04-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2008 10-K",
@@ -3378,8 +3378,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2009-01-29/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2008 10-Q",
@@ -3391,8 +3391,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2008-10-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2008 10-Q",
@@ -3404,8 +3404,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2008-07-24/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2008 10-Q",
@@ -3417,8 +3417,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2008-04-24/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2007 10-K",
@@ -3430,8 +3430,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2008-02-08/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2007 10-Q",
@@ -3443,8 +3443,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2007-10-25/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2007 10-Q",
@@ -3456,8 +3456,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2007-07-26/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2007 10-Q",
@@ -3469,8 +3469,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2007-04-26/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2006 10-K",
@@ -3482,8 +3482,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2007-02-16/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2006 10-Q",
@@ -3495,8 +3495,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2006-10-26/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2006 10-Q",
@@ -3508,8 +3508,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2006-07-27/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2006 10-Q",
@@ -3521,8 +3521,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2006-04-27/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2005 10-K",
@@ -3534,8 +3534,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2006-02-17/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2005 10-Q",
@@ -3547,8 +3547,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2005-10-26/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2005 10-Q",
@@ -3560,8 +3560,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2005-07-27/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2005 10-Q",
@@ -3573,8 +3573,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2005-04-27/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2004 10-K",
@@ -3586,8 +3586,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2005-03-11/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2004 10-Q",
@@ -3599,8 +3599,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2004-10-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2004 10-Q",
@@ -3612,8 +3612,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2004-07-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2004 10-Q",
@@ -3625,8 +3625,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2004-04-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2003 10-K",
@@ -3638,8 +3638,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2004-02-25/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2003 10-Q",
@@ -3651,8 +3651,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2003-10-24/v93801e10vq.htm/v93801e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2003 10-Q",
@@ -3664,8 +3664,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2003-07-23/v91549e10vq.htm/v91549e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2003 10-Q",
@@ -3677,8 +3677,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2003-04-25/v89385e10vq.htm/v89385e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2002 10-K",
@@ -3690,8 +3690,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2003-02-19/v87419ore10vk.htm/v87419ore10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2002 10-Q",
@@ -3703,8 +3703,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2002-10-25/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2002 10-Q",
@@ -3716,8 +3716,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2002-07-25/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2002 10-Q",
@@ -3729,8 +3729,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2002-04-24/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2001 10-Q",
@@ -3742,8 +3742,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2001-10-30/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2001 10-Q",
@@ -3755,8 +3755,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2001-07-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2001 10-Q",
@@ -3768,8 +3768,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2001-04-27/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2001 10-Q",
@@ -3781,8 +3781,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2000-10-30/v66555e10-q.txt/v66555e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 2000 10-Q",
@@ -3794,8 +3794,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2000-08-02/e10-q.txt/e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 2000 10-Q",
@@ -3807,8 +3807,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2000-05-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 2000 10-K",
@@ -3820,8 +3820,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/2000-03-29/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 2000 10-Q",
@@ -3833,8 +3833,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/1999-11-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 1999 10-Q",
@@ -3846,8 +3846,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/1999-08-16/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 1999 10-Q",
@@ -3859,8 +3859,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/1999-05-17/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 1999 10-K",
@@ -3872,8 +3872,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/1999-03-05/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 1999 10-Q",
@@ -3885,8 +3885,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/1998-11-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q4 1998 10-Q",
@@ -3898,8 +3898,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/1998-08-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q3 1998 10-Q",
@@ -3911,8 +3911,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/1998-05-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q2 1998 10-Q",
@@ -3924,8 +3924,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/1997-11-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AMZN",
         "geography": "US",
         "content_name": "AMZN Q1 1998 10-Q",
@@ -3937,5 +3937,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AMZN/1997-08-14/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

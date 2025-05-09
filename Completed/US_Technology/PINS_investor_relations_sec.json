@@ -1064,8 +1064,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2025-02-06/pins-20241231.htm%5Cpins-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q3 2024 10-Q",
@@ -1077,8 +1077,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2024-11-07/pins-20240930.htm%5Cpins-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q2 2024 10-Q",
@@ -1090,8 +1090,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2024-07-30/pins-20240630.htm%5Cpins-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q1 2024 10-Q",
@@ -1103,8 +1103,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2024-04-30/pins-20240331.htm%5Cpins-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q4 2023 10-K",
@@ -1116,8 +1116,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2024-02-08/pins-20231231.htm%5Cpins-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q3 2023 10-Q",
@@ -1129,8 +1129,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2023-10-30/pins-20230930.htm%5Cpins-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q2 2023 10-Q",
@@ -1142,8 +1142,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2023-08-01/pins-20230630.htm%5Cpins-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q1 2023 10-Q",
@@ -1155,8 +1155,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2023-04-27/pins-20230331.htm%5Cpins-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q4 2022 10-K",
@@ -1168,8 +1168,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2023-02-06/pins-20221231.htm%5Cpins-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q3 2022 10-Q",
@@ -1181,8 +1181,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2022-10-27/pins-20220930.htm%5Cpins-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q2 2022 10-Q",
@@ -1194,8 +1194,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2022-08-01/pins-20220630.htm%5Cpins-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q1 2022 10-Q",
@@ -1207,8 +1207,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2022-04-27/pins-20220331.htm%5Cpins-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q4 2021 10-K",
@@ -1220,8 +1220,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2022-02-03/pins-20211231.htm%5Cpins-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q3 2021 10-Q",
@@ -1233,8 +1233,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2021-11-04/pins-20210930.htm%5Cpins-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q2 2021 10-Q",
@@ -1246,8 +1246,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2021-07-29/pins-20210630.htm%5Cpins-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q1 2021 10-Q",
@@ -1259,8 +1259,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2021-04-27/pins-20210331.htm%5Cpins-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q4 2020 10-K",
@@ -1272,8 +1272,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2021-02-04/pins-20201231.htm%5Cpins-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q3 2020 10-Q",
@@ -1285,8 +1285,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2020-10-28/pins-20200930.htm%5Cpins-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q2 2020 10-Q",
@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2020-07-31/pins-20200630.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q1 2020 10-Q",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2020-05-05/pins-20200331.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q4 2019 10-K",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2020-02-06/pins-20191231.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q3 2019 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2019-10-31/pins-10q20190930.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q2 2019 10-Q",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2019-08-01/pins-10q_20190630.htm%5Cpins-10q_20190630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PINS",
         "geography": "US",
         "content_name": "PINS Q1 2019 10-Q",
@@ -1363,5 +1363,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PINS/2019-05-16/pins-10q_20190331.htm%5Cpins-10q_20190331.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

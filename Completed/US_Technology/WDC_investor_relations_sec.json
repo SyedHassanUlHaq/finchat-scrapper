@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2025-01-30/wdc-20241227.htm%5Cwdc-20241227.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2025 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2024-10-30/wdc-20240927.htm%5Cwdc-20240927.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2024 10-K",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2024-08-19/wdc-20240628.htm%5Cwdc-20240628.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2024 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2024-04-29/wdc-20240329.htm%5Cwdc-20240329.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2024 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2024-02-12/wdc-20231229.htm%5Cwdc-20231229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2024 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2023-11-06/wdc-20230929.htm%5Cwdc-20230929.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2023 10-K",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2023-08-21/wdc-20230630.htm%5Cwdc-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2023 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2023-05-10/wdc-20230331.htm%5Cwdc-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2023 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2023-02-02/wdc-20221230.htm%5Cwdc-20221230.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2023 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2022-11-02/wdc-20220930.htm%5Cwdc-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2022 10-K",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2022-08-24/wdc-20220701.htm%5Cwdc-20220701.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2022 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2022-05-04/wdc-20220401.htm%5Cwdc-20220401.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2022 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2022-02-03/wdc-20211231.htm%5Cwdc-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2022 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2021-11-04/wdc-20211001.htm%5Cwdc-20211001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2021 10-K",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2021-08-26/wdc-20210702.htm%5Cwdc-20210702.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2021 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2021-05-06/wdc-20210402.htm%5Cwdc-20210402.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2021 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2021-02-09/wdc-20210101.htm%5Cwdc-20210101.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2021 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2020-11-06/wdc-20201002.htm%5Cwdc-20201002.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2020 10-K",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2020-08-27/wdc-20200703.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2020 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2020-05-08/wdc-20200403.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2020 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2020-02-10/wdc-2020q210xqdoc.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2020 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2019-11-12/wdc-2020q110xqdoc.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2019 10-K",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2019-08-27/wdc-2019q410xkdoc.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2019 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2019-05-06/wdc-2019q310xqdoc.htm%5Cwdc-2019q310xqdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2019 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2019-02-04/wdc-2019q210xqdoc.htm%5Cwdc-2019q210xqdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2019 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2018-11-05/wdc-2019q110xqdoc.htm%5Cwdc-2019q110xqdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2018 10-K",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2018-08-24/wdc-2018q410xkdoc.htm%5Cwdc-2018q410xkdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2018 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2018-05-07/wdc-2018q310xqxdoc.htm%5Cwdc-2018q310xqxdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2018 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2018-02-05/wdc-2018q210xqxdoc.htm%5Cwdc-2018q210xqxdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2018 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2017-11-06/wdc-2018q110xqxdoc.htm%5Cwdc-2018q110xqxdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2017 10-K",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2017-08-28/wdc-2017q410xkxdoc.htm%5Cwdc-2017q410xkxdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2017 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2017-05-08/wdc-2017q310xqxdoc.htm%5Cwdc-2017q310xqxdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2017 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2017-02-07/wdc-2017q210xqxdoc.htm%5Cwdc-2017q210xqxdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2017 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2016-11-08/wdc-2017q110xqxdoc.htm%5Cwdc-2017q110xqxdoc.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2016 10-K",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2016-08-26/wdc-7116x10k.htm%5Cwdc-7116x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2016 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2016-05-09/wdc-040116x10q.htm%5Cwdc-040116x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2016 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2016-02-10/wdc-010116x10q.htm%5Cwdc-010116x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2016 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2015-11-09/wdc-100215x10q.htm%5Cwdc-100215x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2015 10-K",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2015-08-21/wdc731510k.htm%5Cwdc731510k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2015 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2015-05-11/wdc-040315x10q.htm%5Cwdc-040315x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2015 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2015-02-10/wdc-010215x10q.htm%5Cwdc-010215x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2015 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2014-11-04/wdc-100314x10q.htm%5Cwdc-100314x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2014 10-K",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2014-08-14/wdc6271410k.htm%5Cwdc6271410k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2014 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2014-05-02/wdc-032814x10q.htm%5Cwdc-032814x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2014 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2014-01-31/wdc-122713x10q.htm%5Cwdc-122713x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2014 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2013-10-29/wdc-092713x10q.htm%5Cwdc-092713x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2013 10-K",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2013-08-16/d547947d10k.htm%5Cd547947d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2013 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2013-05-03/d513685d10q.htm%5Cd513685d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2013 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2013-02-01/d460828d10q.htm%5Cd460828d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2013 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2012-11-02/d419625d10q.htm%5Cd419625d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2012 10-K",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2012-08-17/d356205d10k.htm%5Cd356205d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2012 10-Q",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2012-05-09/d326803d10q.htm%5Cd326803d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2012 10-Q",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2012-01-27/d275388d10q.htm%5Cd275388d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2012 10-Q",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2011-10-28/c22815e10vq.htm%5Cc22815e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2011 10-K",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2011-08-11/a59422e10vk.htm%5Ca59422e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2011 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2011-04-29/c15158e10vq.htm%5Cc15158e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2011 10-Q",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2011-01-27/c10546e10vq.htm%5Cc10546e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2011 10-Q",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2010-10-29/c06950e10vq.htm%5Cc06950e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2010 10-K",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2010-08-13/a56460e10vk.htm%5Ca56460e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2010 10-Q",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2010-04-30/a55375e10vq.htm%5Ca55375e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2010 10-Q",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2010-01-29/a54504e10vq.htm%5Ca54504e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2010 10-Q",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2009-10-29/a53884e10vq.htm%5Ca53884e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2009 10-K",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2009-08-13/a53306e10vk.htm%5Ca53306e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2009 10-Q",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2009-04-24/a52270e10vq.htm%5Ca52270e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2009 10-Q",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2009-01-29/a51132e10vq.htm%5Ca51132e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2009 10-Q",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2008-10-31/a50261e10vq.htm%5Ca50261e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2008 10-K",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2008-08-20/a43088e10vk.htm%5Ca43088e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2008 10-Q",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2008-05-06/a40408e10vq.htm%5Ca40408e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2008 10-Q",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2008-02-05/a37671e10vq.htm%5Ca37671e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2008 10-Q",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2007-11-06/a34565e10vq.htm%5Ca34565e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2007 10-K",
@@ -3079,8 +3079,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2007-08-27/a33189e10vk.htm%5Ca33189e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2007 10-Q",
@@ -3092,8 +3092,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2007-05-08/a29755e10vq.htm%5Ca29755e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2007 10-Q",
@@ -3105,8 +3105,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2007-02-06/a26781e10vq.htm%5Ca26781e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2007 10-Q",
@@ -3118,8 +3118,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2006-11-22/a24977e10vq.htm%5Ca24977e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2006 10-K",
@@ -3131,8 +3131,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2006-11-20/a23647e10vk.htm%5Ca23647e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2006 10-Q",
@@ -3144,8 +3144,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2006-05-08/a20192e10vq.htm%5Ca20192e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2006 10-Q",
@@ -3157,8 +3157,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2006-02-08/a17011e10vq.htm%5Ca17011e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2006 10-Q",
@@ -3170,8 +3170,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2005-11-09/a14327e10vq.htm%5Ca14327e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2005 10-K",
@@ -3183,8 +3183,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2005-09-14/a12474e10vk.htm%5Ca12474e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2005 10-Q",
@@ -3196,8 +3196,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2005-05-06/a08284e10vq.htm%5Ca08284e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2005 10-Q",
@@ -3209,8 +3209,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2005-02-09/a05270e10vq.htm%5Ca05270e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2005 10-Q",
@@ -3222,8 +3222,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2004-11-09/a02899e10vq.htm%5Ca02899e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2004 10-K",
@@ -3235,8 +3235,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2004-09-14/a01568e10vk.htm%5Ca01568e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2004 10-Q",
@@ -3248,8 +3248,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2004-05-06/a98665e10vq.htm%5Ca98665e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2004 10-Q",
@@ -3261,8 +3261,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2004-02-03/a96035e10vq.htm%5Ca96035e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2004 10-Q",
@@ -3274,8 +3274,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2003-11-07/a94249e10vq.htm%5Ca94249e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2003 10-K",
@@ -3287,8 +3287,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2003-09-23/a93092e10vk.htm%5Ca93092e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2003 10-Q",
@@ -3300,8 +3300,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2003-05-09/a89926e10vq.htm%5Ca89926e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2003 10-Q",
@@ -3313,8 +3313,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2003-02-07/a87431e10vq.htm%5Ca87431e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2003 10-Q",
@@ -3326,8 +3326,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2002-11-08/a85682e10vq.htm%5Ca85682e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2002 10-K",
@@ -3339,8 +3339,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2002-09-25/a83140e10vk.htm%5Ca83140e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2002 10-Q",
@@ -3352,8 +3352,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2002-05-06/a80963e10-q.htm%5Ca80963e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2002 10-Q",
@@ -3365,8 +3365,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2002-02-08/a78894e10-q.htm%5Ca78894e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2002 10-Q",
@@ -3378,8 +3378,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2001-11-13/a77118e10-q.htm%5Ca77118e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2001 10-K",
@@ -3391,8 +3391,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2001-09-27/a75704e10-k.htm%5Ca75704e10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2001 10-Q",
@@ -3404,8 +3404,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2001-05-14/a72481e10-q.txt%5Ca72481e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2001 10-Q",
@@ -3417,8 +3417,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2001-02-12/a69414e10-q.txt%5Ca69414e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2001 10-Q",
@@ -3430,8 +3430,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2000-11-13/a67154e10-q.txt%5Ca67154e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 2000 10-K",
@@ -3443,8 +3443,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2000-09-28/a65804e10-k.htm%5Ca65804e10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 2000 10-Q",
@@ -3456,8 +3456,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2000-05-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 2000 10-Q",
@@ -3469,8 +3469,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/2000-02-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 2000 10-Q",
@@ -3482,8 +3482,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1999-11-16/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 1999 10-Q",
@@ -3495,8 +3495,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1999-05-11/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 1999 10-Q",
@@ -3508,8 +3508,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1999-02-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 1999 10-Q",
@@ -3521,8 +3521,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1998-11-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 1999 10-K",
@@ -3534,8 +3534,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1998-09-01/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 1998 10-Q",
@@ -3547,8 +3547,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1998-05-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 1998 10-Q",
@@ -3560,8 +3560,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1998-02-05/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 1998 10-Q",
@@ -3573,8 +3573,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1997-11-07/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 1998 10-Q",
@@ -3586,8 +3586,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1997-05-09/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 1996 10-Q",
@@ -3599,8 +3599,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1997-02-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 1996 10-Q",
@@ -3612,8 +3612,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1996-11-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 1996 10-K",
@@ -3625,8 +3625,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1996-09-18/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 1996 10-Q",
@@ -3638,8 +3638,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1996-05-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 1995 10-Q",
@@ -3651,8 +3651,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1996-02-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 1995 10-Q",
@@ -3664,8 +3664,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1995-11-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 1995 10-K",
@@ -3677,8 +3677,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1995-09-29/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 1995 10-Q",
@@ -3690,8 +3690,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1995-05-16/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 1994 10-Q",
@@ -3703,8 +3703,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1995-02-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q3 1994 10-Q",
@@ -3716,8 +3716,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1994-11-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q2 1994 10-K",
@@ -3729,8 +3729,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1994-09-23/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q1 1994 10-Q",
@@ -3742,8 +3742,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1994-05-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "WDC",
         "geography": "US",
         "content_name": "WDC Q4 1993 10-Q",
@@ -3755,5 +3755,5 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1994-01-25/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

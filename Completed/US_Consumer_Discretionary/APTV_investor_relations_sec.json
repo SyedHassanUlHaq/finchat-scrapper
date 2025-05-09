@@ -1233,8 +1233,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2025-02-07/aptv-20241231.htm%5Captv-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2024 10-Q",
@@ -1246,8 +1246,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2024-10-31/aptv-20240930.htm%5Captv-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2024 10-Q",
@@ -1259,8 +1259,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2024-08-01/aptv-20240630.htm%5Captv-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2024 10-Q",
@@ -1272,8 +1272,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2024-05-02/aptv-20240331.htm%5Captv-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2023 10-K",
@@ -1285,8 +1285,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2024-02-06/aptv-20231231.htm%5Captv-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2023 10-Q",
@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2023-11-02/aptv-20230930.htm%5Captv-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2023 10-Q",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2023-08-03/aptv-20230630.htm%5Captv-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2023 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2023-05-04/aptv-20230331.htm%5Captv-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2022 10-K",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2023-02-08/aptv-20221231.htm%5Captv-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2022 10-Q",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2022-11-03/aptv-20220930.htm%5Captv-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2022 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2022-08-04/aptv-20220630.htm%5Captv-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2022 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2022-05-05/aptv-20220331.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2021 10-K",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2022-02-07/aptv-20211231.htm%5Captv-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2021 10-Q",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2021-11-04/aptv-20210930.htm%5Captv-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2021 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2021-08-05/aptv-20210630.htm%5Captv-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2021 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2021-05-06/aptv-20210331.htm%5Captv-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2020 10-K",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2021-02-08/aptv-20201231.htm%5Captv-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2020 10-Q",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2020-10-29/aptv-20200930.htm%5Captv-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2020 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2020-07-30/aptv-20200630.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2020 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2020-05-05/aptv-20200331.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2019 10-K",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2020-02-03/aptv1231201910-k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2019 10-Q",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2019-10-30/aptv930201910-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2019 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2019-07-31/aptv630201910-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2019 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2019-05-02/aptv331201910-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2018 10-K",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2019-02-04/aptv1231201810k.htm%5Captv1231201810k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2018 10-Q",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2018-10-31/aptv930201810-q.htm%5Captv930201810-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2018 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2018-07-31/aptv630201810-q.htm%5Captv630201810-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2018 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2018-05-02/aptv331201810-q.htm%5Captv331201810-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2018 10-K",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2018-02-05/aptv1231201710k.htm%5Captv1231201710k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2018 10-Q",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2017-11-02/dlph930201710q.htm%5Cdlph930201710q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2018 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2017-08-02/dlph630201710q.htm%5Cdlph630201710q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2018 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2017-05-03/dlph331201710q.htm%5Cdlph331201710q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2016 10-K",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2017-02-06/dlph1231201610k.htm%5Cdlph1231201610k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2016 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2016-11-02/dlph930201610q.htm%5Cdlph930201610q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2016 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2016-08-03/dlph630201610q.htm%5Cdlph630201610q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2016 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2016-05-04/dlph331201610q.htm%5Cdlph331201610q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2015 10-K",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2016-02-08/dlph1231201510k.htm%5Cdlph1231201510k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2015 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2015-10-29/dlph930201510q.htm%5Cdlph930201510q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2015 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2015-07-30/dlph630201510q.htm%5Cdlph630201510q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2015 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2015-04-30/dlph331201510q.htm%5Cdlph331201510q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2014 10-K",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2015-02-09/dlph1231201410k.htm%5Cdlph1231201410k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2014 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2014-10-24/dlph930201410q.htm%5Cdlph930201410q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2014 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2014-07-31/dlph630201410q.htm%5Cdlph630201410q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2014 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2014-04-24/dlph331201410q.htm%5Cdlph331201410q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2013 10-K",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2014-02-10/dlph1231201310k.htm%5Cdlph1231201310k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2013 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2013-11-05/dlph930201310q.htm%5Cdlph930201310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2013 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2013-07-31/dlph630201310q.htm%5Cdlph630201310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2013 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2013-05-01/dlph331201310q.htm%5Cdlph331201310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2012 10-K",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2013-02-11/dlph1231201210k.htm%5Cdlph1231201210k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q3 2012 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2012-11-01/dlph0930201210q.htm%5Cdlph0930201210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q2 2012 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2012-07-31/dlph0630201210q.htm%5Cdlph0630201210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q1 2012 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2012-04-26/d324504d10q.htm%5Cd324504d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "APTV",
         "geography": "US",
         "content_name": "APTV Q4 2011 10-K",
@@ -1909,5 +1909,5 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/APTV/2012-02-17/d299912d10k.htm%5Cd299912d10k.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

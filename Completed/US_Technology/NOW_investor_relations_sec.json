@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2025-01-29/now-20241231.htm/now-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2024 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2024-10-23/now-20240930.htm/now-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2024 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2024-07-24/now-20240630.htm/now-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2024 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2024-05-06/now-20240331.htm/now-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2023 10-K",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2024-01-25/now-20231231.htm/now-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2023 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2023-10-25/now-20230930.htm/now-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2023 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2023-07-26/now-20230630.htm/now-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2023 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2023-04-26/now-20230331.htm/now-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2022 10-K",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2023-01-30/now-20221231.htm/now-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2022 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2022-10-26/now-20220930.htm/now-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2022 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2022-07-27/now-20220630.htm/now-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2022 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2022-04-27/now-20220331.htm/now-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2021 10-K",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2022-02-03/now-20211231.htm/now-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2021 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2021-10-27/now-20210930.htm/now-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2021 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2021-07-28/now-20210630.htm/now-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2021 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2021-04-28/now-20210331.htm/now-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2020 10-K",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2021-02-11/now-20201231.htm/now-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2020 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2020-10-28/now-20200930.htm/now-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2020 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2020-07-29/now-20200630.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2020 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2020-04-30/now-20200331x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2019 10-K",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2020-02-20/now-20191231x10kxinpro.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2019 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2019-10-24/now-20190930x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2019 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2019-08-06/now-20190630x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2019 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2019-05-03/now-20190331x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2018 10-K",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2019-02-27/now-20181231x10k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2018 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2018-11-07/now-2018930x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2018 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2018-08-08/now-2018630x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2018 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2018-05-08/now-2018331x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2018 10-K",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2018-02-28/now-20171231x10k.htm/now-20171231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2018 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2017-11-06/now-2017930x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2018 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2017-08-08/now-2017630x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2018 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2017-05-05/now-2017331x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2016 10-K",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2017-02-28/now-20161231x10k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2016 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2016-11-04/now-2016930x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2016 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2016-08-03/now-2016630x10q.htm/now-2016630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2016 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2016-05-06/now-2016331x10q.htm/now-2016331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2015 10-K",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2016-02-25/now-20151231x10k.htm/now-20151231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2015 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2015-11-04/now-2015930x10q.htm/now-2015930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2015 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2015-08-06/now-2015630x10q.htm/now-2015630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2015 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2015-05-06/now-2015331x10q.htm/now-2015331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2014 10-K",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2015-02-27/now-20141231x10k.htm/now-20141231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2014 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2014-11-05/now-2014930x10q.htm/now-2014930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2014 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2014-08-07/now-2014630x10q.htm/now-2014630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2014 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2014-05-07/now-2014331x10q.htm/now-2014331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2013 10-K",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2014-02-28/now-20131231x10k.htm/now-20131231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2013 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2013-11-04/now-2013930x10q.htm/now-2013930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2013 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2013-08-07/now-2013630x10q.htm/now-2013630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q1 2013 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2013-05-08/now-2013331x10q.htm/now-2013331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q4 2012 10-K",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2013-03-08/now-20121231x10k.htm/now-20121231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q3 2012 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2012-10-31/d403782d10q.htm/d403782d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "NOW",
         "geography": "US",
         "content_name": "NOW Q2 2012 10-Q",
@@ -2780,5 +2780,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NOW/2012-08-10/d363714d10q.htm/d363714d10q.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

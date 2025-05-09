@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2025-02-12/cvs-20241231.htm/cvs-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2024 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2024-11-06/cvs-20240930.htm/cvs-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2024 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2024-08-07/cvs-20240630.htm/cvs-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2024 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2024-05-01/cvs-20240331.htm/cvs-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2023 10-K",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2024-02-07/cvs-20231231.htm/cvs-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2023 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2023-11-01/cvs-20230930.htm/cvs-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2023 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2023-08-02/cvs-20230630.htm/cvs-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2023 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2023-05-03/cvs-20230331.htm/cvs-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2022 10-K",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2023-02-08/cvs-20221231.htm/cvs-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2022 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2022-11-02/cvs-20220930.htm/cvs-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2022 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2022-08-03/cvs-20220630.htm/cvs-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2022 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2022-05-04/cvs-20220331.htm/cvs-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2021 10-K",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2022-02-09/cvs-20211231.htm/cvs-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2021 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2021-11-03/cvs-20210930.htm/cvs-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2021 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2021-08-04/cvs-20210630.htm/cvs-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2021 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2021-05-04/cvs-20210331.htm/cvs-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2020 10-K",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2021-02-16/cvs-20201231.htm/cvs-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2020 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2020-11-06/cvs-20200930.htm/cvs-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2020 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2020-08-05/a0630202010-q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2020 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2020-05-06/a0331202010-q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2019 10-K",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2020-02-18/a2019form10-k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2019 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2019-11-06/a0930201910-q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2019 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2019-08-07/a0630201910-q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2019 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2019-05-01/cvs-20190331x10q.htm/cvs-20190331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2018 10-K",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2019-02-28/cvs-2018231x10k.htm/cvs-2018231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2018 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2018-11-06/cvs-20180930x10q.htm/cvs-20180930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2018 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2018-08-08/cvs-20180630x10q.htm/cvs-20180630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2018 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2018-05-02/cvs-20180331x10q.htm/cvs-20180331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2017 10-K",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2018-02-14/cvs-20171231x10k.htm/cvs-20171231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2017 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2017-11-06/cvs-20170930x10q.htm/cvs-20170930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2017 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2017-08-08/cvs-20170630x10q.htm/cvs-20170630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2017 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2017-05-02/cvs-20170331x10q.htm/cvs-20170331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2016 10-K",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2017-02-09/cvs-20161231x10k.htm/cvs-20161231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2016 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2016-11-08/cvs20160930-10q.htm/cvs20160930-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2016 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2016-08-02/cvs20160630-10q.htm/cvs20160630-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2016 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2016-05-03/cvs20160331-10q.htm/cvs20160331-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2015 10-K",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2016-02-09/cvs-20151231x10k.htm/cvs-20151231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2015 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2015-10-30/cvs20150930-10q.htm/cvs20150930-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2015 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2015-08-04/cvs20150630-10q.htm/cvs20150630-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2015 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2015-05-01/cvs20150331-10q.htm/cvs20150331-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2014 10-K",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2015-02-10/cvs-20141231x10k.htm/cvs-20141231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2014 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2014-11-04/cvs20140930-10q.htm/cvs20140930-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2014 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2014-08-05/cvs20140630-10q.htm/cvs20140630-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2014 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2014-05-02/cvs20140331-10q.htm/cvs20140331-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2013 10-K",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2014-02-11/cvs-20131231x10k.htm/cvs-20131231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2013 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2013-11-05/cvs20130930-10q.htm/cvs20130930-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2013 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2013-08-06/cvs20130630-10q.htm/cvs20130630-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2013 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2013-05-01/cvs20130331-10q.htm/cvs20130331-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2012 10-K",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2013-02-15/a12-28799_110k.htm/a12-28799_110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2012 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2012-11-06/a12-19979_110q.htm/a12-19979_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2012 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2012-08-07/a12-13824_110q.htm/a12-13824_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2012 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2012-05-02/a12-8646_110q.htm/a12-8646_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2011 10-K",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2012-02-17/a11-31657_310k.htm/a11-31657_310k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2011 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2011-11-03/a11-25650_110q.htm/a11-25650_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2011 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2011-08-04/a11-13834_110q.htm/a11-13834_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2011 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2011-05-05/a11-8716_110q.htm/a11-8716_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2010 10-K",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2011-02-18/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2010 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2010-11-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2010 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2010-07-28/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2010 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2010-05-04/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2009 10-K",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2010-02-26/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2009 10-Q",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2009-11-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2009 10-Q",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2009-08-04/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2009 10-Q",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2009-05-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2008 10-K",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2009-02-27/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2008 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2008-10-31/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2008 10-Q",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2008-07-31/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2008 10-Q",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2008-05-01/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2007 10-K",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2008-02-27/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2007 10-Q",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2007-11-01/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2007 10-Q",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2007-08-08/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2007 10-Q",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2007-05-08/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2006 10-K",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2007-02-27/a07-4967_110k.htm/a07-4967_110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2006 10-Q",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2006-11-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2006 10-Q",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2006-08-08/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2006 10-Q",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2006-05-09/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2005 10-K",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2006-03-14/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2005 10-Q",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2005-11-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2005 10-Q",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2005-08-09/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2005 10-Q",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2005-05-09/a05-8874_110q.htm/a05-8874_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2005 10-K",
@@ -3079,8 +3079,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2005-03-16/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2005 10-Q",
@@ -3092,8 +3092,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2004-11-10/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2005 10-Q",
@@ -3105,8 +3105,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2004-08-12/a2139489z10-q.htm/a2139489z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2005 10-Q",
@@ -3118,8 +3118,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2004-05-13/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2004 10-K",
@@ -3131,8 +3131,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2004-03-12/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2004 10-Q",
@@ -3144,8 +3144,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2003-11-10/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2004 10-Q",
@@ -3157,8 +3157,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2003-08-08/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2004 10-Q",
@@ -3170,8 +3170,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2003-05-12/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2002 10-K",
@@ -3183,8 +3183,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2003-03-18/j8483_10k.htm/j8483_10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2002 10-Q",
@@ -3196,8 +3196,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2002-11-12/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2002 10-Q",
@@ -3209,8 +3209,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2002-08-09/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2002 10-Q",
@@ -3222,8 +3222,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2002-05-14/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2001 10-Q",
@@ -3235,8 +3235,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2001-11-09/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2001 10-Q",
@@ -3248,8 +3248,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2001-08-14/j0972_10q.htm/j0972_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2001 10-Q",
@@ -3261,8 +3261,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2001-05-11/a2048629z10-q.txt/a2048629z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2001 10-K",
@@ -3274,8 +3274,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2001-03-19/a2041427z10-k.txt/a2041427z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 2000 10-Q",
@@ -3287,8 +3287,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2000-11-14/a2030349z10-q.txt/a2030349z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 2000 10-Q",
@@ -3300,8 +3300,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2000-08-15/a10-q.txt/a10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 2000 10-Q",
@@ -3313,8 +3313,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2000-05-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 2000 10-K",
@@ -3326,8 +3326,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/2000-03-31/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 1999 10-Q",
@@ -3339,8 +3339,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1999-11-05/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 1999 10-Q",
@@ -3352,8 +3352,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1999-08-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 1999 10-Q",
@@ -3365,8 +3365,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1999-05-11/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 1999 10-K",
@@ -3378,8 +3378,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1999-03-31/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 1998 10-Q",
@@ -3391,8 +3391,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1998-11-06/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 1998 10-Q",
@@ -3404,8 +3404,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1998-08-11/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 1998 10-Q",
@@ -3417,8 +3417,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1998-05-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 1998 10-Q",
@@ -3430,8 +3430,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1997-11-06/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 1997 10-Q",
@@ -3443,8 +3443,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1997-08-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 1997 10-Q",
@@ -3456,8 +3456,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1997-05-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 1997 10-Q",
@@ -3469,8 +3469,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1996-11-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 1997 10-Q",
@@ -3482,8 +3482,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1996-08-09/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 1996 10-Q",
@@ -3495,8 +3495,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1996-05-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 1996 10-K",
@@ -3508,8 +3508,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1996-03-29/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 1996 10-Q",
@@ -3521,8 +3521,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1995-11-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 1996 10-Q",
@@ -3534,8 +3534,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1995-08-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 1995 10-K",
@@ -3547,8 +3547,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1995-03-29/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q2 1995 10-Q",
@@ -3560,8 +3560,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1994-11-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q1 1995 10-Q",
@@ -3573,8 +3573,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1994-08-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q4 1994 10-Q",
@@ -3586,8 +3586,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1994-05-16/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CVS",
         "geography": "US",
         "content_name": "CVS Q3 1994 10-K",
@@ -3599,5 +3599,5 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CVS/1994-03-31/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

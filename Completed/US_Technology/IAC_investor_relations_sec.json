@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2025-02-28/iaci-20241231.htm/iaci-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q3 2024 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2024-11-12/iaci-20240930.htm/iaci-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q2 2024 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2024-08-07/iaci-20240630.htm/iaci-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q1 2024 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2024-05-07/iaci-20240331.htm/iaci-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q4 2023 10-K",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2024-02-29/iaci-20231231.htm/iaci-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q3 2023 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2023-11-07/iaci-20230930.htm/iaci-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q2 2023 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2023-08-08/iaci-20230630.htm/iaci-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q1 2023 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2023-05-09/iaci-20230331.htm/iaci-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q4 2022 10-K",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2023-03-01/iaci-20221231.htm/iaci-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q3 2022 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2022-11-09/iaci-20220930.htm/iaci-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q2 2022 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2022-08-09/iaci-20220630.htm/iaci-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q1 2022 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2022-05-10/iaci-20220331.htm/iaci-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q4 2021 10-K",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2022-03-01/iaci-20211231.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q3 2021 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2021-11-05/iaci-20210930.htm/iaci-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q2 2021 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2021-08-06/iaci-20210630.htm/iaci-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q1 2021 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2021-05-07/iaci-20210331.htm/iaci-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q4 2020 10-K",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2021-02-17/iaci-20201231.htm/iaci-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q3 2020 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2020-11-06/iaci-20200930.htm/iaci-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q2 2020 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2020-08-10/iac-2020630x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "IAC",
         "geography": "US",
         "content_name": "IAC Q1 2020 10-Q",
@@ -1597,5 +1597,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IAC/2020-06-03/newiac-2020331x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

@@ -986,8 +986,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2010-03-16/g22499e10vk.htm/g22499e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q3 2009 10-Q",
@@ -999,8 +999,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2009-11-10/global9300910q.htm/global9300910q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q2 2009 10-Q",
@@ -1012,8 +1012,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2009-08-13/global6300910q.htm/global6300910q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q1 2009 10-Q",
@@ -1025,8 +1025,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2009-05-15/global3310910q.htm/global3310910q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q3 2008 10-Q",
@@ -1038,8 +1038,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2008-11-13/v131836_10q.htm/v131836_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q2 2008 10-Q",
@@ -1051,8 +1051,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2008-08-12/global6300810q.htm/global6300810q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q1 2008 10-Q",
@@ -1064,8 +1064,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2008-05-13/global3310810q.htm/global3310810q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q4 2004 10-K",
@@ -1077,8 +1077,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2005-03-04/global12310410k.htm/global12310410k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q3 2004 10-Q",
@@ -1090,8 +1090,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2004-10-28/global9300410q.htm/global9300410q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q2 2004 10-Q",
@@ -1103,8 +1103,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2004-08-06/form-10q_063004.htm/form-10q_063004.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q1 2004 10-Q",
@@ -1116,8 +1116,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2004-05-14/global3310410q.htm/global3310410q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q4 2003 10-K",
@@ -1129,8 +1129,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2004-04-14/global12310310k.htm/global12310310k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q3 2003 10-Q",
@@ -1142,8 +1142,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2003-11-19/global9300310q.htm/global9300310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q2 2003 10-Q",
@@ -1155,8 +1155,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2003-08-14/global6300310q.htm/global6300310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q1 2003 10-Q",
@@ -1168,8 +1168,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2003-05-20/global3310310q.htm/global3310310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q4 2002 10-K",
@@ -1181,8 +1181,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2003-04-15/global12310210k.htm/global12310210k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q3 2002 10-Q",
@@ -1194,8 +1194,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2002-11-14/global9300210q.htm/global9300210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q2 2002 10-Q",
@@ -1207,8 +1207,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2002-08-13/global6300210q.htm/global6300210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q1 2002 10-Q",
@@ -1220,8 +1220,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2002-05-15/global3310210q.htm/global3310210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q4 2001 10-K",
@@ -1233,8 +1233,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2002-04-01/gbl12310110k.htm/gbl12310110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q3 2001 10-Q",
@@ -1246,8 +1246,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2001-11-14/global9300110q.htm/global9300110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q2 2001 10-Q",
@@ -1259,8 +1259,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2001-08-20/gbl63010q.htm/gbl63010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GLOB",
         "geography": "US",
         "content_name": "GLOB Q1 2001 10-Q",
@@ -1272,5 +1272,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GLOB/2001-05-21/gbl3310110q.htm/gbl3310110q.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

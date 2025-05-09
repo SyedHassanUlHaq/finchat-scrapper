@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2025-01-30/avt-20241228x10q.htm/avt-20241228x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2025 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2024-10-31/avt-20240928x10q.htm/avt-20240928x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2024 10-K",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2024-08-13/avt-20240629x10k.htm/avt-20240629x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2024 10-Q",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2024-05-02/avt-20240330x10q.htm/avt-20240330x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2024 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2024-02-01/avt-20231230x10q.htm/avt-20231230x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2024 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2023-11-02/avt-20230930x10q.htm/avt-20230930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2023 10-K",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2023-08-17/avt-20230701x10k.htm/avt-20230701x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2023 10-Q",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2023-05-04/avt-20230401x10q.htm/avt-20230401x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2023 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2023-02-02/avt-20221231x10q.htm/avt-20221231x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2023 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2022-10-27/avt-20221001x10q.htm/avt-20221001x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2022 10-K",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2022-08-12/avt-20220702x10k.htm/avt-20220702x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2022 10-Q",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2022-04-28/avt-20220402x10q.htm/avt-20220402x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2022 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2022-01-27/avt-20220101x10q.htm/avt-20220101x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2022 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2021-10-28/avt-20211002x10q.htm/avt-20211002x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2021 10-K",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2021-08-12/avt-20210703x10k.htm/avt-20210703x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2021 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2021-04-29/avt-20210403x10q.htm/avt-20210403x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2021 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2021-01-28/avt-20210102x10q.htm/avt-20210102x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2021 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2020-10-29/avt-20201003x10q.htm/avt-20201003x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2020 10-K",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2020-08-13/avt-20200627x10k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2020 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2020-04-30/avt-20200328x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2020 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2020-01-23/avt-20191228x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2020 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2019-10-24/avt-20190928x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2019 10-K",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2019-08-15/avt-20190629x10k.htm/avt-20190629x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2019 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2019-04-26/avt-20190330x10q.htm/avt-20190330x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2019 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2019-01-25/avt-20181229x10q.htm/avt-20181229x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2019 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2018-11-07/avt-20180929x10q.htm/avt-20180929x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2018 10-K",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2018-08-16/avt-20180630x10k.htm/avt-20180630x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2018 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2018-05-01/avt-20180331x10q.htm/avt-20180331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2018 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2018-01-26/f10-q.htm/f10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2018 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2017-10-27/avt-20170930x10q.htm/avt-20170930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2017 10-K",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2017-08-16/avt-20170701x10k.htm/avt-20170701x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2017 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2017-05-01/avt-20170401x10q.htm/avt-20170401x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2017 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2017-01-27/avt-20161231x10q.htm/avt-20161231x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2017 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2016-10-28/avt-20161001x10q.htm/avt-20161001x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2016 10-K",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2016-08-12/avt-20160702x10k.htm/avt-20160702x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2016 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2016-04-28/avt-20160402x10q.htm/avt-20160402x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2016 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2016-01-28/avt-20160102x10q.htm/avt-20160102x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2016 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2015-10-29/avt-20151003x10q.htm/avt-20151003x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2015 10-K",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2015-08-07/avt-20150627x10k.htm/avt-20150627x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2015 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2015-04-23/avt-20150328x10q.htm/avt-20150328x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2015 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2015-01-22/avt-q2x2015.htm/avt-q2x2015.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2015 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2014-10-23/avt-q1x2015.htm/avt-q1x2015.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2014 10-K",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2014-08-08/avt-20140628x10k.htm/avt-20140628x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2014 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2014-04-24/avt-q3x2014.htm/avt-q3x2014.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2014 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2014-01-23/avt-q2x2014.htm/avt-q2x2014.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2014 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2013-10-24/avt-q1x2014.htm/avt-q1x2014.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2013 10-K",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2013-09-27/9999999997-13-014759.paper/9999999997-13-014759.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2013 10-K",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2013-08-09/avt-20130629x10k.htm/avt-20130629x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2013 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2013-04-25/avt-q3x2013.htm/avt-q3x2013.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2013 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2013-01-24/avt-q2x2013.htm/avt-q2x2013.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2012 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2012-10-26/avt-q1x2013.htm/avt-q1x2013.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2012 10-K",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2012-08-10/avt-20120630x10k.htm/avt-20120630x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2012 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2012-04-27/avt-q3x2012.htm/avt-q3x2012.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2012 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2012-01-27/avt-q2x2011.htm/avt-q2x2011.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2011 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2011-10-28/c22422e10vq.htm/c22422e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2011 10-K",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2011-08-12/c20396e10vk.htm/c20396e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2011 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2011-04-29/c14402e10vq.htm/c14402e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2011 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2011-01-28/c10356e10vq.htm/c10356e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2010 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2010-10-29/c06072e10vq.htm/c06072e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2010 10-K",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2010-08-13/c01547e10vk.htm/c01547e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2010 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2010-04-30/c98160e10vq.htm/c98160e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2010 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2010-01-29/c95126e10vq.htm/c95126e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2009 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2009-10-30/c91675e10vq.htm/c91675e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2009 10-K",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2009-08-25/p15665e10vk.htm/p15665e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2009 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2009-05-05/p14841e10vq.htm/p14841e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2009 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2009-02-10/p14028e10vq.htm/p14028e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2008 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2008-11-04/p13439e10vq.htm/p13439e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2008 10-K",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2008-08-27/p76236e10vk.htm/p76236e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2008 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2008-05-07/p75462e10vq.htm/p75462e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2008 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2008-02-05/p74912e10vq.htm/p74912e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2007 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2007-11-06/p74559e10vq.htm/p74559e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2007 10-K",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2007-08-29/p74288e10vk.htm/p74288e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2007 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2007-05-09/p73815e10vq.htm/p73815e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2007 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2007-02-07/p73416e10vq.htm/p73416e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2006 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2006-11-08/p73094e10vq.htm/p73094e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2006 10-K",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2006-08-30/p72824e10vk.htm/p72824e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2006 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2006-05-08/p72247e10vq.htm/p72247e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2006 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2006-02-03/p71806e10vq.htm/p71806e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2005 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2005-11-09/p71404e10vq.htm/p71404e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2005 10-K",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2005-09-13/p71142e10vk.htm/p71142e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2005 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2005-05-11/p70588e10vq.htm/p70588e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2005 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2005-02-09/p70155e10vq.htm/p70155e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2004 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2004-11-10/p69819e10vq.htm/p69819e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2004 10-K",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2004-09-08/p69562e10vk.htm/p69562e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2004 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2004-05-18/p69132e10vq.htm/p69132e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2004 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2004-02-13/p68764e10vq.htm/p68764e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2003 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2003-11-14/p68450e10vq.htm/p68450e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2003 10-K",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2003-09-16/p68219e10vk.htm/p68219e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2003 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2003-05-09/p67815e10vq.htm/p67815e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2003 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2003-01-27/p67402e10vq.htm/p67402e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2002 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2002-11-12/p67180e10vq.htm/p67180e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2002 10-K",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2002-09-26/p67041e10vk.htm/p67041e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2002 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2002-05-13/p66597e10-q.htm/p66597e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2002 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2002-02-11/p66143e10-q.htm/p66143e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2001 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2001-11-13/p65787e10-q.htm/p65787e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2001 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2001-05-14/p65049e10-q.htm/p65049e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2001 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2001-02-12/p64583e10-q.htm/p64583e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2001 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2000-11-13/p64049e10-q.htm/p64049e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 2000 10-K",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2000-09-27/p63813e10-k.htm/p63813e10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 2000 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2000-05-15/0000950153-00-000775-d1.html/0000950153-00-000775-d1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 2000 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/2000-02-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 2000 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1999-11-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 1999 10-K",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1999-09-29/0000950153-99-001239-d1.html/0000950153-99-001239-d1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 1999 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1999-05-17/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 1999 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1999-02-16/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 1999 10-Q",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1998-11-16/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 1998 10-K",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1998-09-23/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 1998 10-Q",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1998-05-11/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 1998 10-Q",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1998-02-09/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 1998 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1997-11-07/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 1997 10-K",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1997-09-24/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 1997 10-Q",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1997-05-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 1997 10-Q",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1997-02-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 1997 10-Q",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1996-11-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 1996 10-K",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1996-09-19/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 1996 10-Q",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1996-05-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 1996 10-Q",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1996-02-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 1996 10-Q",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1995-11-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 1995 10-K",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1995-09-27/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 1995 10-Q",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1995-05-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 1995 10-Q",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1995-02-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q1 1995 10-Q",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1994-11-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q4 1994 10-K",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1994-09-27/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q3 1994 10-Q",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1994-05-16/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "AVT",
         "geography": "US",
         "content_name": "AVT Q2 1994 10-Q",
@@ -3079,5 +3079,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/AVT/1994-02-14/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

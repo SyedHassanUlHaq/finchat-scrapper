@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2025-02-11/mar-20241231.htm/mar-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2024 10-Q",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2024-11-04/mar-20240930.htm/mar-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2024 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2024-07-31/mar-20240630.htm/mar-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2024 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2024-05-01/mar-20240331.htm/mar-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2023 10-K",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2024-02-13/mar-20231231.htm/mar-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2023 10-Q",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2023-11-02/mar-20230930.htm/mar-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2023 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2023-08-01/mar-20230630.htm/mar-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2023 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2023-05-02/mar-20230331.htm/mar-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2022 10-K",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2023-02-14/mar-20221231.htm/mar-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2022 10-Q",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2022-11-03/mar-20220930.htm/mar-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2022 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2022-08-02/mar-20220630.htm/mar-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2022 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2022-05-04/mar-20220331.htm/mar-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2021 10-K",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2022-02-15/mar-20211231.htm/mar-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2021 10-Q",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2021-11-03/mar-20210930.htm/mar-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2021 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2021-08-03/mar-20210630.htm/mar-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2021 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2021-05-10/mar-20210331.htm/mar-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2020 10-K",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2021-02-18/mar-20201231.htm/mar-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2020 10-Q",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2020-11-06/mar-20200930.htm/mar-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2020 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2020-08-10/mar-20200630.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2020 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2020-05-11/mar-q12020x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2019 10-K",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2020-02-27/mar-q42019x10k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2019 10-Q",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2019-11-05/mar-q32019x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2019 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2019-08-06/mar-q22019x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2019 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2019-05-10/mar-q12019x10q.htm/mar-q12019x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2018 10-K",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2019-03-01/mar-q42018x10k.htm/mar-q42018x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2018 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2018-11-06/mar-q32018x10q.htm/mar-q32018x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2018 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2018-08-07/mar-q22018x10q.htm/mar-q22018x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2018 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2018-05-10/mar-q12018x10q.htm/mar-q12018x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2017 10-K",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2018-02-15/mar-q42017x10k.htm/mar-q42017x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2017 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2017-11-08/mar-q32017x10q.htm/mar-q32017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2017 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2017-08-08/mar-q22017x10q.htm/mar-q22017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2017 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2017-05-09/mar-q12017x10q.htm/mar-q12017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2016 10-K",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2017-02-21/mar-q42016x10k.htm/mar-q42016x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2016 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2016-11-09/mar-q32016x10q.htm/mar-q32016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2016 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2016-07-28/mar-q22016x10q.htm/mar-q22016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2016 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2016-04-28/mar-q12016x10q.htm/mar-q12016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2015 10-K",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2016-02-18/mar-q42015x10k.htm/mar-q42015x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2015 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2015-10-29/mar-q32015x10q.htm/mar-q32015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2015 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2015-07-30/mar-q22015x10q.htm/mar-q22015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2015 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2015-04-30/mar-q12015x10q.htm/mar-q12015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2014 10-K",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2015-02-19/mar-q42014x10k.htm/mar-q42014x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2014 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2014-10-29/mar-q32014x10q.htm/mar-q32014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2014 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2014-07-30/mar-q22014x10q.htm/mar-q22014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2014 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2014-04-30/mar-q12014x10q.htm/mar-q12014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2013 10-K",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2014-02-20/mar-q42013x10k.htm/mar-q42013x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2013 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2013-10-31/mar-q32013x10q.htm/mar-q32013x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2013 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2013-08-01/mar-q22013x10q.htm/mar-q22013x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2013 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2013-05-02/mar-q12013x10q.htm/mar-q12013x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2012 10-K",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2013-02-20/mar-q42012x10k.htm/mar-q42012x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2012 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2012-10-04/mar-q32012x10q.htm/mar-q32012x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2012 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2012-07-12/mar-q22012x10q.htm/mar-q22012x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2012 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2012-04-19/mar-q12012x10q.htm/mar-q12012x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2011 10-K",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2012-02-16/mar-q42011x10k.htm/mar-q42011x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2011 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2011-10-07/mar-q32011x10q.htm/mar-q32011x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2011 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2011-07-15/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2011 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2011-04-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2010 10-K",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2011-02-18/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2010 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2010-10-08/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2010 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2010-07-16/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2010 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2010-04-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2010 10-K",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2010-02-12/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2010 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2009-10-09/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2010 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2009-07-17/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2010 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2009-04-24/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2009 10-K",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2009-02-12/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2009 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2008-10-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2009 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2008-07-11/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2009 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2008-04-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2007 10-K",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2008-02-15/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2007 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2007-10-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2007 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2007-07-13/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2007 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2007-04-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2006 10-K",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2007-02-21/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2006 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2006-10-12/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2006 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2006-07-19/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2006 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2006-04-26/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2005 10-K",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2006-02-22/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2005 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2005-10-13/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2005 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2005-07-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2005 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2005-05-02/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2004 10-K",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2005-02-22/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2004 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2004-10-18/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2004 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2004-07-21/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2004 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2004-05-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2004 10-K",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2004-02-23/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2004 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2003-10-17/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2004 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2003-07-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2004 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2003-05-02/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2003 10-K",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2003-02-14/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2003 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2002-10-10/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2003 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2002-07-18/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2003 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2002-04-24/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2001 10-K",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2002-03-22/d10k.txt/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2001 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2001-10-19/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2001 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2001-07-27/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2001 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2001-05-04/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 2000 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2000-10-20/0000928385-00-002835-0001.txt/0000928385-00-002835-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 2000 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2000-07-28/0000928385-00-002039-0001.txt/0000928385-00-002039-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 2000 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2000-05-04/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 2000 10-K",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/2000-03-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 1999 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/1999-10-25/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 1999 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/1999-07-29/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 1999 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/1999-05-06/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q1 1999 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/1998-10-23/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q4 1998 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/1998-07-31/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q3 1998 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/1998-05-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "MAR",
         "geography": "US",
         "content_name": "MAR Q2 1998 10-K",
@@ -2715,5 +2715,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MAR/1998-03-06/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

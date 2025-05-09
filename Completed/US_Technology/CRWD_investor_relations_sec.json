@@ -1090,8 +1090,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2025-03-10/crwd-20250131.htm/crwd-20250131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q3 2025 10-Q",
@@ -1103,8 +1103,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2024-11-26/crwd-20241031.htm/crwd-20241031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q2 2025 10-Q",
@@ -1116,8 +1116,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2024-08-28/crwd-20240731.htm/crwd-20240731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q1 2025 10-Q",
@@ -1129,8 +1129,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2024-06-04/crwd-20240430.htm/crwd-20240430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q4 2024 10-K",
@@ -1142,8 +1142,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2024-03-06/crwd-20240131.htm/crwd-20240131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q3 2024 10-Q",
@@ -1155,8 +1155,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2023-11-28/crwd-20231031.htm/crwd-20231031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q2 2024 10-Q",
@@ -1168,8 +1168,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2023-08-30/crwd-20230731.htm/crwd-20230731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q1 2024 10-Q",
@@ -1181,8 +1181,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2023-05-31/crwd-20230430.htm/crwd-20230430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q4 2023 10-K",
@@ -1194,8 +1194,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2023-03-08/crwd-20230131.htm/crwd-20230131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q3 2023 10-Q",
@@ -1207,8 +1207,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2022-11-29/crwd-20221031.htm/crwd-20221031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q2 2023 10-Q",
@@ -1220,8 +1220,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2022-08-30/crwd-20220731.htm/crwd-20220731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q1 2023 10-Q",
@@ -1233,8 +1233,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2022-06-03/crwd-20220430.htm/crwd-20220430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q4 2022 10-K",
@@ -1246,8 +1246,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2022-03-16/crwd-20220131.htm/crwd-20220131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q3 2022 10-Q",
@@ -1259,8 +1259,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2021-12-02/crwd-20211031.htm/crwd-20211031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q2 2022 10-Q",
@@ -1272,8 +1272,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2021-09-01/crwd-20210731.htm/crwd-20210731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q1 2022 10-Q",
@@ -1285,8 +1285,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2021-06-04/crwd-20210430.htm/crwd-20210430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q4 2021 10-K",
@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2021-03-18/crwd-20210131.htm/crwd-20210131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q3 2021 10-Q",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2020-12-03/crwd-20201031.htm/crwd-20201031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q2 2021 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2020-09-03/crwd-20200731.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q1 2021 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2020-06-03/crwd-20200430.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q4 2020 10-K",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2020-03-23/crwd-20200131.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q3 2020 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2019-12-06/crwd-20191031.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q2 2020 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2019-09-06/crwd-20190731x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CRWD",
         "geography": "US",
         "content_name": "CRWD Q1 2020 10-Q",
@@ -1389,5 +1389,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CRWD/2019-07-19/crwd-20190430x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

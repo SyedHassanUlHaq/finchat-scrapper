@@ -375,8 +375,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KVUE/2025-02-24/kvue-20241229.htm/kvue-20241229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KVUE",
         "geography": "US",
         "content_name": "KVUE Q3 2024 10-Q",
@@ -388,8 +388,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KVUE/2024-11-07/kvue-20240929.htm/kvue-20240929.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KVUE",
         "geography": "US",
         "content_name": "KVUE Q2 2024 10-Q",
@@ -401,8 +401,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KVUE/2024-08-06/kvue-20240630.htm/kvue-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KVUE",
         "geography": "US",
         "content_name": "KVUE Q1 2024 10-Q",
@@ -414,8 +414,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KVUE/2024-05-09/kvue-20240331.htm/kvue-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KVUE",
         "geography": "US",
         "content_name": "KVUE Q4 2023 10-K",
@@ -427,8 +427,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KVUE/2024-03-01/kvue-20231231.htm/kvue-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KVUE",
         "geography": "US",
         "content_name": "KVUE Q3 2023 10-Q",
@@ -440,8 +440,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KVUE/2023-11-03/kvue-20231001.htm/kvue-20231001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KVUE",
         "geography": "US",
         "content_name": "KVUE Q2 2023 10-Q",
@@ -453,8 +453,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KVUE/2023-08-02/kvue-20230702.htm/kvue-20230702.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KVUE",
         "geography": "US",
         "content_name": "KVUE Q1 2023 10-Q",
@@ -466,5 +466,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KVUE/2023-06-02/kvue-20230402.htm/kvue-20230402.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

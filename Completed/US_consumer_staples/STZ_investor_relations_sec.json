@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2025-01-10/stz-20241130.htm/stz-20241130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2025 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2024-10-03/stz-20240831.htm/stz-20240831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2025 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2024-07-03/stz-20240531.htm/stz-20240531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2024 10-K",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2024-04-23/stz-20240229.htm/stz-20240229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2024 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2024-01-05/stz-20231130.htm/stz-20231130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2024 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2023-10-05/stz-20230831.htm/stz-20230831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2024 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2023-06-30/stz-20230531.htm/stz-20230531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2023 10-K",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2023-04-20/stz-20230228.htm/stz-20230228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2023 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2023-01-05/stz-20221130.htm/stz-20221130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2023 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2022-10-06/stz-20220831.htm/stz-20220831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2023 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2022-06-30/stz-20220531.htm/stz-20220531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2022 10-K",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2022-04-21/stz-20220228.htm/stz-20220228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2022 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2022-01-06/stz-20211130.htm/stz-20211130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2022 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2021-10-06/stz-20210831.htm/stz-20210831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2022 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2021-06-30/stz-20210531.htm/stz-20210531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2021 10-K",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2021-04-20/stz-20210228.htm/stz-20210228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2021 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2021-01-07/stz-20201130.htm/stz-20201130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2021 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2020-10-01/stz-20200831.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2021 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2020-07-01/stz-20200531.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2020 10-K",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2020-04-21/stz229202010k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2020 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2020-01-08/stz1130201910q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2020 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2019-10-03/stz831201910q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2020 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2019-06-28/stz531201910q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2019 10-K",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2019-04-23/stz228201910k.htm/stz228201910k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2019 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2019-01-09/stz1130201810q.htm/stz1130201810q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2019 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2018-10-04/stz831201810q.htm/stz831201810q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2019 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2018-06-29/stz531201810q.htm/stz531201810q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2018 10-K",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2018-04-23/stz228201810k.htm/stz228201810k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2018 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2018-01-05/stz1130201710q.htm/stz1130201710q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2018 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2017-10-05/stz831201710q.htm/stz831201710q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2018 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2017-06-29/stz531201710q.htm/stz531201710q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2017 10-K",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2017-04-27/stz_228201710k.htm/stz_228201710k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2017 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2017-01-05/stz1130201610q.htm/stz1130201610q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2017 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2016-10-05/stz831201610q.htm/stz831201610q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2017 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2016-06-30/stz531201610q.htm/stz531201610q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2016 10-K",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2016-04-25/stz229201610k.htm/stz229201610k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2016 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2016-01-07/stz1130201510q.htm/stz1130201510q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2016 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2015-10-07/stz831201510q.htm/stz831201510q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2016 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2015-07-09/stz531201510q.htm/stz531201510q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2015 10-K",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2015-04-28/stz228201510k.htm/stz228201510k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2015 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2015-01-08/stz1130201410q.htm/stz1130201410q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2015 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2014-10-09/stz831201410q.htm/stz831201410q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2015 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2014-07-10/stz531201410q.htm/stz531201410q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2014 10-K",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2014-04-29/stz228201410k.htm/stz228201410k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2014 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2014-01-09/stz1130201310q.htm/stz1130201310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2014 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2013-10-10/stz831201310q.htm/stz831201310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2014 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2013-07-10/stz531201310q.htm/stz531201310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2013 10-K",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2013-04-29/stz228201310k.htm/stz228201310k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2013 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2013-01-09/stz1130201210q.htm/stz1130201210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2013 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2012-10-10/stz831201210q.htm/stz831201210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2013 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2012-07-10/stz531201210q.htm/stz531201210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2012 10-K",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2012-04-30/d285276d10k.htm/d285276d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2012 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2012-01-09/d260184d10q.htm/d260184d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2012 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2011-10-11/l43145e10vq.htm/l43145e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2012 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2011-07-11/l43003e10vq.htm/l43003e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2011 10-K",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2011-04-29/l41071e10vk.htm/l41071e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2011 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2011-01-10/l41360e10vq.htm/l41360e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2011 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2010-10-12/l40668e10vq.htm/l40668e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2011 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2010-07-12/l40141e10vq.htm/l40141e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2010 10-K",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2010-04-29/l39498e10vk.htm/l39498e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2010 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2010-01-11/l38473e10vq.htm/l38473e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2010 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2009-10-13/l37765e10vq.htm/l37765e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2010 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2009-07-10/l36980ae10vq.htm/l36980ae10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2009 10-K",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2009-04-29/l36231ae10vk.htm/l36231ae10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2009 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2009-01-09/l35050ae10vq.htm/l35050ae10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2009 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2008-10-10/l34029ae10vq.htm/l34029ae10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2009 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2008-07-10/l32352ae10vq.htm/l32352ae10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2008 10-K",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2008-04-29/l30627ae10vk.htm/l30627ae10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2008 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2008-01-09/q10form.htm/q10form.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2008 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2007-10-10/form10q101007.htm/form10q101007.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2008 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2007-07-10/q1-071007.htm/q1-071007.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2007 10-K",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2007-04-30/form10k-022807.htm/form10k-022807.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2007 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2007-01-09/form10q-113006.htm/form10q-113006.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2007 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2006-10-10/form10q-083106.htm/form10q-083106.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2007 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2006-07-10/q1-071006.htm/q1-071006.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2006 10-K",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2006-05-01/form10k-022806.htm/form10k-022806.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2006 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2006-01-09/form10q-010906.htm/form10q-010906.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2006 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2005-10-11/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2006 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2005-07-11/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2005 10-K",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2005-05-16/form10k-022805.htm/form10k-022805.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2005 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2005-01-10/body10-q.htm/body10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2005 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2004-10-12/q2-083104.htm/q2-083104.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2005 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2004-07-12/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2004 10-K",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2004-05-14/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2004 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2004-01-14/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2004 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2003-10-15/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2004 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2003-07-15/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2003 10-K",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2003-05-13/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2003 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2003-01-10/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2003 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2002-10-15/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2003 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2002-07-15/q1-2003.txt/q1-2003.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q4 2002 10-K",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2002-05-20/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q3 2002 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2002-01-14/q3definitive.txt/q3definitive.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q2 2002 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2001-10-15/q2document.txt/q2document.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "STZ",
         "geography": "US",
         "content_name": "STZ Q1 2002 10-Q",
@@ -2832,5 +2832,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/STZ/2001-07-16/q1-2002.txt/q1-2002.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

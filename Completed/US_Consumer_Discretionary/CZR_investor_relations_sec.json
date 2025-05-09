@@ -1077,8 +1077,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2025-02-25/czr-20241231.htm%5Cczr-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2024 10-Q",
@@ -1090,8 +1090,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2024-10-29/czr-20240930.htm%5Cczr-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2024 10-Q",
@@ -1103,8 +1103,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2024-07-30/czr-20240630.htm%5Cczr-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2024 10-Q",
@@ -1116,8 +1116,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2024-04-30/czr-20240331.htm%5Cczr-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2023 10-K",
@@ -1129,8 +1129,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2024-02-20/czr-20231231.htm%5Cczr-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2023 10-Q",
@@ -1142,8 +1142,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2023-10-31/czr-20230930.htm%5Cczr-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2023 10-Q",
@@ -1155,8 +1155,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2023-08-01/czr-20230630.htm%5Cczr-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2023 10-Q",
@@ -1168,8 +1168,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2023-05-02/czr-20230331.htm%5Cczr-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2022 10-K",
@@ -1181,8 +1181,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2023-02-21/czr-20221231.htm%5Cczr-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2022 10-Q",
@@ -1194,8 +1194,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2022-11-01/czr-20220930.htm%5Cczr-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2022 10-Q",
@@ -1207,8 +1207,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2022-08-03/czr-20220630.htm%5Cczr-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2022 10-Q",
@@ -1220,8 +1220,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2022-05-03/czr-20220331.htm%5Cczr-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2021 10-K",
@@ -1233,8 +1233,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2022-02-23/czr-20211231.htm%5Cczr-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2021 10-Q",
@@ -1246,8 +1246,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2021-11-04/czr-20210930.htm%5Cczr-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2021 10-Q",
@@ -1259,8 +1259,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2021-08-03/czr-20210630.htm%5Cczr-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2021 10-Q",
@@ -1272,8 +1272,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2021-05-04/czr-20210331.htm%5Cczr-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2020 10-K",
@@ -1285,8 +1285,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2021-02-26/czr-20201231.htm%5Cczr-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2020 10-Q",
@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2020-11-09/eri-20200930.htm%5Ceri-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2020 10-Q",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2020-08-06/eri-20200630.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2020 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2020-05-11/eri-10q_20200331.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2020 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2020-05-11/a2020q1cecform10-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2020 10-K",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2020-02-27/eri-10k_20191231.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2020 10-K",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2020-02-25/a2019q4cecform10-k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2020 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2019-11-06/eri-10q_20190930.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2019 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2019-11-05/a2019q3cecform10-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2019 10-Q",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2019-08-09/eri-10q_20190630.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2019 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2019-08-06/a2019q2cecform10-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2019 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2019-05-07/eri-10q_20190331.htm%5Ceri-10q_20190331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2019 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2019-05-01/a2019q1cecform10-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2019 10-K",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2019-03-01/eri-10k_20181231.htm%5Ceri-10k_20181231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2019 10-K",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2019-02-21/a2018q4cecform10-k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2018 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2018-11-01/a2018q3cecform10-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2018 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2018-08-07/eri-10q_20180630.htm%5Ceri-10q_20180630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2018 10-Q",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2018-08-01/a2018q2cecform10-q.htm%5Ca2018q2cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2018 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2018-05-08/eri-10q_20180331.htm%5Ceri-10q_20180331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2018 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2018-05-02/a2018q1cecform10-q.htm%5Ca2018q1cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2018 10-K",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2018-03-07/a2017q4cecform10-k.htm%5Ca2017q4cecform10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2018 10-K",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2018-02-27/eri-10k_20171231.htm%5Ceri-10k_20171231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2018 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2017-11-07/eri-10q_20170930.htm%5Ceri-10q_20170930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2017 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2017-11-01/a2017q3cecform10-q.htm%5Ca2017q3cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2017 10-Q",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2017-08-11/eri-10q_20170630.htm%5Ceri-10q_20170630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2017 10-Q",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2017-08-03/a2017q2cecform10-q.htm%5Ca2017q2cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2017 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2017-05-09/eri-10q_20170331.htm%5Ceri-10q_20170331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2017 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2017-05-02/a2017q1cecform10-q.htm%5Ca2017q1cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2017 10-K",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2017-03-13/eri-10k_20161231.htm%5Ceri-10k_20161231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2017 10-K",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2017-02-14/a2016q4cecform10-k.htm%5Ca2016q4cecform10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2017 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2016-11-09/eri-20160930x10q.htm%5Ceri-20160930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2016 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2016-11-07/a2016q3cecform10-q.htm%5Ca2016q3cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2016 10-Q",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2016-08-09/eri-20160630x10q.htm%5Ceri-20160630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2016 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2016-08-02/a2016q2cecform10-q.htm%5Ca2016q2cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2016 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2016-05-10/eri-20160331x10q.htm%5Ceri-20160331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2016 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2016-05-05/copy3of2015q3cecform10-q.htm%5Ccopy3of2015q3cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2016 10-K",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2016-03-15/eri-20151231x10k.htm%5Ceri-20151231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2016 10-K",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2016-02-26/a2015q4cecform10-k.htm%5Ca2015q4cecform10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2016 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2015-11-09/a2226500z10-q.htm%5Ca2226500z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2015 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2015-11-09/a2015q3cecform10-q.htm%5Ca2015q3cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2015 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2015-08-10/a2225675z10-q.htm%5Ca2225675z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2015 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2015-08-06/a2015q2cecform10-q.htm%5Ca2015q2cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2015 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2015-05-11/a2015q1cecform10-q.htm%5Ca2015q1cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2015 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2015-05-11/a2224673z10-q.htm%5Ca2224673z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2015 10-K",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2015-03-16/a2014q4cecform10-k.htm%5Ca2014q4cecform10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2015 10-K",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2015-03-16/a2223636z10-k.htm%5Ca2223636z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2015 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2014-11-14/a2222175z10-q.htm%5Ca2222175z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2014 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2014-11-14/a2014q3cecform10-q.htm%5Ca2014q3cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2014 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2014-08-11/a2014q2cecform10-q.htm%5Ca2014q2cecform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2014 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2014-05-09/a2014cecq1form10-q.htm%5Ca2014cecq1form10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2014 10-K",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2014-03-17/a201310-k.htm%5Ca201310-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2013 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2013-11-07/a2013q3form10-q.htm%5Ca2013q3form10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2013 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2013-08-08/a2013q2form10-q.htm%5Ca2013q2form10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2013 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2013-05-09/a2013q1form10-q.htm%5Ca2013q1form10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2013 10-K",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2013-03-15/a201210-k.htm%5Ca201210-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2012 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2012-11-08/d404814d10q.htm%5Cd404814d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2012 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2012-08-08/d356990d10q.htm%5Cd356990d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2012 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2012-05-09/d325935d10q.htm%5Cd325935d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2012 10-K",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2012-03-14/d268435d10k.htm%5Cd268435d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2011 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2011-11-10/d236722d10q.htm%5Cd236722d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2011 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2011-08-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2011 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2011-05-12/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2011 10-K",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2011-03-04/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2010 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2010-11-05/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2010 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2010-08-16/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2010 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2010-05-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2010 10-K",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2010-03-09/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2009 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2009-11-12/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2009 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2009-08-13/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2009 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2009-05-13/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2009 10-K",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2009-03-16/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2008 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2008-11-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2008 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2008-08-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2008 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2008-05-15/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2008 10-K",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2008-02-29/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2007 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2007-11-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2007 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2007-08-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2007 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2007-05-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2007 10-K",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2007-03-01/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2006 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2006-11-08/a06-21800_110q.htm%5Ca06-21800_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2006 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2006-08-08/a06-15469_110q.htm%5Ca06-15469_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2006 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2006-05-10/a06-9587_110q.htm%5Ca06-9587_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2006 10-K",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2006-03-13/a06-2584_110k.htm%5Ca06-2584_110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2005 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2005-11-09/a05-18326_110q.htm%5Ca05-18326_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2005 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2005-08-09/a05-13060_110q.htm%5Ca05-13060_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2005 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2005-05-10/a05-8162_110q.htm%5Ca05-8162_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2005 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2005-05-06/a05-8670_110q.htm%5Ca05-8670_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2004 10-K",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2005-03-01/a2152383z10-k.htm%5Ca2152383z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2004 10-K",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2005-02-28/a05-3971_110k.htm%5Ca05-3971_110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2004 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2004-11-09/a04-13027_110q.htm%5Ca04-13027_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2004 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2004-11-08/a2145937z10-q.htm%5Ca2145937z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2004 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2004-08-09/a2137752z10-q.htm%5Ca2137752z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2004 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2004-08-06/a2141250z10-q.htm%5Ca2141250z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2004 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2004-05-10/a2135421z10-q.htm%5Ca2135421z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2004 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2004-05-07/a2135651z10-q.htm%5Ca2135651z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2003 10-K",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2004-03-11/a2128877z10-k.htm%5Ca2128877z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2003 10-K",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2004-03-04/a2129773z10-k.htm%5Ca2129773z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2003 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2003-11-13/a03-3606_110q.htm%5Ca03-3606_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2003 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2003-11-07/a2121927z10-q.htm%5Ca2121927z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2003 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2003-08-14/a03-1039_110q.htm%5Ca03-1039_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2003 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2003-08-07/a2115958z10-q.htm%5Ca2115958z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2003 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2003-05-14/j1046_10q.htm%5Cj1046_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2003 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2003-05-08/a2110255z10-q.htm%5Ca2110255z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2002 10-K",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2003-03-27/a2106366z10-k.htm%5Ca2106366z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2002 10-K",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2003-03-07/a2104827z10-k.htm%5Ca2104827z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2002 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2002-11-14/a2091812z10-q.htm%5Ca2091812z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2002 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2002-08-14/a2086798z10-q.htm%5Ca2086798z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2002 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2002-05-14/a2079714z10-q.htm%5Ca2079714z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2002 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2002-05-09/a2079050z10-q.txt%5Ca2079050z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2001 10-K",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2002-03-08/a2072513z10-k.txt%5Ca2072513z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2001 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2001-11-14/a2062715z10-q.htm%5Ca2062715z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2001 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2001-11-09/a2062633z10-q.txt%5Ca2062633z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2001 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2001-08-14/a2056614z10-q.htm%5Ca2056614z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2001 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2001-05-15/a2049360z10-q.htm%5Ca2049360z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2001 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2000-11-14/a2028692z10-q.txt%5Ca2028692z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 2000 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2000-11-13/a2029570z10-q.txt%5Ca2029570z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2000 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2000-08-14/a10-q.txt%5Ca10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2000 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2000-05-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 2000 10-K",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2000-03-29/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 2000 10-K",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/2000-03-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 2000 10-Q",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1999-11-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 1999 10-Q",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1999-08-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 1999 10-Q",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1999-05-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 1999 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1998-11-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 1999 10-Q",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1998-11-06/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 1999 10-Q",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1998-08-07/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 1998 10-Q",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1998-05-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 1998 10-K",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1998-03-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 1998 10-Q",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1997-11-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 1998 10-Q",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1997-08-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 1997 10-Q",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1997-05-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 1997 10-Q",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1996-11-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 1997 10-Q",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1996-08-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 1997 10-Q",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1996-05-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 1995 10-K",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1996-03-06/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 1995 10-Q",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1995-11-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 1995 10-Q",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1995-08-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 1995 10-Q",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1995-05-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 1994 10-K",
@@ -3079,8 +3079,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1995-03-21/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q3 1994 10-Q",
@@ -3092,8 +3092,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1994-11-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q2 1994 10-Q",
@@ -3105,8 +3105,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1994-08-11/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q1 1994 10-Q",
@@ -3118,8 +3118,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1994-05-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CZR",
         "geography": "US",
         "content_name": "CZR Q4 1993 10-K",
@@ -3131,5 +3131,5 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CZR/1994-03-28/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

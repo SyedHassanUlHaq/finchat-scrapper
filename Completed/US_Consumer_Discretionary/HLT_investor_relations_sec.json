@@ -999,8 +999,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2025-02-06/hlt-20241231.htm/hlt-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2024 10-Q",
@@ -1012,8 +1012,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2024-10-23/hlt-20240930.htm/hlt-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2024 10-Q",
@@ -1025,8 +1025,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2024-08-07/hlt-20240630.htm/hlt-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2024 10-Q",
@@ -1038,8 +1038,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2024-04-24/hlt-20240331.htm/hlt-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2023 10-K",
@@ -1051,8 +1051,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2024-02-07/hlt-20231231.htm/hlt-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2023 10-Q",
@@ -1064,8 +1064,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2023-10-25/hlt-20230930.htm/hlt-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2023 10-Q",
@@ -1077,8 +1077,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2023-07-26/hlt-20230630.htm/hlt-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2023 10-Q",
@@ -1090,8 +1090,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2023-04-26/hlt-20230331.htm/hlt-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2022 10-K",
@@ -1103,8 +1103,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2023-02-09/hlt-20221231.htm/hlt-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2022 10-Q",
@@ -1116,8 +1116,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2022-10-26/hlt-20220930.htm/hlt-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2022 10-Q",
@@ -1129,8 +1129,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2022-07-27/hlt-20220630.htm/hlt-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2022 10-Q",
@@ -1142,8 +1142,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2022-05-03/hlt-20220331.htm/hlt-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2021 10-K",
@@ -1155,8 +1155,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2022-02-16/hlt-20211231.htm/hlt-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2021 10-Q",
@@ -1168,8 +1168,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2021-10-27/hlt-20210930.htm/hlt-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2021 10-Q",
@@ -1181,8 +1181,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2021-07-29/hlt-20210630.htm/hlt-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2021 10-Q",
@@ -1194,8 +1194,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2021-05-05/hlt-20210331.htm/hlt-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2020 10-K",
@@ -1207,8 +1207,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2021-02-17/hlt-20201231.htm/hlt-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2020 10-Q",
@@ -1220,8 +1220,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2020-11-04/hlt-20200930.htm/hlt-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2020 10-Q",
@@ -1233,8 +1233,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2020-05-07/hlt-20200331.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2019 10-K",
@@ -1246,8 +1246,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2020-02-11/hlt-20191231.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2019 10-Q",
@@ -1259,8 +1259,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2019-10-23/hlt-20190930.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2019 10-Q",
@@ -1272,8 +1272,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2019-07-24/q22019hwhfsandmda.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2019 10-Q",
@@ -1285,8 +1285,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2019-05-01/q12019hwhfsandmda.htm/q12019hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2018 10-K",
@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2019-02-13/q42018hwh10-k.htm/q42018hwh10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2018 10-Q",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2018-10-24/q32018hwhfsandmda.htm/q32018hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2018 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2018-07-25/q22018hwhfsandmda.htm/q22018hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2018 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2018-04-26/q12018hwhfsandmda.htm/q12018hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2017 10-K",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2018-02-14/a2017hwh10-k.htm/a2017hwh10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2017 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2017-10-26/q32017hwhfsandmda-10q.htm/q32017hwhfsandmda-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2017 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2017-07-26/q22017hwhfsandmda-10q.htm/q22017hwhfsandmda-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2017 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2017-05-02/q12017hwhfsandmda-10q.htm/q12017hwhfsandmda-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2016 10-K",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2017-02-15/a2016hwh10-knospin.htm/a2016hwh10-knospin.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2016 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2016-10-26/q32016hwhfsandmda.htm/q32016hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2016 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2016-07-27/q22016hwhfsandmda.htm/q22016hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2016 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2016-04-27/q12016hwhfsandmda.htm/q12016hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2015 10-K",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2016-02-26/a2015hwh10-k.htm/a2015hwh10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2015 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2015-10-28/q32015hwhfsandmda.htm/q32015hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2015 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2015-07-29/q22015hwhfsandmda.htm/q22015hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2015 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2015-04-29/q12015hwhfsandmda.htm/q12015hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2014 10-K",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2015-02-18/a2014hwh10-k.htm/a2014hwh10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2014 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2014-10-31/q32014hwhfsandmda.htm/q32014hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2014 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2014-08-01/q22014hwhfsandmda.htm/q22014hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2014 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2014-05-09/q12014hwhfsandmda.htm/q12014hwhfsandmda.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2013 10-K",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2014-02-27/a2013hwh10-k.htm/a2013hwh10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2013 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2007-08-07/a07-18750_110q.htm/a07-18750_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2013 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2007-05-09/a07-10691_210q.htm/a07-10691_210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2013 10-K",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2007-02-28/a07-4941_110k.htm/a07-4941_110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2006 10-Q",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2006-11-08/a06-21538_110q.htm/a06-21538_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2006 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2006-08-09/a06-15184_110q.htm/a06-15184_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2006 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2006-05-10/a06-9246_110q.htm/a06-9246_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2006 10-K",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2006-03-14/a06-2283_110k.htm/a06-2283_110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2005 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2005-11-02/a05-17942_110q.htm/a05-17942_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2005 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2005-08-02/a05-12555_110q.htm/a05-12555_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2005 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2005-05-03/a05-7689_110q.htm/a05-7689_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2005 10-K",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2005-03-10/a05-3894_110k.htm/a05-3894_110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2004 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2004-11-05/a04-12335_110q.htm/a04-12335_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2004 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2004-08-05/a04-8807_210q.htm/a04-8807_210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2004 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2004-05-07/a04-5463_110q.htm/a04-5463_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2004 10-K",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2004-03-11/a2128996z10-k.htm/a2128996z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2003 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2003-10-30/a03-4335_110q.htm/a03-4335_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2003 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2003-08-13/a03-2526_110q.htm/a03-2526_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2003 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2003-05-05/j0018_10q.htm/j0018_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2003 10-K",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2003-03-28/a2105660z10-k.htm/a2105660z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2002 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2002-11-12/a2092995z10-q.htm/a2092995z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2002 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2002-08-02/a2085728z10-q.htm/a2085728z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2002 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2002-05-06/a2078968z10-q.htm/a2078968z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2002 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2001-11-13/a2062755z10-q.htm/a2062755z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2001 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2001-08-09/a2055586z10-q.htm/a2055586z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2001 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2001-05-14/a2049017z10-q.htm/a2049017z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 2001 10-K",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2001-03-28/a2041534z10-k.htm/a2041534z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 2001 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2000-11-13/a2029122z10-q.txt/a2029122z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 2000 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2000-08-11/a10-q.txt/a10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 2000 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/2000-05-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 1999 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1999-05-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 1999 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1998-11-02/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 1999 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1998-08-05/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 1999 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1998-05-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 1997 10-K",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1998-03-27/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 1997 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1997-11-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 1997 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1997-08-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 1997 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1997-05-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 1996 10-K",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1997-03-21/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 1996 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1996-11-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 1996 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1996-08-07/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 1996 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1996-05-07/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 1995 10-K",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1996-03-22/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 1995 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1995-11-09/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 1995 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1995-08-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 1995 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1995-05-09/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q4 1994 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1994-11-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q3 1994 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1994-08-05/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q2 1994 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1994-05-11/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "HLT",
         "geography": "US",
         "content_name": "HLT Q1 1994 10-K",
@@ -2195,5 +2195,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HLT/1994-03-29/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

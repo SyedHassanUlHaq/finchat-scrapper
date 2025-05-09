@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2025-03-26/pstg-20250202.htm%5Cpstg-20250202.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2025 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2024-12-11/pstg-20241103.htm%5Cpstg-20241103.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q2 2025 10-Q",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2024-09-10/pstg-20240804.htm%5Cpstg-20240804.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q1 2025 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2024-06-12/pstg-20240505.htm%5Cpstg-20240505.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q4 2024 10-K",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2024-03-29/pstg-20240204.htm%5Cpstg-20240204.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2024 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2023-12-14/pstg-20231105.htm%5Cpstg-20231105.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q2 2024 10-Q",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2023-09-13/pstg-20230806.htm%5Cpstg-20230806.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q1 2024 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2023-06-15/pstg-20230507.htm%5Cpstg-20230507.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q4 2023 10-K",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2023-03-31/pstg-20230205.htm%5Cpstg-20230205.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2023 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2022-12-14/pstg-20221106.htm%5Cpstg-20221106.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q2 2023 10-Q",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2022-09-14/pstg-20220807.htm%5Cpstg-20220807.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q1 2023 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2022-06-15/pstg-20220508.htm%5Cpstg-20220508.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q4 2022 10-K",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2022-04-06/pstg-20220206.htm%5Cpstg-20220206.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2022 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2021-12-07/pstg-20211031.htm%5Cpstg-20211031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q2 2022 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2021-09-08/pstg-20210801.htm%5Cpstg-20210801.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q1 2022 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2021-06-08/pstg-20210502.htm%5Cpstg-20210502.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q4 2021 10-K",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2021-03-24/pstg-20210131.htm%5Cpstg-20210131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2021 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2020-12-09/pstg-20201101.htm%5Cpstg-20201101.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q2 2021 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2020-09-10/pstg-20200802.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q1 2021 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2020-06-11/pstg-20200503.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q4 2020 10-K",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2020-03-26/pstg-20200202.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2020 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2019-12-09/pstg-20191031.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q2 2020 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2019-08-30/pstg-q2fy2020x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q1 2020 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2019-06-07/pstg-q1fy2020x10q.htm%5Cpstg-q1fy2020x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q4 2019 10-K",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2019-03-26/a10k2019.htm%5Ca10k2019.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2019 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2018-12-06/pstg-q3fy2019x10q.htm%5Cpstg-q3fy2019x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q2 2019 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2018-09-04/pstg-q2fy2019x10q.htm%5Cpstg-q2fy2019x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q1 2019 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2018-06-08/pstg-q1fy2019x10q.htm%5Cpstg-q1fy2019x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q4 2018 10-K",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2018-03-26/a10k2018.htm%5Ca10k2018.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2018 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2017-12-08/pstg-q3fy2018x10q.htm%5Cpstg-q3fy2018x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q2 2018 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2017-09-05/pstg-q22017x10q.htm%5Cpstg-q22017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q1 2018 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2017-06-06/pstg-q12017x10q.htm%5Cpstg-q12017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q4 2017 10-K",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2017-03-28/a10k2017.htm%5Ca10k2017.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2017 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2016-12-13/pstg-q32017x10q.htm%5Cpstg-q32017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q2 2017 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2016-09-06/pstg-20163107x10q.htm%5Cpstg-20163107x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q1 2017 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2016-06-03/pstg-10q_20160430.htm%5Cpstg-10q_20160430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q4 2016 10-K",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2016-03-25/pstg-10k_20160131.htm%5Cpstg-10k_20160131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "PSTG",
         "geography": "US",
         "content_name": "PSTG Q3 2016 10-Q",
@@ -2104,5 +2104,5 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PSTG/2015-12-10/pstg-10q_20151031.htm%5Cpstg-10q_20151031.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

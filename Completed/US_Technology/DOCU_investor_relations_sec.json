@@ -1155,8 +1155,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2025-03-18/docu-20250131.htm%5Cdocu-20250131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q3 2025 10-Q",
@@ -1168,8 +1168,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2024-12-06/docu-20241031.htm%5Cdocu-20241031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q2 2025 10-Q",
@@ -1181,8 +1181,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2024-09-06/docu-20240731.htm%5Cdocu-20240731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q1 2025 10-Q",
@@ -1194,8 +1194,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2024-06-07/docu-20240430.htm%5Cdocu-20240430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q4 2024 10-K",
@@ -1207,8 +1207,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2024-03-21/docu-20240131.htm%5Cdocu-20240131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q3 2024 10-Q",
@@ -1220,8 +1220,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2023-12-08/docu-20231031.htm%5Cdocu-20231031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q2 2024 10-Q",
@@ -1233,8 +1233,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2023-09-07/docu-20230731.htm%5Cdocu-20230731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q1 2024 10-Q",
@@ -1246,8 +1246,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2023-06-08/docu-20230430.htm%5Cdocu-20230430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q4 2023 10-K",
@@ -1259,8 +1259,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2023-03-27/docu-20230131.htm%5Cdocu-20230131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q3 2023 10-Q",
@@ -1272,8 +1272,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2022-12-08/docu-20221031.htm%5Cdocu-20221031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q2 2023 10-Q",
@@ -1285,8 +1285,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2022-09-08/docu-20220731.htm%5Cdocu-20220731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q1 2023 10-Q",
@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2022-06-09/docu-20220430.htm%5Cdocu-20220430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q4 2022 10-K",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2022-03-25/docu-20220131.htm%5Cdocu-20220131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q3 2022 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2021-12-06/docu-20211031.htm%5Cdocu-20211031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q2 2022 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2021-09-03/docu-20210731.htm%5Cdocu-20210731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q1 2022 10-Q",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2021-06-04/docu-20210430.htm%5Cdocu-20210430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q4 2021 10-K",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2021-03-31/docu-20210131.htm%5Cdocu-20210131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q3 2021 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2020-12-04/docu-20201031.htm%5Cdocu-20201031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q2 2021 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2020-09-04/docu-20200731.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q1 2021 10-Q",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2020-06-05/docu-20200430.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q4 2020 10-K",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2020-03-27/docu-20200131.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q3 2020 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2019-12-06/q32010q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q2 2020 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2019-09-06/q22010q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q1 2020 10-Q",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2019-06-07/q12010q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q4 2019 10-K",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2019-03-26/fy1910k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q3 2019 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2018-12-07/q31910q.htm%5Cq31910q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q2 2019 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2018-09-06/q21910q.htm%5Cq21910q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DOCU",
         "geography": "US",
         "content_name": "DOCU Q1 2019 10-Q",
@@ -1506,5 +1506,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DOCU/2018-06-08/q11910q.htm%5Cq11910q.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

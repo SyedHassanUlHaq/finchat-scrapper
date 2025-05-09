@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2025-03-05/okta-20250131.htm%5Cokta-20250131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q3 2025 10-Q",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2024-12-03/okta-20241031.htm%5Cokta-20241031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q2 2025 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2024-08-29/okta-20240731.htm%5Cokta-20240731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q1 2025 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2024-05-29/okta-20240430.htm%5Cokta-20240430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q4 2024 10-K",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2024-03-01/okta-20240131.htm%5Cokta-20240131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q3 2024 10-Q",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2023-12-01/okta-20231031.htm%5Cokta-20231031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q2 2024 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2023-08-30/okta-20230731.htm%5Cokta-20230731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q1 2024 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2023-05-31/okta-20230430.htm%5Cokta-20230430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q4 2023 10-K",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2023-03-03/okta-20230131.htm%5Cokta-20230131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q3 2023 10-Q",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2022-11-30/okta-20221031.htm%5Cokta-20221031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q2 2023 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2022-08-31/okta-20220731.htm%5Cokta-20220731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q1 2023 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2022-06-02/okta-20220430.htm%5Cokta-20220430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q4 2022 10-K",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2022-03-07/okta-20220131.htm%5Cokta-20220131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q3 2022 10-Q",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2021-12-01/okta-20211031.htm%5Cokta-20211031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q2 2022 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2021-09-01/okta-20210731.htm%5Cokta-20210731.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q1 2022 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2021-05-26/okta-20210430.htm%5Cokta-20210430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q4 2021 10-K",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2021-03-04/okta-20210131.htm%5Cokta-20210131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q3 2021 10-Q",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2020-12-02/okta-20201031.htm%5Cokta-20201031.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q2 2021 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2020-08-27/okta-731202010q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q1 2021 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2020-05-28/okta-430202010q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q4 2020 10-K",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2020-03-05/okta-131202010k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q3 2020 10-Q",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2019-12-05/okta-1031201910q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q2 2020 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2019-08-28/okta-731201910q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q1 2020 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2019-05-30/okta-4302019_10q.htm%5Cokta-4302019_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q4 2019 10-K",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2019-03-14/okta-1312019_10k.htm%5Cokta-1312019_10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q3 2019 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2018-12-06/okta-10312018_10q.htm%5Cokta-10312018_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q2 2019 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2018-09-07/okta-7312018_10q.htm%5Cokta-7312018_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q1 2019 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2018-06-07/okta-4302018_10q.htm%5Cokta-4302018_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q4 2018 10-K",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2018-03-12/okta-1312018_10k.htm%5Cokta-1312018_10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q3 2018 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2017-12-06/okta-10312017_10q.htm%5Cokta-10312017_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q2 2018 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2017-09-07/okta-07312017_10q.htm%5Cokta-07312017_10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "OKTA",
         "geography": "US",
         "content_name": "OKTA Q1 2018 10-Q",
@@ -1740,5 +1740,5 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/OKTA/2017-06-08/okta-04302017_10q.htm%5Cokta-04302017_10q.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

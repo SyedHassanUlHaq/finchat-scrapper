@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2025-04-04/len-20250228.htm%5Clen-20250228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2024 10-K",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2025-01-23/len-20241130.htm%5Clen-20241130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2024 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2024-10-02/len-20240831.htm%5Clen-20240831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2024 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2024-06-28/len-20240531.htm%5Clen-20240531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2024 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2024-03-29/len-20240229.htm%5Clen-20240229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2023 10-K",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2024-01-26/len-20231130.htm%5Clen-20231130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2023 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2023-09-29/len-20230831.htm%5Clen-20230831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2023 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2023-06-30/len-20230531.htm%5Clen-20230531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2023 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2023-04-04/len-20230228.htm%5Clen-20230228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2022 10-K",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2023-01-26/len-20221130.htm%5Clen-20221130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2022 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2022-10-03/len-20220831.htm%5Clen-20220831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2022 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2022-07-01/len-20220531.htm%5Clen-20220531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2022 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2022-04-01/len-20220228.htm%5Clen-20220228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2021 10-K",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2022-01-28/len-20211130.htm%5Clen-20211130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2021 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2021-10-01/len-20210831.htm%5Clen-20210831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2021 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2021-07-02/len-20210531.htm%5Clen-20210531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2021 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2021-04-01/len-20210228.htm%5Clen-20210228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2020 10-K",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2021-01-22/len-20201130.htm%5Clen-20201130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2020 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2020-10-01/len-2020831x10qq3.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2020 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2020-07-06/len-20200531.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2020 10-Q",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2020-04-07/len-2020229x10qq1.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2019 10-K",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2020-01-27/len-20191130x10k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2019 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2019-10-08/len-2019831x10qq3.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2019 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2019-07-03/len-2019531x10qq2.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2019 10-Q",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2019-04-08/len-2019228x10qq1.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2018 10-K",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2019-01-28/len-20181130x10k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2018 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2018-10-09/len-2018831x10qq3.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2018 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2018-07-06/len-2018531x10qq2.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2018 10-Q",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2018-04-09/len-2018228x10qq1.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2017 10-K",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2018-01-24/len-20171130x10k.htm%5Clen-20171130x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2017 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2017-10-10/len-2017831x10qq3.htm%5Clen-2017831x10qq3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2017 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2017-06-30/len-2017531x10qq2.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2017 10-Q",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2017-04-10/len-2017228x10qq1.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2016 10-K",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2017-01-20/len-20161130x10k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2016 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2016-10-04/len-2016831x10qq3.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2016 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2016-07-01/len-20160531_95xixbrl.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2016 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2016-04-05/len-2016229x10qq1.htm%5Clen-2016229x10qq1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2015 10-K",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2016-01-22/len-20151130x10k.htm%5Clen-20151130x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2015 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2015-10-09/len-2015831x10qq3.htm%5Clen-2015831x10qq3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2015 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2015-07-02/len-2015531x10qq2.htm%5Clen-2015531x10qq2.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2015 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2015-04-03/len-2015228x10qq1.htm%5Clen-2015228x10qq1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2014 10-K",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2015-01-23/len-20141130x10k.htm%5Clen-20141130x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2014 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2014-10-03/len-2014831x10qq3.htm%5Clen-2014831x10qq3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2014 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2014-07-03/len-2014531x10q2.htm%5Clen-2014531x10q2.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2014 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2014-04-09/len-2014228x10q.htm%5Clen-2014228x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2013 10-K",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2014-01-27/len-20131130x10k.htm%5Clen-20131130x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2013 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2013-10-10/len-2013831x10q.htm%5Clen-2013831x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2013 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2013-07-10/len-2013531x10q.htm%5Clen-2013531x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2013 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2013-04-09/len-2013228x10q.htm%5Clen-2013228x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2012 10-K",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2013-01-29/len-20121130x10k.htm%5Clen-20121130x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2012 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2012-10-10/len-2012831x10q.htm%5Clen-2012831x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2012 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2012-07-10/len-2012531x10q.htm%5Clen-2012531x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2012 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2012-04-09/d313662d10q.htm%5Cd313662d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2011 10-K",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2012-01-30/d257946d10k.htm%5Cd257946d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2011 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2011-10-11/d229877d10q.htm%5Cd229877d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2011 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2011-07-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2011 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2011-04-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2010 10-K",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2011-01-31/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2010 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2010-10-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2010 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2010-07-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2010 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2010-04-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2009 10-K",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2010-01-29/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2009 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2009-10-09/g20756e10vq.htm%5Cg20756e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2009 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2009-07-10/g19717e10vq.htm%5Cg19717e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2009 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2009-04-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2008 10-K",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2009-01-27/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2008 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2008-10-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2008 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2008-07-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2008 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2008-04-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2007 10-K",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2008-01-29/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2007 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2007-10-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2007 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2007-07-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2007 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2007-04-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2006 10-K",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2007-02-08/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2006 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2006-10-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2006 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2006-04-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2005 10-K",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2006-02-09/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2005 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2005-10-17/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2005 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2005-07-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2005 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2005-04-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2004 10-K",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2005-02-11/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2004 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2004-10-15/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2004 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2004-07-15/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2004 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2004-04-14/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2003 10-K",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2004-03-01/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2003 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2003-10-15/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2003 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2003-07-15/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2003 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2003-04-14/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2002 10-K",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2003-02-28/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2002 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2002-10-15/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2002 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2002-07-15/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2002 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2002-04-15/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2001 10-K",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2002-02-28/d10k.txt%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2001 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2001-10-15/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2001 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2001-07-16/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2001 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2001-04-16/0000950170-01-000519-0001.txt%5C0000950170-01-000519-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 2000 10-K",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2001-02-28/0000950170-01-000281-0001.txt%5C0000950170-01-000281-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 2000 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2000-10-16/0000950170-00-001645-0001.txt%5C0000950170-00-001645-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 2000 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2000-07-17/0000950170-00-001159-0001.txt%5C0000950170-00-001159-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 2000 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2000-04-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 1999 10-K",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/2000-02-28/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 1999 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1999-10-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 1999 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1999-07-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 1999 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1999-04-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 1998 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1998-10-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 1998 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1998-07-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 1998 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1997-10-31/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q1 1998 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1997-08-01/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q4 1997 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1997-05-01/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q3 1997 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1996-11-04/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LEN",
         "geography": "US",
         "content_name": "LEN Q2 1997 10-Q",
@@ -2767,5 +2767,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LEN/1996-08-01/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

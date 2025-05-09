@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2025-02-05/cmg-20241231.htm/cmg-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2024 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2024-10-29/cmg-20240930.htm/cmg-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2024 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2024-07-25/cmg-20240630.htm/cmg-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2024 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2024-04-25/cmg-20240331.htm/cmg-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2023 10-K",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2024-02-07/cmg-20231231x10k.htm/cmg-20231231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2023 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2023-10-26/cmg-20230930x10q.htm/cmg-20230930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2023 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2023-07-28/cmg-20230630x10q.htm/cmg-20230630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2023 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2023-04-26/cmg-20230331x10q.htm/cmg-20230331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2022 10-K",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2023-02-08/cmg-20221231x10k.htm/cmg-20221231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2022 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2022-10-26/cmg-20220930x10q.htm/cmg-20220930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2022 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2022-07-27/cmg-20220630x10q.htm/cmg-20220630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2022 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2022-04-28/cmg-20220331x10q.htm/cmg-20220331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2021 10-K",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2022-02-11/cmg-20211231x10k.htm/cmg-20211231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2021 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2021-10-26/cmg-20210930x10q.htm/cmg-20210930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2021 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2021-07-23/cmg-20210630x10q.htm/cmg-20210630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2021 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2021-04-28/cmg-20210331x10q.htm/cmg-20210331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2020 10-K",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2021-02-09/cmg-20201231x10k.htm/cmg-20201231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2020 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2020-10-28/cmg-20200930x10q.htm/cmg-20200930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2020 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2020-07-28/cmg-20200630x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2020 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2020-04-28/cmg-20200331x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2019 10-K",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2020-02-04/cmg-20191231x10k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2019 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2019-10-22/cmg-20190930x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2019 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2019-07-23/cmg-20190630x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2019 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2019-04-24/cmg-20190331x10q.htm/cmg-20190331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2018 10-K",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2019-02-07/cmg-20181231x10k.htm/cmg-20181231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2018 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2018-10-25/cmg-20180930x10q.htm/cmg-20180930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2018 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2018-07-26/cmg-20180630x10q.htm/cmg-20180630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2018 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2018-04-25/cmg-20180331x10q.htm/cmg-20180331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2017 10-K",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2018-02-08/cmg-20171231x10k.htm/cmg-20171231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2017 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2017-10-24/cmg-20170930x10q.htm/cmg-20170930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2017 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2017-07-25/cmg-20170630x10q.htm/cmg-20170630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2017 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2017-04-25/cmg-20170331x10q.htm/cmg-20170331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2016 10-K",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2017-02-06/cmg-20161231x10k.htm/cmg-20161231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2016 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2016-10-25/cmg-20160930x10q.htm/cmg-20160930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2016 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2016-07-21/cmg-20160630x10q.htm/cmg-20160630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2016 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2016-04-26/cmg-20160331x10q.htm/cmg-20160331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2015 10-K",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2016-02-04/cmg-20151231x10k.htm/cmg-20151231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2015 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2015-10-20/cmg-20150930x10q.htm/cmg-20150930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2015 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2015-07-21/cmg-20150630x10q.htm/cmg-20150630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2015 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2015-04-21/cmg-20150331x10q.htm/cmg-20150331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2014 10-K",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2015-02-04/d861905d10k.htm/d861905d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2014 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2014-10-20/d736480d10q.htm/d736480d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2014 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2014-07-21/d760141d10q.htm/d760141d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2014 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2014-04-17/d698182d10q.htm/d698182d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2013 10-K",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2014-02-04/d629534d10k.htm/d629534d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2013 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2013-10-17/d601430d10q.htm/d601430d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2013 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2013-07-18/d540633d10q.htm/d540633d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2013 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2013-04-18/d496863d10q.htm/d496863d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2012 10-K",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2013-02-08/d445653d10k.htm/d445653d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2012 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2012-10-18/d404279d10q.htm/d404279d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2012 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2012-07-19/d365423d10q.htm/d365423d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2012 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2012-04-19/d329098d10q.htm/d329098d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2011 10-K",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2012-02-10/d280751d10k.htm/d280751d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2011 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2011-10-21/d227353d10q.htm/d227353d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2011 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2011-07-21/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2011 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2011-04-21/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2010 10-K",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2011-02-17/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2010 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2010-10-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2010 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2010-07-27/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2010 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2010-04-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2009 10-K",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2010-02-19/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2009 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2009-10-27/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2009 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2009-07-24/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2009 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2009-04-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2008 10-K",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2009-02-19/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2008 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2008-10-22/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2008 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2008-07-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2008 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2008-04-24/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2007 10-K",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2008-02-26/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2007 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2007-10-31/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2007 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2007-07-31/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2007 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2007-05-01/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2006 10-K",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2007-02-23/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q3 2006 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2006-10-31/a06-22136_110q.htm/a06-22136_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q2 2006 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2006-08-08/a06-16694_210q.htm/a06-16694_210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q1 2006 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2006-05-08/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "CMG",
         "geography": "US",
         "content_name": "CMG Q4 2005 10-K",
@@ -2689,5 +2689,5 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CMG/2006-03-17/a2168474z10-k.htm/a2168474z10-k.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

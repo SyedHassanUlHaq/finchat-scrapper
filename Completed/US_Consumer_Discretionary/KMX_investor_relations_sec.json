@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2025-04-11/kmx-20250228.htm%5Ckmx-20250228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2025 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2025-01-07/kmx-20241130.htm%5Ckmx-20241130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2025 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2024-09-27/kmx-20240831.htm%5Ckmx-20240831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2025 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2024-06-27/kmx-20240531.htm%5Ckmx-20240531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2024 10-K",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2024-04-15/kmx-20240229.htm%5Ckmx-20240229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2024 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2024-01-05/kmx-20231130.htm%5Ckmx-20231130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2024 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2023-09-29/kmx-20230831.htm%5Ckmx-20230831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2024 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2023-06-26/kmx-20230531.htm%5Ckmx-20230531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2023 10-K",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2023-04-13/kmx-20230228.htm%5Ckmx-20230228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2023 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2023-01-06/kmx-20221130.htm%5Ckmx-20221130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2023 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2022-09-30/kmx-20220831.htm%5Ckmx-20220831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2023 10-Q",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2022-06-27/kmx-20220531.htm%5Ckmx-20220531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2022 10-K",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2022-04-14/kmx-20220228.htm%5Ckmx-20220228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2022 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2022-01-06/kmx-20211130.htm%5Ckmx-20211130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2022 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2021-10-01/kmx-20210831.htm%5Ckmx-20210831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2022 10-Q",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2021-06-28/kmx-20210531.htm%5Ckmx-20210531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2021 10-K",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2021-04-20/kmx-20210228.htm%5Ckmx-20210228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2021 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2021-01-06/kmx-20201130.htm%5Ckmx-20201130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2021 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2020-10-05/kmx-20200831.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2020 10-K",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2020-04-21/kmxfy2010-k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2020 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2020-01-07/q3fy2010-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2020 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2019-10-04/q2fy2010-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2020 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2019-07-03/q1fy2010-q.htm%5Cq1fy2010-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2019 10-K",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2019-04-19/kmx0228201910-k.htm%5Ckmx0228201910-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2019 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2019-01-08/q3fy1910-q.htm%5Cq3fy1910-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2019 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2018-10-05/q2fy1910-q.htm%5Cq2fy1910-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2019 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2018-07-05/q1fy1910-q.htm%5Cq1fy1910-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2018 10-K",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2018-04-24/kmx0228201810-k.htm%5Ckmx0228201810-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2018 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2018-01-04/q3fy1810-q.htm%5Cq3fy1810-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2018 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2017-10-05/q2fy1810-q.htm%5Cq2fy1810-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2018 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2017-07-07/kmx531201710-q.htm%5Ckmx531201710-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2017 10-K",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2017-04-21/kmx0228201710-k.htm%5Ckmx0228201710-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2017 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2017-01-06/kmx2016113010-q.htm%5Ckmx2016113010-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2017 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2016-10-06/kmx201683110-q.htm%5Ckmx201683110-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2017 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2016-07-07/kmx201653110-q.htm%5Ckmx201653110-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2016 10-K",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2016-04-22/kmx0229201610-k.htm%5Ckmx0229201610-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2016 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2016-01-07/kmx2015113010-q.htm%5Ckmx2015113010-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2016 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2015-10-08/kmx2015083110-q.htm%5Ckmx2015083110-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2016 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2015-07-08/kmx-20150531x10q.htm%5Ckmx-20150531x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2015 10-K",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2015-04-24/kmx-20150228x10k.htm%5Ckmx-20150228x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2015 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2015-01-08/kmx-20141130x10q.htm%5Ckmx-20141130x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2015 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2014-10-08/kmx-20140831x10q.htm%5Ckmx-20140831x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2015 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2014-07-08/kmx-20140531x10q.htm%5Ckmx-20140531x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2014 10-K",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2014-04-25/kmx-20140228x10k.htm%5Ckmx-20140228x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2014 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2014-01-08/kmx-20131130x10q.htm%5Ckmx-20131130x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2014 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2013-10-07/kmx-20130831x10q.htm%5Ckmx-20130831x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2013 10-K",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2013-04-26/kmx-20130228x10k.htm%5Ckmx-20130228x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2013 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2013-01-08/kmx-20121130x10q.htm%5Ckmx-20121130x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2013 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2012-10-09/kmx-20120831x10q.htm%5Ckmx-20120831x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2013 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2012-07-06/d375362d10q.htm%5Cd375362d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2012 10-K",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2012-04-25/d293873d10k.htm%5Cd293873d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2012 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2012-01-09/d278081d10q.htm%5Cd278081d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2012 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2011-10-07/d239772d10q.htm%5Cd239772d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2012 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2011-07-11/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2011 10-K",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2011-04-28/tenk.htm%5Ctenk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2011 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2011-01-07/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2011 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2010-10-08/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2011 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2010-07-12/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2010 10-K",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2010-04-26/tenk.htm%5Ctenk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2010 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2010-01-08/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2010 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2009-10-08/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2010 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2009-07-09/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2009 10-K",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2009-04-24/tenk.htm%5Ctenk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2009 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2009-01-08/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2009 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2008-10-09/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2009 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2008-07-10/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2008 10-K",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2008-04-25/tenk.htm%5Ctenk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2008 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2008-01-08/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2008 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2007-10-09/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2008 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2007-07-06/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2007 10-K",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2007-04-27/tenk.htm%5Ctenk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2007 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2007-01-08/tenq.htm%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2007 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2006-10-06/form10-q.htm%5Cform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2007 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2006-07-10/form10-q.htm%5Cform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2006 10-K",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2006-05-12/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2006 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2006-01-06/tenq.txt%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2006 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2005-10-07/tenq.txt%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2006 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2005-07-08/tenq.txt%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2005 10-K",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2005-05-13/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2005 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2005-01-07/tenq.txt%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2005 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2004-10-12/tenq.txt%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2005 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2004-07-12/tenq.txt%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2004 10-K",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2004-05-14/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2004 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2004-01-13/tenq.txt%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2004 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2003-10-15/tenq.txt%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q1 2004 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2003-07-15/tenq.txt%5Ctenq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q4 2003 10-K",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2003-05-29/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q3 2003 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2003-01-14/edgar.txt%5Cedgar.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "KMX",
         "geography": "US",
         "content_name": "KMX Q2 2003 10-Q",
@@ -2598,5 +2598,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KMX/2002-10-15/kmx0308_10q.txt%5Ckmx0308_10q.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2025-02-14/rcl-20241231.htm/rcl-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2024 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2024-10-29/rcl-20240930.htm/rcl-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2024 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2024-07-25/rcl-20240630.htm/rcl-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2024 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2024-04-25/rcl-20240331.htm/rcl-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2023 10-K",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2024-02-21/rcl-20231231.htm/rcl-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2023 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2023-10-26/rcl-20230930.htm/rcl-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2023 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2023-07-27/rcl-20230630.htm/rcl-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2023 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2023-05-04/rcl-20230331.htm/rcl-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2022 10-K",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2023-02-23/rcl-20221231.htm/rcl-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2022 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2022-11-03/rcl-20220930.htm/rcl-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2022 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2022-07-29/rcl-20220630.htm/rcl-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2022 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2022-05-05/rcl-20220331.htm/rcl-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2021 10-K",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2022-03-01/rcl-20211231.htm/rcl-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2021 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2021-10-29/rcl-20210930.htm/rcl-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2021 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2021-08-05/rcl-20210630.htm/rcl-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2021 10-Q",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2021-04-29/rcl-20210331.htm/rcl-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2020 10-K",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2021-02-26/rcl-20201231.htm/rcl-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2020 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2020-11-04/rcl-20200930.htm/rcl-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2020 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2020-08-10/rcl-20200630.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2020 10-Q",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2020-05-21/rcl-20200331.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2019 10-K",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2020-02-25/rcl-20191231.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2019 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2019-10-30/a2019q310q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2019 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2019-07-25/a2019q210q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2019 10-Q",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2019-05-01/final2019q110q.htm/final2019q110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2018 10-K",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2019-02-22/rcl-20181231x10k.htm/rcl-20181231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2018 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2018-10-25/a2018q310q.htm/a2018q310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2018 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2018-08-02/rcl-6302018x10q.htm/rcl-6302018x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2018 10-Q",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2018-04-30/rcl-3312018x10q.htm/rcl-3312018x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2017 10-K",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2018-02-20/rcl-20171231x10k.htm/rcl-20171231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2017 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2017-11-07/rcl-9302017x10q.htm/rcl-9302017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2017 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2017-08-01/rcl-6302017x10q.htm/rcl-6302017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2017 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2017-04-28/rcl-3312017x10q.htm/rcl-3312017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2016 10-K",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2017-02-23/rcl-20161231x10k.htm/rcl-20161231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2016 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2016-10-28/rcl-9302016x10q.htm/rcl-9302016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2016 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2016-08-02/rcl-6302016x10q.htm/rcl-6302016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2015 10-K",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2016-02-22/rcl-20151231x10k.htm/rcl-20151231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2015 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2015-10-23/rcl-9302015x10q.htm/rcl-9302015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2015 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2015-07-31/rcl-6302015x10q.htm/rcl-6302015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2015 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2015-04-23/rcl-3312015x10q.htm/rcl-3312015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2014 10-K",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2015-02-23/rcl-20141231x10k.htm/rcl-20141231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2014 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2014-10-23/rcl-9302014x10q.htm/rcl-9302014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2014 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2014-04-24/rcl-3312014x10q.htm/rcl-3312014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2013 10-K",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2014-02-20/rcl-20131231x10k.htm/rcl-20131231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2013 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2013-10-24/a13-19569_110q.htm/a13-19569_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2013 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2013-07-26/a13-13665_110q.htm/a13-13665_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2013 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2013-04-25/a13-8310_110q.htm/a13-8310_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2012 10-K",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2013-02-25/a2213132z10-k.htm/a2213132z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2012 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2012-10-25/a12-18840_110q.htm/a12-18840_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2012 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2012-07-27/a12-12600_110q.htm/a12-12600_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2012 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2012-04-24/d322907d10q.htm/d322907d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2011 10-K",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2012-02-29/d254924d10k.htm/d254924d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2011 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2011-10-31/d236008d10q.htm/d236008d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2011 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2011-08-01/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2011 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2011-04-28/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2010 10-K",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2011-02-24/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2010 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2010-10-27/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2010 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2010-07-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2010 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2010-04-29/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2009 10-K",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2010-02-23/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2009 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2009-11-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2009 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2009-07-29/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2009 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2009-04-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2008 10-K",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2009-02-24/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2008 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2008-10-29/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2008 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2008-07-25/g14349e10vq.htm/g14349e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2008 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2008-04-24/final10q1qtr08.htm/final10q1qtr08.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2007 10-K",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2008-02-19/final10k07.htm/final10k07.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2007 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2007-10-22/form10q3qtr07.htm/form10q3qtr07.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2007 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2007-07-26/form10q2q07.htm/form10q2q07.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2007 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2007-05-01/form10q0107.htm/form10q0107.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2006 10-K",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2007-02-28/form10kfinal.htm/form10kfinal.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2006 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2006-11-01/form10q3q.htm/form10q3q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2006 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2006-07-27/f10q_q2.htm/f10q_q2.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2006 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2006-04-25/form10q_1stqtr.htm/form10q_1stqtr.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2005 10-K",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2006-02-24/form10k2005.htm/form10k2005.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q3 2005 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2005-11-03/q310q.htm/q310q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q2 2005 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2005-07-27/form10q2ndqtr.htm/form10q2ndqtr.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q1 2005 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2005-04-25/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "RCL",
         "geography": "US",
         "content_name": "RCL Q4 2004 10-K",
@@ -2416,5 +2416,5 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/RCL/2005-03-14/file10k.htm/file10k.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

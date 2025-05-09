@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2025-01-28/gm-20241231.htm/gm-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2024 10-Q",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2024-10-22/gm-20240930.htm/gm-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2024 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2024-07-23/gm-20240630.htm/gm-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2024 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2024-04-23/gm-20240331.htm/gm-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2023 10-K",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2024-01-30/gm-20231231.htm/gm-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2023 10-Q",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2023-07-25/gm-20230630.htm/gm-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2023 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2023-04-25/gm-20230331.htm/gm-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2022 10-K",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2023-01-31/gm-20221231.htm/gm-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2022 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2022-10-25/gm-20220930.htm/gm-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2022 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2022-07-26/gm-20220630.htm/gm-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2022 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2022-04-27/gm-20220331.htm/gm-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2021 10-K",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2022-02-02/gm-20211231.htm/gm-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2021 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2021-10-27/gm-20210930.htm/gm-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2021 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2021-08-04/gm-20210630.htm/gm-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2021 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2021-05-05/gm-20210331.htm/gm-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2020 10-K",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2021-02-10/gm-20201231.htm/gm-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2020 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2020-11-05/gm-20200930.htm/gm-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2020 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2020-07-29/gm-20200630.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2020 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2020-05-06/gm2020q1.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2019 10-K",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2020-02-05/gm201910k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2019 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2019-10-29/gm2019q3.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2019 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2019-08-01/gm2019q2.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2019 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2019-04-30/gm2019q1.htm/gm2019q1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2018 10-K",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2019-02-06/gm201810k.htm/gm201810k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2018 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2018-10-31/gm2018q3.htm/gm2018q3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2018 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2018-07-25/gm2018q2.htm/gm2018q2.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2018 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2018-04-26/gm2018q1.htm/gm2018q1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2017 10-K",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2018-02-06/gm201710k.htm/gm201710k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2017 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2017-10-24/gm2017q3.htm/gm2017q3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2017 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2017-07-25/gm2017q2.htm/gm2017q2.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2017 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2017-04-28/gm2017q1.htm/gm2017q1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2016 10-K",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2017-02-07/gm201610k.htm/gm201610k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2016 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2016-10-25/gm2016q3.htm/gm2016q3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2016 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2016-07-21/gm2016q2.htm/gm2016q2.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2016 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2016-04-21/gm2016q1.htm/gm2016q1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2015 10-K",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2016-02-03/gm201510k.htm/gm201510k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2015 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2015-10-21/gmq32015.htm/gmq32015.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2015 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2015-07-23/gmq22015.htm/gmq22015.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2015 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2015-04-23/gmq12015.htm/gmq12015.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2014 10-K",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2015-02-04/gm201410k.htm/gm201410k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2014 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2014-10-23/gm2014q3.htm/gm2014q3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2014 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2014-07-24/gm2014q2.htm/gm2014q2.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2014 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2014-04-24/gm2014q1.htm/gm2014q1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2013 10-K",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2014-02-06/gm201310k.htm/gm201310k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2013 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2013-10-30/gm2013q3.htm/gm2013q3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2013 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2013-07-25/gm2013q2.htm/gm2013q2.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2013 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2013-05-02/gm2013q1.htm/gm2013q1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2012 10-K",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2013-02-15/gm201210k.htm/gm201210k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2012 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2012-10-31/gm2012q3.htm/gm2012q3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2012 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2012-08-03/gm2012q2.htm/gm2012q2.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2012 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2012-05-03/gm2012q1.htm/gm2012q1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2011 10-K",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2012-02-27/gm201110k.htm/gm201110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2011 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2011-11-09/d235880d10q.htm/d235880d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2011 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2011-08-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2011 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2011-05-06/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2010 10-K",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2011-03-01/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2010 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2010-11-10/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q2 2010 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2010-08-16/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q1 2010 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2010-05-17/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q4 2009 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2010-04-07/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GM",
         "geography": "US",
         "content_name": "GM Q3 2009 10-K",
@@ -2468,5 +2468,5 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GM/2010-04-07/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

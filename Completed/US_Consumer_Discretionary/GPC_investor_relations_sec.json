@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2025-02-24/dpz-20241229.htm%5Cdpz-20241229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2024 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2024-10-10/dpz-20240908.htm%5Cdpz-20240908.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2024 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2024-07-18/dpz-20240616.htm%5Cdpz-20240616.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2024 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2024-04-29/dpz-20240324.htm%5Cdpz-20240324.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2023 10-K",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2024-02-26/dpz-20231231.htm%5Cdpz-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2023 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2023-10-12/dpz-20230910.htm%5Cdpz-20230910.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2023 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2023-07-24/dpz-20230618.htm%5Cdpz-20230618.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2023 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2023-04-27/dpz-20230326.htm%5Cdpz-20230326.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2023 10-K",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2023-02-23/dpz-20230101.htm%5Cdpz-20230101.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2023 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2022-10-13/dpz-20220911.htm%5Cdpz-20220911.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2023 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2022-07-21/dpz-20220619.htm%5Cdpz-20220619.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2023 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2022-04-28/dpz-20220327.htm%5Cdpz-20220327.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2022 10-K",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2022-03-01/dpz-20220102.htm%5Cdpz-20220102.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2022 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2021-10-14/dpz-20210912.htm%5Cdpz-20210912.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2022 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2021-07-22/d164949d10q.htm%5Cd164949d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2022 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2021-04-29/d134634d10q.htm%5Cd134634d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2021 10-K",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2021-02-25/d326373d10k.htm%5Cd326373d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2021 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2020-10-08/d935823d10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2021 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2020-07-16/d21919d10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2021 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2020-04-23/d914156d10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2019 10-K",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2020-02-20/d796357d10k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2019 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2019-10-08/d813101d10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2019 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2019-07-16/d774471d10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2019 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2019-04-24/d661429d10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2018 10-K",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2019-02-21/d696297d10k.htm%5Cd696297d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2018 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2018-10-16/d632190d10q.htm%5Cd632190d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2018 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2018-07-19/d513733d10q.htm%5Cd513733d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2018 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2018-04-26/d573874d10q.htm%5Cd573874d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2017 10-K",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2018-02-20/d531906d10k.htm%5Cd531906d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2017 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2017-10-12/d457009d10q.htm%5Cd457009d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2017 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2017-07-25/d422945d10q.htm%5Cd422945d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2017 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2017-04-27/d378526d10q.htm%5Cd378526d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2017 10-K",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2017-02-28/d350071d10k.htm%5Cd350071d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2017 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2016-10-18/d236059d10q.htm%5Cd236059d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2017 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2016-07-21/d210433d10q.htm%5Cd210433d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2017 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2016-04-28/d159396d10q.htm%5Cd159396d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2016 10-K",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2016-02-25/d128680d10k.htm%5Cd128680d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2016 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2015-10-08/d67435d10q.htm%5Cd67435d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2016 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2015-07-16/dpz-10q_20150614.htm%5Cdpz-10q_20150614.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2016 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2015-04-23/dpz-10q_20150322.htm%5Cdpz-10q_20150322.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2014 10-K",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2015-02-24/d866504d10k.htm%5Cd866504d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2014 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2014-10-14/d798310d10q.htm%5Cd798310d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2014 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2014-07-22/d746984d10q.htm%5Cd746984d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2014 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2014-05-01/d714910d10q.htm%5Cd714910d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2013 10-K",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2014-02-25/d661353d10k.htm%5Cd661353d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2013 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2013-10-15/d605178d10q.htm%5Cd605178d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2013 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2013-07-23/d562032d10q.htm%5Cd562032d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2013 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2013-04-30/d523428d10q.htm%5Cd523428d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2012 10-K",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2013-02-28/d466015d10k.htm%5Cd466015d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2012 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2012-10-16/d412797d10q.htm%5Cd412797d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2012 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2012-07-24/d368323d10q.htm%5Cd368323d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2012 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2012-05-01/d335775d10q.htm%5Cd335775d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2012 10-K",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2012-02-28/d256751d10k.htm%5Cd256751d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2012 10-Q",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2011-10-18/d238239d10q.htm%5Cd238239d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2012 10-Q",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2011-07-26/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2012 10-Q",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2011-05-05/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2011 10-K",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2011-03-01/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2011 10-Q",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2010-10-19/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2011 10-Q",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2010-07-27/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2011 10-Q",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2010-05-04/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2010 10-K",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2010-03-02/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2010 10-Q",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2009-10-13/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2010 10-Q",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2009-07-22/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2010 10-Q",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2009-04-30/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2008 10-K",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2009-02-24/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2008 10-Q",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2008-10-14/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2008 10-Q",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2008-07-22/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2008 10-Q",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2008-04-29/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2007 10-K",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2008-02-26/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2007 10-Q",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2007-10-16/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2007 10-Q",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2007-07-24/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2007 10-Q",
@@ -3079,8 +3079,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2007-05-02/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2006 10-K",
@@ -3092,8 +3092,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2007-02-23/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2006 10-Q",
@@ -3105,8 +3105,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2006-10-12/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2006 10-Q",
@@ -3118,8 +3118,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2006-07-20/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2006 10-Q",
@@ -3131,8 +3131,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2006-04-27/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2006 10-K",
@@ -3144,8 +3144,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2006-03-03/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2006 10-Q",
@@ -3157,8 +3157,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2005-10-25/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2006 10-Q",
@@ -3170,8 +3170,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2005-08-03/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q1 2006 10-Q",
@@ -3183,8 +3183,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2005-05-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q4 2005 10-K",
@@ -3196,8 +3196,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2005-03-17/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q3 2005 10-Q",
@@ -3209,8 +3209,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2004-10-19/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "DPZ",
         "geography": "US",
         "content_name": "DPZ Q2 2005 10-Q",
@@ -3222,5 +3222,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/DPZ/2004-07-27/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

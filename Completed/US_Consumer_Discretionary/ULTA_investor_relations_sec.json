@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2025-03-27/ulta-20250201x10k.htm%5Culta-20250201x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2025 10-Q",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2024-12-05/ulta-20241102x10q.htm%5Culta-20241102x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2025 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2024-08-29/ulta-20240803x10q.htm%5Culta-20240803x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2025 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2024-05-30/ulta-20240504x10q.htm%5Culta-20240504x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2024 10-K",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2024-03-26/ulta-20240203x10k.htm%5Culta-20240203x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2024 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2023-11-30/ulta-20231028x10q.htm%5Culta-20231028x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2024 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2023-08-24/ulta-20230729x10q.htm%5Culta-20230729x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2024 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2023-05-25/ulta-20230429x10q.htm%5Culta-20230429x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2023 10-K",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2023-03-24/ulta-20230128x10k.htm%5Culta-20230128x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2023 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2022-12-01/ulta-20221029x10q.htm%5Culta-20221029x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2023 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2022-08-25/ulta-20220730x10q.htm%5Culta-20220730x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2023 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2022-05-26/ulta-20220430x10q.htm%5Culta-20220430x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2022 10-K",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2022-03-25/ulta-20220129x10k.htm%5Culta-20220129x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2022 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2021-12-02/ulta-20211030x10q.htm%5Culta-20211030x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2022 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2021-08-25/ulta-20210731x10q.htm%5Culta-20210731x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2022 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2021-05-27/ulta-20210501x10q.htm%5Culta-20210501x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2021 10-K",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2021-03-26/ulta-20210130x10k.htm%5Culta-20210130x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2021 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2020-12-03/ulta-20201031x10q.htm%5Culta-20201031x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2021 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2020-08-27/ulta-20200801x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2021 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2020-05-28/ulta-20200528x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2020 10-K",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2020-03-27/ulta-20200201x10k11b4b7.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2020 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2019-12-05/ulta-20191102x10qdf6081.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2020 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2019-08-29/ulta-20190803x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2020 10-Q",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2019-05-30/ulta-20190504x10q.htm%5Culta-20190504x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2019 10-K",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2019-04-02/ulta-20190202x10k.htm%5Culta-20190202x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2019 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2018-12-06/ulta-20181103x10q.htm%5Culta-20181103x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2019 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2018-08-30/ulta-20180804x10q.htm%5Culta-20180804x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2019 10-Q",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2018-06-01/ulta-20180505x10q.htm%5Culta-20180505x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2018 10-K",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2018-04-03/ulta-20180203x10k.htm%5Culta-20180203x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2018 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2017-11-30/ulta-20171028x10q.htm%5Culta-20171028x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2018 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2017-08-31/d377957d10q.htm%5Cd377957d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2018 10-Q",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2017-06-01/d383633d10q.htm%5Cd383633d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2017 10-K",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2017-03-28/d329810d10k.htm%5Cd329810d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2017 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2016-12-01/d287538d10q.htm%5Cd287538d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2017 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2016-08-25/d208916d10q.htm%5Cd208916d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2017 10-Q",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2016-06-02/d194350d10q.htm%5Cd194350d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2016 10-K",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2016-03-30/d101485d10k.htm%5Cd101485d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2016 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2015-12-03/d26958d10q.htm%5Cd26958d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2016 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2015-09-03/d67045d10q.htm%5Cd67045d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2016 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2015-06-04/d914024d10q.htm%5Cd914024d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2015 10-K",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2015-04-01/d842591d10k.htm%5Cd842591d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2015 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2014-12-04/d823754d10q.htm%5Cd823754d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2015 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2014-09-11/d779314d10q.htm%5Cd779314d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2015 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2014-06-10/d725605d10q.htm%5Cd725605d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2014 10-K",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2014-04-02/d661459d10k.htm%5Cd661459d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2014 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2013-12-05/d623534d10q.htm%5Cd623534d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2014 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2013-09-12/d582936d10q.htm%5Cd582936d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2014 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2013-06-11/d535909d10q.htm%5Cd535909d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2013 10-K",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2013-04-03/d466694d10k.htm%5Cd466694d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2013 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2012-11-29/d418173d10q.htm%5Cd418173d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2013 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2012-09-06/d380346d10q.htm%5Cd380346d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2013 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2012-06-05/d354441d10q.htm%5Cd354441d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2012 10-K",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2012-03-28/d265737d10k.htm%5Cd265737d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2012 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2011-12-01/d237357d10q.htm%5Cd237357d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2012 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2011-09-08/c65431e10vq.htm%5Cc65431e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2012 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2011-06-07/c64344e10vq.htm%5Cc64344e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2011 10-K",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2011-03-30/c63694e10vk.htm%5Cc63694e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2011 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2010-12-02/c61584e10vq.htm%5Cc61584e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2011 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2010-09-02/c60062e10vq.htm%5Cc60062e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2011 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2010-06-03/c58527e10vq.htm%5Cc58527e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2010 10-K",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2010-03-31/c57102e10vk.htm%5Cc57102e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2010 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2009-12-10/c55038e10vq.htm%5Cc55038e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2010 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2009-09-10/c53520e10vq.htm%5Cc53520e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2010 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2009-06-11/c51798e10vq.htm%5Cc51798e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2009 10-K",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2009-04-02/c50340e10vk.htm%5Cc50340e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2009 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2008-12-10/c48130e10vq.htm%5Cc48130e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q2 2009 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2008-09-10/c35421e10vq.htm%5Cc35421e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q1 2009 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2008-06-16/c27351e10vq.htm%5Cc27351e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q4 2008 10-K",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2008-04-16/c25684e10vk.htm%5Cc25684e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "ULTA",
         "geography": "US",
         "content_name": "ULTA Q3 2008 10-Q",
@@ -2195,5 +2195,5 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ULTA/2007-12-13/c22245e10vq.htm%5Cc22245e10vq.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

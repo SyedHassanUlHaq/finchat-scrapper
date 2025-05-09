@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2025-01-29/meta-20241231.htm/meta-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2024 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2024-10-30/meta-20240930.htm/meta-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2024 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2024-07-31/meta-20240630.htm/meta-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2024 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2024-04-24/meta-20240331.htm/meta-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2023 10-K",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2024-02-01/meta-20231231.htm/meta-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2023 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2023-10-25/meta-20230930.htm/meta-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2023 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2023-07-26/meta-20230630.htm/meta-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2023 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2023-04-26/meta-20230331.htm/meta-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2022 10-K",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2023-02-01/meta-20221231.htm/meta-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2022 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2022-10-26/meta-20220930.htm/meta-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2022 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2022-07-27/meta-20220630.htm/meta-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2022 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2022-04-27/meta-20220331.htm/meta-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2021 10-K",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2022-02-02/fb-20211231.htm/fb-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2021 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2021-10-25/fb-20210930.htm/fb-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2021 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2021-07-28/fb-20210630.htm/fb-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2021 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2021-04-28/fb-20210331.htm/fb-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2020 10-K",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2021-01-27/fb-20201231.htm/fb-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2020 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2020-10-29/fb-09302020x10q.htm/fb-09302020x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2020 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2020-07-31/fb-06302020x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2020 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2020-04-30/fb-03312020x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2019 10-K",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2020-01-29/fb-12312019x10k.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2019 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2019-10-30/fb-09302019x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2019 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2019-07-24/fb-06302019x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2019 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2019-04-24/fb-03312019x10q.htm/fb-03312019x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2018 10-K",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2019-01-31/fb-12312018x10k.htm/fb-12312018x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2018 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2018-10-31/fb-09302018x10q.htm/fb-09302018x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2018 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2018-07-26/fb-06302018x10q.htm/fb-06302018x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2018 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2018-04-26/fb-03312018x10q.htm/fb-03312018x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2017 10-K",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2018-02-01/fb-12312017x10k.htm/fb-12312017x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2017 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2017-11-02/fb-09302017x10q.htm/fb-09302017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2017 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2017-07-27/fb-06302017x10q.htm/fb-06302017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2017 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2017-05-04/fb-03312017x10q.htm/fb-03312017x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2016 10-K",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2017-02-02/fb-12312016x10k.htm/fb-12312016x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2016 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2016-11-03/fb-9302016x10q.htm/fb-9302016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2016 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2016-07-28/fb-6302016x10q.htm/fb-6302016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2016 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2016-04-28/fb-3312016x10q.htm/fb-3312016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2015 10-K",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2016-01-28/fb-12312015x10k.htm/fb-12312015x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2015 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2015-11-05/fb-9302015x10q.htm/fb-9302015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2015 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2015-07-30/fb-6302015x10q.htm/fb-6302015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2015 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2015-04-23/fb-3312015x10q.htm/fb-3312015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2014 10-K",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2015-01-29/fb-12312014x10k.htm/fb-12312014x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2014 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2014-10-30/fb-9302014x10q.htm/fb-9302014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2014 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2014-07-24/fb-6302014x10q.htm/fb-6302014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2014 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2014-04-25/fb-3312014x10q.htm/fb-3312014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2013 10-K",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2014-01-31/fb-12312013x10k.htm/fb-12312013x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2013 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2013-10-31/fb-9302013x10q.htm/fb-9302013x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2013 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2013-07-25/fb-6302013x10q.htm/fb-6302013x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q1 2013 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2013-05-02/fb-3312013x10q.htm/fb-3312013x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q4 2012 10-K",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2013-02-01/fb-12312012x10k.htm/fb-12312012x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q3 2012 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2012-10-24/fb-9302012x10q.htm/fb-9302012x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "META",
         "geography": "US",
         "content_name": "META Q2 2012 10-Q",
@@ -2832,5 +2832,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2012-07-31/d371464d10q.htm/d371464d10q.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

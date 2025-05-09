@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2025-02-14/txn-20241231.htm/txn-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2024 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2024-10-23/txn-20240930.htm/txn-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2024 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2024-07-24/txn-20240630.htm/txn-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2024 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2024-04-24/txn-20240331.htm/txn-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2023 10-K",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2024-02-02/txn-20231231.htm/txn-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2023 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2023-10-25/txn-20230930.htm/txn-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2023 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2023-07-26/txn-20230630.htm/txn-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2023 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2023-04-26/txn-20230331.htm/txn-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2022 10-K",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2023-02-03/txn-20221231.htm/txn-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2022 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2022-10-26/txn-20220930.htm/txn-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2022 10-Q",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2022-07-27/txn-20220630.htm/txn-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2022 10-Q",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2022-04-27/txn-20220331.htm/txn-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2021 10-K",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2022-02-04/txn-20211231.htm/txn-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2021 10-Q",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2021-10-27/txn-20210930.htm/txn-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2021 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2021-07-22/txn-20210630.htm/txn-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2021 10-Q",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2021-04-28/txn-20210331.htm/txn-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2020 10-K",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2021-02-05/txn-20201231.htm/txn-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2020 10-Q",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2020-10-21/txn-20200930.htm/txn-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2020 10-Q",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2020-07-22/txn-20200630.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2020 10-Q",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2020-04-22/txn-20200331.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2019 10-K",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2020-02-20/txn-20191231.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2019 10-Q",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2019-10-31/txn-20190930.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2019 10-Q",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2019-07-31/txn-10q_20190630.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2019 10-Q",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2019-04-30/txn-10q_20190331.htm/txn-10q_20190331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2018 10-K",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2019-02-22/txn-10k_20181231.htm/txn-10k_20181231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2018 10-Q",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2018-11-02/txn-10q_20180930.htm/txn-10q_20180930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2018 10-Q",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2018-08-02/txn-10q_20180630.htm/txn-10q_20180630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2018 10-Q",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2018-05-03/txn-10q_20180331.htm/txn-10q_20180331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2017 10-K",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2018-02-22/txn-10k_20171231.htm/txn-10k_20171231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2017 10-Q",
@@ -3079,8 +3079,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2017-11-02/txn-10q_20170930.htm/txn-10q_20170930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2017 10-Q",
@@ -3092,8 +3092,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2017-08-03/txn-10q_20170630.htm/txn-10q_20170630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2017 10-Q",
@@ -3105,8 +3105,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2017-05-03/txn-10q_20170331.htm/txn-10q_20170331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2016 10-K",
@@ -3118,8 +3118,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2017-02-23/txn-10k_20161231.htm/txn-10k_20161231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2016 10-Q",
@@ -3131,8 +3131,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2016-11-02/txn-10q_20160930.htm/txn-10q_20160930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2016 10-Q",
@@ -3144,8 +3144,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2016-08-04/txn-10q_20160630.htm/txn-10q_20160630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2016 10-Q",
@@ -3157,8 +3157,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2016-05-04/txn-10q_20160331.htm/txn-10q_20160331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2015 10-K",
@@ -3170,8 +3170,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2016-02-24/txn-10k_20151231.htm/txn-10k_20151231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2015 10-Q",
@@ -3183,8 +3183,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2015-11-05/txn-10q_20150930.htm/txn-10q_20150930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2015 10-Q",
@@ -3196,8 +3196,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2015-08-04/txn-10q_20150630.htm/txn-10q_20150630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2015 10-Q",
@@ -3209,8 +3209,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2015-05-05/txn-10q_20150331.htm/txn-10q_20150331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2014 10-K",
@@ -3222,8 +3222,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2015-02-24/txn-12312014x10xk.htm/txn-12312014x10xk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2014 10-Q",
@@ -3235,8 +3235,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2014-10-31/txn-2014930x10xq.htm/txn-2014930x10xq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2014 10-Q",
@@ -3248,8 +3248,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2014-07-31/txn-2014630x10q.htm/txn-2014630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2014 10-Q",
@@ -3261,8 +3261,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2014-05-02/txn-2014331x10q.htm/txn-2014331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2013 10-K",
@@ -3274,8 +3274,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2014-02-24/txn-12312013x10xk.htm/txn-12312013x10xk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2013 10-Q",
@@ -3287,8 +3287,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2013-11-01/txn-2013930x10q.htm/txn-2013930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2013 10-Q",
@@ -3300,8 +3300,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2013-08-02/txn-2013630x10q.htm/txn-2013630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2013 10-Q",
@@ -3313,8 +3313,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2013-05-03/txn-2013331x10q.htm/txn-2013331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2012 10-K",
@@ -3326,8 +3326,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2013-02-22/txn-12312012x10xk.htm/txn-12312012x10xk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2012 10-Q",
@@ -3339,8 +3339,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2012-11-02/txn-2012930x10q.htm/txn-2012930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2012 10-Q",
@@ -3352,8 +3352,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2012-08-03/txn-2012630x10q.htm/txn-2012630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2012 10-Q",
@@ -3365,8 +3365,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2012-05-04/txn-2012331x10q.htm/txn-2012331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2011 10-K",
@@ -3378,8 +3378,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2012-02-24/txn-12312011x10xk.htm/txn-12312011x10xk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2011 10-Q",
@@ -3391,8 +3391,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2011-11-04/txn-2011930x10q.htm/txn-2011930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2011 10-Q",
@@ -3404,8 +3404,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2011-08-05/txn-2011630x10q.htm/txn-2011630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2011 10-Q",
@@ -3417,8 +3417,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2011-05-05/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2010 10-K",
@@ -3430,8 +3430,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2011-02-25/form10-k.htm/form10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2010 10-Q",
@@ -3443,8 +3443,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2010-11-04/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2010 10-Q",
@@ -3456,8 +3456,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2010-07-22/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2010 10-Q",
@@ -3469,8 +3469,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2010-07-21/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2010 10-Q",
@@ -3482,8 +3482,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2010-04-30/form10-q.htm/form10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2010 10-K",
@@ -3495,8 +3495,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2010-02-23/form10k.htm/form10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2010 10-Q",
@@ -3508,8 +3508,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2009-10-30/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2010 10-Q",
@@ -3521,8 +3521,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2009-07-29/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2009 10-Q",
@@ -3534,8 +3534,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2009-04-29/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2009 10-K",
@@ -3547,8 +3547,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2009-02-24/texas_10k.htm/texas_10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2009 10-Q",
@@ -3560,8 +3560,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2008-10-30/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2009 10-Q",
@@ -3573,8 +3573,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2008-07-31/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2008 10-Q",
@@ -3586,8 +3586,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2008-04-30/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2008 10-K",
@@ -3599,8 +3599,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2008-02-26/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2008 10-Q",
@@ -3612,8 +3612,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2007-11-01/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2008 10-Q",
@@ -3625,8 +3625,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2007-08-01/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2007 10-Q",
@@ -3638,8 +3638,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2007-05-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2007 10-K",
@@ -3651,8 +3651,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2007-02-28/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2007 10-Q",
@@ -3664,8 +3664,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2006-10-30/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2007 10-Q",
@@ -3677,8 +3677,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2006-08-02/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2006 10-Q",
@@ -3690,8 +3690,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2006-05-02/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2006 10-K",
@@ -3703,8 +3703,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2006-02-28/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2006 10-Q",
@@ -3716,8 +3716,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2005-11-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2006 10-Q",
@@ -3729,8 +3729,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2005-08-04/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2005 10-Q",
@@ -3742,8 +3742,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2005-05-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2005 10-K",
@@ -3755,8 +3755,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2005-02-28/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2005 10-Q",
@@ -3768,8 +3768,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2004-11-04/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2005 10-Q",
@@ -3781,8 +3781,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2004-07-30/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2004 10-Q",
@@ -3794,8 +3794,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2004-04-28/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2004 10-K",
@@ -3807,8 +3807,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2004-02-27/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2004 10-Q",
@@ -3820,8 +3820,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2003-10-27/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2004 10-Q",
@@ -3833,8 +3833,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2003-07-28/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2003 10-Q",
@@ -3846,8 +3846,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2003-04-25/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2003 10-K",
@@ -3859,8 +3859,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2003-03-03/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2003 10-Q",
@@ -3872,8 +3872,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2002-11-12/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2003 10-Q",
@@ -3885,8 +3885,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2002-07-29/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2002 10-Q",
@@ -3898,8 +3898,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2002-04-26/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2002 10-Q",
@@ -3911,8 +3911,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2001-10-24/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2002 10-Q",
@@ -3924,8 +3924,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2001-07-27/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2002 10-Q",
@@ -3937,8 +3937,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2001-04-27/doc1.txt/doc1.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 2000 10-Q",
@@ -3950,8 +3950,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2000-10-24/a2028439z10-q.txt/a2028439z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 2000 10-Q",
@@ -3963,8 +3963,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2000-07-27/a10-q.txt/a10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 2000 10-Q",
@@ -3976,8 +3976,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/2000-04-21/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 2000 10-Q",
@@ -3989,8 +3989,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1999-11-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 1999 10-Q",
@@ -4002,8 +4002,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1999-08-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 1999 10-Q",
@@ -4015,8 +4015,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1999-04-23/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 1999 10-Q",
@@ -4028,8 +4028,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1998-10-22/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 1999 10-Q",
@@ -4041,8 +4041,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1998-07-23/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 1998 10-Q",
@@ -4054,8 +4054,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1998-04-17/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 1998 10-K",
@@ -4067,8 +4067,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1998-02-23/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 1998 10-Q",
@@ -4080,8 +4080,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1997-10-17/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 1998 10-Q",
@@ -4093,8 +4093,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1997-07-18/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 1997 10-Q",
@@ -4106,8 +4106,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1997-04-18/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 1997 10-K",
@@ -4119,8 +4119,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1997-02-25/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 1997 10-Q",
@@ -4132,8 +4132,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1996-10-18/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 1997 10-Q",
@@ -4145,8 +4145,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1996-07-19/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 1996 10-Q",
@@ -4158,8 +4158,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1996-04-19/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 1996 10-K",
@@ -4171,8 +4171,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1996-02-23/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 1996 10-Q",
@@ -4184,8 +4184,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1995-10-20/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 1996 10-Q",
@@ -4197,8 +4197,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1995-07-21/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 1995 10-Q",
@@ -4210,8 +4210,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1995-04-21/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q3 1995 10-Q",
@@ -4223,8 +4223,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1994-10-17/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q2 1995 10-Q",
@@ -4236,8 +4236,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1994-07-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q1 1995 10-Q",
@@ -4249,8 +4249,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1994-04-22/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "TXN",
         "geography": "US",
         "content_name": "TXN Q4 1993 10-K",
@@ -4262,5 +4262,5 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TXN/1994-03-21/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

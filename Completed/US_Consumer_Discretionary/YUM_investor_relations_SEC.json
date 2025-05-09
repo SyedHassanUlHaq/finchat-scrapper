@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2025-02-19/yum-20241231.htm/yum-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2024 10-Q",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2024-11-07/yum-20240930.htm/yum-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2024 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2024-08-08/yum-20240630.htm/yum-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2024 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2024-05-07/yum-20240331.htm/yum-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2023 10-K",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2024-02-20/yum-20231231.htm/yum-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2023 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2023-11-07/yum-20230930.htm/yum-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2023 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2023-08-07/yum-20230630.htm/yum-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2023 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2023-05-08/yum-20230331.htm/yum-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2022 10-K",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2023-02-24/yum-20221231.htm/yum-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2022 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2022-11-08/yum-20220930.htm/yum-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2022 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2022-08-08/yum-20220630.htm/yum-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2022 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2022-05-10/yum-20220331.htm/yum-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2021 10-K",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2022-02-22/yum-20211231.htm/yum-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2021 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2021-11-03/yum-20210930.htm/yum-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2021 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2021-08-04/yum-20210630.htm/yum-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2021 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2021-05-04/yum-20210331.htm/yum-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2020 10-K",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2021-02-19/yum-20201231.htm/yum-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2020 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2020-11-05/yum-20200930.htm/yum-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2020 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2020-08-05/yum-6302020x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2020 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2020-05-05/yum-3312020x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2019 10-K",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2020-02-20/yum10k12312019.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2019 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2019-11-05/yum-9302019x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2019 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2019-08-08/yum-6302019x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2019 10-Q",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2019-05-07/yum-3312019x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2018 10-K",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2019-02-21/yum10k12312018.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2018 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2018-11-07/yum-9302018x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2018 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2018-08-07/yum-6302018x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2018 10-Q",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2018-05-09/yum-3312018x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2017 10-K",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2018-02-21/yum10k12312017.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2017 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2017-11-08/yum-9302017x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2017 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2017-08-08/yum-6302017x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2017 10-Q",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2017-05-09/yum-3312017x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2016 10-K",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2017-02-22/yum10k12312016.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2016 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2016-10-11/yum-932016x10q.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2016 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2016-07-18/yum-6112016x10q.htm/yum-6112016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2016 10-Q",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2016-04-26/yum-3192016x10q.htm/yum-3192016x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2015 10-K",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2016-02-16/yum10k12262015.htm/yum10k12262015.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2015 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2015-10-15/yum-952015x10q.htm/yum-952015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2015 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2015-07-21/yum-6132015x10q.htm/yum-6132015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2015 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2015-04-27/yum-3212015x10q.htm/yum-3212015x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2014 10-K",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2015-02-17/yum10k12272014.htm/yum10k12272014.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2014 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2014-10-14/yum-962014x10q.htm/yum-962014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2014 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2014-07-22/yum-6142014x10q.htm/yum-6142014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2014 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2014-04-28/yum-3222014x10q.htm/yum-3222014x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2013 10-K",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2014-02-18/yum10k12282013.htm/yum10k12282013.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2013 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2013-10-15/yum-9072013x10q.htm/yum-9072013x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2013 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2013-07-16/yum-6152013x10q.htm/yum-6152013x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2013 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2013-04-29/yum-3232013x10q.htm/yum-3232013x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2012 10-K",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2013-02-19/yum10k12292012.htm/yum10k12292012.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2012 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2012-10-15/yum-982012x10q.htm/yum-982012x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2012 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2012-07-23/yum-6162012x10q.htm/yum-6162012x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2012 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2012-04-25/yum-3242012x10q.htm/yum-3242012x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2011 10-K",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2012-02-21/yum10k123111.htm/yum10k123111.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2011 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2011-10-11/yum-9032011x10q.htm/yum-9032011x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2011 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2011-07-19/yum-6112011x10q.htm/yum-6112011x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2011 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2011-04-26/form10q032011.htm/form10q032011.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2010 10-K",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2011-02-15/form_10k122510.htm/form_10k122510.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2010 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2010-10-12/form_10q090410.htm/form_10q090410.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2010 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2010-07-20/form_10q061210.htm/form_10q061210.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2010 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2010-04-21/form_10q032010.htm/form_10q032010.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2009 10-K",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2010-02-17/form_10k122609.htm/form_10k122609.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2009 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2009-10-13/form_10q090509.htm/form_10q090509.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2009 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2009-07-21/form_10q072109.htm/form_10q072109.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2009 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2009-04-28/form_10q032109.htm/form_10q032109.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2008 10-K",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2009-02-23/form_10-k22309.htm/form_10-k22309.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2008 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2008-10-14/form_10q101408.htm/form_10q101408.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2008 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2008-07-22/form10q072208.htm/form10q072208.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2008 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2008-04-29/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2008 10-K",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2008-02-25/form10k.htm/form10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2008 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2007-10-16/form10q101507.htm/form10q101507.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2008 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2007-07-20/form10q071907l.htm/form10q071907l.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2008 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2007-05-03/form10q050307.htm/form10q050307.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2006 10-K",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2007-02-28/form10k06.htm/form10k06.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2006 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2006-10-17/q30610q.htm/q30610q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2006 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2006-07-25/q20610q.htm/q20610q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2006 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2006-05-02/final10q1q06.htm/final10q1q06.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2006 10-K",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2006-03-03/final10kl.htm/final10kl.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2006 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2005-10-12/form3q05.htm/form3q05.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2006 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2005-07-18/form10q2q05.htm/form10q2q05.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2006 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2005-04-25/form10q1q05.htm/form10q1q05.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2004 10-K",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2005-02-28/finalform10k.htm/finalform10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2004 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2004-10-12/form10q3q04.htm/form10q3q04.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2004 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2004-07-20/form10q2q04.htm/form10q2q04.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2004 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2004-04-27/form10q1q04.htm/form10q1q04.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2003 10-K",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2004-03-05/form10k03.htm/form10k03.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2003 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2003-10-17/form10q3q03.htm/form10q3q03.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2003 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2003-07-22/form10q2qo3.htm/form10q2qo3.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2003 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2003-04-30/form10q1q03.htm/form10q1q03.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2002 10-K",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2003-03-11/form10k02.htm/form10k02.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2002 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2002-10-17/form10q3q02.htm/form10q3q02.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2002 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2002-07-29/d51163_10-q.htm/d51163_10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2002 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2002-05-02/form10q1q02.htm/form10q1q02.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2001 10-K",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2002-03-11/form10k2001.htm/form10k2001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2001 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2001-10-22/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2001 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2001-07-30/form10q02.htm/form10q02.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2001 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2001-05-07/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 2000 10-K",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2001-03-28/formk2000.htm/formk2000.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 2000 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2000-10-17/0001041061-00-000025-0001.htm/0001041061-00-000025-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 2000 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2000-07-25/0001041061-00-000016-0001.htm/0001041061-00-000016-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 2000 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2000-05-02/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 1999 10-K",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/2000-03-06/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 1999 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/1999-10-18/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 1999 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/1999-07-26/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 1999 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/1999-05-04/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 1998 10-K",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/1999-03-23/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 1998 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/1998-10-19/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q2 1998 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/1998-07-27/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q1 1998 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/1998-05-01/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q4 1997 10-K",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/1998-03-26/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "YUM",
         "geography": "US",
         "content_name": "YUM Q3 1997 10-Q",
@@ -2715,5 +2715,5 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/YUM/1997-10-21/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]

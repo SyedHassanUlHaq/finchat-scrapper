@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2025-04-08/jbl-20250228.htm%5Cjbl-20250228.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2025 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2025-01-10/jbl-20241130.htm%5Cjbl-20241130.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2024 10-K",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2024-10-28/jbl-20240831.htm%5Cjbl-20240831.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2024 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2024-07-09/jbl-20240531.htm%5Cjbl-20240531.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2024 10-Q",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2024-04-05/jbl-20240229.htm%5Cjbl-20240229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2024 10-Q",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2024-01-09/d57908d10q.htm%5Cd57908d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2023 10-K",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2023-10-20/d533726d10k.htm%5Cd533726d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2023 10-Q",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2023-06-30/d508558d10q.htm%5Cd508558d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2023 10-Q",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2023-04-05/d391318d10q.htm%5Cd391318d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2023 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2023-01-06/d415236d10q.htm%5Cd415236d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2022 10-K",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2022-10-25/d389587d10k.htm%5Cd389587d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2022 10-Q",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2022-07-01/d193672d10q.htm%5Cd193672d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2022 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2022-04-01/d298775d10q.htm%5Cd298775d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2022 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2022-01-07/d217432d10q.htm%5Cd217432d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2021 10-K",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2021-10-22/d176971d10k.htm%5Cd176971d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2021 10-Q",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2021-07-02/d173210d10q.htm%5Cd173210d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2021 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2021-04-02/d167671d10q.htm%5Cd167671d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2021 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2021-01-08/d84612d10q.htm%5Cd84612d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2020 10-K",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2020-10-22/d25678d10k.htm%5Cd25678d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2020 10-Q",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2020-06-30/d919701d10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2020 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2020-04-01/d767853d10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2020 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2020-01-03/d852870d10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2019 10-K",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2019-10-22/d782178d10k.htm%5Cd782178d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2019 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2019-06-28/d747413d10q.htm%5Cd747413d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2019 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2019-04-04/d709195d10q.htm%5Cd709195d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2019 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2019-01-09/d663336d10q.htm%5Cd663336d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2018 10-K",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2018-10-19/d636018d10k.htm%5Cd636018d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2018 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2018-06-28/d557563d10q.htm%5Cd557563d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2018 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2018-04-05/d558490d10q.htm%5Cd558490d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2018 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2018-01-04/d458385d10q.htm%5Cd458385d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2017 10-K",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2017-10-19/d424121d10k.htm%5Cd424121d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2017 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2017-06-30/d387238d10q.htm%5Cd387238d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2017 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2017-04-05/d366053d10q.htm%5Cd366053d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2017 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2017-01-09/d321330d10q.htm%5Cd321330d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2016 10-K",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2016-10-20/d126783d10k.htm%5Cd126783d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2016 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2016-06-30/d204415d10q.htm%5Cd204415d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2016 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2016-04-05/d172213d10q.htm%5Cd172213d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2016 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2016-01-06/d106310d10q.htm%5Cd106310d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2015 10-K",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2015-10-16/d48937d10k.htm%5Cd48937d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2015 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2015-06-22/d931252d10q.htm%5Cd931252d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2015 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2015-04-07/d902003d10q.htm%5Cd902003d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2015 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2015-01-09/d823994d10q.htm%5Cd823994d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2014 10-K",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2014-10-21/d768514d10k.htm%5Cd768514d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2014 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2014-06-30/d729306d10q.htm%5Cd729306d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2014 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2014-04-07/d675985d10q.htm%5Cd675985d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2014 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2014-01-09/d633608d10q.htm%5Cd633608d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2013 10-K",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2013-10-28/d585496d10k.htm%5Cd585496d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2013 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2013-07-02/d540819d10q.htm%5Cd540819d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2013 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2013-04-05/d472961d10q.htm%5Cd472961d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2013 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2013-01-08/d433962d10q.htm%5Cd433962d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2012 10-K",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2012-10-25/d395961d10k.htm%5Cd395961d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2012 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2012-07-03/d338270d10q.htm%5Cd338270d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2012 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2012-04-06/d303084d10q.htm%5Cd303084d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2012 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2012-01-09/d260462d10q.htm%5Cd260462d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2011 10-K",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2011-10-27/d195154d10k.htm%5Cd195154d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2011 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2011-06-30/g26940e10vq.htm%5Cg26940e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2011 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2011-04-08/g25803e10vq.htm%5Cg25803e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2011 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2011-01-07/g25271e10vq.htm%5Cg25271e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2010 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2010-07-02/g23977e10vq.htm%5Cg23977e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2010 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2010-04-06/g22713e10vq.htm%5Cg22713e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2010 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2010-01-07/g21715e10vq.htm%5Cg21715e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2009 10-K",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2009-10-22/g20866e10vk.htm%5Cg20866e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2009 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2009-07-06/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2009 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2009-04-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2009 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2009-01-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2008 10-K",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2008-10-29/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2008 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2008-07-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2008 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2008-04-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2008 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2008-01-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2007 10-K",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2007-10-25/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2007 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2007-07-06/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2007 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2007-05-23/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2007 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2007-05-23/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2006 10-K",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2007-05-15/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2006 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2006-07-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2006 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2006-04-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2006 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2006-01-09/g99082e10vq.htm%5Cg99082e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2005 10-K",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2005-10-28/g97797e10vk.htm%5Cg97797e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2005 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2005-07-01/g96041e10vq.htm%5Cg96041e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2005 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2005-04-08/g94315e10vq.htm%5Cg94315e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2005 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2005-01-07/g92656e10vq.htm%5Cg92656e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2004 10-K",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2004-11-05/g91463e10vk.htm%5Cg91463e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2004 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2004-07-02/g89782e10vq.htm%5Cg89782e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2004 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2004-04-13/g88371e10vq.htm%5Cg88371e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2004 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2004-01-14/g86687e10vq.htm%5Cg86687e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2003 10-K",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2003-11-12/g85512e10vk.htm%5Cg85512e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2003 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2003-07-14/g83746e10vq.htm%5Cg83746e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2003 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2003-04-11/g81960e10vq.htm%5Cg81960e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2003 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2003-01-14/g80172e10vq.htm%5Cg80172e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2002 10-K",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2002-11-25/g79508e10vk.htm%5Cg79508e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2002 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2002-07-12/g77213e10vq.htm%5Cg77213e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2002 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2002-04-12/g75531e10-q.htm%5Cg75531e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2002 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2002-01-11/g73665e10-q.htm%5Cg73665e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2001 10-K",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2001-11-28/g73033e10-k.txt%5Cg73033e10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2001 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2001-07-16/g70538e10-q.txt%5Cg70538e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2001 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2001-04-13/g68574e10-q.txt%5Cg68574e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2001 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2001-01-16/g66457e10-q.txt%5Cg66457e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 2000 10-K",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2000-11-28/g65591e10-k.txt%5Cg65591e10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 2000 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2000-07-17/e10-q.txt%5Ce10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 2000 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2000-04-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 2000 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/2000-01-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 1999 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1999-07-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 1999 10-Q",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1999-04-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 1999 10-Q",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1999-01-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 1999 10-K",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1998-12-07/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 1998 10-Q",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1998-07-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 1998 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1998-04-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 1998 10-Q",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1998-01-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 1998 10-K",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1997-12-01/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 1997 10-Q",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1997-07-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q3 1997 10-Q",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1997-04-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q2 1997 10-Q",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1997-01-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q1 1997 10-K",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1996-11-27/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "JBL",
         "geography": "US",
         "content_name": "JBL Q4 1996 10-Q",
@@ -2975,5 +2975,5 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/JBL/1996-07-15/.pdf",
         "periodicity": "periodic"
-      }
+    }
 ]
