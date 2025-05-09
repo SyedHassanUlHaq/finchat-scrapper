@@ -613,20 +613,20 @@
     {
         "equity_ticker": "PFGC",
         "geography": "US",
-        "content_name": "PFGC Q3 2006 10-K",
+        "content_name": "PFGC Q4 2006 10-K",
         "file_type": "pdf",
         "content_type": "annual_report",
         "published_date": "2006-03-06",
         "fiscal_date": "2005-12-31",
         "fiscal_year": 2006,
-        "fiscal_quarter": 3,
+        "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PFGC/2006-03-06/g99905e10vk.htm/g99905e10vk.pdf",
         "periodicity": "periodic"
     },
     {
         "equity_ticker": "PFGC",
         "geography": "US",
-        "content_name": "PFGC Q2 2006 10-Q",
+        "content_name": "PFGC Q3 2006 10-Q",
         "file_type": "pdf",
         "content_type": "quarterly_report",
         "published_date": "2005-11-10",
@@ -2025,19 +2025,6 @@
         "fiscal_year": 2007,
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PFGC/2007-11-13/Performance%20Food%20Group%20Company_2007-11-13_transcript/Performance%20Food%20Group%20Company_2007-11-13_transcript.pdf/Performance%20Food%20Group%20Company_2007-11-13_transcript.pdf",
-        "periodicity": "periodic"
-    },
-    {
-        "equity_ticker": "PFGC",
-        "geography": "US",
-        "content_name": "PFGC Q3 2025 Transcript",
-        "file_type": "pdf",
-        "content_type": "earnings_transcript",
-        "published_date": "2025-05-07",
-        "fiscal_date": "2025-05-07",
-        "fiscal_year": 2025,
-        "fiscal_quarter": 3,
-        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PFGC/2025-05-07/transcript_PFGC_2025_Q3.pdf/transcript_PFGC_2025_Q3.pdf",
         "periodicity": "periodic"
     }
 ]

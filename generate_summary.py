@@ -39,7 +39,7 @@ def generate_summary(directory, output_csv):
                 writer.writerow(row)
 
 if __name__ == "__main__":
-    directory = "US_Completed"
+    directory = "Completed/US_consumer_staples"
     output_csv = "summary.csv"
     generate_summary(directory, output_csv)
     print(f"Summary CSV generated")

@@ -2897,18 +2897,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CLX/2007-02-01/The%20Clorox%20Company_2007-02-01_transcript/The%20Clorox%20Company_2007-02-01_transcript.pdf/The%20Clorox%20Company_2007-02-01_transcript.pdf",
         "periodicity": "periodic"
-    },
-    {
-        "equity_ticker": "CLX",
-        "geography": "US",
-        "content_name": "CLX Q3 2025 Transcript",
-        "file_type": "pdf",
-        "content_type": "earnings_transcript",
-        "published_date": "2025-05-05",
-        "fiscal_date": "2025-05-05",
-        "fiscal_year": 2025,
-        "fiscal_quarter": 3,
-        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/CLX/2025-05-05/transcript_CLX_2025_Q3.pdf/transcript_CLX_2025_Q3.pdf",
-        "periodicity": "periodic"
     }
 ]

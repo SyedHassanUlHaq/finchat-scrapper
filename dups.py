@@ -112,4 +112,4 @@ def process_json_files_in_folder(folder_path):
             check_and_remove_reports(file_path)
 
 # Example usage:
-process_json_files_in_folder('Completed/US_Technology')
+process_json_files_in_folder('Completed/US_consumer_staples')

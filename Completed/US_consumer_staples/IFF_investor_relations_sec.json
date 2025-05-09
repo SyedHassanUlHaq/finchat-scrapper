@@ -3456,31 +3456,5 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/IFF/2007-08-07/International%20Flavors%20%26%20Fragrances%20Inc._2007-08-07_transcript/International%20Flavors%20%26%20Fragrances%20Inc._2007-08-07_transcript.pdf/International%20Flavors%20%26%20Fragrances%20Inc._2007-08-07_transcript.pdf",
         "periodicity": "periodic"
-    },
-    {
-        "equity_ticker": "IFF",
-        "geography": "US",
-        "content_name": "IFF Q3 2020 Transcript",
-        "file_type": "pdf",
-        "content_type": "earnings_transcript",
-        "published_date": "2020-11-10",
-        "fiscal_date": "2020-11-10",
-        "fiscal_year": 2020,
-        "fiscal_quarter": 3,
-        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2020-11-10/transcript_IFF_2020_Q3.pdf/transcript_IFF_2020_Q3.pdf",
-        "periodicity": "periodic"
-    },
-    {
-        "equity_ticker": "IFF",
-        "geography": "US",
-        "content_name": "IFF Q4 2015 Transcript",
-        "file_type": "pdf",
-        "content_type": "earnings_transcript",
-        "published_date": "2016-02-11",
-        "fiscal_date": "2016-02-11",
-        "fiscal_year": 2015,
-        "fiscal_quarter": 4,
-        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/IFF/2016-02-11/transcript_IFF_2015_Q4.pdf/transcript_IFF_2015_Q4.pdf",
-        "periodicity": "periodic"
     }
 ]
