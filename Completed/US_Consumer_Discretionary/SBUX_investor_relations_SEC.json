@@ -3170,5 +3170,18 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SBUX/1996-05-15/.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "SBUX",
+        "geography": "US",
+        "content_name": "SBUX Q2 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-04-29",
+        "fiscal_date": "2025-04-29",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SBUX/2025-04-29/transcript_SBUX_2025_Q2.pdf/transcript_SBUX_2025_Q2.pdf",
+        "periodicity": "periodic"
     }
 ]
