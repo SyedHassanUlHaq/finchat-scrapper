@@ -2871,5 +2871,31 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SWKS/1995-02-15/.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "SWKS",
+        "geography": "US",
+        "content_name": "SWKS Q2 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-05-07",
+        "fiscal_date": "2025-05-07",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SWKS/2025-05-07/transcript_SWKS_2025_Q2.pdf/transcript_SWKS_2025_Q2.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "SWKS",
+        "geography": "US",
+        "content_name": "SWKS Q2 2019 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2019-05-02",
+        "fiscal_date": "2019-05-02",
+        "fiscal_year": 2019,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SWKS/2019-05-02/transcript_SWKS_2019_Q2.pdf/transcript_SWKS_2019_Q2.pdf",
+        "periodicity": "periodic"
     }
 ]

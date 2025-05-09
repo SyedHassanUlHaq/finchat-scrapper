@@ -3755,5 +3755,18 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WDC/1994-01-25/.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "WDC",
+        "geography": "US",
+        "content_name": "WDC Q3 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-04-30",
+        "fiscal_date": "2025-04-30",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/WDC/2025-04-30/transcript_WDC_2025_Q3.pdf/transcript_WDC_2025_Q3.pdf",
+        "periodicity": "periodic"
     }
 ]

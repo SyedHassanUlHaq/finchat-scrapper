@@ -1584,5 +1584,31 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HPE/2015-12-17/a2226746z10-k.htm%5Ca2226746z10-k.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "HPE",
+        "geography": "US",
+        "content_name": "HPE Q1 2016 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2016-03-04",
+        "fiscal_date": "2016-03-04",
+        "fiscal_year": 2016,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HPE/2016-03-04/transcript_HPE_2016_Q1.pdf/transcript_HPE_2016_Q1.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "HPE",
+        "geography": "US",
+        "content_name": "HPE Q2 2016 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2016-05-24",
+        "fiscal_date": "2016-05-24",
+        "fiscal_year": 2016,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/HPE/2016-05-24/transcript_HPE_2016_Q2.pdf/transcript_HPE_2016_Q2.pdf",
+        "periodicity": "periodic"
     }
 ]

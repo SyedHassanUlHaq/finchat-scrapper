@@ -3573,5 +3573,18 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TPR/2000-11-14/y42472e10-q.txt%5Cy42472e10-q.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "TPR",
+        "geography": "US",
+        "content_name": "TPR Q3 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-05-08",
+        "fiscal_date": "2025-05-08",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/TPR/2025-05-08/transcript_TPR_2025_Q3.pdf/transcript_TPR_2025_Q3.pdf",
+        "periodicity": "periodic"
     }
 ]

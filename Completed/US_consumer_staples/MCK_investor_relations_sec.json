@@ -3443,5 +3443,18 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MCK/1995-02-13/.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "MCK",
+        "geography": "US",
+        "content_name": "MCK Q4 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-05-08",
+        "fiscal_date": "2025-05-08",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 4,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MCK/2025-05-08/transcript_MCK_2025_Q4.pdf/transcript_MCK_2025_Q4.pdf",
+        "periodicity": "periodic"
     }
 ]

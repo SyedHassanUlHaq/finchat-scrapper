@@ -713,5 +713,18 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KD/2021-11-22/kd-20210930x10q.htm/kd-20210930x10q.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "KD",
+        "geography": "US",
+        "content_name": "KD Q4 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-05-08",
+        "fiscal_date": "2025-05-08",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 4,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/KD/2025-05-08/transcript_KD_2025_Q4.pdf/transcript_KD_2025_Q4.pdf",
+        "periodicity": "periodic"
     }
 ]

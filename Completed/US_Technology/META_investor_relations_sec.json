@@ -2832,5 +2832,31 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/META/2012-07-31/d371464d10q.htm/d371464d10q.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "META",
+        "geography": "US",
+        "content_name": "META Q2 2012 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2012-07-26",
+        "fiscal_date": "2012-07-26",
+        "fiscal_year": 2012,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/META/2012-07-26/transcript_META_2012_Q2.pdf/transcript_META_2012_Q2.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "META",
+        "geography": "US",
+        "content_name": "META Q3 2012 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2012-10-23",
+        "fiscal_date": "2012-10-23",
+        "fiscal_year": 2012,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/META/2012-10-23/transcript_META_2012_Q3.pdf/transcript_META_2012_Q3.pdf",
+        "periodicity": "periodic"
     }
 ]

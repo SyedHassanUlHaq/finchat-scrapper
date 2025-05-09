@@ -1870,5 +1870,18 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/QRVO/2014-09-12/d783115d10q.htm/d783115d10q.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "QRVO",
+        "geography": "US",
+        "content_name": "QRVO Q4 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-04-29",
+        "fiscal_date": "2025-04-29",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 4,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/QRVO/2025-04-29/transcript_QRVO_2025_Q4.pdf/transcript_QRVO_2025_Q4.pdf",
+        "periodicity": "periodic"
     }
 ]

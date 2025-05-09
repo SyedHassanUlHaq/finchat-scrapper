@@ -2442,5 +2442,18 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SAM/2007-11-06/The%20Boston%20Beer%20Company%2C%20Inc._2007-11-06_transcript/The%20Boston%20Beer%20Company%2C%20Inc._2007-11-06_transcript.pdf/The%20Boston%20Beer%20Company%2C%20Inc._2007-11-06_transcript.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "SAM",
+        "geography": "US",
+        "content_name": "SAM Q3 2010 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2010-11-07",
+        "fiscal_date": "2010-11-07",
+        "fiscal_year": 2010,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SAM/2010-11-07/transcript_SAM_2010_Q3.pdf/transcript_SAM_2010_Q3.pdf",
+        "periodicity": "periodic"
     }
 ]

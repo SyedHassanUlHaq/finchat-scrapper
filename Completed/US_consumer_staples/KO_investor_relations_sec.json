@@ -3716,5 +3716,83 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/KO/2006-10-19/The%20Coca-Cola%20Company_2006-10-19_transcript/The%20Coca-Cola%20Company_2006-10-19_transcript.pdf/The%20Coca-Cola%20Company_2006-10-19_transcript.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "KO",
+        "geography": "US",
+        "content_name": "KO Q1 2020 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2020-04-21",
+        "fiscal_date": "2020-04-21",
+        "fiscal_year": 2020,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/KO/2020-04-21/transcript_KO_2020_Q1.pdf/transcript_KO_2020_Q1.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "KO",
+        "geography": "US",
+        "content_name": "KO Q3 2018 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2018-10-30",
+        "fiscal_date": "2018-10-30",
+        "fiscal_year": 2018,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/KO/2018-10-30/transcript_KO_2018_Q3.pdf/transcript_KO_2018_Q3.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "KO",
+        "geography": "US",
+        "content_name": "KO Q1 2014 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2014-04-15",
+        "fiscal_date": "2014-04-15",
+        "fiscal_year": 2014,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/KO/2014-04-15/transcript_KO_2014_Q1.pdf/transcript_KO_2014_Q1.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "KO",
+        "geography": "US",
+        "content_name": "KO Q3 2013 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2013-10-15",
+        "fiscal_date": "2013-10-15",
+        "fiscal_year": 2013,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/KO/2013-10-15/transcript_KO_2013_Q3.pdf/transcript_KO_2013_Q3.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "KO",
+        "geography": "US",
+        "content_name": "KO Q4 2013 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2014-02-18",
+        "fiscal_date": "2014-02-18",
+        "fiscal_year": 2013,
+        "fiscal_quarter": 4,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/KO/2014-02-18/transcript_KO_2013_Q4.pdf/transcript_KO_2013_Q4.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "KO",
+        "geography": "US",
+        "content_name": "KO Q1 2007 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2007-04-17",
+        "fiscal_date": "2007-04-17",
+        "fiscal_year": 2007,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/KO/2007-04-17/transcript_KO_2007_Q1.pdf/transcript_KO_2007_Q1.pdf",
+        "periodicity": "periodic"
     }
 ]

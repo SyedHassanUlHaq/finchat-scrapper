@@ -46,6 +46,8 @@ def process_directory(directory_path):
 
     return results
 
+from reportlab.lib.styles import ParagraphStyle
+
 def create_pdf_for_missing_transcripts(directory_path, results):
     for filename, result in results.items():
         file_path = result["file_path"]
@@ -88,8 +90,24 @@ def create_pdf_for_missing_transcripts(directory_path, results):
                     doc = SimpleDocTemplate(pdf_filename, pagesize=letter, rightMargin=72, leftMargin=72, topMargin=72, bottomMargin=72)
                     styles = getSampleStyleSheet()
 
+                    # Define a custom style for the title
+                    title_style = ParagraphStyle(
+                        name='TitleStyle',
+                        fontSize=16,
+                        leading=20,
+                        spaceAfter=20,
+                        alignment=1,  # Center alignment
+                    )
+
                     # Create a list to hold the flowables
                     flowables = []
+
+                    # Add the title as a Paragraph
+                    title = Paragraph(f"{equity_ticker} Q{quarter} {fiscal_year} Transcript", title_style)
+                    flowables.append(title)
+
+                    # Add a spacer to ensure the text doesn't overflow
+                    flowables.append(Spacer(1, 0.2 * inch))
 
                     # Add the transcript content as a Paragraph
                     paragraph = Paragraph(transcript_content, styles["Normal"])
@@ -103,7 +121,7 @@ def create_pdf_for_missing_transcripts(directory_path, results):
 
                     # Upload the PDF to R2
                     r2_folder = f"{equity_ticker}/{date}/{pdf_filename}/"
-                    r2_url = upload_to_r2(pdf_filename, r2_folder, test_run='false')
+                    r2_url = upload_to_r2(pdf_filename, r2_folder, test_run='true')
 
                     # Create the JSON object
                     json_object = {
@@ -131,7 +149,7 @@ def create_pdf_for_missing_transcripts(directory_path, results):
                     print(f"Transcript content for {equity_ticker} {fiscal_year} Q{quarter} has been saved to {pdf_filename} and uploaded to R2: {r2_url}")
 
 # Specify the directory path
-directory_path = 'Completed/US_consumer_staples'
+directory_path = 'Completed/US_Consumer_Discretionary'
 
 # Process all JSON files in the directory
 results = process_directory(directory_path)

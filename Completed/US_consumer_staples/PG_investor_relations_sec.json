@@ -8058,5 +8058,18 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/PG/2006-01-28/The%20Procter%20%26%20Gamble%20Company_2006-01-28_transcript/The%20Procter%20%26%20Gamble%20Company_2006-01-28_transcript.pdf/The%20Procter%20%26%20Gamble%20Company_2006-01-28_transcript.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "PG",
+        "geography": "US",
+        "content_name": "PG Q3 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-04-24",
+        "fiscal_date": "2025-04-24",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/PG/2025-04-24/transcript_PG_2025_Q3.pdf/transcript_PG_2025_Q3.pdf",
+        "periodicity": "periodic"
     }
 ]

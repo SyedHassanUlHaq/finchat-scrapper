@@ -4184,5 +4184,18 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MO/2006-10-26/Altria%20Group%2C%20Inc._2006-10-26_transcript/Altria%20Group%2C%20Inc._2006-10-26_transcript.pdf/Altria%20Group%2C%20Inc._2006-10-26_transcript.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "MO",
+        "geography": "US",
+        "content_name": "MO Q3 2018 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2018-10-25",
+        "fiscal_date": "2018-10-25",
+        "fiscal_year": 2018,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/MO/2018-10-25/transcript_MO_2018_Q3.pdf/transcript_MO_2018_Q3.pdf",
+        "periodicity": "periodic"
     }
 ]

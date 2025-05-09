@@ -2286,5 +2286,44 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/WBA/2014-12-29/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "WBA",
+        "geography": "US",
+        "content_name": "WBA Q3 2019 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2019-06-27",
+        "fiscal_date": "2019-06-27",
+        "fiscal_year": 2019,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/WBA/2019-06-27/transcript_WBA_2019_Q3.pdf/transcript_WBA_2019_Q3.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "WBA",
+        "geography": "US",
+        "content_name": "WBA Q2 2006 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2006-03-27",
+        "fiscal_date": "2006-03-27",
+        "fiscal_year": 2006,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/WBA/2006-03-27/transcript_WBA_2006_Q2.pdf/transcript_WBA_2006_Q2.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "WBA",
+        "geography": "US",
+        "content_name": "WBA Q3 2006 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2006-06-26",
+        "fiscal_date": "2006-06-26",
+        "fiscal_year": 2006,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/WBA/2006-06-26/transcript_WBA_2006_Q3.pdf/transcript_WBA_2006_Q3.pdf",
+        "periodicity": "periodic"
     }
 ]

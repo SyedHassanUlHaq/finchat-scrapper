@@ -3872,5 +3872,44 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1995-09-26/.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "LRCX",
+        "geography": "US",
+        "content_name": "LRCX Q3 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-04-23",
+        "fiscal_date": "2025-04-23",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/LRCX/2025-04-23/transcript_LRCX_2025_Q3.pdf/transcript_LRCX_2025_Q3.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "LRCX",
+        "geography": "US",
+        "content_name": "LRCX Q2 2006 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2006-01-19",
+        "fiscal_date": "2006-01-19",
+        "fiscal_year": 2006,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/LRCX/2006-01-19/transcript_LRCX_2006_Q2.pdf/transcript_LRCX_2006_Q2.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "LRCX",
+        "geography": "US",
+        "content_name": "LRCX Q3 2006 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2006-04-14",
+        "fiscal_date": "2006-04-14",
+        "fiscal_year": 2006,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/LRCX/2006-04-14/transcript_LRCX_2006_Q3.pdf/transcript_LRCX_2006_Q3.pdf",
+        "periodicity": "periodic"
     }
 ]

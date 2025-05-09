@@ -2923,5 +2923,18 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/TSN/2006-05-01/Tyson%20Foods%2C%20Inc._2006-05-01_transcript/Tyson%20Foods%2C%20Inc._2006-05-01_transcript.pdf/Tyson%20Foods%2C%20Inc._2006-05-01_transcript.pdf",
         "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "TSN",
+        "geography": "US",
+        "content_name": "TSN Q2 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-05-05",
+        "fiscal_date": "2025-05-05",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/TSN/2025-05-05/transcript_TSN_2025_Q2.pdf/transcript_TSN_2025_Q2.pdf",
+        "periodicity": "periodic"
     }
 ]
