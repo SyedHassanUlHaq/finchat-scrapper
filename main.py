@@ -44,37 +44,16 @@ else:
     DEFAULT_args = ["--profile-directory=Default"]
 
 async def scrape_event_names(ticker, url, test_run):
-<<<<<<< Updated upstream
-    chrome_path = os.environ.get("CHROME_PATH", DEFAULT_CHROME_PATH)
-    user_data_dir = os.path.expanduser(os.environ.get("CONFIG_PATH", DEFAULT_CONFIG_PATH))
-    os.makedirs("logs", exist_ok=True)
-
-    logging.basicConfig(
-        filename=f'logs/{ticker}_event_errors.log',  # Specify the log file name
-        level=logging.ERROR,          # Set the logging level to ERROR
-        format='%(asctime)s - %(levelname)s - %(message)s'  # Define the log message format
-    )
-
-    
-=======
     chrome_path = r"C:/Program Files/Google/Chrome/Application/chrome.exe"
     user_data_dir = os.path.abspath(os.path.join(os.getcwd(), "chrome_profile"))
     print(f"Using Chrome profile from: {user_data_dir}")
 
 
 
->>>>>>> Stashed changes
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
         user_data_dir=user_data_dir,
-<<<<<<< Updated upstream
-        headless=True,
-        executable_path=chrome_path,
-        args=DEFAULT_args,
-        accept_downloads=True
-    )
-=======
         headless=False,
         executable_path=chrome_path,
         args=["--profile-directory=Default"],
@@ -83,7 +62,6 @@ async def scrape_event_names(ticker, url, test_run):
         
         
 
->>>>>>> Stashed changes
         page = browser.pages[0] if browser.pages else await browser.new_page()
 
         await enable_stealth(page)
