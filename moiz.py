@@ -34,7 +34,7 @@ lis = [
        # ("IFF", "https://finchat.io/company/NYSE-IFF/investor-relations/", "false")
 
 
-       #23-42
+    #23-42
     #    ("F", "https://finchat.io/company/NYSE-F/investor-relations/", "false"),
     #    ("DHI", "https://finchat.io/company/NYSE-DHI/investor-relations/", "false"),
     #    ("EBAY", "https://finchat.io/company/NasdaqGS-EBAY/investor-relations/", "false"),
@@ -43,7 +43,9 @@ lis = [
     #    ("TSCO", "https://finchat.io/company/NasdaqGS-TSCO/investor-relations/", "false"),
     #    ("LEN", "https://finchat.io/company/NYSE-LEN/investor-relations/", "false"),
     #    ("DRI", "https://finchat.io/company/NYSE-DRI/investor-relations/", "false"),
-         ("NVR", "https://finchat.io/company/NYSE-NVR/investor-relations/", "false"),
+
+        #  ("NVR", "https://finchat.io/company/NYSE-NVR/investor-relations/", "false"),
+    
     #    ("PHM", "https://finchat.io/company/NYSE-PHM/investor-relations/", "false"),
     #    ("CCL", "https://finchat.io/company/NYSE-CCL/investor-relations/", "false"),
     #    ("WSM", "https://finchat.io/company/NYSE-WSM/investor-relations/", "false"),
@@ -57,7 +59,7 @@ lis = [
     #    ("KMX", "https://finchat.io/company/NYSE-KMX/investor-relations/", "false"),
 
 
-        #48-53
+    #48-53
         # ("NCLH", "https://finchat.io/company/NYSE-NCLH/investor-relations/", "false"),
         # ("HAS", "https://finchat.io/company/NasdaqGS-HAS/investor-relations/", "false"),
         # ("WYNN", "https://finchat.io/company/NasdaqGS-WYNN/investor-relations/", "false"),
@@ -66,7 +68,7 @@ lis = [
         # ("CZR", "https://finchat.io/company/NasdaqGS-CZR/investor-relations/", "false"),
 
 
-        #160-183
+    #160-183
         # ("VRSN", "https://finchat.io/company/NasdaqGS-VRSN/investor-relations/", "false"),
         # ("MCHP", "https://finchat.io/company/NasdaqGS-MCHP/investor-relations/", "false"),
         # ("ZM", "https://finchat.io/company/NasdaqGS-ZM/investor-relations/", "false"),
@@ -86,13 +88,25 @@ lis = [
         # ("JBL", "https://finchat.io/company/NYSE-JBL/investor-relations/", "false"),
         # ("GEN", "https://finchat.io/company/NasdaqGS-GEN/investor-relations/", "false"),
         # ("TWLO", "https://finchat.io/company/NYSE-TWLO/investor-relations/", "false"),
-
-
         # ("DT", "https://finchat.io/company/NYSE-DT/investor-relations/", "false"),
         # ("PSTG", "https://finchat.io/company/NYSE-PSTG/investor-relations/", "false"),
         # ("WDC", "https://finchat.io/company/NasdaqGS-WDC/investor-relations/", "false"),
         # ("TER", "https://finchat.io/company/NasdaqGS-TER/investor-relations/", "false"),
         # ("MDB", "https://finchat.io/company/NasdaqGM-MDB/investor-relations/", "false"),
+
+
+    #225-234
+        ("AVGO", "https://finchat.io/company/NasdaqGS-AVGO/investor-relations/", "false"),
+        ("NVDA", "https://finchat.io/company/NasdaqGS-NVDA/investor-relations/", "false"),
+        ("TXN", "", "false"),
+        ("QCOM", "", "false"),
+        ("AMD", "", "false"),
+        ("KLAC", "", "false"),
+        ("AMAT", "", "false"),
+        ("LRCX", "", "false"),
+        ("INTC", "", "false"),
+        ("ASML", "", "false")
+
        ]
 
 for i in lis:

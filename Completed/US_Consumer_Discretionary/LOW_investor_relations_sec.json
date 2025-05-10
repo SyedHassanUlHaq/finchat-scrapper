@@ -1259,8 +1259,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2025-03-24/low-20250131.htm/low-20250131.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2025 10-Q",
@@ -1272,8 +1272,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2024-11-27/low-20241101.htm/low-20241101.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2025 10-Q",
@@ -1285,8 +1285,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2024-08-29/low-20240802.htm/low-20240802.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2025 10-Q",
@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2024-05-30/low-20240503.htm/low-20240503.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2024 10-K",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2024-03-25/low-20240202.htm/low-20240202.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2024 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2023-11-29/low-20231103.htm/low-20231103.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2024 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2023-08-30/low-20230804.htm/low-20230804.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2024 10-Q",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2023-06-01/low-20230505.htm/low-20230505.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2023 10-K",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2023-03-27/low-20230203.htm/low-20230203.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2023 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2022-11-23/low-20221028.htm/low-20221028.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2023 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2022-08-25/low-20220729.htm/low-20220729.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2023 10-Q",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2022-05-26/low-20220429.htm/low-20220429.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2022 10-K",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2022-03-21/low-20220128.htm/low-20220128.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2022 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2021-11-24/low-20211029.htm/low-20211029.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2022 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2021-08-26/low-20210730.htm/low-20210730.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2022 10-Q",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2021-05-27/low-20210430.htm/low-20210430.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2021 10-K",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2021-03-22/low-20210129.htm/low-20210129.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2021 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2020-11-25/low-20201030.htm/low-20201030.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2021 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2020-08-26/low-20200731.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2021 10-Q",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2020-05-28/form10q_05012020.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2020 10-K",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2020-03-23/form10k01312020.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2020 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2019-12-03/form10q11012019.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2020 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2019-09-03/form10q08022019.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2020 10-Q",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2019-06-03/form10q_05032019.htm/form10q_05032019.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2019 10-K",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2019-04-01/form10k_02012019.htm/form10k_02012019.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2019 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2018-12-06/form10q_11022018.htm/form10q_11022018.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2019 10-Q",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2018-09-04/form10q_08032018.htm/form10q_08032018.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2019 10-Q",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2018-06-05/form10q_05042018.htm/form10q_05042018.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2018 10-K",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2018-04-02/form10k_02022018.htm/form10k_02022018.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2018 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2017-12-05/form10q_11032017.htm/form10q_11032017.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2018 10-Q",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2017-09-05/form10q_08042017.htm/form10q_08042017.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2018 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2017-06-06/form10q_05052017.htm/form10q_05052017.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2017 10-K",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2017-04-04/lowesform10k.htm/lowesform10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2017 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2016-11-29/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2017 10-Q",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2016-09-02/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2017 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2016-05-31/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2016 10-K",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2016-03-28/lowesform10k.htm/lowesform10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2016 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2015-12-02/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2016 10-Q",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2015-09-01/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2016 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2015-06-02/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2015 10-K",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2015-03-31/lowesform10k.htm/lowesform10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2015 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2014-12-02/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2015 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2014-09-02/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2015 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2014-06-03/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2014 10-K",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2014-03-31/lowesform10k.htm/lowesform10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2014 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2013-12-03/form10q.htm/form10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2014 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2013-09-03/lowesform10q.htm/lowesform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2014 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2013-06-04/lowesform10q.htm/lowesform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2013 10-K",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2013-04-01/lowesform10k.htm/lowesform10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2013 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2012-12-04/lowesform10q.htm/lowesform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2013 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2012-09-04/lowesform10q.htm/lowesform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2013 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2012-06-05/lowesform10q.htm/lowesform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2012 10-K",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2012-04-02/lowesform10k02032012.htm/lowesform10k02032012.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2012 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2011-12-01/lowesform10q10282011.htm/lowesform10q10282011.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2012 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2011-08-30/lowesform10q07292011.htm/lowesform10q07292011.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2012 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2011-05-31/lowesform10q04292011.htm/lowesform10q04292011.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2011 10-K",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2011-03-29/lowesform10k01282011.htm/lowesform10k01282011.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2011 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2010-12-01/lowesform10q10292010.htm/lowesform10q10292010.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2011 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2010-08-31/lowesform10q07302010.htm/lowesform10q07302010.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2011 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2010-06-01/lowesform10q04302010.htm/lowesform10q04302010.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2010 10-K",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2010-03-30/lowesform10k01292010.htm/lowesform10k01292010.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2010 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2009-12-01/lowesform10q10302009.htm/lowesform10q10302009.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2010 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2009-09-01/lowesform10q7312009.htm/lowesform10q7312009.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2010 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2009-06-01/lowesform10q5012009.htm/lowesform10q5012009.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2009 10-K",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2009-03-31/lowesform10k01302009.htm/lowesform10k01302009.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2009 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2008-12-02/lowesform10q10312008.htm/lowesform10q10312008.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2009 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2008-09-03/lowesform10q08012008.htm/lowesform10q08012008.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2009 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2008-06-04/lowesform10q05022008.htm/lowesform10q05022008.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2008 10-K",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2008-04-01/lowesform10k02012008.htm/lowesform10k02012008.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2008 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2007-12-12/lowesform10q1122007.htm/lowesform10q1122007.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2008 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2007-09-05/lowesform10q832007.htm/lowesform10q832007.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2008 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2007-06-06/lowesform10q542007.htm/lowesform10q542007.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2007 10-K",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2007-04-03/lowesform10k02022007.htm/lowesform10k02022007.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2007 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2006-12-06/lowesform10q1132006.htm/lowesform10q1132006.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2007 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2006-09-07/lowesform10q842006.htm/lowesform10q842006.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2007 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2006-06-14/lowesform10q552006.htm/lowesform10q552006.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2006 10-K",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2006-04-06/lowesform10k02032006.htm/lowesform10k02032006.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2006 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2005-12-07/lowesform10q10282005.htm/lowesform10q10282005.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2006 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2005-09-01/lowesform10q07292005.htm/lowesform10q07292005.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2006 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2005-06-08/lowesform10q04292005.htm/lowesform10q04292005.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2005 10-K",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2005-04-13/lowesform10k01282005.htm/lowesform10k01282005.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2005 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2004-12-07/form10q10292004.htm/form10q10292004.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2005 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2004-09-03/form10q07302004.htm/form10q07302004.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2005 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2004-06-04/form10q04302004.htm/form10q04302004.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2004 10-K",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2004-04-07/form10k1302004.htm/form10k1302004.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2004 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2003-12-09/form10q10312003.htm/form10q10312003.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2004 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2003-09-12/form10q080103.htm/form10q080103.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2004 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2003-06-13/form10q050203a.htm/form10q050203a.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2003 10-K",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2003-04-15/form10k2002.htm/form10k2002.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2003 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2002-12-10/q32002.txt/q32002.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2003 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2002-09-13/q22002.txt/q22002.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2003 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2002-06-13/f2002qtr1e.txt/f2002qtr1e.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2002 10-K",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2002-04-26/form10k2001e.txt/form10k2001e.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2002 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2001-12-17/q11022001e.txt/q11022001e.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2002 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2001-09-14/q2ndqtr2001.txt/q2ndqtr2001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2002 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2001-06-15/form10q101.txt/form10q101.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 2000 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2000-12-08/0000060667-00-000009-0001.txt/0000060667-00-000009-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 2000 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2000-09-08/0000060667-00-000006-0001.txt/0000060667-00-000006-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 2000 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/2000-06-09/0000060667-00-000004-0001.txt/0000060667-00-000004-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 2000 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1999-12-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 1999 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1999-09-09/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 1999 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1999-06-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 1999 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1998-12-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 1999 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1998-09-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 1998 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1998-06-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 1998 10-K",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1998-04-27/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 1998 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1997-12-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 1998 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1997-09-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 1997 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1997-06-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 1997 10-K",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1997-04-25/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 1997 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1996-12-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 1997 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1996-09-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 1996 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1996-06-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 1996 10-K",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1996-04-29/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 1996 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1995-12-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 1996 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1995-09-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 1995 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1995-06-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 1995 10-K",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1995-04-28/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q2 1995 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1994-12-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q1 1995 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1994-09-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q4 1994 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1994-06-07/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LOW",
         "geography": "US",
         "content_name": "LOW Q3 1994 10-K",
@@ -2832,5 +2832,18 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LOW/1994-05-03/.pdf",
         "periodicity": "periodic"
-      }
+    },
+    {
+        "equity_ticker": "LOW",
+        "geography": "US",
+        "content_name": "LOW Q2 2007 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2007-08-20",
+        "fiscal_date": "2007-08-20",
+        "fiscal_year": 2007,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/LOW/2007-08-20/transcript_LOW_2007_Q2.pdf/transcript_LOW_2007_Q2.pdf",
+        "periodicity": "periodic"
+    }
 ]

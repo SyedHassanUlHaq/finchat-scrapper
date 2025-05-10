@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2025-01-31/lrcx-20241229.htm/lrcx-20241229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2025 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2024-10-28/lrcx-20240929.htm/lrcx-20240929.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2024 10-K",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2024-08-29/lrcx-20240630.htm/lrcx-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2024 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2024-04-29/lrcx-20240331.htm/lrcx-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2024 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2024-01-29/lrcx-20231224.htm/lrcx-20231224.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2024 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2023-10-23/lrcx-20230924.htm/lrcx-20230924.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2023 10-K",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2023-08-15/lrcx-20230625.htm/lrcx-20230625.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2023 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2023-04-24/lrcx-20230326.htm/lrcx-20230326.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2023 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2023-01-30/lrcx-20221225.htm/lrcx-20221225.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2023 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2022-10-24/lrcx-20220925.htm/lrcx-20220925.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2022 10-K",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2022-08-24/lrcx-20220626.htm/lrcx-20220626.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2022 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2022-04-26/lrcx-20220327.htm/lrcx-20220327.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2022 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2022-02-01/lrcx-20211226.htm/lrcx-20211226.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2022 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2021-10-26/lrcx-20210926.htm/lrcx-20210926.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2021 10-K",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2021-08-17/lrcx-20210627.htm/lrcx-20210627.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2021 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2021-04-28/lrcx-20210328.htm/lrcx-20210328.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2021 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2021-02-02/lrcx-20201227.htm/lrcx-20201227.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2021 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2020-10-27/lrcx-20200927.htm/lrcx-20200927.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2020 10-K",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2020-08-18/lrcx10k2020document.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2020 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2020-04-28/lrcx10q3q2020document.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2020 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2020-02-04/lrcx10q2q2020document.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2020 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2019-10-29/lrcx10q1q2020document.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2019 10-K",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2019-08-20/lrcx10k2019document.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2019 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2019-04-30/lrcx10q3q2019document.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2019 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2019-01-30/lrcx10q2q2019document.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2019 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2018-10-23/lrcx10q1q2019document.htm/ix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2018 10-K",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2018-08-14/lrcx_10kx2018xdocument.htm/lrcx_10kx2018xdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2018 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2018-04-24/lrcx_10qx3qx2018xdocument.htm/lrcx_10qx3qx2018xdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2018 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2018-01-30/lrcx_10qx2qx2018xdocument.htm/lrcx_10qx2qx2018xdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2018 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2017-10-23/lrcx_10qx1qx2018xdocument.htm/lrcx_10qx1qx2018xdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2017 10-K",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2017-08-15/lrcx_10kx2017xdocument.htm/lrcx_10kx2017xdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2017 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2017-04-24/lrcx_10qx3qx2017xdocument.htm/lrcx_10qx3qx2017xdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2017 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2017-01-30/lrcx_10qx2qx2017xdocument.htm/lrcx_10qx2qx2017xdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2017 10-Q",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2016-10-24/lrcx_10qx1qx2017xdocument.htm/lrcx_10qx1qx2017xdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2016 10-K",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2016-08-16/lrcx_10kx2016xdocument.htm/lrcx_10kx2016xdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2016 10-Q",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2016-04-25/lrcx_10qx3qxdocument.htm/lrcx_10qx3qxdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2016 10-Q",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2016-02-03/lrcx_10qx2qxdocument.htm/lrcx_10qx2qxdocument.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2016 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2015-11-03/d15431d10q.htm/d15431d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2015 10-K",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2015-08-13/d937085d10k.htm/d937085d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2015 10-Q",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2015-04-30/d892728d10q.htm/d892728d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2015 10-Q",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2015-02-03/d819463d10q.htm/d819463d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2015 10-Q",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2014-11-03/d789413d10q.htm/d789413d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2014 10-K",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2014-08-26/d741932d10k.htm/d741932d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2014 10-Q",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2014-05-08/d696529d10q.htm/d696529d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2014 10-Q",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2014-02-06/d643492d10q.htm/d643492d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2014 10-Q",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2013-11-07/d603827d10q.htm/d603827d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2013 10-K",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2013-08-27/d556924d10k.htm/d556924d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2013 10-Q",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2013-05-09/d508952d10q.htm/d508952d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2013 10-Q",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2013-01-31/d445167d10q.htm/d445167d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2013 10-Q",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2012-11-01/d413418d10q.htm/d413418d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2012 10-K",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2012-08-22/d365655d10k.htm/d365655d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2012 10-Q",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2012-05-03/d316295d10q.htm/d316295d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2012 10-Q",
@@ -3079,8 +3079,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2012-02-03/d260189d10q.htm/d260189d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2012 10-Q",
@@ -3092,8 +3092,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2011-11-03/d227033d10q.htm/d227033d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2011 10-K",
@@ -3105,8 +3105,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2011-08-19/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2011 10-Q",
@@ -3118,8 +3118,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2011-05-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2011 10-Q",
@@ -3131,8 +3131,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2011-02-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2011 10-Q",
@@ -3144,8 +3144,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2010-11-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2010 10-K",
@@ -3157,8 +3157,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2010-08-20/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2010 10-Q",
@@ -3170,8 +3170,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2010-05-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2010 10-Q",
@@ -3183,8 +3183,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2010-02-04/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2010 10-Q",
@@ -3196,8 +3196,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2009-11-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2009 10-K",
@@ -3209,8 +3209,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2009-08-26/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2009 10-Q",
@@ -3222,8 +3222,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2009-05-08/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2009 10-Q",
@@ -3235,8 +3235,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2009-02-06/f51386e10vq.htm/f51386e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2009 10-Q",
@@ -3248,8 +3248,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2008-11-07/f50409e10vq.htm/f50409e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2008 10-K",
@@ -3261,8 +3261,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2008-08-28/f43373e10vk.htm/f43373e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2008 10-Q",
@@ -3274,8 +3274,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2008-05-09/f40659e10vq.htm/f40659e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2008 10-Q",
@@ -3287,8 +3287,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2008-03-31/f39312e10vq.htm/f39312e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2008 10-Q",
@@ -3300,8 +3300,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2008-03-31/f39311e10vq.htm/f39311e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2007 10-K",
@@ -3313,8 +3313,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2008-03-31/f39305e10vk.htm/f39305e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2007 10-Q",
@@ -3326,8 +3326,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2007-04-30/f29652e10vq.htm/f29652e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2007 10-Q",
@@ -3339,8 +3339,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2007-01-29/f26746e10vq.htm/f26746e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2007 10-Q",
@@ -3352,8 +3352,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2006-10-30/f24511e10vq.htm/f24511e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2006 10-K",
@@ -3365,8 +3365,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2006-08-16/f23105e10vk.htm/f23105e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2006 10-Q",
@@ -3378,8 +3378,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2006-05-01/f19981e10vq.htm/f19981e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2006 10-Q",
@@ -3391,8 +3391,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2006-01-30/f16526e10vq.htm/f16526e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2006 10-Q",
@@ -3404,8 +3404,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2005-10-31/f13801e10vq.htm/f13801e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2005 10-K",
@@ -3417,8 +3417,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2005-08-17/f11836e10vk.htm/f11836e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2005 10-Q",
@@ -3430,8 +3430,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2005-05-05/f08668e10vq.htm/f08668e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2005 10-Q",
@@ -3443,8 +3443,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2005-02-03/f05158e10vq.htm/f05158e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2005 10-Q",
@@ -3456,8 +3456,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2004-11-04/f02865e10vq.htm/f02865e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2004 10-K",
@@ -3469,8 +3469,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2004-09-10/f01598e10vk.htm/f01598e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2004 10-Q",
@@ -3482,8 +3482,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2004-05-04/f98566e10vq.htm/f98566e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2004 10-Q",
@@ -3495,8 +3495,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2004-02-06/f96166e10vq.htm/f96166e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2004 10-Q",
@@ -3508,8 +3508,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2003-11-07/f94197e10vq.htm/f94197e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2003 10-K",
@@ -3521,8 +3521,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2003-09-24/f93126e10vk.htm/f93126e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2003 10-Q",
@@ -3534,8 +3534,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2003-05-13/f89885e10vq.htm/f89885e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2003 10-Q",
@@ -3547,8 +3547,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2003-02-10/body10q.htm/body10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2003 10-Q",
@@ -3560,8 +3560,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2002-11-12/body10q.htm/body10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2002 10-K",
@@ -3573,8 +3573,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2002-09-11/form10k.htm/form10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2002 10-Q",
@@ -3586,8 +3586,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2002-05-15/body10q.htm/body10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2002 10-Q",
@@ -3599,8 +3599,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2002-02-13/body10q.htm/body10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2002 10-Q",
@@ -3612,8 +3612,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2001-11-05/body10q.htm/body10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 2001 10-Q",
@@ -3625,8 +3625,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2001-04-30/body10q.htm/body10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 2001 10-Q",
@@ -3638,8 +3638,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2001-02-07/body10q.htm/body10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 2001 10-Q",
@@ -3651,8 +3651,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2000-11-07/body10q.htm/body10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 2001 10-Q",
@@ -3664,8 +3664,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2000-05-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 1999 10-Q",
@@ -3677,8 +3677,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/2000-02-03/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 1999 10-Q",
@@ -3690,8 +3690,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1999-11-10/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 1999 10-Q",
@@ -3703,8 +3703,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1999-05-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 1999 10-Q",
@@ -3716,8 +3716,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1999-02-11/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 1998 10-Q",
@@ -3729,8 +3729,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1998-11-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 1998 10-Q",
@@ -3742,8 +3742,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1998-05-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 1998 10-Q",
@@ -3755,8 +3755,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1998-02-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 1998 10-Q",
@@ -3768,8 +3768,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1997-11-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 1997 10-Q",
@@ -3781,8 +3781,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1997-05-14/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 1997 10-Q",
@@ -3794,8 +3794,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1997-02-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 1997 10-Q",
@@ -3807,8 +3807,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1996-11-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 1997 10-K",
@@ -3820,8 +3820,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1996-09-23/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q4 1996 10-Q",
@@ -3833,8 +3833,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1996-05-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q3 1996 10-Q",
@@ -3846,8 +3846,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1996-02-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q2 1996 10-Q",
@@ -3859,8 +3859,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1995-11-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "LRCX",
         "geography": "US",
         "content_name": "LRCX Q1 1996 10-K",
@@ -3872,5 +3872,44 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/LRCX/1995-09-26/.pdf",
         "periodicity": "periodic"
-      }
+    },
+    {
+        "equity_ticker": "LRCX",
+        "geography": "US",
+        "content_name": "LRCX Q3 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-04-23",
+        "fiscal_date": "2025-04-23",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/LRCX/2025-04-23/transcript_LRCX_2025_Q3.pdf/transcript_LRCX_2025_Q3.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "LRCX",
+        "geography": "US",
+        "content_name": "LRCX Q2 2006 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2006-01-19",
+        "fiscal_date": "2006-01-19",
+        "fiscal_year": 2006,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/LRCX/2006-01-19/transcript_LRCX_2006_Q2.pdf/transcript_LRCX_2006_Q2.pdf",
+        "periodicity": "periodic"
+    },
+    {
+        "equity_ticker": "LRCX",
+        "geography": "US",
+        "content_name": "LRCX Q3 2006 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2006-04-14",
+        "fiscal_date": "2006-04-14",
+        "fiscal_year": 2006,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/LRCX/2006-04-14/transcript_LRCX_2006_Q3.pdf/transcript_LRCX_2006_Q3.pdf",
+        "periodicity": "periodic"
+    }
 ]

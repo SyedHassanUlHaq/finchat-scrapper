@@ -16,6 +16,7 @@ from utils.get_non_periodic_content_type import get_non_periodic_content_type
 from utils.construct_content_name import compile_content_name
 from utils.extract_quarter_and_year import extract_quarter_and_year
 from download_slide import download_slide
+from close_box import close_box
 import json
 import argparse
 import os
@@ -43,26 +44,24 @@ else:
     DEFAULT_args = ["--profile-directory=Default"]
 
 async def scrape_event_names(ticker, url, test_run):
-    chrome_path = os.environ.get("CHROME_PATH", DEFAULT_CHROME_PATH)
-    user_data_dir = os.path.expanduser(os.environ.get("CONFIG_PATH", DEFAULT_CONFIG_PATH))
-    os.makedirs("logs", exist_ok=True)
+    chrome_path = r"C:/Program Files/Google/Chrome/Application/chrome.exe"
+    user_data_dir = os.path.abspath(os.path.join(os.getcwd(), "chrome_profile"))
+    print(f"Using Chrome profile from: {user_data_dir}")
 
-    logging.basicConfig(
-        filename=f'logs/{ticker}_event_errors.log',  # Specify the log file name
-        level=logging.ERROR,          # Set the logging level to ERROR
-        format='%(asctime)s - %(levelname)s - %(message)s'  # Define the log message format
-    )
 
-    
+
 
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
         user_data_dir=user_data_dir,
         headless=False,
         executable_path=chrome_path,
-        args=DEFAULT_args,
+        args=["--profile-directory=Default"],
         accept_downloads=True
     )
+        
+        
+
         page = browser.pages[0] if browser.pages else await browser.new_page()
 
         await enable_stealth(page)
@@ -84,6 +83,7 @@ async def scrape_event_names(ticker, url, test_run):
 
             print("Fetching all event elements...")
             await asyncio.sleep(4)
+            await close_box(page)
             # event_links = await page.query_selector_all(
             #     "div.m_e615b15f.mantine-Card-root.m_1b7284a3.mantine-Paper-root a"
             # )
@@ -101,6 +101,7 @@ async def scrape_event_names(ticker, url, test_run):
             count = await elements.count()
             print(f"Found {count} elements with ID 'ph-company__transcripts-sidebar-item'")
             all_events = []
+            total_events = 0
 
             for i in range(count):
                 print(f"\nProcessing event {i+1}/{count}...")
@@ -133,6 +134,7 @@ async def scrape_event_names(ticker, url, test_run):
                     buttons_locator = page.locator('(//div[@class="m_89d33d6d mantine-Tabs-list"])[last()]//button')
                     await page.wait_for_timeout(4000)
                     total_tabs = await buttons_locator.count()
+                    total_events += total_tabs
                     print(f"total tabs in event {i}:", total_tabs)
                     for index in range(1, total_tabs + 1):
                         content_name = None
@@ -206,7 +208,7 @@ async def scrape_event_names(ticker, url, test_run):
                             if index == 3:
                                 report_name = await download_slide(page, event=i)
                             else:
-                                report_name = await download_report(page, event=i)
+                                report_name = await download_slide(page, event=i)
                             file_name = remove_pdf_extension(report_name)
 
                             if periodicity == 'periodic':
@@ -227,8 +229,8 @@ async def scrape_event_names(ticker, url, test_run):
                         #<button class="mantine-focus-auto mantine-active m_8d3f4000 mantine-ActionIcon-root m_87cf2631 mantine-UnstyledButton-root" data-variant="subtle" type="button" id="ph-company__download-transcript" style="--ai-radius: var(--mantine-radius-xs); --ai-bg: transparent; --ai-hover: var(--mantine-color-primary-light-hover); --ai-color: var(--mantine-color-primary-light-color); --ai-bd: calc(0.0625rem * var(--mantine-scale)) solid transparent;"><span class="m_8d3afb97 mantine-ActionIcon-icon"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M224,144v64a8,8,0,0,1-8,8H40a8,8,0,0,1-8-8V144a8,8,0,0,1,16,0v56H208V144a8,8,0,0,1,16,0Zm-101.66,5.66a8,8,0,0,0,11.32,0l40-40a8,8,0,0,0-11.32-11.32L136,124.69V32a8,8,0,0,0-16,0v92.69L93.66,98.34a8,8,0,0,0-11.32,11.32Z"></path></svg></span></button> --- Try switching to Report tab ---
 
                 except Exception as e:
-                    print(f"  [Event Error] {e}: event: {i}")
-                    logging.error(f"Event Error: {e}, Event Index: {i}")
+                    print(f"  [Event Error] {e}: event: {i}, equity: {ticker}")
+                    logging.error(f"Event Error: {e}, Event Index: {i}, equity: {ticker}")
 
 
 
@@ -246,7 +248,7 @@ async def scrape_event_names(ticker, url, test_run):
                 json.dump(all_events, json_file, indent=4)
 
             print(f"JSON file has been created at {file_path}")
-            logging.error(f"{len(all_events)} out of {count} processed for equity {ticker}")
+            logging.error(f"{len(all_events)} out of {total_events} processed for equity {ticker}")
 
         except Exception as e:
             print(f"[Script Error] {e}")

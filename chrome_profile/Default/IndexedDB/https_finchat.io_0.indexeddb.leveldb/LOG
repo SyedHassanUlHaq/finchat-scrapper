@@ -1,0 +1,14 @@
+2025/04/18-22:28:59.971 4db4 Reusing MANIFEST C:\Users\Abdul Moiz Nouman\Desktop\All IN ONE\ARCH LABS\finchat-scrapper\chrome_profile\Default\IndexedDB\https_finchat.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/18-22:28:59.972 4db4 Recovering log #145
+2025/04/18-22:28:59.973 4db4 Reusing old log C:\Users\Abdul Moiz Nouman\Desktop\All IN ONE\ARCH LABS\finchat-scrapper\chrome_profile\Default\IndexedDB\https_finchat.io_0.indexeddb.leveldb/000145.log 
+2025/04/18-22:28:59.974 4db4 Delete type=2 #143
+2025/04/18-22:29:00.430 4db4 Level-0 table #150: started
+2025/04/18-22:29:00.436 4db4 Level-0 table #150: 2308 bytes OK
+2025/04/18-22:29:00.438 4db4 Delete type=0 #145
+2025/04/18-22:29:00.439 4db4 Manual compaction at level-0 from '\x003\x00\x00\x00' @ 72057594037927935 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at '\x003\x00\x00\x05' @ 2070 : 1
+2025/04/18-22:29:00.439 4db4 Compacting 1@0 + 1@1 files
+2025/04/18-22:29:00.443 4db4 Generated table #151@0: 501 keys, 6513 bytes
+2025/04/18-22:29:00.443 4db4 Compacted 1@0 + 1@1 files => 6513 bytes
+2025/04/18-22:29:00.445 4db4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/18-22:29:00.447 4db4 Delete type=2 #150
+2025/04/18-22:29:00.449 4db4 Manual compaction at level-0 from '\x003\x00\x00\x05' @ 2070 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at (end)

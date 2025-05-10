@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2025-01-31/gen-20241227.htm%5Cgen-20241227.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2025 10-Q",
@@ -1623,8 +1623,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2024-10-31/gen-20240927.htm%5Cgen-20240927.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2025 10-Q",
@@ -1636,8 +1636,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2024-08-06/gen-20240628.htm%5Cgen-20240628.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2024 10-K",
@@ -1649,8 +1649,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2024-05-15/gen-20240329.htm%5Cgen-20240329.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2024 10-Q",
@@ -1662,8 +1662,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2024-02-05/gen-20231229.htm%5Cgen-20231229.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2024 10-Q",
@@ -1675,8 +1675,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2023-11-07/gen-20230929.htm%5Cgen-20230929.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2024 10-Q",
@@ -1688,8 +1688,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2023-08-04/gen-20230630.htm%5Cgen-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2023 10-K",
@@ -1701,8 +1701,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2023-05-24/gen-20230331.htm%5Cgen-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2023 10-Q",
@@ -1714,8 +1714,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2023-02-06/gen-20221230.htm%5Cgen-20221230.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2023 10-Q",
@@ -1727,8 +1727,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2022-11-09/gen-20220930.htm%5Cgen-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2023 10-Q",
@@ -1740,8 +1740,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2022-08-05/nlok-20220701.htm%5Cnlok-20220701.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2022 10-K",
@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2022-05-20/nlok-20220401.htm%5Cnlok-20220401.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2022 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2022-02-04/nlok-20211231.htm%5Cnlok-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2022 10-Q",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2021-11-05/nlok-20211001.htm%5Cnlok-20211001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2022 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2021-08-02/nlok-20210702.htm%5Cnlok-20210702.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2021 10-K",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2021-05-21/nlok-20210402.htm%5Cnlok-20210402.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2021 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2021-02-05/nlok-20210101.htm%5Cnlok-20210101.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2021 10-Q",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2020-11-06/nlok-20201002.htm%5Cnlok-20201002.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2021 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2020-08-06/nlok-20200703.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2020 10-K",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2020-05-28/nlokfy2010-k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2020 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2020-02-07/nlok132010-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2020 10-Q",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2019-11-08/symc10419-10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2020 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2019-08-09/symc7519-10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2019 10-K",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2019-05-24/symc32919-10k.htm%5Csymc32919-10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2019 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2019-02-04/symc122818-10q.htm%5Csymc122818-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2019 10-Q",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2018-11-16/symc092818-10q.htm%5Csymc092818-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2019 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2018-11-16/symc062918-10q.htm%5Csymc062918-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2018 10-K",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2018-10-26/d573170d10k.htm%5Cd573170d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2018 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2018-08-07/gen2018063010q.htm%5Cgen2018063010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2018 10-Q",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2018-05-15/gen2018033110q.htm%5Cgen2018033110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2018 10-K",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2018-03-30/genon201710-k.htm%5Cgenon201710-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2017 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2018-02-02/symc122917-10q.htm%5Csymc122917-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2017 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2017-11-06/gen2017093010q.htm%5Cgen2017093010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2017 10-Q",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2017-11-03/symc092917-10q.htm%5Csymc092917-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2017 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2017-08-08/gen2017063010q.htm%5Cgen2017063010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2017 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2017-08-04/symc063017-10q.htm%5Csymc063017-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2017 10-K",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2017-05-19/symc33117-10k.htm%5Csymc33117-10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2017 10-Q",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2017-05-02/gen2017033110q.htm%5Cgen2017033110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2017 10-K",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2017-02-28/genon201610-k.htm%5Cgenon201610-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2016 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2017-02-03/symc123016-10q.htm%5Csymc123016-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2016 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2016-11-04/symc93016-10q.htm%5Csymc93016-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2016 10-Q",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2016-11-04/gen2016093010q.htm%5Cgen2016093010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2016 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2016-08-09/gen2016063010q.htm%5Cgen2016063010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2016 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2016-08-05/symc7116-10q.htm%5Csymc7116-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2016 10-K",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2016-05-20/symc4116-10k.htm%5Csymc4116-10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2016 10-Q",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2016-05-05/gen2016033110q.htm%5Cgen2016033110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2016 10-K",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2016-02-29/genon201510-k.htm%5Cgenon201510-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2016 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2016-02-04/symc1116-10q.htm%5Csymc1116-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2016 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2015-11-06/symc10215-10q.htm%5Csymc10215-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2016 10-Q",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2015-11-04/gen2015093010q.htm%5Cgen2015093010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2016 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2015-08-12/symc7315-10q.htm%5Csymc7315-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2015 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2015-08-04/gen2015063010q.htm%5Cgen2015063010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2015 10-K",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2015-05-22/symc4315-10k.htm%5Csymc4315-10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2015 10-Q",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2015-05-08/gen2015033110q.htm%5Cgen2015033110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2015 10-K",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2015-02-27/genon201410-k.htm%5Cgenon201410-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2015 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2015-02-09/symc-1215x10q.htm%5Csymc-1215x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2015 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2014-11-07/symc-10314x10q.htm%5Csymc-10314x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2015 10-Q",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2014-11-05/gen2014093010q.htm%5Cgen2014093010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2015 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2014-08-08/d748219d10q.htm%5Cd748219d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2014 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2014-08-07/gen2014063010q.htm%5Cgen2014063010q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2014 10-K",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2014-05-16/d714308d10k.htm%5Cd714308d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2014 10-Q",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2014-05-06/gen-20140331x10q.htm%5Cgen-20140331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2014 10-K",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2014-02-28/gen-20131231x10k.htm%5Cgen-20131231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2013 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2014-02-03/d644541d10q.htm%5Cd644541d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2013 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2013-11-12/gen-20130930x10q.htm%5Cgen-20130930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2013 10-Q",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2013-10-29/d606450d10q.htm%5Cd606450d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2013 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2013-08-09/gen-20130630x10q.htm%5Cgen-20130630x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2013 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2013-07-31/d572172d10q.htm%5Cd572172d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2013 10-K",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2013-05-17/d516182d10k.htm%5Cd516182d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2013 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2013-05-07/gen-20130331x10q.htm%5Cgen-20130331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2013 10-K",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2013-02-27/gen-20121231x10k.htm%5Cgen-20121231x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2012 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2013-01-29/d474815d10q.htm%5Cd474815d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2012 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2012-11-09/a12-19895_110q.htm%5Ca12-19895_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2012 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2012-10-30/d428835d10q.htm%5Cd428835d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2012 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2012-08-09/a12-13679_110q.htm%5Ca12-13679_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2012 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2012-07-31/d387240d10q.htm%5Cd387240d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2012 10-K",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2012-05-21/d318934d10k.htm%5Cd318934d10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2012 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2012-05-10/a12-7167_110q.htm%5Ca12-7167_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2012 10-K",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2012-02-29/a2207563z10-k.htm%5Ca2207563z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2011 10-Q",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2012-01-31/d279948d10q.htm%5Cd279948d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2011 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2011-11-09/d230676d10q.htm%5Cd230676d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2011 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2011-11-01/d249160d10q.htm%5Cd249160d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2011 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2011-08-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2011 10-Q",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2011-08-03/f59636e10vq.htm%5Cf59636e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2011 10-K",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2011-05-20/f59127e10vk.htm%5Cf59127e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2011 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2011-05-09/c15542e10vq.htm%5Cc15542e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2011 10-K",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2011-03-01/h79755e10vk.htm%5Ch79755e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2010 10-Q",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2011-02-02/f58002e10vq.htm%5Cf58002e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2010 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2010-11-03/f57158e10vq.htm%5Cf57158e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2010 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2010-11-03/c07317e10vq.htm%5Cc07317e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2010 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2010-08-04/f56413e10vq.htm%5Cf56413e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2010 10-Q",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2010-07-30/c03882e10vq.htm%5Cc03882e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2010 10-K",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2010-05-21/f55691e10vk.htm%5Cf55691e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2010 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2010-05-06/c00053e10vq.htm%5Cc00053e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2010 10-K",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2010-02-25/h69489e10vk.htm%5Ch69489e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2010 10-Q",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2010-02-05/f54769e10vq.htm%5Cf54769e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2010 10-Q",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2009-11-05/c91656e10vq.htm%5Cc91656e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2010 10-Q",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2009-11-04/f53682e10vq.htm%5Cf53682e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2010 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2009-08-05/f53037e10vq.htm%5Cf53037e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2009 10-Q",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2009-08-03/c88300e10vq.htm%5Cc88300e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2009 10-K",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2009-05-29/f51300e10vk.htm%5Cf51300e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2009 10-Q",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2009-05-11/c84720e10vq.htm%5Cc84720e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2009 10-K",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2009-03-02/h65803e10vk.htm%5Ch65803e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2009 10-Q",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2009-02-09/f51246e10vq.htm%5Cf51246e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2009 10-Q",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2008-11-10/c76383e10vq.htm%5Cc76383e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2009 10-Q",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2008-11-07/f50295e10vq.htm%5Cf50295e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2009 10-Q",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2008-08-08/f42724e10vq.htm%5Cf42724e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2008 10-Q",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2008-08-05/c74218e10vq.htm%5Cc74218e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2008 10-K",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2008-05-21/f40711e10vk.htm%5Cf40711e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2008 10-Q",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2008-05-01/c73083e10vq.htm%5Cc73083e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2008 10-K",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2008-02-26/h53976e10vk.htm%5Ch53976e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2007 10-Q",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2008-02-04/f37576e10vq.htm%5Cf37576e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2007 10-Q",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2007-11-08/a07-25686_110q.htm%5Ca07-25686_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2007 10-Q",
@@ -3079,8 +3079,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2007-11-02/f34786e10vq.htm%5Cf34786e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2007 10-Q",
@@ -3092,8 +3092,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2007-08-07/f32301e10vq.htm%5Cf32301e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2007 10-Q",
@@ -3105,8 +3105,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2007-08-02/a07-19000_110q.htm%5Ca07-19000_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2007 10-K",
@@ -3118,8 +3118,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2007-05-23/f30469e10vk.htm%5Cf30469e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2007 10-Q",
@@ -3131,8 +3131,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2007-05-03/a07-10985_110q.htm%5Ca07-10985_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2007 10-K",
@@ -3144,8 +3144,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2007-02-27/a07-5002_110k.htm%5Ca07-5002_110k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2006 10-Q",
@@ -3157,8 +3157,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2007-02-07/f26986e10vq.htm%5Cf26986e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2006 10-Q",
@@ -3170,8 +3170,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2006-11-09/a06-21862_210q.htm%5Ca06-21862_210q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2006 10-Q",
@@ -3183,8 +3183,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2006-11-08/f24714e10vq.htm%5Cf24714e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2006 10-Q",
@@ -3196,8 +3196,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2006-08-09/f22617e10vq.htm%5Cf22617e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2006 10-Q",
@@ -3209,8 +3209,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2006-08-08/a06-15543_110q.htm%5Ca06-15543_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2006 10-K",
@@ -3222,8 +3222,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2006-06-09/f21002e10vk.htm%5Cf21002e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2006 10-Q",
@@ -3235,8 +3235,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2006-05-10/a06-9673_110q.htm%5Ca06-9673_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2006 10-K",
@@ -3248,8 +3248,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2006-03-15/a2168171z10-k.htm%5Ca2168171z10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2005 10-Q",
@@ -3261,8 +3261,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2006-02-08/f16918e10vq.htm%5Cf16918e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2005 10-Q",
@@ -3274,8 +3274,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2005-11-09/f14249e10vq.htm%5Cf14249e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2005 10-Q",
@@ -3287,8 +3287,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2005-11-02/a05-18447_110q.htm%5Ca05-18447_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2005 10-Q",
@@ -3300,8 +3300,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2005-08-10/f11063e10vq.htm%5Cf11063e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2005 10-Q",
@@ -3313,8 +3313,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2005-08-08/a05-13274_110q.htm%5Ca05-13274_110q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2005 10-K",
@@ -3326,8 +3326,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2005-06-15/f08616e10vk.htm%5Cf08616e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2005 10-Q",
@@ -3339,8 +3339,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2005-05-05/a2157486z10-q.htm%5Ca2157486z10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2005 10-K",
@@ -3352,8 +3352,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2005-03-14/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2004 10-Q",
@@ -3365,8 +3365,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2005-02-04/f05133e10vq.htm%5Cf05133e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2004 10-Q",
@@ -3378,8 +3378,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2004-11-05/f02925e10vq.htm%5Cf02925e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2004 10-Q",
@@ -3391,8 +3391,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2004-11-03/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2004 10-Q",
@@ -3404,8 +3404,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2004-08-10/f00989e10vq.htm%5Cf00989e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2004 10-Q",
@@ -3417,8 +3417,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2004-08-04/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2004 10-K",
@@ -3430,8 +3430,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2004-06-14/f99544e10vk.htm%5Cf99544e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2004 10-Q",
@@ -3443,8 +3443,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2004-05-06/h14994e10vq.txt%5Ch14994e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2004 10-K",
@@ -3456,8 +3456,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2004-03-08/h13073e10vk.txt%5Ch13073e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2004 10-Q",
@@ -3469,8 +3469,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2004-02-12/f96251e10vq.htm%5Cf96251e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2004 10-Q",
@@ -3482,8 +3482,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2003-11-12/h10292e10vq.txt%5Ch10292e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2004 10-Q",
@@ -3495,8 +3495,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2003-11-07/f94360e10vq.htm%5Cf94360e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2004 10-Q",
@@ -3508,8 +3508,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2003-08-18/f92559e10vq.htm%5Cf92559e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2003 10-Q",
@@ -3521,8 +3521,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2003-08-13/h07815e10vq.txt%5Ch07815e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2003 10-K",
@@ -3534,8 +3534,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2003-06-16/f90767e10vk.htm%5Cf90767e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2003 10-Q",
@@ -3547,8 +3547,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2003-05-14/h05724e10vq.txt%5Ch05724e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2003 10-K",
@@ -3560,8 +3560,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2003-04-03/d10k.txt%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2002 10-Q",
@@ -3573,8 +3573,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2003-02-06/f87452e10vq.htm%5Cf87452e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2002 10-Q",
@@ -3586,8 +3586,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2002-11-14/h01075e10vq.txt%5Ch01075e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2002 10-Q",
@@ -3599,8 +3599,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2002-11-12/f85725e10vq.htm%5Cf85725e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2002 10-Q",
@@ -3612,8 +3612,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2002-08-14/h98351e10vq.txt%5Ch98351e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2002 10-Q",
@@ -3625,8 +3625,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2002-08-08/f83375e10vq.htm%5Cf83375e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2002 10-K",
@@ -3638,8 +3638,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2002-06-14/f82109e10vk.htm%5Cf82109e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2002 10-Q",
@@ -3651,8 +3651,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2002-05-21/h97073e10vq.txt%5Ch97073e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2002 10-K",
@@ -3664,8 +3664,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2002-04-15/h95930e10-k.txt%5Ch95930e10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2001 10-Q",
@@ -3677,8 +3677,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2002-02-07/f78671e10-q.htm%5Cf78671e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2001 10-Q",
@@ -3690,8 +3690,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2001-11-13/h91970e10-q.txt%5Ch91970e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2001 10-Q",
@@ -3703,8 +3703,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2001-11-07/f76811e10-q.htm%5Cf76811e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2001 10-Q",
@@ -3716,8 +3716,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2001-08-10/h89271e10-q.txt%5Ch89271e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2001 10-Q",
@@ -3729,8 +3729,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2001-08-08/f74732e10-q.txt%5Cf74732e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2001 10-K",
@@ -3742,8 +3742,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2001-06-22/f72851e10-k.txt%5Cf72851e10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2001 10-Q",
@@ -3755,8 +3755,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2001-06-06/h88031e10-q.txt%5Ch88031e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2001 10-Q",
@@ -3768,8 +3768,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2001-02-12/f69109e10-q.txt%5Cf69109e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q4 2000 10-Q",
@@ -3781,8 +3781,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2000-11-13/f67058e10-q.txt%5Cf67058e10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q3 2000 10-Q",
@@ -3794,8 +3794,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2000-08-11/e10-q.txt%5Ce10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q2 2000 10-K",
@@ -3807,8 +3807,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2000-06-26/e10-k.txt%5Ce10-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "GEN",
         "geography": "US",
         "content_name": "GEN Q1 2000 10-Q",
@@ -3820,5 +3820,18 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/GEN/2000-02-11/.pdf",
         "periodicity": "periodic"
-      }
+    },
+    {
+        "equity_ticker": "GEN",
+        "geography": "US",
+        "content_name": "GEN Q4 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-05-06",
+        "fiscal_date": "2025-05-06",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 4,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/GEN/2025-05-06/transcript_GEN_2025_Q4.pdf/transcript_GEN_2025_Q4.pdf",
+        "periodicity": "periodic"
+    }
 ]

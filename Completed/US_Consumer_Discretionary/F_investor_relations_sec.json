@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2025-02-05/f-20241231.htm%5Cf-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2024 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2024-10-28/f-20240930.htm%5Cf-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2024 10-Q",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2024-07-24/f-20240630.htm%5Cf-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2024 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2024-04-24/f-20240331.htm%5Cf-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2023 10-K",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2024-02-06/f-20231231.htm%5Cf-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2023 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2023-10-26/f-20230930.htm%5Cf-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2023 10-Q",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2023-07-27/f-20230630.htm%5Cf-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2023 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2023-05-02/f-20230331.htm%5Cf-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2022 10-K",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2023-02-02/f-20221231.htm%5Cf-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2022 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2022-10-26/f-20220930.htm%5Cf-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2022 10-Q",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2022-07-27/f-20220630.htm%5Cf-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2022 10-Q",
@@ -2624,8 +2624,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2022-04-27/f-20220331.htm%5Cf-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2021 10-K",
@@ -2637,8 +2637,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2022-02-03/f-20211231.htm%5Cf-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2021 10-Q",
@@ -2650,8 +2650,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2021-10-27/f-20210930.htm%5Cf-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2021 10-Q",
@@ -2663,8 +2663,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2021-07-28/f-20210630.htm%5Cf-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2021 10-Q",
@@ -2676,8 +2676,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2021-04-28/f-20210331.htm%5Cf-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2020 10-K",
@@ -2689,8 +2689,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2021-02-04/f-20201231.htm%5Cf-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2020 10-Q",
@@ -2702,8 +2702,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2020-10-28/f-20200930.htm%5Cf-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2020 10-Q",
@@ -2715,8 +2715,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2020-07-30/f0630202010-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2020 10-Q",
@@ -2728,8 +2728,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2020-04-28/f0331202010-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2019 10-K",
@@ -2741,8 +2741,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2020-02-05/f1231201910-k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2019 10-Q",
@@ -2754,8 +2754,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2019-10-23/f0930201910-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2019 10-Q",
@@ -2767,8 +2767,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2019-07-24/f0630201910-q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2019 10-Q",
@@ -2780,8 +2780,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2019-04-25/f0331201910-q.htm%5Cf0331201910-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2018 10-K",
@@ -2793,8 +2793,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2019-02-21/f1231201810-k.htm%5Cf1231201810-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2018 10-Q",
@@ -2806,8 +2806,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2018-10-24/f0930201810-q.htm%5Cf0930201810-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2018 10-Q",
@@ -2819,8 +2819,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2018-07-25/f0630201810-q.htm%5Cf0630201810-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2018 10-Q",
@@ -2832,8 +2832,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2018-04-25/f0331201810-q.htm%5Cf0331201810-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2017 10-K",
@@ -2845,8 +2845,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2018-02-08/f1231201710-k.htm%5Cf1231201710-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2017 10-Q",
@@ -2858,8 +2858,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2017-10-26/f0930201710-q.htm%5Cf0930201710-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2017 10-Q",
@@ -2871,8 +2871,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2017-07-26/f0630201710-q.htm%5Cf0630201710-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2017 10-Q",
@@ -2884,8 +2884,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2017-04-27/f0331201710-q.htm%5Cf0331201710-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2016 10-K",
@@ -2897,8 +2897,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2017-02-09/f1231201610-k.htm%5Cf1231201610-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2016 10-Q",
@@ -2910,8 +2910,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2016-10-27/f0930201610-q.htm%5Cf0930201610-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2016 10-Q",
@@ -2923,8 +2923,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2016-07-28/f0630201610-q.htm%5Cf0630201610-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2016 10-Q",
@@ -2936,8 +2936,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2016-04-28/f0331201610-q.htm%5Cf0331201610-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2015 10-K",
@@ -2949,8 +2949,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2016-02-11/f1231201510-k.htm%5Cf1231201510-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2015 10-Q",
@@ -2962,8 +2962,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2015-10-27/f0930201510-q.htm%5Cf0930201510-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2015 10-Q",
@@ -2975,8 +2975,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2015-07-28/f0630201510-q.htm%5Cf0630201510-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2015 10-Q",
@@ -2988,8 +2988,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2015-04-28/f0331201510-q.htm%5Cf0331201510-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2014 10-K",
@@ -3001,8 +3001,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2015-02-13/f1231201410-k.htm%5Cf1231201410-k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2014 10-Q",
@@ -3014,8 +3014,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2014-10-31/f0930201410-q.htm%5Cf0930201410-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2014 10-Q",
@@ -3027,8 +3027,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2014-05-01/f0331201410-q.htm%5Cf0331201410-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2013 10-K",
@@ -3040,8 +3040,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2014-02-18/f1231201310k.htm%5Cf1231201310k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2013 10-Q",
@@ -3053,8 +3053,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2013-10-31/f09302013-10q.htm%5Cf09302013-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2013 10-Q",
@@ -3066,8 +3066,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2013-07-31/f06302013-10q.htm%5Cf06302013-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2013 10-Q",
@@ -3079,8 +3079,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2013-05-01/f03312013-10q.htm%5Cf03312013-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2012 10-K",
@@ -3092,8 +3092,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2013-02-19/f12312012-10k.htm%5Cf12312012-10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2012 10-Q",
@@ -3105,8 +3105,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2012-11-02/f09302012-10q.htm%5Cf09302012-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2012 10-Q",
@@ -3118,8 +3118,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2012-08-03/f06302012-10q.htm%5Cf06302012-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2012 10-Q",
@@ -3131,8 +3131,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2012-05-04/f03312012-10q.htm%5Cf03312012-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2011 10-K",
@@ -3144,8 +3144,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2012-02-21/f12312011-10k.htm%5Cf12312011-10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2011 10-Q",
@@ -3157,8 +3157,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2011-11-04/f09302011-10q.htm%5Cf09302011-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2011 10-Q",
@@ -3170,8 +3170,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2011-08-05/f06302011-10q.htm%5Cf06302011-10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2011 10-Q",
@@ -3183,8 +3183,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2011-05-10/a6708785.htm%5Ca6708785.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2010 10-K",
@@ -3196,8 +3196,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2011-02-28/a6622311.htm%5Ca6622311.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2010 10-Q",
@@ -3209,8 +3209,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2010-11-08/a6499435.htm%5Ca6499435.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2010 10-Q",
@@ -3222,8 +3222,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2010-08-06/a6384925.htm%5Ca6384925.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2010 10-Q",
@@ -3235,8 +3235,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2010-05-07/a6257555.htm%5Ca6257555.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2009 10-K",
@@ -3248,8 +3248,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2010-02-25/a6182308.htm%5Ca6182308.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2009 10-Q",
@@ -3261,8 +3261,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2009-11-06/form10q.htm%5Cform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2009 10-Q",
@@ -3274,8 +3274,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2009-08-05/form10q.htm%5Cform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2009 10-Q",
@@ -3287,8 +3287,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2009-05-08/form10q.htm%5Cform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2008 10-K",
@@ -3300,8 +3300,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2009-02-26/form10k.htm%5Cform10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2008 10-Q",
@@ -3313,8 +3313,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2008-11-07/form10q.htm%5Cform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2008 10-Q",
@@ -3326,8 +3326,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2008-08-08/form10q.htm%5Cform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2008 10-Q",
@@ -3339,8 +3339,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2008-05-07/form10q.htm%5Cform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2007 10-K",
@@ -3352,8 +3352,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2008-02-27/form10k.htm%5Cform10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2007 10-Q",
@@ -3365,8 +3365,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2007-11-08/form10-q.htm%5Cform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2007 10-Q",
@@ -3378,8 +3378,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2007-08-07/form10q.htm%5Cform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2007 10-Q",
@@ -3391,8 +3391,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2007-05-09/form10q.htm%5Cform10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2006 10-K",
@@ -3404,8 +3404,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2007-02-28/k12522e10vk.htm%5Ck12522e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2006 10-Q",
@@ -3417,8 +3417,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2006-11-14/form10-q.htm%5Cform10-q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2006 10-Q",
@@ -3430,8 +3430,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2006-08-04/body10q063006.htm%5Cbody10q063006.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2006 10-Q",
@@ -3443,8 +3443,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2006-05-09/body10q050806.htm%5Cbody10q050806.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2005 10-K",
@@ -3456,8 +3456,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2006-03-01/fmc10k2005.htm%5Cfmc10k2005.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2005 10-Q",
@@ -3469,8 +3469,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2005-11-07/body10q093005.htm%5Cbody10q093005.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2005 10-Q",
@@ -3482,8 +3482,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2005-08-04/e080405body.txt%5Ce080405body.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2005 10-Q",
@@ -3495,8 +3495,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2005-05-10/e051005body.txt%5Ce051005body.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2004 10-K",
@@ -3508,8 +3508,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2005-03-10/k91869e10vk.htm%5Ck91869e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2004 10-Q",
@@ -3521,8 +3521,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2004-11-08/e110304body.txt%5Ce110304body.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2004 10-Q",
@@ -3534,8 +3534,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2004-08-05/e080504main.txt%5Ce080504main.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2004 10-Q",
@@ -3547,8 +3547,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2004-05-06/e050704body.txt%5Ce050704body.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2003 10-K",
@@ -3560,8 +3560,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2004-03-12/k83502e10vk.htm%5Ck83502e10vk.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2003 10-Q",
@@ -3573,8 +3573,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2003-11-13/e111303body.txt%5Ce111303body.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2003 10-Q",
@@ -3586,8 +3586,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2003-08-01/e080103.txt%5Ce080103.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2003 10-Q",
@@ -3599,8 +3599,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2003-05-08/e050903fs.txt%5Ce050903fs.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2002 10-K",
@@ -3612,8 +3612,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2003-03-14/e10k.txt%5Ce10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2002 10-Q",
@@ -3625,8 +3625,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2002-11-13/k72915e10vq.htm%5Ck72915e10vq.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2002 10-Q",
@@ -3638,8 +3638,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2002-08-12/e081202.txt%5Ce081202.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2002 10-Q",
@@ -3651,8 +3651,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2002-05-10/e050902.txt%5Ce050902.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2001 10-K",
@@ -3664,8 +3664,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2002-03-28/v7.txt%5Cv7.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2001 10-Q",
@@ -3677,8 +3677,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2001-11-14/e111401.txt%5Ce111401.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2001 10-Q",
@@ -3690,8 +3690,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2001-07-26/e072401.txt%5Ce072401.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2001 10-Q",
@@ -3703,8 +3703,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2001-05-14/e051001.txt%5Ce051001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 2000 10-K",
@@ -3716,8 +3716,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2001-03-22/0000037996-01-000014-0001.txt%5C0000037996-01-000014-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 2000 10-Q",
@@ -3729,8 +3729,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2000-10-30/0000037996-00-000109-0001.txt%5C0000037996-00-000109-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 2000 10-Q",
@@ -3742,8 +3742,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2000-07-31/0000037996-00-000076-0001.txt%5C0000037996-00-000076-0001.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 2000 10-Q",
@@ -3755,8 +3755,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2000-04-28/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 1999 10-K",
@@ -3768,8 +3768,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/2000-03-16/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 1999 10-Q",
@@ -3781,8 +3781,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1999-11-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 1999 10-Q",
@@ -3794,8 +3794,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1999-07-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 1999 10-Q",
@@ -3807,8 +3807,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1999-04-19/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 1998 10-K",
@@ -3820,8 +3820,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1999-03-17/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 1998 10-Q",
@@ -3833,8 +3833,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1998-10-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 1998 10-Q",
@@ -3846,8 +3846,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1998-07-15/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 1998 10-Q",
@@ -3859,8 +3859,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1998-05-12/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 1997 10-Q",
@@ -3872,8 +3872,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1997-11-05/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 1997 10-Q",
@@ -3885,8 +3885,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1997-08-07/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 1997 10-Q",
@@ -3898,8 +3898,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1997-05-08/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 1997 10-Q",
@@ -3911,8 +3911,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1996-10-30/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 1996 10-Q",
@@ -3924,8 +3924,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1996-08-01/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 1996 10-Q",
@@ -3937,8 +3937,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1996-05-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 1996 10-Q",
@@ -3950,8 +3950,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1995-11-09/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 1996 10-Q",
@@ -3963,8 +3963,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1995-07-27/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 1995 10-Q",
@@ -3976,8 +3976,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1995-05-11/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 1995 10-K",
@@ -3989,8 +3989,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1995-03-16/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q2 1995 10-Q",
@@ -4002,8 +4002,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1994-11-03/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q1 1995 10-Q",
@@ -4015,8 +4015,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1994-07-29/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q4 1994 10-Q",
@@ -4028,8 +4028,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1994-05-13/.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "F",
         "geography": "US",
         "content_name": "F Q3 1994 10-K",
@@ -4041,5 +4041,18 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/F/1994-03-21/.pdf",
         "periodicity": "periodic"
-      }
+    },
+    {
+        "equity_ticker": "F",
+        "geography": "US",
+        "content_name": "F Q2 2014 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2014-07-24",
+        "fiscal_date": "2014-07-24",
+        "fiscal_year": 2014,
+        "fiscal_quarter": 2,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/F/2014-07-24/transcript_F_2014_Q2.pdf/transcript_F_2014_Q2.pdf",
+        "periodicity": "periodic"
+    }
 ]

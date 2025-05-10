@@ -40,7 +40,7 @@ lis = [
 #  ('AVGO', "https://finchat.io/company/NasdaqGS-AVGO/investor-relations/", "false"),
  
  
- ("META", "https://finchat.io/company/NasdaqGS-META/investor-relations/", 'false'),
+#  ("META", "https://finchat.io/company/NasdaqGS-META/investor-relations/", 'false'),
 #  ("APPF", "https://finchat.io/company/NasdaqGM-APPF/investor-relations/", 'false'),
 #  ("S", "https://finchat.io/company/NYSE-S/investor-relations/", 'false'),
 #  ("PATH", "https://finchat.io/company/NYSE-PATH/investor-relations/", "false"),
@@ -53,6 +53,9 @@ lis = [
 #  ('IAC', "https://finchat.io/company/NasdaqGS-IAC/investor-relations/", "false"),
 #  ('ALGM', "https://finchat.io/company/NasdaqGS-ALGM/investor-relations/", "false"),
 #  ('ZI', "https://finchat.io/company/NasdaqGS-ZI/investor-relations/", "false"),
+# ('BIRK', 'https://finchat.io/company/NYSE-BIRK/investor-relations/', 'false'),
+('ALVO', 'https://finchat.io/company/NasdaqGM-ALVO/investor-relations/', 'false'),
+('RUM', 'https://finchat.io/company/NasdaqGM-RUM/investor-relations/', 'false'),
  ]
 
 for i in lis:

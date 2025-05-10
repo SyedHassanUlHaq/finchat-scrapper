@@ -92,12 +92,31 @@ def map_value(value):
         return 1
     else:
         return 0  # Return None or raise an error for unexpected values
+    
+from datetime import datetime
+
+def are_dates_within_10_days(date_str1, date_str2):
+    # Parse the date strings into datetime objects
+    date1 = datetime.strptime(date_str1, "%Y-%m-%d")
+    date2 = datetime.strptime(date_str2, "%Y-%m-%d")
+
+    # Calculate the absolute difference in days
+    delta = abs((date2 - date1).days)
+
+    # Check if the difference is within 10 days
+    return delta <= 10
+
+# Example usage:
+# result = are_dates_within_10_days("2020-12-31", "2021-01-05")
+# print(result)  # Output: True
+
 
 fils = response.get("filings", [])
 ind, latest_year = find_first_10k_index(fils)
 quarter_index = map_value(ind)
 if ind != 0:
     latest_year = latest_year + 1
+last_fiscal_date = None
 
 
 for filing in response.get("filings", []):
@@ -106,12 +125,20 @@ for filing in response.get("filings", []):
         file_url = filing.get("linkToFilingDetails")
         filed_at = filing.get("filedAt", "")[:10]
         period_of_report = filing.get("periodOfReport", "")[:4]  # Get year from 'YYYY-MM-DD'
+        fiscal_date = filing.get("periodOfReport")
+
+        if fiscal_date and last_fiscal_date:
+            repeated = are_dates_within_10_days(fiscal_date, last_fiscal_date)
+            if repeated:
+                logging.info(f"Skipping repeated filing: {file_url}")
+                continue
 
         if not file_url or form_type not in ["10-K", "10-Q"]:
             continue
 
         if form_type == "10-K":
             content_type = "annual_report"
+            quarter_index = 0  # Reset to Q4 for annual reports
         else:
             content_type = "quarterly_report"
 
@@ -144,12 +171,14 @@ for filing in response.get("filings", []):
                 "file_type": "pdf",
                 "content_type": content_type,
                 "published_date": filed_at,
-                "fiscal_date": filing.get("periodOfReport"),
+                "fiscal_date": fiscal_date,
                 "fiscal_year": fiscal_year,
                 "fiscal_quarter": fiscal_quarter,
                 "r2_url": r2_url,
                 "periodicity": "periodic",
             })
+
+            last_fiscal_date = fiscal_date
 
             logging.info(f"Uploaded to R2: {r2_url}")
         else:

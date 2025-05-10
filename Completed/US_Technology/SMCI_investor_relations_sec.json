@@ -1753,8 +1753,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2025-02-25/smci-20241231.htm%5Csmci-20241231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2025 10-Q",
@@ -1766,8 +1766,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2025-02-25/smci-20240930.htm%5Csmci-20240930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2024 10-K",
@@ -1779,8 +1779,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2025-02-25/smci-20240630.htm%5Csmci-20240630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2024 10-Q",
@@ -1792,8 +1792,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2024-05-03/smci-20240331.htm%5Csmci-20240331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2024 10-Q",
@@ -1805,8 +1805,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2024-02-02/smci-20231231.htm%5Csmci-20231231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2024 10-Q",
@@ -1818,8 +1818,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2023-11-03/smci-20230930.htm%5Csmci-20230930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2023 10-K",
@@ -1831,8 +1831,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2023-08-25/smci-20230630.htm%5Csmci-20230630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2023 10-Q",
@@ -1844,8 +1844,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2023-05-05/smci-20230331.htm%5Csmci-20230331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2023 10-Q",
@@ -1857,8 +1857,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2023-02-03/smci-20221231.htm%5Csmci-20221231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2023 10-Q",
@@ -1870,8 +1870,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2022-11-04/smci-20220930.htm%5Csmci-20220930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2022 10-K",
@@ -1883,8 +1883,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2022-08-26/smci-20220630.htm%5Csmci-20220630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2022 10-Q",
@@ -1896,8 +1896,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2022-05-06/smci-20220331.htm%5Csmci-20220331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2022 10-Q",
@@ -1909,8 +1909,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2022-02-04/smci-20211231.htm%5Csmci-20211231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2022 10-Q",
@@ -1922,8 +1922,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2021-11-05/smci-20210930.htm%5Csmci-20210930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2021 10-K",
@@ -1935,8 +1935,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2021-08-27/smci-20210630.htm%5Csmci-20210630.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2021 10-Q",
@@ -1948,8 +1948,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2021-05-07/smci-20210331.htm%5Csmci-20210331.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2021 10-Q",
@@ -1961,8 +1961,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2021-02-05/smci-20201231.htm%5Csmci-20201231.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2021 10-Q",
@@ -1974,8 +1974,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2020-11-06/smci-20200930.htm%5Csmci-20200930.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2020 10-K",
@@ -1987,8 +1987,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2020-08-28/smci-2020630x10k.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2020 10-Q",
@@ -2000,8 +2000,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2020-05-08/smci-20200331x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2020 10-Q",
@@ -2013,8 +2013,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2020-02-07/smci-20191231x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2020 10-Q",
@@ -2026,8 +2026,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2019-12-20/smci-20190930x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2019 10-K",
@@ -2039,8 +2039,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2019-12-19/smci-2019630x10k.htm%5Csmci-2019630x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2019 10-Q",
@@ -2052,8 +2052,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2019-12-19/smci-20190331x10q.htm%5Csmci-20190331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2019 10-Q",
@@ -2065,8 +2065,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2019-12-19/smci-20181231x10q.htm%5Csmci-20181231x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2019 10-Q",
@@ -2078,8 +2078,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2019-12-19/smci-20180930x10q.htm%5Csmci-20180930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2017 10-K",
@@ -2091,8 +2091,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2019-05-16/smci-2017630x10kxa.htm%5Csmci-2017630x10kxa.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2017 10-Q",
@@ -2104,8 +2104,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2017-05-10/smci-20170331x10q.htm%5Csmci-20170331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2017 10-Q",
@@ -2117,8 +2117,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2017-02-07/smci-20161231x10q.htm%5Csmci-20161231x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2017 10-Q",
@@ -2130,8 +2130,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2016-11-07/smci-20160930x10q.htm%5Csmci-20160930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2016 10-K",
@@ -2143,8 +2143,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2016-08-26/smci-2016630x10k.htm%5Csmci-2016630x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2016 10-Q",
@@ -2156,8 +2156,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2016-05-05/smci-20160331x10q.htm%5Csmci-20160331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2016 10-Q",
@@ -2169,8 +2169,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2016-02-04/smci-20151231x10q.htm%5Csmci-20151231x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2016 10-Q",
@@ -2182,8 +2182,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2015-11-16/smci-2015930x10q.htm%5Csmci-2015930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2015 10-K",
@@ -2195,8 +2195,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2015-09-10/smci-2015630x10k.htm%5Csmci-2015630x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2015 10-Q",
@@ -2208,8 +2208,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2015-05-07/smci-20150331x10q.htm%5Csmci-20150331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2015 10-Q",
@@ -2221,8 +2221,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2015-02-09/smci-20141231x10q.htm%5Csmci-20141231x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2015 10-Q",
@@ -2234,8 +2234,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2014-11-06/smci-2014930x10q.htm%5Csmci-2014930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2014 10-K",
@@ -2247,8 +2247,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2014-09-15/smci-2014630x10k.htm%5Csmci-2014630x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2014 10-Q",
@@ -2260,8 +2260,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2014-05-07/smci-2014331x10q.htm%5Csmci-2014331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2014 10-Q",
@@ -2273,8 +2273,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2014-02-07/smci-20131231x10q.htm%5Csmci-20131231x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2014 10-Q",
@@ -2286,8 +2286,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2013-11-07/smci-20130930x10q.htm%5Csmci-20130930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2013 10-K",
@@ -2299,8 +2299,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2013-09-11/smci-2013630x10k.htm%5Csmci-2013630x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2013 10-Q",
@@ -2312,8 +2312,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2013-05-09/smci-20130331x10q.htm%5Csmci-20130331x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2013 10-Q",
@@ -2325,8 +2325,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2013-02-06/smci-20121231x10q.htm%5Csmci-20121231x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2013 10-Q",
@@ -2338,8 +2338,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2012-11-07/smci-2012930x10q.htm%5Csmci-2012930x10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2012 10-K",
@@ -2351,8 +2351,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2012-09-13/smci-2012630x10k.htm%5Csmci-2012630x10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2012 10-Q",
@@ -2364,8 +2364,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2012-05-07/d316315d10q.htm%5Cd316315d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2012 10-Q",
@@ -2377,8 +2377,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2012-02-06/d256962d10q.htm%5Cd256962d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2012 10-Q",
@@ -2390,8 +2390,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2011-11-07/d227027d10q.htm%5Cd227027d10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2011 10-K",
@@ -2403,8 +2403,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2011-09-02/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2011 10-Q",
@@ -2416,8 +2416,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2011-05-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2011 10-Q",
@@ -2429,8 +2429,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2011-02-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2011 10-Q",
@@ -2442,8 +2442,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2010-11-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2010 10-K",
@@ -2455,8 +2455,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2010-09-07/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2010 10-Q",
@@ -2468,8 +2468,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2010-05-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2010 10-Q",
@@ -2481,8 +2481,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2010-02-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2010 10-Q",
@@ -2494,8 +2494,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2009-11-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2009 10-K",
@@ -2507,8 +2507,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2009-08-31/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2009 10-Q",
@@ -2520,8 +2520,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2009-05-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2009 10-Q",
@@ -2533,8 +2533,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2009-02-06/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2009 10-Q",
@@ -2546,8 +2546,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2008-11-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2008 10-K",
@@ -2559,8 +2559,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2008-09-02/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2008 10-Q",
@@ -2572,8 +2572,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2008-05-15/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q2 2008 10-Q",
@@ -2585,8 +2585,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2008-02-14/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q1 2008 10-Q",
@@ -2598,8 +2598,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2007-11-13/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q4 2007 10-K",
@@ -2611,8 +2611,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2007-08-28/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-      },
-      {
+    },
+    {
         "equity_ticker": "SMCI",
         "geography": "US",
         "content_name": "SMCI Q3 2007 10-Q",
@@ -2624,5 +2624,18 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/SMCI/2007-05-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-      }
+    },
+    {
+        "equity_ticker": "SMCI",
+        "geography": "US",
+        "content_name": "SMCI Q3 2025 Transcript",
+        "file_type": "pdf",
+        "content_type": "earnings_transcript",
+        "published_date": "2025-05-06",
+        "fiscal_date": "2025-05-06",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 3,
+        "r2_url": "https://pub-43b7342d87a7428998f14a200ddd2a26.r2.dev/SMCI/2025-05-06/transcript_SMCI_2025_Q3.pdf/transcript_SMCI_2025_Q3.pdf",
+        "periodicity": "periodic"
+    }
 ]
