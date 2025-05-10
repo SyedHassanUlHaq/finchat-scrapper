@@ -2,6 +2,19 @@
     {
         "equity_ticker": "MDLZ",
         "geography": "US",
+        "content_name": "MDLZ Q1 2025 10-Q",
+        "file_type": "pdf",
+        "content_type": "quarterly_report",
+        "published_date": "2025-04-29",
+        "fiscal_date": "2025-03-31",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2025-04-29/mdlz-20250331.htm/mdlz-20250331.pdf",
+        "periodicity": "periodic"
+      },
+      {
+        "equity_ticker": "MDLZ",
+        "geography": "US",
         "content_name": "MDLZ Q4 2024 10-K",
         "file_type": "pdf",
         "content_type": "annual_report",
@@ -11,8 +24,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2025-02-05/mdlz-20241231.htm/mdlz-20241231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2024 10-Q",
@@ -24,8 +37,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2024-10-29/mdlz-20240930.htm/mdlz-20240930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2024 10-Q",
@@ -37,8 +50,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2024-07-30/mdlz-20240630.htm/mdlz-20240630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2024 10-Q",
@@ -50,8 +63,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2024-04-30/mdlz-20240331.htm/mdlz-20240331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2023 10-K",
@@ -63,8 +76,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2024-02-02/mdlz-20231231.htm/mdlz-20231231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2023 10-Q",
@@ -76,8 +89,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2023-11-01/mdlz-20230930.htm/mdlz-20230930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2023 10-Q",
@@ -89,8 +102,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2023-07-27/mdlz-20230630.htm/mdlz-20230630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2023 10-Q",
@@ -102,8 +115,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2023-04-27/mdlz-20230331.htm/mdlz-20230331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2022 10-K",
@@ -115,8 +128,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2023-02-03/mdlz-20221231.htm/mdlz-20221231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2022 10-Q",
@@ -128,8 +141,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2022-11-01/mdlz-20220930.htm/mdlz-20220930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2022 10-Q",
@@ -141,8 +154,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2022-07-26/mdlz-20220630.htm/mdlz-20220630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2022 10-Q",
@@ -154,8 +167,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2022-04-26/mdlz-20220331.htm/mdlz-20220331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2021 10-K",
@@ -167,8 +180,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2022-02-04/mdlz-20211231.htm/mdlz-20211231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2021 10-Q",
@@ -180,8 +193,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2021-11-02/mdlz-20210930.htm/mdlz-20210930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2021 10-Q",
@@ -193,8 +206,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2021-07-27/mdlz-20210630.htm/mdlz-20210630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2021 10-Q",
@@ -206,8 +219,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2021-04-27/mdlz-20210331.htm/mdlz-20210331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2020 10-K",
@@ -219,8 +232,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2021-02-05/mdlz-20201231.htm/mdlz-20201231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2020 10-Q",
@@ -232,8 +245,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2020-11-02/mdlz-20200930.htm/mdlz-20200930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2020 10-Q",
@@ -245,8 +258,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2020-07-28/a2020q210-qdocument.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2020 10-Q",
@@ -258,8 +271,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2020-04-28/a2020q110-qdocument.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2019 10-K",
@@ -271,8 +284,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2020-02-07/mdlz10k123119document1.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2019 10-Q",
@@ -284,8 +297,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2019-10-29/a2019q310-qdocument.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2019 10-Q",
@@ -297,8 +310,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2019-07-30/a2019q210-qdocument.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2019 10-Q",
@@ -310,8 +323,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2019-04-30/a2019q110-qdocument.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2018 10-K",
@@ -323,8 +336,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2019-02-08/mdlz10k123118document.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2018 10-Q",
@@ -336,8 +349,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2018-10-29/a2018q310-qdocument.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2018 10-Q",
@@ -349,8 +362,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2018-07-25/q2-201810qdocument.htm/q2-201810qdocument.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2018 10-Q",
@@ -362,8 +375,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2018-05-02/mdlz10q33118doc.htm/mdlz10q33118doc.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2017 10-K",
@@ -375,8 +388,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2018-02-09/d466496d10k.htm/d466496d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2017 10-Q",
@@ -388,8 +401,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2017-10-31/d456152d10q.htm/d456152d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2017 10-Q",
@@ -401,8 +414,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2017-08-02/d412472d10q.htm/d412472d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2017 10-Q",
@@ -414,8 +427,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2017-05-03/d346910d10q.htm/d346910d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2016 10-K",
@@ -427,8 +440,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2017-02-24/d288385d10k.htm/d288385d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2016 10-Q",
@@ -440,8 +453,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2016-10-26/d252200d10q.htm/d252200d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2016 10-Q",
@@ -453,8 +466,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2016-07-27/d395636d10q.htm/d395636d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2016 10-Q",
@@ -466,8 +479,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2016-04-28/d149717d10q.htm/d149717d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2015 10-K",
@@ -479,8 +492,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2016-02-19/d51394d10k.htm/d51394d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2015 10-Q",
@@ -492,8 +505,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2015-10-29/d94335d10q.htm/d94335d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2015 10-Q",
@@ -505,8 +518,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2015-07-31/d940616d10q.htm/d940616d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2015 10-Q",
@@ -518,8 +531,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2015-04-30/d893461d10q.htm/d893461d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2014 10-K",
@@ -531,8 +544,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2015-02-20/d840894d10k.htm/d840894d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2014 10-Q",
@@ -544,8 +557,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2014-11-06/d780145d10q.htm/d780145d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2014 10-Q",
@@ -557,8 +570,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2014-08-08/d744588d10q.htm/d744588d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2014 10-Q",
@@ -570,8 +583,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2014-05-08/d704360d10q.htm/d704360d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2013 10-K",
@@ -583,8 +596,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2014-03-03/d645322d10k.htm/d645322d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2013 10-Q",
@@ -596,8 +609,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2013-11-07/d601967d10q.htm/d601967d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2013 10-Q",
@@ -609,8 +622,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2013-08-08/d549456d10q.htm/d549456d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2013 10-Q",
@@ -622,8 +635,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2013-05-08/d512925d10q.htm/d512925d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2012 10-K",
@@ -635,8 +648,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2013-02-25/d456052d10k.htm/d456052d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2012 10-Q",
@@ -648,8 +661,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2012-11-08/d404272d10q.htm/d404272d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2012 10-Q",
@@ -661,8 +674,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2012-08-03/d366993d10q.htm/d366993d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2012 10-Q",
@@ -674,8 +687,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2012-05-04/d314276d10q.htm/d314276d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2011 10-K",
@@ -687,8 +700,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2012-02-27/d277353d10k.htm/d277353d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2011 10-Q",
@@ -700,8 +713,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2011-11-04/d233422d10q.htm/d233422d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2011 10-Q",
@@ -713,8 +726,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2011-08-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2011 10-Q",
@@ -726,8 +739,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2011-05-06/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2010 10-K",
@@ -739,8 +752,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2011-02-28/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2010 10-Q",
@@ -752,8 +765,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2010-11-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2010 10-Q",
@@ -765,8 +778,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2010-08-06/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2010 10-Q",
@@ -778,8 +791,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2010-05-07/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2009 10-K",
@@ -791,8 +804,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2010-02-25/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2009 10-Q",
@@ -804,8 +817,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2009-11-03/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2009 10-Q",
@@ -817,8 +830,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2009-08-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2009 10-Q",
@@ -830,8 +843,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2009-05-05/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2008 10-K",
@@ -843,8 +856,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2009-02-27/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2008 10-Q",
@@ -856,8 +869,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2008-10-31/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2008 10-Q",
@@ -869,8 +882,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2008-08-01/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2008 10-Q",
@@ -882,8 +895,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2008-05-02/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2007 10-K",
@@ -895,8 +908,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2008-02-25/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2007 10-Q",
@@ -908,8 +921,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2007-11-02/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2007 10-Q",
@@ -921,8 +934,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2007-08-03/c17231e10vq.htm/c17231e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2007 10-Q",
@@ -934,8 +947,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2007-05-09/c14835e10vq.htm/c14835e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2006 10-K",
@@ -947,8 +960,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2007-03-01/a2176027z10-k.htm/a2176027z10-k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2006 10-Q",
@@ -960,8 +973,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2006-11-09/a06-21892_110q.htm/a06-21892_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2006 10-Q",
@@ -973,8 +986,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2006-08-08/a06-15579_110q.htm/a06-15579_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2006 10-Q",
@@ -986,8 +999,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2006-05-09/a06-9721_110q.htm/a06-9721_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2005 10-K",
@@ -999,8 +1012,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2006-03-10/a2168110z10-k.htm/a2168110z10-k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2005 10-Q",
@@ -1012,8 +1025,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2005-11-09/a05-18510_110q.htm/a05-18510_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2005 10-Q",
@@ -1025,8 +1038,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2005-08-05/a05-14123_110q.htm/a05-14123_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2005 10-Q",
@@ -1038,8 +1051,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2005-05-06/a2157556z10-q.htm/a2157556z10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2004 10-K",
@@ -1051,8 +1064,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2005-03-11/a2152234z10-k.htm/a2152234z10-k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2004 10-Q",
@@ -1064,8 +1077,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2004-11-05/a2146084z10-q.htm/a2146084z10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2004 10-Q",
@@ -1077,8 +1090,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2004-08-06/a2141487z10-q.htm/a2141487z10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2004 10-Q",
@@ -1090,8 +1103,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2004-05-10/a2135826z10-q.htm/a2135826z10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2003 10-K",
@@ -1103,8 +1116,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2004-03-12/a2129292z10-k.htm/a2129292z10-k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2003 10-Q",
@@ -1116,8 +1129,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2003-11-13/a2122198z10-q.htm/a2122198z10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2003 10-Q",
@@ -1129,8 +1142,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2003-08-13/a2116254z10-q.htm/a2116254z10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2003 10-Q",
@@ -1142,8 +1155,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2003-05-14/a2110635z10-q.htm/a2110635z10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2002 10-K",
@@ -1155,8 +1168,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2003-03-25/a2105346z10-k.htm/a2105346z10-k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2002 10-Q",
@@ -1168,8 +1181,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2002-11-13/a33670.txt/a33670.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2002 10-Q",
@@ -1181,8 +1194,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2002-08-13/a33134.txt/a33134.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q1 2002 10-Q",
@@ -1194,8 +1207,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2002-05-13/a32611.txt/a32611.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q4 2001 10-K",
@@ -1207,8 +1220,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2002-03-14/y57670e10-k.txt/y57670e10-k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q3 2001 10-Q",
@@ -1220,8 +1233,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2001-11-13/a31583.txt/a31583.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "MDLZ",
         "geography": "US",
         "content_name": "MDLZ Q2 2001 10-Q",
@@ -1233,7 +1246,7 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/MDLZ/2001-08-13/a31142.txt/a31142.pdf",
         "periodicity": "periodic"
-    },
+      },
     {
         "equity_ticker": "MDLZ",
         "geography": "US",

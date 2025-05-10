@@ -2,6 +2,19 @@
     {
         "equity_ticker": "NXPI",
         "geography": "US",
+        "content_name": "NXPI Q1 2025 10-Q",
+        "file_type": "pdf",
+        "content_type": "quarterly_report",
+        "published_date": "2025-04-29",
+        "fiscal_date": "2025-03-30",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2025-04-29/nxpi-20250330.htm/nxpi-20250330.pdf",
+        "periodicity": "periodic"
+      },
+      {
+        "equity_ticker": "NXPI",
+        "geography": "US",
         "content_name": "NXPI Q4 2024 10-K",
         "file_type": "pdf",
         "content_type": "annual_report",
@@ -11,8 +24,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2025-02-20/nxpi-20241231.htm/nxpi-20241231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q3 2024 10-Q",
@@ -24,8 +37,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2024-11-05/nxpi-20240929.htm/nxpi-20240929.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q2 2024 10-Q",
@@ -37,8 +50,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2024-07-23/nxpi-20240630.htm/nxpi-20240630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q1 2024 10-Q",
@@ -50,8 +63,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2024-04-30/nxpi-20240331.htm/nxpi-20240331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q4 2023 10-K",
@@ -63,8 +76,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2024-02-22/nxpi-20231231.htm/nxpi-20231231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q3 2023 10-Q",
@@ -76,8 +89,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2023-11-07/nxpi-20231001.htm/nxpi-20231001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q2 2023 10-Q",
@@ -89,8 +102,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2023-07-25/nxpi-20230702.htm/nxpi-20230702.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q1 2023 10-Q",
@@ -102,8 +115,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2023-05-02/nxpi-20230402.htm/nxpi-20230402.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q4 2022 10-K",
@@ -115,8 +128,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2023-03-01/nxpi-20221231.htm/nxpi-20221231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q3 2022 10-Q",
@@ -128,8 +141,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2022-11-01/nxpi-20221002.htm/nxpi-20221002.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q2 2022 10-Q",
@@ -141,8 +154,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2022-07-26/nxpi-20220703.htm/nxpi-20220703.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q1 2022 10-Q",
@@ -154,8 +167,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2022-05-03/nxpi-20220403.htm/nxpi-20220403.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q4 2021 10-K",
@@ -167,8 +180,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2022-02-24/nxpi-20211231.htm/nxpi-20211231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q3 2021 10-Q",
@@ -180,8 +193,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2021-11-02/nxpi-20211003.htm/nxpi-20211003.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q2 2021 10-Q",
@@ -193,8 +206,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2021-08-03/nxpi-20210704.htm/nxpi-20210704.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q1 2021 10-Q",
@@ -206,8 +219,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2021-04-27/nxpi-20210404.htm/nxpi-20210404.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q4 2020 10-K",
@@ -219,8 +232,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2021-02-25/nxpi-20201231.htm/nxpi-20201231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q3 2020 10-Q",
@@ -232,8 +245,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2020-10-27/nxpi-20200927.htm/nxpi-20200927.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q2 2020 10-Q",
@@ -245,8 +258,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2020-07-28/nxpi-20200628.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q1 2020 10-Q",
@@ -258,8 +271,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2020-04-28/nxp1q20form10-q.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q4 2019 10-K",
@@ -271,8 +284,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2020-02-27/nxp10-k.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "NXPI",
         "geography": "US",
         "content_name": "NXPI Q3 2019 10-Q",
@@ -284,7 +297,7 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/NXPI/2019-10-29/nxp3q19form10-q.htm/ix.pdf",
         "periodicity": "periodic"
-    },
+      },
     {
         "equity_ticker": "NXPI",
         "geography": "US",

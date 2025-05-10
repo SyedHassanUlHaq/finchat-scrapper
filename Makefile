@@ -60,3 +60,21 @@ MPWR:
 
 MU:
 	python3 sec_scraper.py MU
+
+CTVA:
+	python3 sec_scraper.py CTVA
+
+K:
+	python3 sec_scraper.py K
+
+KLAC:
+	python3 sec_scraper.py KLAC
+
+KMB:
+	python3 sec_scraper.py KMB
+
+SAM:
+	python3 sec_scraper.py SAM
+
+SWKS:
+	python3 sec_scraper.py SWKS

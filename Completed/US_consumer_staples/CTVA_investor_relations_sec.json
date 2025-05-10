@@ -2,6 +2,19 @@
     {
         "equity_ticker": "CTVA",
         "geography": "US",
+        "content_name": "CTVA Q1 2025 10-Q",
+        "file_type": "pdf",
+        "content_type": "quarterly_report",
+        "published_date": "2025-05-08",
+        "fiscal_date": "2025-03-31",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2025-05-08/ctva-20250331.htm/ctva-20250331.pdf",
+        "periodicity": "periodic"
+      },
+      {
+        "equity_ticker": "CTVA",
+        "geography": "US",
         "content_name": "CTVA Q4 2024 10-K",
         "file_type": "pdf",
         "content_type": "annual_report",
@@ -11,8 +24,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2025-02-14/ctva-20241231.htm/ctva-20241231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q3 2024 10-Q",
@@ -24,8 +37,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2024-11-07/ctva-20240930.htm/ctva-20240930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q2 2024 10-Q",
@@ -37,8 +50,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2024-08-01/ctva-20240630.htm/ctva-20240630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q1 2024 10-Q",
@@ -50,8 +63,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2024-05-02/ctva-20240331.htm/ctva-20240331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q4 2023 10-K",
@@ -63,8 +76,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2024-02-08/ctva-20231231.htm/ctva-20231231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q3 2023 10-Q",
@@ -76,8 +89,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2023-11-09/ctva-20230930.htm/ctva-20230930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q2 2023 10-Q",
@@ -89,8 +102,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2023-08-04/ctva-20230630.htm/ctva-20230630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q1 2023 10-Q",
@@ -102,8 +115,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2023-05-04/ctva-20230331.htm/ctva-20230331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q4 2022 10-K",
@@ -115,8 +128,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2023-02-09/ctva-20221231.htm/ctva-20221231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q3 2022 10-Q",
@@ -128,8 +141,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2022-11-04/ctva-20220930.htm/ctva-20220930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q2 2022 10-Q",
@@ -141,8 +154,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2022-08-05/dd-20220630.htm/dd-20220630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q1 2022 10-Q",
@@ -154,8 +167,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2022-05-05/dd-20220331.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q4 2021 10-K",
@@ -167,8 +180,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2022-02-10/ctva-20211231.htm/ctva-20211231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q3 2021 10-Q",
@@ -180,8 +193,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2021-11-04/dd-20210930.htm/dd-20210930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q2 2021 10-Q",
@@ -193,8 +206,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2021-08-06/dd-20210630.htm/dd-20210630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q1 2021 10-Q",
@@ -206,8 +219,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2021-05-05/dd-20210331.htm/dd-20210331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q4 2020 10-K",
@@ -219,8 +232,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2021-02-11/ctva-20201231.htm/ctva-20201231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q3 2020 10-Q",
@@ -232,8 +245,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2020-11-05/dd-20200930.htm/dd-20200930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q2 2020 10-Q",
@@ -245,8 +258,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2020-08-06/corteva-630202010xq.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q1 2020 10-Q",
@@ -258,8 +271,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2020-05-07/corteva-331202010xq.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q4 2019 10-K",
@@ -271,8 +284,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2020-02-14/ctva-12x31x201910xk.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q3 2019 10-Q",
@@ -284,8 +297,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2019-10-31/corteva-930201910xq.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q2 2019 10-Q",
@@ -297,8 +310,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2019-08-06/corteva-630201910xquse.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CTVA",
         "geography": "US",
         "content_name": "CTVA Q1 2019 10-Q",
@@ -310,7 +323,7 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CTVA/2019-05-31/ctva-331201910xq.htm/ctva-331201910xq.pdf",
         "periodicity": "periodic"
-    },
+      },
     {
         "equity_ticker": "CTVA",
         "geography": "US",

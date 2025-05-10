@@ -2,6 +2,19 @@
     {
         "equity_ticker": "HSY",
         "geography": "US",
+        "content_name": "HSY Q1 2025 10-Q",
+        "file_type": "pdf",
+        "content_type": "quarterly_report",
+        "published_date": "2025-05-01",
+        "fiscal_date": "2025-03-30",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2025-05-01/hsy-20250330.htm%5Chsy-20250330.pdf",
+        "periodicity": "periodic"
+      },
+      {
+        "equity_ticker": "HSY",
+        "geography": "US",
         "content_name": "HSY Q4 2024 10-K",
         "file_type": "pdf",
         "content_type": "annual_report",
@@ -9,10 +22,10 @@
         "fiscal_date": "2024-12-31",
         "fiscal_year": 2024,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2025-02-18/hsy-20241231.htm/hsy-20241231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2025-02-18/hsy-20241231.htm%5Chsy-20241231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2024 10-Q",
@@ -22,10 +35,10 @@
         "fiscal_date": "2024-09-29",
         "fiscal_year": 2024,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2024-11-07/hsy-20240929.htm/hsy-20240929.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2024-11-07/hsy-20240929.htm%5Chsy-20240929.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2024 10-Q",
@@ -35,10 +48,10 @@
         "fiscal_date": "2024-06-30",
         "fiscal_year": 2024,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2024-08-01/hsy-20240630.htm/hsy-20240630.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2024-08-01/hsy-20240630.htm%5Chsy-20240630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2024 10-Q",
@@ -48,10 +61,10 @@
         "fiscal_date": "2024-03-31",
         "fiscal_year": 2024,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2024-05-03/hsy-20240331.htm/hsy-20240331.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2024-05-03/hsy-20240331.htm%5Chsy-20240331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2023 10-K",
@@ -61,10 +74,10 @@
         "fiscal_date": "2023-12-31",
         "fiscal_year": 2023,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2024-02-20/hsy-20231231.htm/hsy-20231231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2024-02-20/hsy-20231231.htm%5Chsy-20231231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2023 10-Q",
@@ -74,10 +87,10 @@
         "fiscal_date": "2023-10-01",
         "fiscal_year": 2023,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2023-10-26/hsy-20231001.htm/hsy-20231001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2023-10-26/hsy-20231001.htm%5Chsy-20231001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2023 10-Q",
@@ -87,10 +100,10 @@
         "fiscal_date": "2023-07-02",
         "fiscal_year": 2023,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2023-07-27/hsy-20230702.htm/hsy-20230702.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2023-07-27/hsy-20230702.htm%5Chsy-20230702.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2023 10-Q",
@@ -100,10 +113,10 @@
         "fiscal_date": "2023-04-02",
         "fiscal_year": 2023,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2023-04-27/hsy-20230402.htm/hsy-20230402.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2023-04-27/hsy-20230402.htm%5Chsy-20230402.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2022 10-K",
@@ -113,10 +126,10 @@
         "fiscal_date": "2022-12-31",
         "fiscal_year": 2022,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2023-02-17/hsy-20221231.htm/hsy-20221231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2023-02-17/hsy-20221231.htm%5Chsy-20221231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2022 10-Q",
@@ -126,10 +139,10 @@
         "fiscal_date": "2022-10-02",
         "fiscal_year": 2022,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2022-11-04/hsy-20221002.htm/hsy-20221002.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2022-11-04/hsy-20221002.htm%5Chsy-20221002.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2022 10-Q",
@@ -139,10 +152,10 @@
         "fiscal_date": "2022-07-03",
         "fiscal_year": 2022,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2022-07-28/hsy-20220703.htm/hsy-20220703.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2022-07-28/hsy-20220703.htm%5Chsy-20220703.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2022 10-Q",
@@ -152,10 +165,10 @@
         "fiscal_date": "2022-04-03",
         "fiscal_year": 2022,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2022-04-28/hsy-20220403.htm/hsy-20220403.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2022-04-28/hsy-20220403.htm%5Chsy-20220403.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2021 10-K",
@@ -165,10 +178,10 @@
         "fiscal_date": "2021-12-31",
         "fiscal_year": 2021,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2022-02-18/hsy-20211231.htm/hsy-20211231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2022-02-18/hsy-20211231.htm%5Chsy-20211231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2021 10-Q",
@@ -178,10 +191,10 @@
         "fiscal_date": "2021-10-03",
         "fiscal_year": 2021,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2021-10-28/hsy-20211003.htm/hsy-20211003.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2021-10-28/hsy-20211003.htm%5Chsy-20211003.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2021 10-Q",
@@ -191,10 +204,10 @@
         "fiscal_date": "2021-07-04",
         "fiscal_year": 2021,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2021-07-29/hsy-20210704.htm/hsy-20210704.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2021-07-29/hsy-20210704.htm%5Chsy-20210704.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2021 10-Q",
@@ -204,10 +217,10 @@
         "fiscal_date": "2021-04-04",
         "fiscal_year": 2021,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2021-04-29/hsy-20210404.htm/hsy-20210404.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2021-04-29/hsy-20210404.htm%5Chsy-20210404.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2020 10-K",
@@ -217,10 +230,10 @@
         "fiscal_date": "2020-12-31",
         "fiscal_year": 2020,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2021-02-17/hsy-20201231.htm/hsy-20201231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2021-02-17/hsy-20201231.htm%5Chsy-20201231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2020 10-Q",
@@ -230,10 +243,10 @@
         "fiscal_date": "2020-09-27",
         "fiscal_year": 2020,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2020-11-06/hsy-20200927.htm/hsy-20200927.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2020-11-06/hsy-20200927.htm%5Chsy-20200927.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2020 10-Q",
@@ -243,10 +256,10 @@
         "fiscal_date": "2020-06-28",
         "fiscal_year": 2020,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2020-07-23/hsy-20200628.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2020-07-23/hsy-20200628.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2020 10-Q",
@@ -256,10 +269,10 @@
         "fiscal_date": "2020-03-29",
         "fiscal_year": 2020,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2020-04-23/a2020form10-qq1.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2020-04-23/a2020form10-qq1.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2019 10-K",
@@ -269,10 +282,10 @@
         "fiscal_date": "2019-12-31",
         "fiscal_year": 2019,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2020-02-20/a2019form10-kq4.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2020-02-20/a2019form10-kq4.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2019 10-Q",
@@ -282,10 +295,10 @@
         "fiscal_date": "2019-09-29",
         "fiscal_year": 2019,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2019-10-24/a2019form10-qq3.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2019-10-24/a2019form10-qq3.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2019 10-Q",
@@ -295,10 +308,10 @@
         "fiscal_date": "2019-06-30",
         "fiscal_year": 2019,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2019-07-25/a2019form10-qq2.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2019-07-25/a2019form10-qq2.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2019 10-Q",
@@ -308,10 +321,10 @@
         "fiscal_date": "2019-03-31",
         "fiscal_year": 2019,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2019-04-25/a2019form10-qq1.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2019-04-25/a2019form10-qq1.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2018 10-K",
@@ -321,10 +334,10 @@
         "fiscal_date": "2018-12-31",
         "fiscal_year": 2018,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2019-02-22/a2018form10-kq4.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2019-02-22/a2018form10-kq4.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2018 10-Q",
@@ -334,10 +347,10 @@
         "fiscal_date": "2018-09-30",
         "fiscal_year": 2018,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2018-10-26/a2018_formx10-qq3.htm/a2018_formx10-qq3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2018-10-26/a2018_formx10-qq3.htm%5Ca2018_formx10-qq3.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2018 10-Q",
@@ -347,10 +360,10 @@
         "fiscal_date": "2018-07-01",
         "fiscal_year": 2018,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2018-07-27/a2018_formx10-qq2.htm/a2018_formx10-qq2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2018-07-27/a2018_formx10-qq2.htm%5Ca2018_formx10-qq2.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2018 10-Q",
@@ -360,10 +373,10 @@
         "fiscal_date": "2018-04-01",
         "fiscal_year": 2018,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2018-04-26/a2018_formx10-qq1.htm/a2018_formx10-qq1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2018-04-26/a2018_formx10-qq1.htm%5Ca2018_formx10-qq1.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2017 10-K",
@@ -373,10 +386,10 @@
         "fiscal_date": "2017-12-31",
         "fiscal_year": 2017,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2018-02-27/a2017_formx10-kq4.htm/a2017_formx10-kq4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2018-02-27/a2017_formx10-kq4.htm%5Ca2017_formx10-kq4.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2017 10-Q",
@@ -386,10 +399,10 @@
         "fiscal_date": "2017-10-01",
         "fiscal_year": 2017,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2017-10-27/a2017_formx10-qq3.htm/a2017_formx10-qq3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2017-10-27/a2017_formx10-qq3.htm%5Ca2017_formx10-qq3.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2017 10-Q",
@@ -399,10 +412,10 @@
         "fiscal_date": "2017-07-02",
         "fiscal_year": 2017,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2017-07-28/a2017_formx10-qq2.htm/a2017_formx10-qq2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2017-07-28/a2017_formx10-qq2.htm%5Ca2017_formx10-qq2.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2017 10-Q",
@@ -412,10 +425,10 @@
         "fiscal_date": "2017-04-02",
         "fiscal_year": 2017,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2017-04-28/a2017_formx10-qq1.htm/a2017_formx10-qq1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2017-04-28/a2017_formx10-qq1.htm%5Ca2017_formx10-qq1.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2016 10-K",
@@ -425,10 +438,10 @@
         "fiscal_date": "2016-12-31",
         "fiscal_year": 2016,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2017-02-21/a2016_formx10-kq4.htm/a2016_formx10-kq4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2017-02-21/a2016_formx10-kq4.htm%5Ca2016_formx10-kq4.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2016 10-Q",
@@ -438,10 +451,10 @@
         "fiscal_date": "2016-10-02",
         "fiscal_year": 2016,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2016-10-28/a2016_formx10-qq3.htm/a2016_formx10-qq3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2016-10-28/a2016_formx10-qq3.htm%5Ca2016_formx10-qq3.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2016 10-Q",
@@ -451,10 +464,10 @@
         "fiscal_date": "2016-07-03",
         "fiscal_year": 2016,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2016-07-28/a2016_formx10-qq2.htm/a2016_formx10-qq2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2016-07-28/a2016_formx10-qq2.htm%5Ca2016_formx10-qq2.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2016 10-Q",
@@ -464,10 +477,10 @@
         "fiscal_date": "2016-04-03",
         "fiscal_year": 2016,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2016-04-29/a2016_formx10-qq1.htm/a2016_formx10-qq1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2016-04-29/a2016_formx10-qq1.htm%5Ca2016_formx10-qq1.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2015 10-K",
@@ -477,10 +490,10 @@
         "fiscal_date": "2015-12-31",
         "fiscal_year": 2015,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2016-02-26/a2015_formx10-kq4.htm/a2015_formx10-kq4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2016-02-26/a2015_formx10-kq4.htm%5Ca2015_formx10-kq4.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2015 10-Q",
@@ -490,10 +503,10 @@
         "fiscal_date": "2015-10-04",
         "fiscal_year": 2015,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2015-10-30/hsy-20151004q3.htm/hsy-20151004q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2015-10-30/hsy-20151004q3.htm%5Chsy-20151004q3.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2015 10-Q",
@@ -503,10 +516,10 @@
         "fiscal_date": "2015-07-05",
         "fiscal_year": 2015,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2015-08-07/hsy-20150705q2.htm/hsy-20150705q2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2015-08-07/hsy-20150705q2.htm%5Chsy-20150705q2.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2015 10-Q",
@@ -516,10 +529,10 @@
         "fiscal_date": "2015-04-05",
         "fiscal_year": 2015,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2015-05-01/hsy-20150405q1.htm/hsy-20150405q1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2015-05-01/hsy-20150405q1.htm%5Chsy-20150405q1.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2014 10-K",
@@ -529,10 +542,10 @@
         "fiscal_date": "2014-12-31",
         "fiscal_year": 2014,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2015-02-20/a2014_formx10-k.htm/a2014_formx10-k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2015-02-20/a2014_formx10-k.htm%5Ca2014_formx10-k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2014 10-Q",
@@ -542,10 +555,10 @@
         "fiscal_date": "2014-09-28",
         "fiscal_year": 2014,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2014-10-31/hsy-20140928q3.htm/hsy-20140928q3.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2014-10-31/hsy-20140928q3.htm%5Chsy-20140928q3.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2014 10-Q",
@@ -555,10 +568,10 @@
         "fiscal_date": "2014-06-29",
         "fiscal_year": 2014,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2014-08-01/hsy-20140629q2.htm/hsy-20140629q2.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2014-08-01/hsy-20140629q2.htm%5Chsy-20140629q2.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2014 10-Q",
@@ -568,10 +581,10 @@
         "fiscal_date": "2014-03-30",
         "fiscal_year": 2014,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2014-05-02/hsy-20140330q1.htm/hsy-20140330q1.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2014-05-02/hsy-20140330q1.htm%5Chsy-20140330q1.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2013 10-K",
@@ -581,10 +594,10 @@
         "fiscal_date": "2013-12-31",
         "fiscal_year": 2013,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2014-02-21/a2013_form10-kxdraftq4.htm/a2013_form10-kxdraftq4.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2014-02-21/a2013_form10-kxdraftq4.htm%5Ca2013_form10-kxdraftq4.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2013 10-Q",
@@ -594,10 +607,10 @@
         "fiscal_date": "2013-09-29",
         "fiscal_year": 2013,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2013-11-01/hsy-2013092910q.htm/hsy-2013092910q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2013-11-01/hsy-2013092910q.htm%5Chsy-2013092910q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2013 10-Q",
@@ -607,10 +620,10 @@
         "fiscal_date": "2013-06-30",
         "fiscal_year": 2013,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2013-08-07/hsy-2013063010q.htm/hsy-2013063010q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2013-08-07/hsy-2013063010q.htm%5Chsy-2013063010q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2013 10-Q",
@@ -620,10 +633,10 @@
         "fiscal_date": "2013-03-31",
         "fiscal_year": 2013,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2013-05-08/hsy-2013033110q.htm/hsy-2013033110q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2013-05-08/hsy-2013033110q.htm%5Chsy-2013033110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2012 10-K",
@@ -633,10 +646,10 @@
         "fiscal_date": "2012-12-31",
         "fiscal_year": 2012,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2013-02-22/a2012_form10-kxdraft.htm/a2012_form10-kxdraft.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2013-02-22/a2012_form10-kxdraft.htm%5Ca2012_form10-kxdraft.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2012 10-Q",
@@ -646,10 +659,10 @@
         "fiscal_date": "2012-09-30",
         "fiscal_year": 2012,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2012-11-07/hsy-20120930x10q.htm/hsy-20120930x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2012-11-07/hsy-20120930x10q.htm%5Chsy-20120930x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2012 10-Q",
@@ -659,10 +672,10 @@
         "fiscal_date": "2012-07-01",
         "fiscal_year": 2012,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2012-08-08/hsy-20120701x10q.htm/hsy-20120701x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2012-08-08/hsy-20120701x10q.htm%5Chsy-20120701x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2012 10-Q",
@@ -672,10 +685,10 @@
         "fiscal_date": "2012-04-01",
         "fiscal_year": 2012,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2012-05-09/hsy-20120401x10q.htm/hsy-20120401x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2012-05-09/hsy-20120401x10q.htm%5Chsy-20120401x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2011 10-K",
@@ -685,10 +698,10 @@
         "fiscal_date": "2011-12-31",
         "fiscal_year": 2011,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2012-02-17/d251393d10k.htm/d251393d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2012-02-17/d251393d10k.htm%5Cd251393d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2011 10-Q",
@@ -698,10 +711,10 @@
         "fiscal_date": "2011-10-02",
         "fiscal_year": 2011,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2011-11-04/f10q_3q2011.htm/f10q_3q2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2011-11-04/f10q_3q2011.htm%5Cf10q_3q2011.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2011 10-Q",
@@ -711,10 +724,10 @@
         "fiscal_date": "2011-07-03",
         "fiscal_year": 2011,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2011-08-10/f10q_2q2011.htm/f10q_2q2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2011-08-10/f10q_2q2011.htm%5Cf10q_2q2011.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2011 10-Q",
@@ -724,10 +737,10 @@
         "fiscal_date": "2011-04-03",
         "fiscal_year": 2011,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2011-05-11/f10q_1q2011.htm/f10q_1q2011.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2011-05-11/f10q_1q2011.htm%5Cf10q_1q2011.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2010 10-K",
@@ -737,10 +750,10 @@
         "fiscal_date": "2010-12-31",
         "fiscal_year": 2010,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2011-02-18/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2011-02-18/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2010 10-Q",
@@ -750,10 +763,10 @@
         "fiscal_date": "2010-10-03",
         "fiscal_year": 2010,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2010-11-10/f10q_3q2010.htm/f10q_3q2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2010-11-10/f10q_3q2010.htm%5Cf10q_3q2010.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2010 10-Q",
@@ -763,10 +776,10 @@
         "fiscal_date": "2010-07-04",
         "fiscal_year": 2010,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2010-08-11/f10q_2q2010.htm/f10q_2q2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2010-08-11/f10q_2q2010.htm%5Cf10q_2q2010.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2010 10-Q",
@@ -776,10 +789,10 @@
         "fiscal_date": "2010-04-04",
         "fiscal_year": 2010,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2010-05-12/f10q_1q2010.htm/f10q_1q2010.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2010-05-12/f10q_1q2010.htm%5Cf10q_1q2010.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2009 10-K",
@@ -789,10 +802,10 @@
         "fiscal_date": "2009-12-31",
         "fiscal_year": 2009,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2010-02-19/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2010-02-19/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2009 10-Q",
@@ -802,10 +815,10 @@
         "fiscal_date": "2009-10-04",
         "fiscal_year": 2009,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2009-11-12/f10q_3q2009.htm/f10q_3q2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2009-11-12/f10q_3q2009.htm%5Cf10q_3q2009.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2009 10-Q",
@@ -815,10 +828,10 @@
         "fiscal_date": "2009-07-05",
         "fiscal_year": 2009,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2009-08-13/f10q_2q2009.htm/f10q_2q2009.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2009-08-13/f10q_2q2009.htm%5Cf10q_2q2009.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2009 10-Q",
@@ -828,10 +841,10 @@
         "fiscal_date": "2009-04-05",
         "fiscal_year": 2009,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2009-05-13/f10q_lstq09.htm/f10q_lstq09.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2009-05-13/f10q_lstq09.htm%5Cf10q_lstq09.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2008 10-K",
@@ -841,10 +854,10 @@
         "fiscal_date": "2008-12-31",
         "fiscal_year": 2008,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2009-02-20/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2009-02-20/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2008 10-Q",
@@ -854,10 +867,10 @@
         "fiscal_date": "2008-09-28",
         "fiscal_year": 2008,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2008-11-05/f10q_3q2008.htm/f10q_3q2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2008-11-05/f10q_3q2008.htm%5Cf10q_3q2008.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2008 10-Q",
@@ -867,10 +880,10 @@
         "fiscal_date": "2008-06-29",
         "fiscal_year": 2008,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2008-08-06/f10q_2q2008.htm/f10q_2q2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2008-08-06/f10q_2q2008.htm%5Cf10q_2q2008.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2008 10-Q",
@@ -880,10 +893,10 @@
         "fiscal_date": "2008-03-30",
         "fiscal_year": 2008,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2008-05-07/f10q_1q2008.htm/f10q_1q2008.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2008-05-07/f10q_1q2008.htm%5Cf10q_1q2008.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2007 10-K",
@@ -893,10 +906,10 @@
         "fiscal_date": "2007-12-31",
         "fiscal_year": 2007,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2008-02-19/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2008-02-19/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2007 10-Q",
@@ -906,10 +919,10 @@
         "fiscal_date": "2007-09-30",
         "fiscal_year": 2007,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2007-11-07/f10q_3q2007.htm/f10q_3q2007.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2007-11-07/f10q_3q2007.htm%5Cf10q_3q2007.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2007 10-Q",
@@ -919,10 +932,10 @@
         "fiscal_date": "2007-07-01",
         "fiscal_year": 2007,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2007-08-08/f10q_2q2007.htm/f10q_2q2007.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2007-08-08/f10q_2q2007.htm%5Cf10q_2q2007.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2007 10-Q",
@@ -932,10 +945,10 @@
         "fiscal_date": "2007-04-01",
         "fiscal_year": 2007,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2007-05-09/f10q_1q2007.htm/f10q_1q2007.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2007-05-09/f10q_1q2007.htm%5Cf10q_1q2007.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2006 10-K",
@@ -945,10 +958,10 @@
         "fiscal_date": "2006-12-31",
         "fiscal_year": 2006,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2007-02-23/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2007-02-23/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2006 10-Q",
@@ -958,10 +971,10 @@
         "fiscal_date": "2006-10-01",
         "fiscal_year": 2006,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2006-11-08/form10q_3q2006.htm/form10q_3q2006.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2006-11-08/form10q_3q2006.htm%5Cform10q_3q2006.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2006 10-Q",
@@ -971,10 +984,10 @@
         "fiscal_date": "2006-07-02",
         "fiscal_year": 2006,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2006-08-09/form10q_2q2006.htm/form10q_2q2006.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2006-08-09/form10q_2q2006.htm%5Cform10q_2q2006.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2006 10-Q",
@@ -984,10 +997,10 @@
         "fiscal_date": "2006-04-02",
         "fiscal_year": 2006,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2006-05-10/form10q_1q2006.htm/form10q_1q2006.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2006-05-10/form10q_1q2006.htm%5Cform10q_1q2006.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2005 10-K",
@@ -997,10 +1010,10 @@
         "fiscal_date": "2005-12-31",
         "fiscal_year": 2005,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2006-02-28/form10k_december312005.htm/form10k_december312005.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2006-02-28/form10k_december312005.htm%5Cform10k_december312005.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2005 10-Q",
@@ -1010,10 +1023,10 @@
         "fiscal_date": "2005-10-02",
         "fiscal_year": 2005,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2005-11-09/form10q3q2005.htm/form10q3q2005.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2005-11-09/form10q3q2005.htm%5Cform10q3q2005.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2005 10-Q",
@@ -1023,10 +1036,10 @@
         "fiscal_date": "2005-07-03",
         "fiscal_year": 2005,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2005-08-09/f10q2q2005.htm/f10q2q2005.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2005-08-09/f10q2q2005.htm%5Cf10q2q2005.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2005 10-Q",
@@ -1036,10 +1049,10 @@
         "fiscal_date": "2005-04-01",
         "fiscal_year": 2005,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2005-05-11/f10q1q2005.htm/f10q1q2005.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2005-05-11/f10q1q2005.htm%5Cf10q1q2005.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2004 10-K",
@@ -1049,10 +1062,10 @@
         "fiscal_date": "2004-12-31",
         "fiscal_year": 2004,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2005-03-07/d16234_10-k.htm/d16234_10-k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2005-03-07/d16234_10-k.htm%5Cd16234_10-k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2004 10-Q",
@@ -1062,10 +1075,10 @@
         "fiscal_date": "2004-10-03",
         "fiscal_year": 2004,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2004-11-10/f10q3q2004.htm/f10q3q2004.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2004-11-10/f10q3q2004.htm%5Cf10q3q2004.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2004 10-Q",
@@ -1075,10 +1088,10 @@
         "fiscal_date": "2004-07-04",
         "fiscal_year": 2004,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2004-08-11/f10q2q2004.htm/f10q2q2004.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2004-08-11/f10q2q2004.htm%5Cf10q2q2004.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2004 10-Q",
@@ -1088,10 +1101,10 @@
         "fiscal_date": "2004-04-30",
         "fiscal_year": 2004,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2004-05-12/form10q_1qtr2004.htm/form10q_1qtr2004.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2004-05-12/form10q_1qtr2004.htm%5Cform10q_1qtr2004.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2003 10-K",
@@ -1101,10 +1114,10 @@
         "fiscal_date": "2003-12-31",
         "fiscal_year": 2003,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2004-03-12/form10k_21204.htm/form10k_21204.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2004-03-12/form10k_21204.htm%5Cform10k_21204.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2003 10-Q",
@@ -1114,10 +1127,10 @@
         "fiscal_date": "2003-09-28",
         "fiscal_year": 2003,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2003-11-05/thirdqtr200310q.htm/thirdqtr200310q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2003-11-05/thirdqtr200310q.htm%5Cthirdqtr200310q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2003 10-Q",
@@ -1127,10 +1140,10 @@
         "fiscal_date": "2003-06-29",
         "fiscal_year": 2003,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2003-08-06/f10q2q2003.htm/f10q2q2003.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2003-08-06/f10q2q2003.htm%5Cf10q2q2003.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2003 10-Q",
@@ -1140,10 +1153,10 @@
         "fiscal_date": "2003-05-08",
         "fiscal_year": 2003,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2003-05-08/firstqtr200310q.htm/firstqtr200310q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2003-05-08/firstqtr200310q.htm%5Cfirstqtr200310q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2003 10-K",
@@ -1153,10 +1166,10 @@
         "fiscal_date": "2003-03-26",
         "fiscal_year": 2003,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2003-03-26/form10k2002.htm/form10k2002.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2003-03-26/form10k2002.htm%5Cform10k2002.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2003 10-Q",
@@ -1166,10 +1179,10 @@
         "fiscal_date": "2002-09-29",
         "fiscal_year": 2003,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2002-11-12/f10q3q02.htm/f10q3q02.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2002-11-12/f10q3q02.htm%5Cf10q3q02.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2003 10-Q",
@@ -1179,10 +1192,10 @@
         "fiscal_date": "2002-06-30",
         "fiscal_year": 2003,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2002-08-07/form10q2q2002.htm/form10q2q2002.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2002-08-07/form10q2q2002.htm%5Cform10q2q2002.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2003 10-Q",
@@ -1192,10 +1205,10 @@
         "fiscal_date": "2002-03-31",
         "fiscal_year": 2003,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2002-04-26/firstqtr10q02.htm/firstqtr10q02.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2002-04-26/firstqtr10q02.htm%5Cfirstqtr10q02.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2001 10-Q",
@@ -1205,10 +1218,10 @@
         "fiscal_date": "2001-09-30",
         "fiscal_year": 2001,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2001-11-07/thirdqtr01_10q.htm/thirdqtr01_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2001-11-07/thirdqtr01_10q.htm%5Cthirdqtr01_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2001 10-Q",
@@ -1218,10 +1231,10 @@
         "fiscal_date": "2001-07-01",
         "fiscal_year": 2001,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2001-08-08/secondqtr01_10q.htm/secondqtr01_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2001-08-08/secondqtr01_10q.htm%5Csecondqtr01_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2001 10-Q",
@@ -1231,10 +1244,10 @@
         "fiscal_date": "2001-04-01",
         "fiscal_year": 2001,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2001-05-10/firstqtr2001_10-q.htm/firstqtr2001_10-q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2001-05-10/firstqtr2001_10-q.htm%5Cfirstqtr2001_10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2001 10-Q",
@@ -1244,10 +1257,10 @@
         "fiscal_date": "2000-10-01",
         "fiscal_year": 2001,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2000-11-09/fileedgar3qver10q.htm/fileedgar3qver10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2000-11-09/fileedgar3qver10q.htm%5Cfileedgar3qver10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 2000 10-Q",
@@ -1257,10 +1270,10 @@
         "fiscal_date": "2000-07-02",
         "fiscal_year": 2000,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2000-08-09/0000047111-00-500004-0001.txt/0000047111-00-500004-0001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2000-08-09/0000047111-00-500004-0001.txt%5C0000047111-00-500004-0001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 2000 10-Q",
@@ -1272,8 +1285,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2000-05-10/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 2000 10-K",
@@ -1285,8 +1298,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/2000-03-13/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 2000 10-Q",
@@ -1298,8 +1311,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1999-11-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 1999 10-Q",
@@ -1311,8 +1324,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1999-08-17/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 1999 10-Q",
@@ -1324,8 +1337,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1999-05-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 1999 10-K",
@@ -1337,8 +1350,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1999-03-15/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 1999 10-Q",
@@ -1350,8 +1363,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1998-11-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 1998 10-Q",
@@ -1363,8 +1376,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1998-08-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 1998 10-Q",
@@ -1376,8 +1389,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1998-05-13/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 1998 10-K",
@@ -1389,8 +1402,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1998-03-16/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 1998 10-Q",
@@ -1402,8 +1415,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1997-11-05/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 1997 10-Q",
@@ -1415,8 +1428,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1997-08-04/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 1997 10-Q",
@@ -1428,8 +1441,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1997-05-07/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 1997 10-K",
@@ -1441,8 +1454,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1997-03-17/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 1997 10-Q",
@@ -1454,8 +1467,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1996-11-06/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 1996 10-Q",
@@ -1467,8 +1480,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1996-08-08/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 1996 10-Q",
@@ -1480,8 +1493,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1996-05-08/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 1996 10-K",
@@ -1493,8 +1506,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1996-03-13/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 1996 10-Q",
@@ -1506,8 +1519,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1995-11-09/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 1995 10-Q",
@@ -1519,8 +1532,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1995-07-28/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 1995 10-Q",
@@ -1532,8 +1545,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1995-05-10/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 1995 10-K",
@@ -1545,8 +1558,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1995-03-10/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q1 1995 10-Q",
@@ -1558,8 +1571,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1994-11-09/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q4 1994 10-Q",
@@ -1571,8 +1584,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1994-07-29/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q3 1994 10-Q",
@@ -1584,8 +1597,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1994-05-11/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "HSY",
         "geography": "US",
         "content_name": "HSY Q2 1994 10-K",
@@ -1597,7 +1610,7 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/HSY/1994-03-11/.pdf",
         "periodicity": "periodic"
-    },
+      },
     {
         "equity_ticker": "HSY",
         "geography": "US",

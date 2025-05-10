@@ -9,10 +9,10 @@
         "fiscal_date": "2025-01-31",
         "fiscal_year": 2025,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2025-03-11/casy-20250131.htm/casy-20250131.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2025-03-11/casy-20250131.htm%5Ccasy-20250131.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2025 10-Q",
@@ -22,10 +22,10 @@
         "fiscal_date": "2024-10-31",
         "fiscal_year": 2025,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2024-12-09/casy-20241031.htm/casy-20241031.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2024-12-09/casy-20241031.htm%5Ccasy-20241031.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2025 10-Q",
@@ -35,10 +35,10 @@
         "fiscal_date": "2024-07-31",
         "fiscal_year": 2025,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2024-09-04/casy-20240731.htm/casy-20240731.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2024-09-04/casy-20240731.htm%5Ccasy-20240731.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2024 10-K",
@@ -48,10 +48,10 @@
         "fiscal_date": "2024-04-30",
         "fiscal_year": 2024,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2024-06-24/casy-20240430.htm/casy-20240430.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2024-06-24/casy-20240430.htm%5Ccasy-20240430.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2024 10-Q",
@@ -61,10 +61,10 @@
         "fiscal_date": "2024-01-31",
         "fiscal_year": 2024,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2024-03-11/casy-20240131.htm/casy-20240131.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2024-03-11/casy-20240131.htm%5Ccasy-20240131.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2024 10-Q",
@@ -74,10 +74,10 @@
         "fiscal_date": "2023-10-31",
         "fiscal_year": 2024,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2023-12-11/casy-20231031.htm/casy-20231031.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2023-12-11/casy-20231031.htm%5Ccasy-20231031.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2024 10-Q",
@@ -87,10 +87,10 @@
         "fiscal_date": "2023-07-31",
         "fiscal_year": 2024,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2023-09-11/casy-20230731.htm/casy-20230731.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2023-09-11/casy-20230731.htm%5Ccasy-20230731.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2023 10-K",
@@ -100,10 +100,10 @@
         "fiscal_date": "2023-04-30",
         "fiscal_year": 2023,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2023-06-23/casy-20230430.htm/casy-20230430.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2023-06-23/casy-20230430.htm%5Ccasy-20230430.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2023 10-Q",
@@ -113,10 +113,10 @@
         "fiscal_date": "2023-01-31",
         "fiscal_year": 2023,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2023-03-07/casy-20230131.htm/casy-20230131.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2023-03-07/casy-20230131.htm%5Ccasy-20230131.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2023 10-Q",
@@ -126,10 +126,10 @@
         "fiscal_date": "2022-10-31",
         "fiscal_year": 2023,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2022-12-06/casy-20221031.htm/casy-20221031.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2022-12-06/casy-20221031.htm%5Ccasy-20221031.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2023 10-Q",
@@ -139,10 +139,10 @@
         "fiscal_date": "2022-07-31",
         "fiscal_year": 2023,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2022-09-07/casy-20220731.htm/casy-20220731.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2022-09-07/casy-20220731.htm%5Ccasy-20220731.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2022 10-K",
@@ -152,10 +152,10 @@
         "fiscal_date": "2022-04-30",
         "fiscal_year": 2022,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2022-06-24/casy-20220430.htm/casy-20220430.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2022-06-24/casy-20220430.htm%5Ccasy-20220430.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2022 10-Q",
@@ -165,10 +165,10 @@
         "fiscal_date": "2022-01-31",
         "fiscal_year": 2022,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2022-03-08/casy-20220131.htm/casy-20220131.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2022-03-08/casy-20220131.htm%5Ccasy-20220131.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2022 10-Q",
@@ -178,10 +178,10 @@
         "fiscal_date": "2021-10-31",
         "fiscal_year": 2022,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2021-12-07/casy-20211031.htm/casy-20211031.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2021-12-07/casy-20211031.htm%5Ccasy-20211031.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2022 10-Q",
@@ -191,10 +191,10 @@
         "fiscal_date": "2021-07-31",
         "fiscal_year": 2022,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2021-09-08/casy-20210731.htm/casy-20210731.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2021-09-08/casy-20210731.htm%5Ccasy-20210731.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2021 10-K",
@@ -204,10 +204,10 @@
         "fiscal_date": "2021-04-30",
         "fiscal_year": 2021,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2021-06-25/casy-20210430.htm/casy-20210430.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2021-06-25/casy-20210430.htm%5Ccasy-20210430.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2021 10-Q",
@@ -217,10 +217,10 @@
         "fiscal_date": "2021-01-31",
         "fiscal_year": 2021,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2021-03-08/casy-20210131.htm/casy-20210131.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2021-03-08/casy-20210131.htm%5Ccasy-20210131.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2021 10-Q",
@@ -230,10 +230,10 @@
         "fiscal_date": "2020-10-31",
         "fiscal_year": 2021,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2020-12-07/casy-20201031.htm/casy-20201031.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2020-12-07/casy-20201031.htm%5Ccasy-20201031.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2021 10-Q",
@@ -243,10 +243,10 @@
         "fiscal_date": "2020-07-31",
         "fiscal_year": 2021,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2020-09-08/casy-20200731.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2020-09-08/casy-20200731.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2020 10-K",
@@ -256,10 +256,10 @@
         "fiscal_date": "2020-04-30",
         "fiscal_year": 2020,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2020-06-26/casy-2020430x10k.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2020-06-26/casy-2020430x10k.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2020 10-Q",
@@ -269,10 +269,10 @@
         "fiscal_date": "2020-01-31",
         "fiscal_year": 2020,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2020-03-09/casy-2020131x10q.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2020-03-09/casy-2020131x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2020 10-Q",
@@ -282,10 +282,10 @@
         "fiscal_date": "2019-10-31",
         "fiscal_year": 2020,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2019-12-09/casy-20191031x10q.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2019-12-09/casy-20191031x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2020 10-Q",
@@ -295,10 +295,10 @@
         "fiscal_date": "2019-07-31",
         "fiscal_year": 2020,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2019-09-09/casy-2019731x10q.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2019-09-09/casy-2019731x10q.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2019 10-K",
@@ -308,10 +308,10 @@
         "fiscal_date": "2019-04-30",
         "fiscal_year": 2019,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2019-06-28/casy-2019430x10k.htm/casy-2019430x10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2019-06-28/casy-2019430x10k.htm%5Ccasy-2019430x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2019 10-Q",
@@ -321,10 +321,10 @@
         "fiscal_date": "2019-01-31",
         "fiscal_year": 2019,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2019-03-11/casy-2019131x10q.htm/casy-2019131x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2019-03-11/casy-2019131x10q.htm%5Ccasy-2019131x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2019 10-Q",
@@ -334,10 +334,10 @@
         "fiscal_date": "2018-10-31",
         "fiscal_year": 2019,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2018-12-10/casy-20181031x10q.htm/casy-20181031x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2018-12-10/casy-20181031x10q.htm%5Ccasy-20181031x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2019 10-Q",
@@ -347,10 +347,10 @@
         "fiscal_date": "2018-07-31",
         "fiscal_year": 2019,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2018-09-10/casy-2018731x10q.htm/casy-2018731x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2018-09-10/casy-2018731x10q.htm%5Ccasy-2018731x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2018 10-K",
@@ -360,10 +360,10 @@
         "fiscal_date": "2018-04-30",
         "fiscal_year": 2018,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2018-06-29/casy-2018430x10k.htm/casy-2018430x10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2018-06-29/casy-2018430x10k.htm%5Ccasy-2018430x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2018 10-Q",
@@ -373,10 +373,10 @@
         "fiscal_date": "2018-01-31",
         "fiscal_year": 2018,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2018-03-07/casy-2018131x10q.htm/casy-2018131x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2018-03-07/casy-2018131x10q.htm%5Ccasy-2018131x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2018 10-Q",
@@ -386,10 +386,10 @@
         "fiscal_date": "2017-10-31",
         "fiscal_year": 2018,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2017-12-11/casy-20171031x10q.htm/casy-20171031x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2017-12-11/casy-20171031x10q.htm%5Ccasy-20171031x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2018 10-Q",
@@ -399,10 +399,10 @@
         "fiscal_date": "2017-07-31",
         "fiscal_year": 2018,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2017-09-05/casy-2017731x10q.htm/casy-2017731x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2017-09-05/casy-2017731x10q.htm%5Ccasy-2017731x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2017 10-K",
@@ -412,10 +412,10 @@
         "fiscal_date": "2017-04-30",
         "fiscal_year": 2017,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2017-06-29/casy-2017430x10k.htm/casy-2017430x10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2017-06-29/casy-2017430x10k.htm%5Ccasy-2017430x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2017 10-Q",
@@ -425,10 +425,10 @@
         "fiscal_date": "2017-01-31",
         "fiscal_year": 2017,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2017-03-06/casy-2017131x10q.htm/casy-2017131x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2017-03-06/casy-2017131x10q.htm%5Ccasy-2017131x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2017 10-Q",
@@ -438,10 +438,10 @@
         "fiscal_date": "2016-10-31",
         "fiscal_year": 2017,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2016-12-07/casy-20161031x10q.htm/casy-20161031x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2016-12-07/casy-20161031x10q.htm%5Ccasy-20161031x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2017 10-Q",
@@ -451,10 +451,10 @@
         "fiscal_date": "2016-07-31",
         "fiscal_year": 2017,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2016-09-06/casy-2016731x10q.htm/casy-2016731x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2016-09-06/casy-2016731x10q.htm%5Ccasy-2016731x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2016 10-K",
@@ -464,10 +464,10 @@
         "fiscal_date": "2016-04-30",
         "fiscal_year": 2016,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2016-06-27/casy-2016430x10k.htm/casy-2016430x10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2016-06-27/casy-2016430x10k.htm%5Ccasy-2016430x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2016 10-Q",
@@ -477,10 +477,10 @@
         "fiscal_date": "2016-01-31",
         "fiscal_year": 2016,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2016-03-07/casy-2016131x10q.htm/casy-2016131x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2016-03-07/casy-2016131x10q.htm%5Ccasy-2016131x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2016 10-Q",
@@ -490,10 +490,10 @@
         "fiscal_date": "2015-10-31",
         "fiscal_year": 2016,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2015-12-07/casy-20151031x10q.htm/casy-20151031x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2015-12-07/casy-20151031x10q.htm%5Ccasy-20151031x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2016 10-Q",
@@ -503,10 +503,10 @@
         "fiscal_date": "2015-07-31",
         "fiscal_year": 2016,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2015-09-08/casy-2015731x10q.htm/casy-2015731x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2015-09-08/casy-2015731x10q.htm%5Ccasy-2015731x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2015 10-K",
@@ -516,10 +516,10 @@
         "fiscal_date": "2015-04-30",
         "fiscal_year": 2015,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2015-06-26/casy-2015430x10k.htm/casy-2015430x10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2015-06-26/casy-2015430x10k.htm%5Ccasy-2015430x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2015 10-Q",
@@ -529,10 +529,10 @@
         "fiscal_date": "2015-01-31",
         "fiscal_year": 2015,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2015-03-09/casy-2015131x10q.htm/casy-2015131x10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2015-03-09/casy-2015131x10q.htm%5Ccasy-2015131x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2015 10-Q",
@@ -542,10 +542,10 @@
         "fiscal_date": "2014-10-31",
         "fiscal_year": 2015,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2014-12-10/d836390d10q.htm/d836390d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2014-12-10/d836390d10q.htm%5Cd836390d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2015 10-Q",
@@ -555,10 +555,10 @@
         "fiscal_date": "2014-07-31",
         "fiscal_year": 2015,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2014-09-08/d785951d10q.htm/d785951d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2014-09-08/d785951d10q.htm%5Cd785951d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2014 10-K",
@@ -568,10 +568,10 @@
         "fiscal_date": "2014-04-30",
         "fiscal_year": 2014,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2014-06-27/d751155d10k.htm/d751155d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2014-06-27/d751155d10k.htm%5Cd751155d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2014 10-Q",
@@ -581,10 +581,10 @@
         "fiscal_date": "2014-01-31",
         "fiscal_year": 2014,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2014-03-10/d690701d10q.htm/d690701d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2014-03-10/d690701d10q.htm%5Cd690701d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2014 10-Q",
@@ -594,10 +594,10 @@
         "fiscal_date": "2013-10-31",
         "fiscal_year": 2014,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2013-12-09/d639929d10q.htm/d639929d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2013-12-09/d639929d10q.htm%5Cd639929d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2014 10-Q",
@@ -607,10 +607,10 @@
         "fiscal_date": "2013-07-31",
         "fiscal_year": 2014,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2013-09-09/d595682d10q.htm/d595682d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2013-09-09/d595682d10q.htm%5Cd595682d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2013 10-K",
@@ -620,10 +620,10 @@
         "fiscal_date": "2013-04-30",
         "fiscal_year": 2013,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2013-06-27/d560951d10k.htm/d560951d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2013-06-27/d560951d10k.htm%5Cd560951d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2013 10-Q",
@@ -633,10 +633,10 @@
         "fiscal_date": "2013-01-31",
         "fiscal_year": 2013,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2013-03-11/d500385d10q.htm/d500385d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2013-03-11/d500385d10q.htm%5Cd500385d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2013 10-Q",
@@ -646,10 +646,10 @@
         "fiscal_date": "2012-10-31",
         "fiscal_year": 2013,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2012-12-10/d451309d10q.htm/d451309d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2012-12-10/d451309d10q.htm%5Cd451309d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2013 10-Q",
@@ -659,10 +659,10 @@
         "fiscal_date": "2012-07-31",
         "fiscal_year": 2013,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2012-09-10/d408869d10q.htm/d408869d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2012-09-10/d408869d10q.htm%5Cd408869d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2012 10-K",
@@ -672,10 +672,10 @@
         "fiscal_date": "2012-04-30",
         "fiscal_year": 2012,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2012-06-26/d372825d10k.htm/d372825d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2012-06-26/d372825d10k.htm%5Cd372825d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2012 10-Q",
@@ -685,10 +685,10 @@
         "fiscal_date": "2012-01-31",
         "fiscal_year": 2012,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2012-03-08/d280708d10q.htm/d280708d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2012-03-08/d280708d10q.htm%5Cd280708d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2012 10-Q",
@@ -698,10 +698,10 @@
         "fiscal_date": "2011-10-31",
         "fiscal_year": 2012,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2011-12-08/d267410d10q.htm/d267410d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2011-12-08/d267410d10q.htm%5Cd267410d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2012 10-Q",
@@ -711,10 +711,10 @@
         "fiscal_date": "2011-07-31",
         "fiscal_year": 2012,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2011-09-09/d229959d10q.htm/d229959d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2011-09-09/d229959d10q.htm%5Cd229959d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2011 10-K",
@@ -724,10 +724,10 @@
         "fiscal_date": "2011-04-30",
         "fiscal_year": 2011,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2011-06-28/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2011-06-28/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2011 10-Q",
@@ -737,10 +737,10 @@
         "fiscal_date": "2011-01-31",
         "fiscal_year": 2011,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2011-03-09/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2011-03-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2011 10-Q",
@@ -750,10 +750,10 @@
         "fiscal_date": "2010-10-31",
         "fiscal_year": 2011,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2010-12-09/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2010-12-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2011 10-Q",
@@ -763,10 +763,10 @@
         "fiscal_date": "2010-07-31",
         "fiscal_year": 2011,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2010-09-09/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2010-09-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2010 10-K",
@@ -776,10 +776,10 @@
         "fiscal_date": "2010-04-30",
         "fiscal_year": 2010,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2010-06-28/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2010-06-28/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2010 10-Q",
@@ -789,10 +789,10 @@
         "fiscal_date": "2010-01-31",
         "fiscal_year": 2010,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2010-03-10/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2010-03-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2010 10-Q",
@@ -802,10 +802,10 @@
         "fiscal_date": "2009-10-31",
         "fiscal_year": 2010,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2009-12-07/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2009-12-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2010 10-Q",
@@ -815,10 +815,10 @@
         "fiscal_date": "2009-07-31",
         "fiscal_year": 2010,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2009-09-08/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2009-09-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2009 10-K",
@@ -828,10 +828,10 @@
         "fiscal_date": "2009-04-30",
         "fiscal_year": 2009,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2009-06-29/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2009-06-29/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2009 10-Q",
@@ -841,10 +841,10 @@
         "fiscal_date": "2009-01-31",
         "fiscal_year": 2009,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2009-03-11/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2009-03-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2009 10-Q",
@@ -854,10 +854,10 @@
         "fiscal_date": "2008-10-31",
         "fiscal_year": 2009,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2008-12-05/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2008-12-05/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2009 10-Q",
@@ -867,10 +867,10 @@
         "fiscal_date": "2008-07-31",
         "fiscal_year": 2009,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2008-09-08/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2008-09-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2008 10-K",
@@ -880,10 +880,10 @@
         "fiscal_date": "2008-04-30",
         "fiscal_year": 2008,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2008-06-26/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2008-06-26/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2008 10-Q",
@@ -893,10 +893,10 @@
         "fiscal_date": "2008-01-31",
         "fiscal_year": 2008,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2008-03-07/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2008-03-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2008 10-Q",
@@ -906,10 +906,10 @@
         "fiscal_date": "2007-10-31",
         "fiscal_year": 2008,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2007-12-07/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2007-12-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2008 10-Q",
@@ -919,10 +919,10 @@
         "fiscal_date": "2007-07-31",
         "fiscal_year": 2008,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2007-09-07/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2007-09-07/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2007 10-K",
@@ -932,10 +932,10 @@
         "fiscal_date": "2007-04-30",
         "fiscal_year": 2007,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2007-06-29/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2007-06-29/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2007 10-Q",
@@ -945,10 +945,10 @@
         "fiscal_date": "2007-01-31",
         "fiscal_year": 2007,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2007-03-09/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2007-03-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2007 10-Q",
@@ -958,10 +958,10 @@
         "fiscal_date": "2006-10-31",
         "fiscal_year": 2007,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2006-12-08/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2006-12-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2007 10-Q",
@@ -971,10 +971,10 @@
         "fiscal_date": "2006-07-31",
         "fiscal_year": 2007,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2006-09-08/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2006-09-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2006 10-K",
@@ -984,10 +984,10 @@
         "fiscal_date": "2006-04-30",
         "fiscal_year": 2006,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2006-07-13/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2006-07-13/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2006 10-Q",
@@ -997,10 +997,10 @@
         "fiscal_date": "2006-01-31",
         "fiscal_year": 2006,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2006-03-13/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2006-03-13/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2006 10-Q",
@@ -1010,10 +1010,10 @@
         "fiscal_date": "2005-10-31",
         "fiscal_year": 2006,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2005-12-09/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2005-12-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2006 10-Q",
@@ -1023,10 +1023,10 @@
         "fiscal_date": "2005-07-31",
         "fiscal_year": 2006,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2005-09-08/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2005-09-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2005 10-K",
@@ -1036,10 +1036,10 @@
         "fiscal_date": "2005-04-30",
         "fiscal_year": 2005,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2005-07-13/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2005-07-13/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2005 10-Q",
@@ -1049,10 +1049,10 @@
         "fiscal_date": "2005-01-31",
         "fiscal_year": 2005,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2005-03-14/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2005-03-14/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2005 10-Q",
@@ -1062,10 +1062,10 @@
         "fiscal_date": "2004-10-31",
         "fiscal_year": 2005,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2004-12-09/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2004-12-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2005 10-Q",
@@ -1075,10 +1075,10 @@
         "fiscal_date": "2004-07-31",
         "fiscal_year": 2005,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2004-09-09/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2004-09-09/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2004 10-K",
@@ -1088,10 +1088,10 @@
         "fiscal_date": "2004-04-30",
         "fiscal_year": 2004,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2004-07-14/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2004-07-14/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2004 10-Q",
@@ -1101,10 +1101,10 @@
         "fiscal_date": "2004-01-31",
         "fiscal_year": 2004,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2004-03-15/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2004-03-15/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2004 10-Q",
@@ -1114,10 +1114,10 @@
         "fiscal_date": "2003-10-31",
         "fiscal_year": 2004,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2003-12-12/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2003-12-12/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2004 10-Q",
@@ -1127,10 +1127,10 @@
         "fiscal_date": "2003-07-31",
         "fiscal_year": 2004,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2003-09-11/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2003-09-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2003 10-K",
@@ -1140,10 +1140,10 @@
         "fiscal_date": "2003-04-30",
         "fiscal_year": 2003,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2003-07-29/d10k.txt/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2003-07-29/d10k.txt%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2003 10-Q",
@@ -1153,10 +1153,10 @@
         "fiscal_date": "2003-01-31",
         "fiscal_year": 2003,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2003-03-11/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2003-03-11/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2003 10-Q",
@@ -1166,10 +1166,10 @@
         "fiscal_date": "2002-10-31",
         "fiscal_year": 2003,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2002-12-13/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2002-12-13/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2003 10-Q",
@@ -1179,10 +1179,10 @@
         "fiscal_date": "2002-07-31",
         "fiscal_year": 2003,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2002-09-12/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2002-09-12/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2002 10-K",
@@ -1192,10 +1192,10 @@
         "fiscal_date": "2002-04-30",
         "fiscal_year": 2002,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2002-07-26/d10k.txt/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2002-07-26/d10k.txt%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2002 10-Q",
@@ -1205,10 +1205,10 @@
         "fiscal_date": "2002-01-31",
         "fiscal_year": 2002,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2002-03-13/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2002-03-13/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2002 10-Q",
@@ -1218,10 +1218,10 @@
         "fiscal_date": "2001-10-31",
         "fiscal_year": 2002,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2001-12-12/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2001-12-12/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2002 10-Q",
@@ -1231,10 +1231,10 @@
         "fiscal_date": "2001-07-31",
         "fiscal_year": 2002,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2001-09-14/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2001-09-14/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 2001 10-Q",
@@ -1244,10 +1244,10 @@
         "fiscal_date": "2001-01-31",
         "fiscal_year": 2001,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2001-03-12/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2001-03-12/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 2001 10-Q",
@@ -1257,10 +1257,10 @@
         "fiscal_date": "2000-10-31",
         "fiscal_year": 2001,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2000-12-14/0000950131-00-006789-0001.txt/0000950131-00-006789-0001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2000-12-14/0000950131-00-006789-0001.txt%5C0000950131-00-006789-0001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 2001 10-Q",
@@ -1270,10 +1270,10 @@
         "fiscal_date": "2000-07-31",
         "fiscal_year": 2001,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2000-09-08/0000950131-00-005246-0001.txt/0000950131-00-005246-0001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2000-09-08/0000950131-00-005246-0001.txt%5C0000950131-00-005246-0001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 2001 10-Q",
@@ -1285,8 +1285,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/2000-03-13/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 1999 10-Q",
@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1999-12-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 1999 10-Q",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1999-09-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 1999 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1999-03-17/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 1999 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1998-12-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 1998 10-Q",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1998-09-09/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 1998 10-Q",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1998-03-11/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 1998 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1997-12-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 1998 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1997-09-05/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 1997 10-Q",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1997-03-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 1997 10-Q",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1996-12-13/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 1997 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1996-09-10/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 1997 10-K",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1996-07-26/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 1996 10-Q",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1996-03-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 1996 10-Q",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1995-12-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 1996 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1995-09-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 1996 10-K",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1995-07-28/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 1995 10-Q",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1995-03-16/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 1995 10-Q",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1994-12-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q2 1995 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1994-09-13/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q1 1995 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1994-07-29/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q4 1994 10-K",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1994-07-28/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CASY",
         "geography": "US",
         "content_name": "CASY Q3 1994 10-Q",
@@ -1571,7 +1571,7 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CASY/1994-03-17/.pdf",
         "periodicity": "periodic"
-    },
+      },
     {
         "equity_ticker": "CASY",
         "geography": "US",

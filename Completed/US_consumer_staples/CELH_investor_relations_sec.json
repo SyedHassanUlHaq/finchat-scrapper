@@ -2,6 +2,19 @@
     {
         "equity_ticker": "CELH",
         "geography": "US",
+        "content_name": "CELH Q1 2025 10-Q",
+        "file_type": "pdf",
+        "content_type": "quarterly_report",
+        "published_date": "2025-05-05",
+        "fiscal_date": "2025-03-31",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2025-05-05/celh-20250331.htm%5Ccelh-20250331.pdf",
+        "periodicity": "periodic"
+      },
+      {
+        "equity_ticker": "CELH",
+        "geography": "US",
         "content_name": "CELH Q4 2024 10-K",
         "file_type": "pdf",
         "content_type": "annual_report",
@@ -9,10 +22,10 @@
         "fiscal_date": "2024-12-31",
         "fiscal_year": 2024,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2025-03-03/celh-20241231.htm/celh-20241231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2025-03-03/celh-20241231.htm%5Ccelh-20241231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2024 10-Q",
@@ -22,10 +35,10 @@
         "fiscal_date": "2024-09-30",
         "fiscal_year": 2024,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2024-11-05/celh-20240930.htm/celh-20240930.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2024-11-05/celh-20240930.htm%5Ccelh-20240930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2024 10-Q",
@@ -35,10 +48,10 @@
         "fiscal_date": "2024-06-30",
         "fiscal_year": 2024,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2024-08-05/celh-20240630.htm/celh-20240630.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2024-08-05/celh-20240630.htm%5Ccelh-20240630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2024 10-Q",
@@ -48,10 +61,10 @@
         "fiscal_date": "2024-03-31",
         "fiscal_year": 2024,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2024-05-06/celh-20240331.htm/celh-20240331.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2024-05-06/celh-20240331.htm%5Ccelh-20240331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2023 10-K",
@@ -61,10 +74,10 @@
         "fiscal_date": "2023-12-31",
         "fiscal_year": 2023,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2024-02-28/celh-20231231.htm/celh-20231231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2024-02-28/celh-20231231.htm%5Ccelh-20231231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2023 10-Q",
@@ -74,10 +87,10 @@
         "fiscal_date": "2023-09-30",
         "fiscal_year": 2023,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2023-11-06/celh-20230930.htm/celh-20230930.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2023-11-06/celh-20230930.htm%5Ccelh-20230930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2023 10-Q",
@@ -87,10 +100,10 @@
         "fiscal_date": "2023-06-30",
         "fiscal_year": 2023,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2023-08-08/celh-20230630.htm/celh-20230630.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2023-08-08/celh-20230630.htm%5Ccelh-20230630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2023 10-Q",
@@ -100,10 +113,10 @@
         "fiscal_date": "2023-03-31",
         "fiscal_year": 2023,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2023-05-09/celh-20230331.htm/celh-20230331.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2023-05-09/celh-20230331.htm%5Ccelh-20230331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2022 10-K",
@@ -113,10 +126,10 @@
         "fiscal_date": "2022-12-31",
         "fiscal_year": 2022,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2023-03-01/celh-20221231.htm/celh-20221231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2023-03-01/celh-20221231.htm%5Ccelh-20221231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2022 10-Q",
@@ -126,10 +139,10 @@
         "fiscal_date": "2022-09-30",
         "fiscal_year": 2022,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2022-11-09/celh-20220930.htm/celh-20220930.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2022-11-09/celh-20220930.htm%5Ccelh-20220930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2022 10-Q",
@@ -139,10 +152,10 @@
         "fiscal_date": "2022-06-30",
         "fiscal_year": 2022,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2022-08-09/celh-20220630.htm/celh-20220630.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2022-08-09/celh-20220630.htm%5Ccelh-20220630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2022 10-Q",
@@ -152,10 +165,10 @@
         "fiscal_date": "2022-03-31",
         "fiscal_year": 2022,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2022-05-10/celh-20220331.htm/celh-20220331.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2022-05-10/celh-20220331.htm%5Ccelh-20220331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2021 10-K",
@@ -165,10 +178,10 @@
         "fiscal_date": "2021-12-31",
         "fiscal_year": 2021,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2022-03-16/celh-20211231.htm/celh-20211231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2022-03-16/celh-20211231.htm%5Ccelh-20211231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2021 10-Q",
@@ -178,10 +191,10 @@
         "fiscal_date": "2021-09-30",
         "fiscal_year": 2021,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2021-11-12/celsiusholdings_10q.htm/celsiusholdings_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2021-11-12/celsiusholdings_10q.htm%5Ccelsiusholdings_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2021 10-Q",
@@ -191,10 +204,10 @@
         "fiscal_date": "2021-06-30",
         "fiscal_year": 2021,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2021-08-12/celsiusholdings_10q.htm/celsiusholdings_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2021-08-12/celsiusholdings_10q.htm%5Ccelsiusholdings_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2021 10-Q",
@@ -204,10 +217,10 @@
         "fiscal_date": "2021-03-31",
         "fiscal_year": 2021,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2021-05-13/celsiusholdings_10q.htm/celsiusholdings_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2021-05-13/celsiusholdings_10q.htm%5Ccelsiusholdings_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2020 10-K",
@@ -217,10 +230,10 @@
         "fiscal_date": "2020-12-31",
         "fiscal_year": 2020,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2021-03-11/celsiusholdings_10k.htm/celsiusholdings_10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2021-03-11/celsiusholdings_10k.htm%5Ccelsiusholdings_10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2020 10-Q",
@@ -230,10 +243,10 @@
         "fiscal_date": "2020-09-30",
         "fiscal_year": 2020,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2020-11-12/f10q0920_celsiusholdings.htm/f10q0920_celsiusholdings.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2020-11-12/f10q0920_celsiusholdings.htm%5Cf10q0920_celsiusholdings.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2020 10-Q",
@@ -243,10 +256,10 @@
         "fiscal_date": "2020-06-30",
         "fiscal_year": 2020,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2020-08-06/f10q0620_celsiusholding.htm/f10q0620_celsiusholding.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2020-08-06/f10q0620_celsiusholding.htm%5Cf10q0620_celsiusholding.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2020 10-Q",
@@ -256,10 +269,10 @@
         "fiscal_date": "2020-03-31",
         "fiscal_year": 2020,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2020-05-12/f10q0320_celsiusholdings.htm/f10q0320_celsiusholdings.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2020-05-12/f10q0320_celsiusholdings.htm%5Cf10q0320_celsiusholdings.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2019 10-K",
@@ -269,10 +282,10 @@
         "fiscal_date": "2019-12-31",
         "fiscal_year": 2019,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2020-03-12/f10k2019_celsiusholdingsinc.htm/f10k2019_celsiusholdingsinc.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2020-03-12/f10k2019_celsiusholdingsinc.htm%5Cf10k2019_celsiusholdingsinc.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2019 10-Q",
@@ -282,10 +295,10 @@
         "fiscal_date": "2019-09-30",
         "fiscal_year": 2019,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2019-11-07/f10q0919_celsiusholdings.htm/f10q0919_celsiusholdings.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2019-11-07/f10q0919_celsiusholdings.htm%5Cf10q0919_celsiusholdings.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2019 10-Q",
@@ -295,10 +308,10 @@
         "fiscal_date": "2019-06-30",
         "fiscal_year": 2019,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2019-08-08/f10q0619_celsiusholdings.htm/f10q0619_celsiusholdings.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2019-08-08/f10q0619_celsiusholdings.htm%5Cf10q0619_celsiusholdings.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2019 10-Q",
@@ -308,10 +321,10 @@
         "fiscal_date": "2019-03-31",
         "fiscal_year": 2019,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2019-05-09/s118043_10q.htm/s118043_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2019-05-09/s118043_10q.htm%5Cs118043_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2018 10-K",
@@ -321,10 +334,10 @@
         "fiscal_date": "2018-12-31",
         "fiscal_year": 2018,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2019-03-14/s116616_10k.htm/s116616_10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2019-03-14/s116616_10k.htm%5Cs116616_10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2018 10-Q",
@@ -334,10 +347,10 @@
         "fiscal_date": "2018-09-30",
         "fiscal_year": 2018,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2018-11-08/s113852_10q.htm/s113852_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2018-11-08/s113852_10q.htm%5Cs113852_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2018 10-Q",
@@ -347,10 +360,10 @@
         "fiscal_date": "2018-06-30",
         "fiscal_year": 2018,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2018-08-09/s111924_10q.htm/s111924_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2018-08-09/s111924_10q.htm%5Cs111924_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2018 10-Q",
@@ -360,10 +373,10 @@
         "fiscal_date": "2018-03-31",
         "fiscal_year": 2018,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2018-05-10/s110007_10q.htm/s110007_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2018-05-10/s110007_10q.htm%5Cs110007_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2017 10-K",
@@ -373,10 +386,10 @@
         "fiscal_date": "2017-12-31",
         "fiscal_year": 2017,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2018-03-08/s109237_10k.htm/s109237_10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2018-03-08/s109237_10k.htm%5Cs109237_10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2017 10-Q",
@@ -386,10 +399,10 @@
         "fiscal_date": "2017-09-30",
         "fiscal_year": 2017,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2017-11-08/s108003_10q.htm/s108003_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2017-11-08/s108003_10q.htm%5Cs108003_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2017 10-Q",
@@ -399,10 +412,10 @@
         "fiscal_date": "2017-06-30",
         "fiscal_year": 2017,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2017-08-09/s107069_10q.htm/s107069_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2017-08-09/s107069_10q.htm%5Cs107069_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2017 10-Q",
@@ -412,10 +425,10 @@
         "fiscal_date": "2017-03-31",
         "fiscal_year": 2017,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2017-05-11/s106122_10q.htm/s106122_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2017-05-11/s106122_10q.htm%5Cs106122_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2016 10-K",
@@ -425,10 +438,10 @@
         "fiscal_date": "2016-12-31",
         "fiscal_year": 2016,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2017-03-30/s105632_10k.htm/s105632_10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2017-03-30/s105632_10k.htm%5Cs105632_10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2016 10-Q",
@@ -438,10 +451,10 @@
         "fiscal_date": "2016-09-30",
         "fiscal_year": 2016,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2016-11-10/s104563_10q.htm/s104563_10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2016-11-10/s104563_10q.htm%5Cs104563_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2016 10-Q",
@@ -451,10 +464,10 @@
         "fiscal_date": "2011-03-31",
         "fiscal_year": 2016,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2011-05-10/f10q0311_celsius.htm/f10q0311_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2011-05-10/f10q0311_celsius.htm%5Cf10q0311_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2016 10-K",
@@ -464,10 +477,10 @@
         "fiscal_date": "2010-12-31",
         "fiscal_year": 2016,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2011-03-31/f10k2010_celsius.htm/f10k2010_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2011-03-31/f10k2010_celsius.htm%5Cf10k2010_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2010 10-Q",
@@ -477,10 +490,10 @@
         "fiscal_date": "2010-09-30",
         "fiscal_year": 2010,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2010-11-10/f10q0910_celsius.htm/f10q0910_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2010-11-10/f10q0910_celsius.htm%5Cf10q0910_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2010 10-Q",
@@ -490,10 +503,10 @@
         "fiscal_date": "2010-06-30",
         "fiscal_year": 2010,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2010-08-12/f10q0610_celsius.htm/f10q0610_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2010-08-12/f10q0610_celsius.htm%5Cf10q0610_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2010 10-Q",
@@ -503,10 +516,10 @@
         "fiscal_date": "2010-03-31",
         "fiscal_year": 2010,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2010-05-13/f10q0310_celsius.htm/f10q0310_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2010-05-13/f10q0310_celsius.htm%5Cf10q0310_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q1 2010 10-K",
@@ -516,10 +529,10 @@
         "fiscal_date": "2009-12-31",
         "fiscal_year": 2010,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2010-03-10/f10k2009_celsius.htm/f10k2009_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2010-03-10/f10k2009_celsius.htm%5Cf10k2009_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2009 10-Q",
@@ -529,10 +542,10 @@
         "fiscal_date": "2009-09-30",
         "fiscal_year": 2009,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2009-11-06/f10q0909_celsius.htm/f10q0909_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2009-11-06/f10q0909_celsius.htm%5Cf10q0909_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2009 10-Q",
@@ -542,10 +555,10 @@
         "fiscal_date": "2009-06-30",
         "fiscal_year": 2009,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2009-08-05/f10q0609_celsius.htm/f10q0609_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2009-08-05/f10q0609_celsius.htm%5Cf10q0609_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2009 10-Q",
@@ -555,10 +568,23 @@
         "fiscal_date": "2009-03-31",
         "fiscal_year": 2009,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2009-05-06/f10q0309_celsius.htm/f10q0309_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2009-05-06/f10q0309_celsius.htm%5Cf10q0309_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
+        "equity_ticker": "CELH",
+        "geography": "US",
+        "content_name": "CELH Q1 2009 10-K",
+        "file_type": "pdf",
+        "content_type": "annual_report",
+        "published_date": "2009-03-09",
+        "fiscal_date": "2008-12-31",
+        "fiscal_year": 2009,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2009-03-09/f10k2008_celsius.htm%5Cf10k2008_celsius.pdf",
+        "periodicity": "periodic"
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q4 2008 10-Q",
@@ -568,10 +594,10 @@
         "fiscal_date": "2008-09-30",
         "fiscal_year": 2008,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2008-11-05/f10q0908_celsius.htm/f10q0908_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2008-11-05/f10q0908_celsius.htm%5Cf10q0908_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q3 2008 10-Q",
@@ -581,10 +607,10 @@
         "fiscal_date": "2008-06-30",
         "fiscal_year": 2008,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2008-08-11/f10q0608_celsius.htm/f10q0608_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2008-08-11/f10q0608_celsius.htm%5Cf10q0608_celsius.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "CELH",
         "geography": "US",
         "content_name": "CELH Q2 2008 10-Q",
@@ -594,9 +620,9 @@
         "fiscal_date": "2008-03-31",
         "fiscal_year": 2008,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2008-04-29/f10q0308_celsius.htm/f10q0308_celsius.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/CELH/2008-04-29/f10q0308_celsius.htm%5Cf10q0308_celsius.pdf",
         "periodicity": "periodic"
-    },
+      },
     {
         "equity_ticker": "CELH",
         "geography": "US",

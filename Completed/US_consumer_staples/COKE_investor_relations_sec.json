@@ -2,6 +2,19 @@
     {
         "equity_ticker": "COKE",
         "geography": "US",
+        "content_name": "COKE Q1 2025 10-Q",
+        "file_type": "pdf",
+        "content_type": "quarterly_report",
+        "published_date": "2025-04-30",
+        "fiscal_date": "2025-03-28",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 1,
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2025-04-30/coke-20250328.htm%5Ccoke-20250328.pdf",
+        "periodicity": "periodic"
+      },
+      {
+        "equity_ticker": "COKE",
+        "geography": "US",
         "content_name": "COKE Q4 2024 10-K",
         "file_type": "pdf",
         "content_type": "annual_report",
@@ -9,10 +22,10 @@
         "fiscal_date": "2024-12-31",
         "fiscal_year": 2024,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2025-02-20/coke-20241231.htm/coke-20241231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2025-02-20/coke-20241231.htm%5Ccoke-20241231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2024 10-Q",
@@ -22,10 +35,10 @@
         "fiscal_date": "2024-09-27",
         "fiscal_year": 2024,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2024-10-30/coke-20240927.htm/coke-20240927.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2024-10-30/coke-20240927.htm%5Ccoke-20240927.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2024 10-Q",
@@ -35,10 +48,10 @@
         "fiscal_date": "2024-06-28",
         "fiscal_year": 2024,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2024-07-31/coke-20240628.htm/coke-20240628.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2024-07-31/coke-20240628.htm%5Ccoke-20240628.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2024 10-Q",
@@ -48,10 +61,10 @@
         "fiscal_date": "2024-03-29",
         "fiscal_year": 2024,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2024-05-06/coke-20240329.htm/coke-20240329.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2024-05-06/coke-20240329.htm%5Ccoke-20240329.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2023 10-K",
@@ -61,10 +74,10 @@
         "fiscal_date": "2023-12-31",
         "fiscal_year": 2023,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2024-02-21/coke-20231231.htm/coke-20231231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2024-02-21/coke-20231231.htm%5Ccoke-20231231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2023 10-Q",
@@ -74,10 +87,10 @@
         "fiscal_date": "2023-09-29",
         "fiscal_year": 2023,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2023-11-01/coke-20230929.htm/coke-20230929.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2023-11-01/coke-20230929.htm%5Ccoke-20230929.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2023 10-Q",
@@ -87,10 +100,10 @@
         "fiscal_date": "2023-06-30",
         "fiscal_year": 2023,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2023-08-02/coke-20230630.htm/coke-20230630.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2023-08-02/coke-20230630.htm%5Ccoke-20230630.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2023 10-Q",
@@ -100,10 +113,10 @@
         "fiscal_date": "2023-03-31",
         "fiscal_year": 2023,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2023-05-03/coke-20230331.htm/coke-20230331.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2023-05-03/coke-20230331.htm%5Ccoke-20230331.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2022 10-K",
@@ -113,10 +126,10 @@
         "fiscal_date": "2022-12-31",
         "fiscal_year": 2022,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2023-02-22/coke-20221231.htm/coke-20221231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2023-02-22/coke-20221231.htm%5Ccoke-20221231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2022 10-Q",
@@ -126,10 +139,10 @@
         "fiscal_date": "2022-09-30",
         "fiscal_year": 2022,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2022-11-01/coke-20220930.htm/coke-20220930.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2022-11-01/coke-20220930.htm%5Ccoke-20220930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2022 10-Q",
@@ -139,10 +152,10 @@
         "fiscal_date": "2022-07-01",
         "fiscal_year": 2022,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2022-08-02/coke-20220701.htm/coke-20220701.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2022-08-02/coke-20220701.htm%5Ccoke-20220701.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2022 10-Q",
@@ -152,10 +165,10 @@
         "fiscal_date": "2022-04-01",
         "fiscal_year": 2022,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2022-05-03/coke-20220401.htm/coke-20220401.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2022-05-03/coke-20220401.htm%5Ccoke-20220401.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2021 10-K",
@@ -165,10 +178,10 @@
         "fiscal_date": "2021-12-31",
         "fiscal_year": 2021,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2022-02-22/coke-20211231.htm/coke-20211231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2022-02-22/coke-20211231.htm%5Ccoke-20211231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2021 10-Q",
@@ -178,10 +191,10 @@
         "fiscal_date": "2021-10-01",
         "fiscal_year": 2021,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2021-11-09/coke-20211001.htm/coke-20211001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2021-11-09/coke-20211001.htm%5Ccoke-20211001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2021 10-Q",
@@ -191,10 +204,10 @@
         "fiscal_date": "2021-07-02",
         "fiscal_year": 2021,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2021-08-10/coke-20210702.htm/coke-20210702.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2021-08-10/coke-20210702.htm%5Ccoke-20210702.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2021 10-Q",
@@ -204,10 +217,10 @@
         "fiscal_date": "2021-04-02",
         "fiscal_year": 2021,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2021-05-11/coke-20210402.htm/coke-20210402.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2021-05-11/coke-20210402.htm%5Ccoke-20210402.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2020 10-K",
@@ -217,10 +230,10 @@
         "fiscal_date": "2020-12-31",
         "fiscal_year": 2020,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2021-02-26/coke-20201231.htm/coke-20201231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2021-02-26/coke-20201231.htm%5Ccoke-20201231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2020 10-Q",
@@ -230,10 +243,10 @@
         "fiscal_date": "2020-09-27",
         "fiscal_year": 2020,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2020-11-03/coke-20200927.htm/coke-20200927.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2020-11-03/coke-20200927.htm%5Ccoke-20200927.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2020 10-Q",
@@ -243,10 +256,10 @@
         "fiscal_date": "2020-06-28",
         "fiscal_year": 2020,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2020-08-04/coke-20200628.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2020-08-04/coke-20200628.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2020 10-Q",
@@ -256,10 +269,10 @@
         "fiscal_date": "2020-03-29",
         "fiscal_year": 2020,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2020-05-05/coke-20200329.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2020-05-05/coke-20200329.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2019 10-K",
@@ -269,10 +282,10 @@
         "fiscal_date": "2019-12-29",
         "fiscal_year": 2019,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2020-02-25/coke-10k_20191229.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2020-02-25/coke-10k_20191229.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2019 10-Q",
@@ -282,10 +295,10 @@
         "fiscal_date": "2019-09-29",
         "fiscal_year": 2019,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2019-11-05/coke-10q_20190929.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2019-11-05/coke-10q_20190929.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2019 10-Q",
@@ -295,10 +308,10 @@
         "fiscal_date": "2019-06-30",
         "fiscal_year": 2019,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2019-08-06/coke-10q_20190630.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2019-08-06/coke-10q_20190630.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2019 10-Q",
@@ -308,10 +321,10 @@
         "fiscal_date": "2019-03-31",
         "fiscal_year": 2019,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2019-05-08/coke-10q_20190331.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2019-05-08/coke-10q_20190331.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2018 10-K",
@@ -321,10 +334,10 @@
         "fiscal_date": "2018-12-30",
         "fiscal_year": 2018,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2019-02-27/coke-10k_20181230.htm/coke-10k_20181230.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2019-02-27/coke-10k_20181230.htm%5Ccoke-10k_20181230.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2018 10-Q",
@@ -334,10 +347,10 @@
         "fiscal_date": "2018-09-30",
         "fiscal_year": 2018,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2018-11-08/coke-10q_20180930.htm/coke-10q_20180930.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2018-11-08/coke-10q_20180930.htm%5Ccoke-10q_20180930.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2018 10-Q",
@@ -347,10 +360,10 @@
         "fiscal_date": "2018-07-01",
         "fiscal_year": 2018,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2018-08-08/coke-10q_20180701.htm/coke-10q_20180701.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2018-08-08/coke-10q_20180701.htm%5Ccoke-10q_20180701.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2018 10-Q",
@@ -360,10 +373,10 @@
         "fiscal_date": "2018-04-01",
         "fiscal_year": 2018,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2018-05-09/coke-10q_20180401.htm/coke-10q_20180401.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2018-05-09/coke-10q_20180401.htm%5Ccoke-10q_20180401.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2017 10-K",
@@ -373,10 +386,10 @@
         "fiscal_date": "2017-12-31",
         "fiscal_year": 2017,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2018-02-28/coke-10k_20171231.htm/coke-10k_20171231.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2018-02-28/coke-10k_20171231.htm%5Ccoke-10k_20171231.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2017 10-Q",
@@ -386,10 +399,10 @@
         "fiscal_date": "2017-10-01",
         "fiscal_year": 2017,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2017-11-07/coke-10q_20171001.htm/coke-10q_20171001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2017-11-07/coke-10q_20171001.htm%5Ccoke-10q_20171001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2017 10-Q",
@@ -399,10 +412,10 @@
         "fiscal_date": "2017-07-02",
         "fiscal_year": 2017,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2017-08-08/coke-10q_20170702.htm/coke-10q_20170702.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2017-08-08/coke-10q_20170702.htm%5Ccoke-10q_20170702.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2017 10-Q",
@@ -412,10 +425,10 @@
         "fiscal_date": "2017-04-02",
         "fiscal_year": 2017,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2017-05-11/coke-10q_20170402.htm/coke-10q_20170402.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2017-05-11/coke-10q_20170402.htm%5Ccoke-10q_20170402.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2017 10-K",
@@ -425,10 +438,10 @@
         "fiscal_date": "2017-01-01",
         "fiscal_year": 2017,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2017-03-14/coke-10k_20170101.htm/coke-10k_20170101.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2017-03-14/coke-10k_20170101.htm%5Ccoke-10k_20170101.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2017 10-Q",
@@ -438,10 +451,10 @@
         "fiscal_date": "2016-10-02",
         "fiscal_year": 2017,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2016-11-10/coke-10q_20161002.htm/coke-10q_20161002.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2016-11-10/coke-10q_20161002.htm%5Ccoke-10q_20161002.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2017 10-Q",
@@ -451,10 +464,10 @@
         "fiscal_date": "2016-07-03",
         "fiscal_year": 2017,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2016-08-12/coke-10q_20160703.htm/coke-10q_20160703.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2016-08-12/coke-10q_20160703.htm%5Ccoke-10q_20160703.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2017 10-Q",
@@ -464,10 +477,10 @@
         "fiscal_date": "2016-04-03",
         "fiscal_year": 2017,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2016-05-13/coke-10q_20160403.htm/coke-10q_20160403.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2016-05-13/coke-10q_20160403.htm%5Ccoke-10q_20160403.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2016 10-K",
@@ -477,10 +490,10 @@
         "fiscal_date": "2016-01-03",
         "fiscal_year": 2016,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2016-03-18/coke-10k_20160103.htm/coke-10k_20160103.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2016-03-18/coke-10k_20160103.htm%5Ccoke-10k_20160103.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2016 10-Q",
@@ -490,10 +503,10 @@
         "fiscal_date": "2015-09-27",
         "fiscal_year": 2016,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2015-11-06/coke-10q_20150927.htm/coke-10q_20150927.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2015-11-06/coke-10q_20150927.htm%5Ccoke-10q_20150927.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2016 10-Q",
@@ -503,10 +516,10 @@
         "fiscal_date": "2015-06-28",
         "fiscal_year": 2016,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2015-08-07/coke-10q_20150628.htm/coke-10q_20150628.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2015-08-07/coke-10q_20150628.htm%5Ccoke-10q_20150628.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2016 10-Q",
@@ -516,10 +529,10 @@
         "fiscal_date": "2015-03-29",
         "fiscal_year": 2016,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2015-05-08/d907476d10q.htm/d907476d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2015-05-08/d907476d10q.htm%5Cd907476d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2014 10-K",
@@ -529,10 +542,10 @@
         "fiscal_date": "2014-12-28",
         "fiscal_year": 2014,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2015-03-13/d839674d10k.htm/d839674d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2015-03-13/d839674d10k.htm%5Cd839674d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2014 10-Q",
@@ -542,10 +555,10 @@
         "fiscal_date": "2014-09-28",
         "fiscal_year": 2014,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2014-11-07/d788658d10q.htm/d788658d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2014-11-07/d788658d10q.htm%5Cd788658d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2014 10-Q",
@@ -555,10 +568,10 @@
         "fiscal_date": "2014-06-29",
         "fiscal_year": 2014,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2014-08-08/d740893d10q.htm/d740893d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2014-08-08/d740893d10q.htm%5Cd740893d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2014 10-Q",
@@ -568,10 +581,10 @@
         "fiscal_date": "2014-03-30",
         "fiscal_year": 2014,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2014-05-09/d703515d10q.htm/d703515d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2014-05-09/d703515d10q.htm%5Cd703515d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2013 10-K",
@@ -581,10 +594,10 @@
         "fiscal_date": "2013-12-29",
         "fiscal_year": 2013,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2014-03-14/d642117d10k.htm/d642117d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2014-03-14/d642117d10k.htm%5Cd642117d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2013 10-Q",
@@ -594,10 +607,10 @@
         "fiscal_date": "2013-09-29",
         "fiscal_year": 2013,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2013-11-08/d591630d10q.htm/d591630d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2013-11-08/d591630d10q.htm%5Cd591630d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2013 10-Q",
@@ -607,10 +620,10 @@
         "fiscal_date": "2013-06-30",
         "fiscal_year": 2013,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2013-08-09/d547962d10q.htm/d547962d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2013-08-09/d547962d10q.htm%5Cd547962d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2013 10-Q",
@@ -620,10 +633,10 @@
         "fiscal_date": "2013-03-31",
         "fiscal_year": 2013,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2013-05-10/d512087d10q.htm/d512087d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2013-05-10/d512087d10q.htm%5Cd512087d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2012 10-K",
@@ -633,10 +646,10 @@
         "fiscal_date": "2012-12-30",
         "fiscal_year": 2012,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2013-03-14/d444889d10k.htm/d444889d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2013-03-14/d444889d10k.htm%5Cd444889d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2012 10-Q",
@@ -646,10 +659,10 @@
         "fiscal_date": "2012-09-30",
         "fiscal_year": 2012,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2012-11-09/d398723d10q.htm/d398723d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2012-11-09/d398723d10q.htm%5Cd398723d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2012 10-Q",
@@ -659,10 +672,10 @@
         "fiscal_date": "2012-07-01",
         "fiscal_year": 2012,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2012-08-10/d358155d10q.htm/d358155d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2012-08-10/d358155d10q.htm%5Cd358155d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2012 10-Q",
@@ -672,10 +685,10 @@
         "fiscal_date": "2012-04-01",
         "fiscal_year": 2012,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2012-05-11/d338976d10q.htm/d338976d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2012-05-11/d338976d10q.htm%5Cd338976d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2012 10-K",
@@ -685,10 +698,10 @@
         "fiscal_date": "2012-01-01",
         "fiscal_year": 2012,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2012-03-16/d295777d10k.htm/d295777d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2012-03-16/d295777d10k.htm%5Cd295777d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2012 10-Q",
@@ -698,10 +711,10 @@
         "fiscal_date": "2011-10-02",
         "fiscal_year": 2012,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2011-11-14/g28110e10vq.htm/g28110e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2011-11-14/g28110e10vq.htm%5Cg28110e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2012 10-Q",
@@ -711,10 +724,10 @@
         "fiscal_date": "2011-07-03",
         "fiscal_year": 2012,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2011-08-12/g24484e10vq.htm/g24484e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2011-08-12/g24484e10vq.htm%5Cg24484e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2012 10-Q",
@@ -724,10 +737,10 @@
         "fiscal_date": "2011-04-03",
         "fiscal_year": 2012,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2011-05-12/g27164e10vq.htm/g27164e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2011-05-12/g27164e10vq.htm%5Cg27164e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2011 10-K",
@@ -737,10 +750,10 @@
         "fiscal_date": "2011-01-02",
         "fiscal_year": 2011,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2011-03-18/g26462e10vk.htm/g26462e10vk.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2011-03-18/g26462e10vk.htm%5Cg26462e10vk.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2011 10-Q",
@@ -750,10 +763,10 @@
         "fiscal_date": "2010-10-03",
         "fiscal_year": 2011,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2010-11-12/g25163e10vq.htm/g25163e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2010-11-12/g25163e10vq.htm%5Cg25163e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2011 10-Q",
@@ -763,10 +776,10 @@
         "fiscal_date": "2010-07-04",
         "fiscal_year": 2011,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2010-08-13/g24279e10vq.htm/g24279e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2010-08-13/g24279e10vq.htm%5Cg24279e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2011 10-Q",
@@ -776,10 +789,10 @@
         "fiscal_date": "2010-04-04",
         "fiscal_year": 2011,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2010-05-13/g23362e10vq.htm/g23362e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2010-05-13/g23362e10vq.htm%5Cg23362e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2010 10-K",
@@ -789,10 +802,10 @@
         "fiscal_date": "2010-01-03",
         "fiscal_year": 2010,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2010-03-18/g22489e10vk.htm/g22489e10vk.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2010-03-18/g22489e10vk.htm%5Cg22489e10vk.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2010 10-Q",
@@ -802,10 +815,10 @@
         "fiscal_date": "2009-09-27",
         "fiscal_year": 2010,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2009-11-06/g21031e10vq.htm/g21031e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2009-11-06/g21031e10vq.htm%5Cg21031e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2010 10-Q",
@@ -815,10 +828,10 @@
         "fiscal_date": "2009-06-28",
         "fiscal_year": 2010,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2009-08-07/g19983e10vq.htm/g19983e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2009-08-07/g19983e10vq.htm%5Cg19983e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2010 10-Q",
@@ -828,10 +841,10 @@
         "fiscal_date": "2009-03-29",
         "fiscal_year": 2010,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2009-05-08/g18903e10vq.htm/g18903e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2009-05-08/g18903e10vq.htm%5Cg18903e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2008 10-K",
@@ -841,10 +854,10 @@
         "fiscal_date": "2008-12-28",
         "fiscal_year": 2008,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2009-03-13/g17639e10vk.htm/g17639e10vk.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2009-03-13/g17639e10vk.htm%5Cg17639e10vk.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2008 10-Q",
@@ -854,10 +867,10 @@
         "fiscal_date": "2008-09-28",
         "fiscal_year": 2008,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2008-11-07/g16300qe10vq.htm/g16300qe10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2008-11-07/g16300qe10vq.htm%5Cg16300qe10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2008 10-Q",
@@ -867,10 +880,10 @@
         "fiscal_date": "2008-06-29",
         "fiscal_year": 2008,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2008-08-08/g14515qe10vq.htm/g14515qe10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2008-08-08/g14515qe10vq.htm%5Cg14515qe10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2008 10-Q",
@@ -880,10 +893,10 @@
         "fiscal_date": "2008-03-30",
         "fiscal_year": 2008,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2008-05-09/g13213qe10vq.htm/g13213qe10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2008-05-09/g13213qe10vq.htm%5Cg13213qe10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2007 10-K",
@@ -893,10 +906,10 @@
         "fiscal_date": "2007-12-30",
         "fiscal_year": 2007,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2008-03-13/g12161ke10vk.htm/g12161ke10vk.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2008-03-13/g12161ke10vk.htm%5Cg12161ke10vk.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2007 10-Q",
@@ -906,10 +919,10 @@
         "fiscal_date": "2007-09-30",
         "fiscal_year": 2007,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2007-11-08/g10192e10vq.htm/g10192e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2007-11-08/g10192e10vq.htm%5Cg10192e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2007 10-Q",
@@ -919,10 +932,10 @@
         "fiscal_date": "2007-07-01",
         "fiscal_year": 2007,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2007-08-09/g08786e10vq.htm/g08786e10vq.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2007-08-09/g08786e10vq.htm%5Cg08786e10vq.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2007 10-Q",
@@ -932,10 +945,10 @@
         "fiscal_date": "2007-04-01",
         "fiscal_year": 2007,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2007-05-11/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2007-05-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2006 10-K",
@@ -945,10 +958,10 @@
         "fiscal_date": "2006-12-31",
         "fiscal_year": 2006,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2007-03-14/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2007-03-14/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2006 10-Q",
@@ -958,10 +971,10 @@
         "fiscal_date": "2006-10-01",
         "fiscal_year": 2006,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2006-11-13/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2006-11-13/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2006 10-Q",
@@ -971,10 +984,10 @@
         "fiscal_date": "2006-07-02",
         "fiscal_year": 2006,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2006-08-16/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2006-08-16/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2006 10-Q",
@@ -984,10 +997,10 @@
         "fiscal_date": "2006-04-02",
         "fiscal_year": 2006,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2006-05-11/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2006-05-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2006 10-K",
@@ -997,10 +1010,10 @@
         "fiscal_date": "2006-01-01",
         "fiscal_year": 2006,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2006-03-16/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2006-03-16/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2006 10-Q",
@@ -1010,10 +1023,10 @@
         "fiscal_date": "2005-10-02",
         "fiscal_year": 2006,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2005-11-10/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2005-11-10/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2006 10-Q",
@@ -1023,10 +1036,10 @@
         "fiscal_date": "2005-07-03",
         "fiscal_year": 2006,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2005-08-12/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2005-08-12/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2006 10-Q",
@@ -1036,10 +1049,10 @@
         "fiscal_date": "2005-04-03",
         "fiscal_year": 2006,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2005-05-12/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2005-05-12/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2005 10-K",
@@ -1049,10 +1062,10 @@
         "fiscal_date": "2005-01-02",
         "fiscal_year": 2005,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2005-03-15/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2005-03-15/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2005 10-Q",
@@ -1062,10 +1075,10 @@
         "fiscal_date": "2004-09-26",
         "fiscal_year": 2005,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2004-11-04/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2004-11-04/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2005 10-Q",
@@ -1075,10 +1088,10 @@
         "fiscal_date": "2004-06-27",
         "fiscal_year": 2005,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2004-08-05/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2004-08-05/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2005 10-Q",
@@ -1088,10 +1101,10 @@
         "fiscal_date": "2004-03-28",
         "fiscal_year": 2005,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2004-05-06/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2004-05-06/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2003 10-K",
@@ -1101,10 +1114,10 @@
         "fiscal_date": "2003-12-28",
         "fiscal_year": 2003,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2004-03-11/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2004-03-11/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2003 10-Q",
@@ -1114,10 +1127,10 @@
         "fiscal_date": "2003-09-28",
         "fiscal_year": 2003,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2003-11-12/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2003-11-12/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2003 10-Q",
@@ -1127,10 +1140,10 @@
         "fiscal_date": "2003-06-29",
         "fiscal_year": 2003,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2003-08-11/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2003-08-11/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2003 10-Q",
@@ -1140,10 +1153,10 @@
         "fiscal_date": "2003-03-30",
         "fiscal_year": 2003,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2003-05-12/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2003-05-12/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2002 10-K",
@@ -1153,10 +1166,10 @@
         "fiscal_date": "2002-12-29",
         "fiscal_year": 2002,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2003-03-28/d10k.htm/d10k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2003-03-28/d10k.htm%5Cd10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2002 10-Q",
@@ -1166,10 +1179,10 @@
         "fiscal_date": "2002-09-29",
         "fiscal_year": 2002,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2002-11-08/d10q.htm/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2002-11-08/d10q.htm%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2002 10-Q",
@@ -1179,10 +1192,10 @@
         "fiscal_date": "2002-06-30",
         "fiscal_year": 2002,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2002-08-13/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2002-08-13/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2002 10-Q",
@@ -1192,10 +1205,10 @@
         "fiscal_date": "2002-03-31",
         "fiscal_year": 2002,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2002-05-13/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2002-05-13/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2001 10-Q",
@@ -1205,10 +1218,10 @@
         "fiscal_date": "2001-09-30",
         "fiscal_year": 2001,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2001-11-09/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2001-11-09/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2001 10-Q",
@@ -1218,10 +1231,10 @@
         "fiscal_date": "2001-07-01",
         "fiscal_year": 2001,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2001-08-09/d10q.txt/d10q.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2001-08-09/d10q.txt%5Cd10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2001 10-Q",
@@ -1231,10 +1244,10 @@
         "fiscal_date": "2001-04-01",
         "fiscal_year": 2001,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2001-05-14/form10q_29827.txt/form10q_29827.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2001-05-14/form10q_29827.txt%5Cform10q_29827.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2001 10-K",
@@ -1244,10 +1257,10 @@
         "fiscal_date": "2000-12-31",
         "fiscal_year": 2001,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2001-03-29/0000950168-01-000629-0001.txt/0000950168-01-000629-0001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2001-03-29/0000950168-01-000629-0001.txt%5C0000950168-01-000629-0001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 2000 10-Q",
@@ -1257,10 +1270,10 @@
         "fiscal_date": "2000-10-01",
         "fiscal_year": 2000,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2000-11-14/0000950168-00-002433-0001.txt/0000950168-00-002433-0001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2000-11-14/0000950168-00-002433-0001.txt%5C0000950168-00-002433-0001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 2000 10-Q",
@@ -1270,10 +1283,10 @@
         "fiscal_date": "2000-07-02",
         "fiscal_year": 2000,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2000-08-15/0000950168-00-001917-0001.txt/0000950168-00-001917-0001.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2000-08-15/0000950168-00-001917-0001.txt%5C0000950168-00-001917-0001.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 2000 10-Q",
@@ -1285,8 +1298,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2000-05-15/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 2000 10-K",
@@ -1298,8 +1311,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/2000-03-31/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 1999 10-Q",
@@ -1311,8 +1324,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1999-11-17/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 1999 10-Q",
@@ -1324,8 +1337,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1999-08-17/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 1999 10-Q",
@@ -1337,8 +1350,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1999-05-11/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 1999 10-K",
@@ -1350,8 +1363,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1999-04-01/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 1998 10-Q",
@@ -1363,8 +1376,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1998-11-10/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 1998 10-Q",
@@ -1376,8 +1389,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1998-08-07/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 1998 10-Q",
@@ -1389,8 +1402,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1998-05-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 1998 10-K",
@@ -1402,8 +1415,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1998-03-27/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 1997 10-Q",
@@ -1415,8 +1428,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1997-11-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 1997 10-Q",
@@ -1428,8 +1441,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1997-08-13/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 1997 10-Q",
@@ -1441,8 +1454,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1997-05-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 1997 10-K",
@@ -1454,8 +1467,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1997-03-25/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 1996 10-Q",
@@ -1467,8 +1480,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1996-11-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 1996 10-Q",
@@ -1480,8 +1493,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1996-08-02/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 1996 10-Q",
@@ -1493,8 +1506,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1996-05-13/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 1996 10-K",
@@ -1506,8 +1519,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1996-03-27/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 1995 10-Q",
@@ -1519,8 +1532,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1995-11-15/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 1995 10-Q",
@@ -1532,8 +1545,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1995-08-11/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 1995 10-Q",
@@ -1545,8 +1558,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1995-05-16/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q1 1995 10-Q",
@@ -1558,8 +1571,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1994-11-14/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q4 1994 10-Q",
@@ -1571,8 +1584,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1994-08-16/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q3 1994 10-Q",
@@ -1584,8 +1597,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1994-05-17/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "COKE",
         "geography": "US",
         "content_name": "COKE Q2 1994 10-K",
@@ -1597,7 +1610,7 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/COKE/1994-04-01/.pdf",
         "periodicity": "periodic"
-    },
+      },
     {
         "equity_ticker": "COKE",
         "geography": "US",

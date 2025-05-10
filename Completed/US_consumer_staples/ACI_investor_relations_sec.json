@@ -2,6 +2,19 @@
     {
         "equity_ticker": "ACI",
         "geography": "US",
+        "content_name": "ACI Q4 2025 10-K",
+        "file_type": "pdf",
+        "content_type": "annual_report",
+        "published_date": "2025-04-21",
+        "fiscal_date": "2025-02-22",
+        "fiscal_year": 2025,
+        "fiscal_quarter": 4,
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2025-04-21/aci-20250222.htm%5Caci-20250222.pdf",
+        "periodicity": "periodic"
+      },
+      {
+        "equity_ticker": "ACI",
+        "geography": "US",
         "content_name": "ACI Q3 2025 10-Q",
         "file_type": "pdf",
         "content_type": "quarterly_report",
@@ -9,10 +22,10 @@
         "fiscal_date": "2024-11-30",
         "fiscal_year": 2025,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2025-01-08/aci-20241130.htm/aci-20241130.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2025-01-08/aci-20241130.htm%5Caci-20241130.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q2 2025 10-Q",
@@ -22,10 +35,10 @@
         "fiscal_date": "2024-09-07",
         "fiscal_year": 2025,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2024-10-15/aci-20240907.htm/aci-20240907.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2024-10-15/aci-20240907.htm%5Caci-20240907.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q1 2025 10-Q",
@@ -35,10 +48,10 @@
         "fiscal_date": "2024-06-15",
         "fiscal_year": 2025,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2024-07-23/aci-20240615.htm/aci-20240615.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2024-07-23/aci-20240615.htm%5Caci-20240615.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q4 2024 10-K",
@@ -48,10 +61,10 @@
         "fiscal_date": "2024-02-24",
         "fiscal_year": 2024,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2024-04-22/aci-20240224.htm/aci-20240224.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2024-04-22/aci-20240224.htm%5Caci-20240224.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q3 2024 10-Q",
@@ -61,10 +74,10 @@
         "fiscal_date": "2023-12-02",
         "fiscal_year": 2024,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2024-01-09/aci-20231202.htm/aci-20231202.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2024-01-09/aci-20231202.htm%5Caci-20231202.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q2 2024 10-Q",
@@ -74,10 +87,10 @@
         "fiscal_date": "2023-09-09",
         "fiscal_year": 2024,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2023-10-17/aci-20230909.htm/aci-20230909.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2023-10-17/aci-20230909.htm%5Caci-20230909.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q1 2024 10-Q",
@@ -87,10 +100,10 @@
         "fiscal_date": "2023-06-17",
         "fiscal_year": 2024,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2023-07-25/aci-20230617.htm/aci-20230617.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2023-07-25/aci-20230617.htm%5Caci-20230617.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q4 2023 10-K",
@@ -100,10 +113,10 @@
         "fiscal_date": "2023-02-25",
         "fiscal_year": 2023,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2023-04-25/aci-20230225.htm/aci-20230225.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2023-04-25/aci-20230225.htm%5Caci-20230225.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q3 2023 10-Q",
@@ -113,10 +126,10 @@
         "fiscal_date": "2022-12-03",
         "fiscal_year": 2023,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2023-01-10/aci-20221203.htm/aci-20221203.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2023-01-10/aci-20221203.htm%5Caci-20221203.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q2 2023 10-Q",
@@ -126,10 +139,10 @@
         "fiscal_date": "2022-09-10",
         "fiscal_year": 2023,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2022-10-18/aci-20220910.htm/aci-20220910.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2022-10-18/aci-20220910.htm%5Caci-20220910.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q1 2023 10-Q",
@@ -139,10 +152,10 @@
         "fiscal_date": "2022-06-18",
         "fiscal_year": 2023,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2022-07-26/aci-20220618.htm/aci-20220618.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2022-07-26/aci-20220618.htm%5Caci-20220618.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q4 2022 10-K",
@@ -152,10 +165,10 @@
         "fiscal_date": "2022-02-26",
         "fiscal_year": 2022,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2022-04-26/aci-20220226.htm/aci-20220226.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2022-04-26/aci-20220226.htm%5Caci-20220226.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q3 2022 10-Q",
@@ -165,10 +178,10 @@
         "fiscal_date": "2021-12-04",
         "fiscal_year": 2022,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2022-01-12/aci-20211204.htm/aci-20211204.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2022-01-12/aci-20211204.htm%5Caci-20211204.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q2 2022 10-Q",
@@ -178,10 +191,10 @@
         "fiscal_date": "2021-09-11",
         "fiscal_year": 2022,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2021-10-20/aci-20210911.htm/aci-20210911.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2021-10-20/aci-20210911.htm%5Caci-20210911.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q1 2022 10-Q",
@@ -191,10 +204,10 @@
         "fiscal_date": "2021-06-19",
         "fiscal_year": 2022,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2021-07-29/aci-20210619.htm/aci-20210619.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2021-07-29/aci-20210619.htm%5Caci-20210619.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q4 2021 10-K",
@@ -204,10 +217,10 @@
         "fiscal_date": "2021-02-27",
         "fiscal_year": 2021,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2021-04-28/aci-20210227.htm/aci-20210227.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2021-04-28/aci-20210227.htm%5Caci-20210227.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q3 2021 10-Q",
@@ -217,10 +230,10 @@
         "fiscal_date": "2020-12-05",
         "fiscal_year": 2021,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2021-01-13/aci-20201205.htm/aci-20201205.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2021-01-13/aci-20201205.htm%5Caci-20201205.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q2 2021 10-Q",
@@ -230,10 +243,10 @@
         "fiscal_date": "2020-09-12",
         "fiscal_year": 2021,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2020-10-21/aci-20200912.htm/aci-20200912.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2020-10-21/aci-20200912.htm%5Caci-20200912.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q1 2021 10-Q",
@@ -243,10 +256,10 @@
         "fiscal_date": "2020-06-20",
         "fiscal_year": 2021,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2020-08-04/aciq1-2010xq.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2020-08-04/aciq1-2010xq.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q4 2020 10-K",
@@ -256,10 +269,10 @@
         "fiscal_date": "2020-02-29",
         "fiscal_year": 2020,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2020-05-13/acify1910-k.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2020-05-13/acify1910-k.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q3 2020 10-Q",
@@ -269,10 +282,10 @@
         "fiscal_date": "2019-11-30",
         "fiscal_year": 2020,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2020-01-08/aciq3-1910xq.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2020-01-08/aciq3-1910xq.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q2 2020 10-Q",
@@ -282,10 +295,10 @@
         "fiscal_date": "2019-09-07",
         "fiscal_year": 2020,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2019-10-16/aciq2-1910xq.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2019-10-16/aciq2-1910xq.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q1 2020 10-Q",
@@ -295,10 +308,10 @@
         "fiscal_date": "2019-06-15",
         "fiscal_year": 2020,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2019-07-24/aciq1-1910xq.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2019-07-24/aciq1-1910xq.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q4 2019 10-K",
@@ -308,10 +321,10 @@
         "fiscal_date": "2019-02-23",
         "fiscal_year": 2019,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2019-04-24/acify1810-k.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2019-04-24/acify1810-k.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q3 2019 10-Q",
@@ -321,10 +334,10 @@
         "fiscal_date": "2018-12-01",
         "fiscal_year": 2019,
         "fiscal_quarter": 3,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2019-01-14/aciq3-1810xq.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2019-01-14/aciq3-1810xq.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q2 2019 10-Q",
@@ -334,10 +347,10 @@
         "fiscal_date": "2018-09-08",
         "fiscal_year": 2019,
         "fiscal_quarter": 2,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2018-10-18/aciq2-1810xq.htm/ix.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2018-10-18/aciq2-1810xq.htm%5Cix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q1 2019 10-Q",
@@ -347,10 +360,10 @@
         "fiscal_date": "2018-06-16",
         "fiscal_year": 2019,
         "fiscal_quarter": 1,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2018-07-25/aciq1-18stmt.htm/aciq1-18stmt.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2018-07-25/aciq1-18stmt.htm%5Caciq1-18stmt.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "ACI",
         "geography": "US",
         "content_name": "ACI Q4 2018 10-K",
@@ -360,9 +373,9 @@
         "fiscal_date": "2018-02-24",
         "fiscal_year": 2018,
         "fiscal_quarter": 4,
-        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2018-05-11/acify1710-k.htm/acify1710-k.pdf",
+        "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/ACI/2018-05-11/acify1710-k.htm%5Cacify1710-k.pdf",
         "periodicity": "periodic"
-    },
+      },
     {
         "equity_ticker": "ACI",
         "geography": "US",

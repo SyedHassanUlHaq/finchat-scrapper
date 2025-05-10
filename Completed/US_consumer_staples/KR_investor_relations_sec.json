@@ -11,8 +11,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2025-04-01/kr-20250201x10k.htm/kr-20250201x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2025 10-Q",
@@ -24,8 +24,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2024-12-13/kr-20241109x10q.htm/kr-20241109x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2025 10-Q",
@@ -37,8 +37,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2024-09-20/kr-20240817x10q.htm/kr-20240817x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2025 10-Q",
@@ -50,8 +50,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2024-06-28/kr-20240525x10q.htm/kr-20240525x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2024 10-K",
@@ -63,8 +63,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2024-04-02/kr-20240203x10k.htm/kr-20240203x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2024 10-Q",
@@ -76,8 +76,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2023-12-08/kr-20231104x10q.htm/kr-20231104x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2024 10-Q",
@@ -89,8 +89,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2023-09-15/kr-20230812x10q.htm/kr-20230812x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2024 10-Q",
@@ -102,8 +102,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2023-06-23/kr-20230520x10q.htm/kr-20230520x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2023 10-K",
@@ -115,8 +115,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2023-03-28/kr-20230128x10k.htm/kr-20230128x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2023 10-Q",
@@ -128,8 +128,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2022-12-09/kr-20221105x10q.htm/kr-20221105x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2023 10-Q",
@@ -141,8 +141,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2022-09-16/kr-20220813x10q.htm/kr-20220813x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2023 10-Q",
@@ -154,8 +154,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2022-06-24/kr-20220521x10q.htm/kr-20220521x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2022 10-K",
@@ -167,8 +167,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2022-03-29/kr-20220129x10k.htm/kr-20220129x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2022 10-Q",
@@ -180,8 +180,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2021-12-10/kr-20211106x10q.htm/kr-20211106x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2022 10-Q",
@@ -193,8 +193,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2021-09-17/kr-20210814x10q.htm/kr-20210814x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2022 10-Q",
@@ -206,8 +206,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2021-06-25/kr-20210522x10q.htm/kr-20210522x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2021 10-K",
@@ -219,8 +219,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2021-03-30/kr-20210130x10k.htm/kr-20210130x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2021 10-Q",
@@ -232,8 +232,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2020-12-15/kr-20201107x10q.htm/kr-20201107x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2021 10-Q",
@@ -245,8 +245,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2020-09-22/kr-20200815x10q.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2021 10-Q",
@@ -258,8 +258,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2020-06-26/kr-20200626x10q.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2020 10-K",
@@ -271,8 +271,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2020-04-01/kr-20200201x10k.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2020 10-Q",
@@ -284,8 +284,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2019-12-17/kr-20191109x10q6902ba.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2020 10-Q",
@@ -297,8 +297,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2019-09-24/kr-20190817x10q.htm/ix.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2020 10-Q",
@@ -310,8 +310,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2019-06-28/kr-20190525x10q.htm/kr-20190525x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2019 10-K",
@@ -323,8 +323,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2019-04-02/kr-20190202x10k.htm/kr-20190202x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2019 10-Q",
@@ -336,8 +336,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2018-12-18/kr-20181110x10q.htm/kr-20181110x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2019 10-Q",
@@ -349,8 +349,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2018-09-25/kr-20180818x10q.htm/kr-20180818x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2019 10-Q",
@@ -362,8 +362,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2018-06-29/kr-20180526x10q.htm/kr-20180526x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2018 10-K",
@@ -375,8 +375,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2018-04-03/kr-20180203x10k.htm/kr-20180203x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2018 10-Q",
@@ -388,8 +388,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2017-12-08/kr-20171104x10q.htm/kr-20171104x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2018 10-Q",
@@ -401,8 +401,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2017-09-15/kr-20170812x10q.htm/kr-20170812x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2018 10-Q",
@@ -414,8 +414,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2017-06-27/kr-20170520x10q.htm/kr-20170520x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2017 10-K",
@@ -427,8 +427,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2017-03-28/kr-20170128x10k.htm/kr-20170128x10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2017 10-Q",
@@ -440,8 +440,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2016-12-13/kr-20161105x10q.htm/kr-20161105x10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2017 10-Q",
@@ -453,8 +453,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2016-09-20/a16-18045_110q.htm/a16-18045_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2017 10-Q",
@@ -466,8 +466,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2016-06-28/a16-8026_110q.htm/a16-8026_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2016 10-K",
@@ -479,8 +479,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2016-03-29/a15-23178_110k.htm/a15-23178_110k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2016 10-Q",
@@ -492,8 +492,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2015-12-17/a15-20746_110q.htm/a15-20746_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2016 10-Q",
@@ -505,8 +505,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2015-09-22/a15-15117_110q.htm/a15-15117_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2016 10-Q",
@@ -518,8 +518,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2015-06-30/a15-10878_110q.htm/a15-10878_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2015 10-K",
@@ -531,8 +531,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2015-03-31/a15-1850_110k.htm/a15-1850_110k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2015 10-Q",
@@ -544,8 +544,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2014-12-16/a14-22856_110q.htm/a14-22856_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2015 10-Q",
@@ -557,8 +557,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2014-09-23/a14-19140_110q.htm/a14-19140_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2015 10-Q",
@@ -570,8 +570,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2014-07-01/a14-12710_110q.htm/a14-12710_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2014 10-K",
@@ -583,8 +583,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2014-04-01/a14-2996_110k.htm/a14-2996_110k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2014 10-Q",
@@ -596,8 +596,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2013-12-13/a13-21605_110q.htm/a13-21605_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2014 10-Q",
@@ -609,8 +609,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2013-09-24/a13-20716_110q.htm/a13-20716_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2014 10-Q",
@@ -622,8 +622,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2013-06-28/a13-12650_110q.htm/a13-12650_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2013 10-K",
@@ -635,8 +635,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2013-04-02/a13-2426_110k.htm/a13-2426_110k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2013 10-Q",
@@ -648,8 +648,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2012-12-11/a12-24485_110q.htm/a12-24485_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2013 10-Q",
@@ -661,8 +661,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2012-09-18/a12-16442_110q.htm/a12-16442_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2013 10-Q",
@@ -674,8 +674,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2012-06-26/a12-9709_110q.htm/a12-9709_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2012 10-K",
@@ -687,8 +687,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2012-03-27/a12-1263_110k.htm/a12-1263_110k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2012 10-Q",
@@ -700,8 +700,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2011-12-15/a11-26964_110q.htm/a11-26964_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2012 10-Q",
@@ -713,8 +713,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2011-09-16/a11-23753_110q.htm/a11-23753_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2012 10-Q",
@@ -726,8 +726,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2011-06-23/a11-13111_110q.htm/a11-13111_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2011 10-K",
@@ -739,8 +739,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2011-03-29/a11-2299_110k.htm/a11-2299_110k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2011 10-Q",
@@ -752,8 +752,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2010-12-13/a10-20305_110q.htm/a10-20305_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2011 10-Q",
@@ -765,8 +765,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2010-09-22/a10-16407_110q.htm/a10-16407_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2011 10-Q",
@@ -778,8 +778,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2010-06-28/a10-10775_110q.htm/a10-10775_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2010 10-K",
@@ -791,8 +791,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2010-03-30/a09-36165_110k.htm/a09-36165_110k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2010 10-Q",
@@ -804,8 +804,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2009-12-17/a09-34065_110q.htm/a09-34065_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2010 10-Q",
@@ -817,8 +817,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2009-09-23/a09-27118_110q.htm/a09-27118_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2010 10-Q",
@@ -830,8 +830,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2009-07-01/a09-16790_110q.htm/a09-16790_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2009 10-K",
@@ -843,8 +843,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2009-03-31/a09-1837_110k.htm/a09-1837_110k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2009 10-Q",
@@ -856,8 +856,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2008-12-17/a08-30587_110q.htm/a08-30587_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2009 10-Q",
@@ -869,8 +869,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2008-09-24/a08-24189_110q.htm/a08-24189_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2009 10-Q",
@@ -882,8 +882,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2008-07-02/a08-17829_110q.htm/a08-17829_110q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2008 10-K",
@@ -895,8 +895,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2008-04-01/a08-9380_110k.htm/a08-9380_110k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2008 10-Q",
@@ -908,8 +908,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2007-12-19/kroger_10q.htm/kroger_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2008 10-Q",
@@ -921,8 +921,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2007-09-27/kroger_10q.htm/kroger_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2008 10-Q",
@@ -934,8 +934,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2007-07-03/kroger_10q.htm/kroger_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2007 10-K",
@@ -947,8 +947,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2007-04-04/kroger_10k.htm/kroger_10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2007 10-Q",
@@ -960,8 +960,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2006-12-14/kroger_10q.htm/kroger_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2007 10-Q",
@@ -973,8 +973,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2006-09-21/kroger_10q.htm/kroger_10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2007 10-Q",
@@ -986,8 +986,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2006-06-29/kroger_10q1.htm/kroger_10q1.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2006 10-K",
@@ -999,8 +999,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2006-04-07/kc120844.htm/kc120844.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2006 10-Q",
@@ -1012,8 +1012,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2005-12-15/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2006 10-Q",
@@ -1025,8 +1025,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2005-09-21/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2006 10-Q",
@@ -1038,8 +1038,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2005-06-29/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2005 10-K",
@@ -1051,8 +1051,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2005-04-15/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2005 10-Q",
@@ -1064,8 +1064,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2004-12-16/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2005 10-Q",
@@ -1077,8 +1077,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2004-09-23/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2005 10-Q",
@@ -1090,8 +1090,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2004-07-01/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2004 10-K",
@@ -1103,8 +1103,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2004-04-14/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2004 10-Q",
@@ -1116,8 +1116,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2003-12-19/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2004 10-Q",
@@ -1129,8 +1129,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2003-09-26/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2004 10-Q",
@@ -1142,8 +1142,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2003-07-08/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2003 10-K",
@@ -1155,8 +1155,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2003-05-02/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2003 10-Q",
@@ -1168,8 +1168,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2002-12-20/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2003 10-Q",
@@ -1181,8 +1181,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2002-09-30/d10q.txt/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2003 10-Q",
@@ -1194,8 +1194,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2002-07-09/d10q.htm/d10q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2002 10-K",
@@ -1207,8 +1207,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2002-05-01/d10k.htm/d10k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2002 10-Q",
@@ -1220,8 +1220,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2001-12-21/l92036ae10-q.txt/l92036ae10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2002 10-Q",
@@ -1233,8 +1233,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2001-10-01/l90353ae10-q.txt/l90353ae10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2002 10-Q",
@@ -1246,8 +1246,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2001-07-10/l89336ae10-q.txt/l89336ae10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2001 10-K",
@@ -1259,8 +1259,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2001-05-02/l87047ae10-k.txt/l87047ae10-k.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2001 10-Q",
@@ -1272,8 +1272,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2000-12-15/l85407ae10-q.txt/l85407ae10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2001 10-Q",
@@ -1285,8 +1285,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2000-09-22/l84050ae10-q.txt/l84050ae10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2001 10-Q",
@@ -1298,8 +1298,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2000-06-30/e10-q.txt/e10-q.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 2000 10-K",
@@ -1311,8 +1311,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/2000-04-27/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 2000 10-Q",
@@ -1324,8 +1324,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1999-12-20/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 2000 10-Q",
@@ -1337,8 +1337,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1999-09-28/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 2000 10-Q",
@@ -1350,8 +1350,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1999-07-06/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 1999 10-K",
@@ -1363,8 +1363,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1999-03-26/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 1999 10-Q",
@@ -1376,8 +1376,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1998-11-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 1999 10-Q",
@@ -1389,8 +1389,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1998-07-27/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 1999 10-Q",
@@ -1402,8 +1402,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1998-05-05/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 1997 10-K",
@@ -1415,8 +1415,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1998-03-23/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 1997 10-Q",
@@ -1428,8 +1428,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1997-11-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 1997 10-Q",
@@ -1441,8 +1441,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1997-07-25/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 1997 10-Q",
@@ -1454,8 +1454,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1997-05-05/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 1996 10-K",
@@ -1467,8 +1467,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1997-03-19/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 1996 10-Q",
@@ -1480,8 +1480,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1996-11-12/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 1996 10-Q",
@@ -1493,8 +1493,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1996-07-29/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 1996 10-Q",
@@ -1506,8 +1506,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1996-05-06/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 1995 10-K",
@@ -1519,8 +1519,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1996-03-22/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 1995 10-Q",
@@ -1532,8 +1532,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1995-11-01/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 1995 10-Q",
@@ -1545,8 +1545,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1995-07-25/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 1995 10-Q",
@@ -1558,8 +1558,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1995-05-08/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 1994 10-K",
@@ -1571,8 +1571,8 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1995-03-30/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q3 1994 10-Q",
@@ -1584,8 +1584,8 @@
         "fiscal_quarter": 3,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1994-11-18/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q2 1994 10-Q",
@@ -1597,8 +1597,8 @@
         "fiscal_quarter": 2,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1994-08-02/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q1 1994 10-Q",
@@ -1610,8 +1610,8 @@
         "fiscal_quarter": 1,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1994-05-06/.pdf",
         "periodicity": "periodic"
-    },
-    {
+      },
+      {
         "equity_ticker": "KR",
         "geography": "US",
         "content_name": "KR Q4 1994 10-K",
@@ -1623,7 +1623,7 @@
         "fiscal_quarter": 4,
         "r2_url": "https://pub-2c783279b61043e19fbdadd1bee5153a.r2.dev/KR/1994-03-11/.pdf",
         "periodicity": "periodic"
-    },
+      },
     {
         "equity_ticker": "KR",
         "geography": "US",
