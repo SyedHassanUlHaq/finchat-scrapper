@@ -54,7 +54,7 @@ async def scrape_event_names(ticker, url, test_run):
     async with async_playwright() as p:
         browser = await p.chromium.launch_persistent_context(
         user_data_dir=user_data_dir,
-        headless=False,
+        headless=True,
         executable_path=chrome_path,
         args=["--profile-directory=Default"],
         accept_downloads=True
